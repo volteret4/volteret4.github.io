@@ -1,0 +1,39 @@
+{
+  "period": "2007-2025",
+  "users": [
+    "alberto_gu",
+    "EliasJ72",
+    "Frikomid",
+    "GabredMared",
+    "Lonsonxd",
+    "Nubis84",
+    "paqueradejere",
+    "Rocky_stereo",
+    "sdecandelario"
+  ],
+  "generated_at": "2025-11-21T17:00:09.877442",
+  "files": [
+    "alberto_gu.json",
+    "EliasJ72.json",
+    "Frikomid.json",
+    "GabredMared.json",
+    "Lonsonxd.json",
+    "Nubis84.json",
+    "paqueradejere.json",
+    "Rocky_stereo.json",
+    "sdecandelario.json"
+  ],
+  "structure": {
+    "discoveries": {
+      "artists": "Nuevos artistas por año (top 10)",
+      "albums": "Nuevos álbumes por año (top 10)",
+      "tracks": "Nuevas canciones por año (top 10)",
+      "labels": "Nuevos sellos por año (top 10)"
+    },
+    "yearly_format": {
+      "count": "Número total de novedades",
+      "items": "Lista de elementos (máximo 10 para popup)",
+      "has_more": "True si hay más de 10"
+    }
+  }
+}

@@ -11,7 +11,7 @@
     "Rocky_stereo",
     "sdecandelario"
   ],
-  "generated_at": "2025-11-21T14:36:34.010691",
+  "generated_at": "2025-11-21T15:53:25.699337",
   "files": [
     "alberto_gu.json",
     "EliasJ72.json",
@@ -25,15 +25,15 @@
   ],
   "structure": {
     "discoveries": {
-      "artists": "Nuevos artistas por año",
-      "albums": "Nuevos álbumes por año",
-      "tracks": "Nuevas canciones por año",
-      "labels": "Nuevos sellos por año"
+      "artists": "Nuevos artistas por año (top 10)",
+      "albums": "Nuevos álbumes por año (top 10)",
+      "tracks": "Nuevas canciones por año (top 10)",
+      "labels": "Nuevos sellos por año (top 10)"
     },
     "yearly_format": {
       "count": "Número total de novedades",
-      "items": "Lista de elementos (máximo 50)",
-      "has_more": "True si hay más elementos"
+      "items": "Lista de elementos (máximo 10 para popup)",
+      "has_more": "True si hay más de 10"
     }
   }
 }
