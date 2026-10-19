@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Singles — UK nº1 · 1970s</title>
+<link rel="icon" type="image/png" href="/images/discount.png" />
+<!-- Umami Analytics -->
+<script
+    defer
+    src="https://cloud.umami.is/script.js"
+    data-website-id="5d84fd6c-0760-4a0c-a2d0-ffabb82179f5"
+></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:#0a0a0a; --surface:#111; --surface2:#161616; --border:#1e1e1e;
+    --accent:#c9a227; --muted:#666; --text:#e0e0e0; --ok:#5fb57a;
+    --header-h:52px;
+  }
+  *, *::before, *::after { box-sizing:border-box; margin:0; padding:0; }
+  body { background:var(--bg); color:var(--text); font-family:'DM Sans',sans-serif; min-height:100vh; }
+  a { color:inherit; }
+  header {
+    position:fixed; top:0; left:0; right:0; z-index:100; height:var(--header-h);
+    background:rgba(10,10,10,.97); backdrop-filter:blur(12px);
+    border-bottom:1px solid var(--border);
+    display:flex; align-items:center; gap:14px; padding:0 24px;
+  }
+  .site-label { font-family:'DM Mono',monospace; font-size:.6rem; letter-spacing:.18em;
+    text-transform:uppercase; color:var(--muted); white-space:nowrap; }
+  .site-label a { color:var(--muted); text-decoration:none; }
+  .site-label a:hover { color:var(--accent); }
+  h1 { font-family:'Bebas Neue',sans-serif; font-size:1.6rem; letter-spacing:.06em; line-height:1;
+    color:var(--accent); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; min-width:0; }
+  .header-meta { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); margin-left:auto; white-space:nowrap; }
+  .header-nav-link {
+    font-family:'DM Mono',monospace; font-size:.58rem; letter-spacing:.1em; text-transform:uppercase;
+    padding:4px 10px; border-radius:3px; border:1px solid var(--border); color:var(--muted);
+    text-decoration:none; transition:all .12s; flex-shrink:0;
+  }
+  .header-nav-link:hover { border-color:var(--accent); color:var(--accent); }
+  main { padding:24px 40px 80px; margin-top:var(--header-h); }
+  .section-label { font-family:'DM Mono',monospace; font-size:.65rem; letter-spacing:.2em;
+    text-transform:uppercase; color:var(--muted); margin-bottom:20px; }
+  .intro { color:var(--muted); font-size:.9rem; margin-bottom:22px; max-width:70ch; }
+  footer { padding:24px 40px; border-top:1px solid var(--border);
+    font-family:'DM Mono',monospace; font-size:.65rem; color:var(--muted); }
+  @media (max-width:700px) {
+    header { padding:0 16px; gap:10px; }
+    .header-meta, .site-label { display:none; }
+    main, footer { padding-left:16px; padding-right:16px; }
+  }
+
+  .toolbar { display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center; margin-bottom:18px; }
+  .progress { flex:1 1 260px; min-width:0; }
+  .progress-txt { font-family:'DM Mono',monospace; font-size:.7rem; color:var(--muted); margin-bottom:6px; }
+  .progress-txt b { color:var(--text); font-weight:500; }
+  .progress-bar { height:4px; background:var(--border); border-radius:2px; overflow:hidden; }
+  .progress-bar div { height:100%; background:var(--accent); transition:width .4s; }
+  .seg { display:flex; border:1px solid var(--border); border-radius:4px; overflow:hidden; }
+  .seg button { background:none; border:none; color:var(--muted); font-family:'DM Mono',monospace;
+    font-size:.62rem; letter-spacing:.06em; padding:6px 10px; cursor:pointer; text-transform:uppercase; }
+  .seg button + button { border-left:1px solid var(--border); }
+  .seg button.on { background:var(--surface2); color:var(--accent); }
+  .ctl { background:var(--surface); border:1px solid var(--border); color:var(--text); border-radius:4px;
+    font-family:'DM Mono',monospace; font-size:.68rem; padding:6px 9px; }
+  input.ctl { width:200px; max-width:100%; }
+  .ctl:focus { outline:none; border-color:var(--accent); }
+  .tracks { border-top:1px solid var(--border); }
+  .trk { display:grid; grid-template-columns:52px minmax(0,1fr) 110px 150px 64px 60px;
+    align-items:center; gap:12px; padding:9px 10px; border-bottom:1px solid var(--border);
+    border-left:2px solid transparent; }
+  .trk:hover { background:var(--surface); }
+  .trk.mine { border-left-color:var(--ok); }
+  .trk.dim .t-main { opacity:.55; }
+  .t-rank { font-family:'DM Mono',monospace; font-size:.75rem; color:var(--muted); text-align:right; }
+  .t-title { font-size:.95rem; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .t-artist { font-size:.8rem; color:var(--muted); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .t-meta { font-family:'DM Mono',monospace; font-size:.62rem; color:var(--muted); line-height:1.5; }
+  .badge { display:inline-block; padding:1px 6px; border-radius:3px; border:1px solid var(--border); }
+  .badge.win { border-color:var(--accent); color:var(--accent); }
+  .dots { display:flex; flex-wrap:wrap; gap:3px; }
+  .dot { width:8px; height:8px; border-radius:50%; background:var(--border); }
+  .dot.on { background:var(--accent); }
+  .dot.me { outline:1px solid var(--text); outline-offset:1px; }
+  .t-plays { font-family:'DM Mono',monospace; font-size:.7rem; text-align:right; color:var(--ok); }
+  .t-links { display:flex; gap:8px; justify-content:flex-end; }
+  .t-links a { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); text-decoration:none;
+    border:1px solid var(--border); border-radius:3px; padding:2px 5px; }
+  .t-links a:hover { color:var(--accent); border-color:var(--accent); }
+  .year-sep { font-family:'Bebas Neue',sans-serif; font-size:1.3rem; letter-spacing:.06em;
+    color:var(--accent); padding:16px 10px 6px; border-bottom:1px solid var(--border); }
+  .empty { padding:40px 10px; color:var(--muted); font-size:.9rem; }
+  @media (max-width:800px) {
+    .trk { grid-template-columns:28px minmax(0,1fr) auto auto; gap:8px; padding:9px 4px; }
+    .t-meta, .dots { display:none; }
+    input.ctl { width:100%; }
+  }
+
+  /* ── MH user modal ── */
+  .mh-usr-btn {
+    display:flex; align-items:center; gap:4px;
+    background:none; border:1px solid var(--border,#1e1e1e); border-radius:4px;
+    color:var(--muted,#555); font-family:'DM Mono',monospace;
+    font-size:.62rem; padding:4px 9px; cursor:pointer; flex-shrink:0;
+    white-space:nowrap; transition:border-color .12s, color .12s;
+  }
+  .mh-usr-btn:hover { border-color:var(--accent,#c9a227); color:var(--text,#e0e0e0); }
+  .mh-usr-btn.has-user { border-color:var(--accent,#c9a227); color:var(--accent,#c9a227); }
+  .mh-modal-ov {
+    display:none; position:fixed; inset:0; background:rgba(0,0,0,.78);
+    z-index:500; align-items:center; justify-content:center;
+  }
+  .mh-modal-ov.open { display:flex; }
+  .mh-modal-box {
+    background:var(--surface,#111); border:1px solid var(--border,#1e1e1e);
+    border-top:2px solid var(--accent,#c9a227); border-radius:6px;
+    padding:1.4rem; width:min(300px,92vw); max-height:80vh; overflow-y:auto;
+  }
+  .mh-modal-title {
+    font-family:'DM Mono',monospace; font-size:.6rem; letter-spacing:.2em;
+    text-transform:uppercase; color:var(--muted,#555);
+    margin-bottom:1rem; text-align:center;
+  }
+  .mh-usr-opt {
+    padding:9px 12px; margin-bottom:5px;
+    background:var(--surface2,#161616); border:1px solid var(--border,#1e1e1e);
+    border-radius:4px; cursor:pointer; transition:all .15s;
+    font-family:'DM Mono',monospace; font-size:.75rem;
+    letter-spacing:.04em; color:var(--muted,#555);
+  }
+  .mh-usr-opt:hover { border-color:var(--accent,#c9a227); color:var(--text,#e0e0e0); }
+  .mh-usr-opt.active { border-color:var(--accent,#c9a227); color:var(--accent,#c9a227); background:rgba(201,162,39,.07); }
+  .mh-modal-close {
+    display:block; margin:1rem auto 0; padding:6px 18px;
+    background:var(--surface2,#161616); color:var(--muted,#555);
+    border:1px solid var(--border,#1e1e1e); border-radius:4px;
+    cursor:pointer; font-family:'DM Mono',monospace; font-size:.68rem;
+  }
+  .mh-modal-close:hover { color:var(--text,#e0e0e0); }
+</style>
+</head>
+<body>
+
+<div class="mh-modal-ov" id="mhUserModal">
+  <div class="mh-modal-box">
+    <div class="mh-modal-title">Seleccionar usuario</div>
+    <div id="mhUserOpts"></div>
+    <button class="mh-modal-close" id="mhModalClose">Cerrar</button>
+  </div>
+</div>
+<header>
+  <div class="site-label"><a href="index.html">← UK Singles Chart · Números 1</a></div>
+  <h1>UK nº1 · 1970s</h1>
+  <div class="header-meta">169 canciones</div>
+  <a class="header-nav-link" href="https://en.wikipedia.org/wiki/List_of_UK_singles_chart_number_ones_of_the_1970s" target="_blank" rel="noopener">Wikipedia ↗</a>
+  <button class="mh-usr-btn" id="mhUserBtn" title="Seleccionar usuario">👤 <span id="mhULbl">—</span></button>
+</header>
+<main>
+  <div class="toolbar">
+    <div class="progress"><div class="progress-txt" id="progTxt"></div><div class="progress-bar"><div id="progBar"></div></div></div>
+    <div class="seg" id="filters">
+      <button data-f="all" class="on">Todas</button><button data-f="heard" id="fHeard">Escuchadas</button><button data-f="pending" id="fPending">Pendientes</button>
+    </div>
+    <select class="ctl" id="sort" aria-label="Ordenar">
+      <option value="rank">Orden de la lista</option>
+      <option value="pop">Más escuchadas en el grupo</option>
+      <option value="year">Año</option>
+    </select>
+    <input class="ctl" id="search" type="search" placeholder="Buscar canción o artista…">
+  </div>
+  <div class="tracks" id="tracks"></div>
+</main>
+<footer>Generado 2026-10-16 22:24 · Listas de Wikipedia · Escuchas de Last.fm</footer>
+
+<script>
+(function() {
+  const USERS = ["alberto_gu", "armandwave", "BipolarMuzik", "EliasJ72", "Frikomid", "GabredMared", "Lonsonxd", "MaxtorUwU", "Nubis84", "paqueradejere", "Rocky_stereo", "sdecandelario", "verygooood"];
+  const KEY   = 'mh_user';
+  const modal  = document.getElementById('mhUserModal');
+  const btn    = document.getElementById('mhUserBtn');
+  const opts   = document.getElementById('mhUserOpts');
+  const close  = document.getElementById('mhModalClose');
+  if (!modal || !btn || !opts) return;
+
+  function buildOpts() {
+    opts.innerHTML = '';
+    const all = document.createElement('div');
+    all.className = 'mh-usr-opt' + (localStorage.getItem(KEY) ? '' : ' active');
+    all.textContent = 'Todos (sin filtro)';
+    all.onclick = () => selectUser(null);
+    opts.appendChild(all);
+    USERS.forEach(u => {
+      const el = document.createElement('div');
+      el.className = 'mh-usr-opt' + (localStorage.getItem(KEY) === u ? ' active' : '');
+      el.textContent = u;
+      el.onclick = () => selectUser(u);
+      opts.appendChild(el);
+    });
+  }
+
+  function updateBtn() {
+    const u = localStorage.getItem(KEY);
+    const lbl = document.getElementById('mhULbl');
+    if (lbl) lbl.textContent = u || '—';
+    btn.title = u ? u : 'Seleccionar usuario';
+    btn.classList.toggle('has-user', !!u);
+  }
+
+  function selectUser(u) {
+    if (u) localStorage.setItem(KEY, u);
+    else localStorage.removeItem(KEY);
+    updateBtn();
+    buildOpts();
+    modal.classList.remove('open');
+    mhRenderList();
+  }
+
+  btn.addEventListener('click', e => { e.stopPropagation(); buildOpts(); modal.classList.add('open'); });
+  close.addEventListener('click', () => modal.classList.remove('open'));
+  modal.addEventListener('click', e => { if (e.target === modal) modal.classList.remove('open'); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') modal.classList.remove('open'); });
+
+  updateBtn();
+})();
+</script>
+<script>const DATA = {"users":["alberto_gu","armandwave","BipolarMuzik","EliasJ72","Frikomid","GabredMared","Lonsonxd","MaxtorUwU","Nubis84","paqueradejere","Rocky_stereo","sdecandelario","verygooood"],"showYear":true,"yearSeparators":true,"tracks":[{"r":280,"t":"Two Little Boys","a":"Rolf Harris","y":1969,"w":6,"n":"","h":{}},{"r":281,"t":"Love Grows (Where My Rosemary Goes)","a":"Edison Lighthouse","y":1970,"w":5,"n":"","h":{}},{"r":282,"t":"Wand'rin' Star","a":"Lee Marvin","y":1970,"w":3,"n":"","h":{"armandwave":1}},{"r":283,"t":"Bridge over Troubled Water","a":"Simon & Garfunkel","y":1970,"w":3,"n":"","h":{"armandwave":4,"Frikomid":2,"MaxtorUwU":2,"Nubis84":13}},{"r":284,"t":"All Kinds of Everything","a":"Dana","y":1970,"w":2,"n":"","h":{}},{"r":285,"t":"Spirit in the Sky","a":"Norman Greenbaum","y":1970,"w":2,"n":"","h":{"armandwave":1,"MaxtorUwU":1,"Nubis84":13,"sdecandelario":1}},{"r":286,"t":"Back Home","a":"England World Cup Squad","y":1970,"w":3,"n":"","h":{}},{"r":287,"t":"Yellow River","a":"Christie","y":1970,"w":1,"n":"","h":{}},{"r":288,"t":"In the Summertime","a":"Mungo Jerry","y":1970,"w":7,"n":"","h":{"armandwave":2,"Nubis84":2,"sdecandelario":3,"verygooood":2}},{"r":289,"t":"The Wonder of You","a":"Elvis Presley","y":1970,"w":6,"n":"","h":{"armandwave":1}},{"r":290,"t":"The Tears of a Clown","a":"Smokey Robinson and the Miracles","y":1970,"w":1,"n":"","h":{"armandwave":4,"Nubis84":2}},{"r":291,"t":"Band of Gold","a":"Freda Payne","y":1970,"w":6,"n":"","h":{"armandwave":2,"paqueradejere":5}},{"r":292,"t":"Woodstock","a":"Matthews Southern Comfort","y":1970,"w":3,"n":"","h":{}},{"r":293,"t":"Voodoo Chile","a":"The Jimi Hendrix Experience","y":1970,"w":1,"n":"","h":{"armandwave":1,"EliasJ72":1,"Frikomid":2,"MaxtorUwU":1,"Nubis84":6,"Rocky_stereo":1}},{"r":294,"t":"I Hear You Knocking","a":"Dave Edmunds","y":1970,"w":6,"n":"","h":{"armandwave":1}},{"r":295,"t":"Grandad","a":"Clive Dunn","y":1971,"w":3,"n":"","h":{}},{"r":296,"t":"My Sweet Lord","a":"George Harrison","y":1971,"w":5,"n":"","h":{"armandwave":3,"Frikomid":4,"Lonsonxd":11,"Nubis84":18,"Rocky_stereo":3}},{"r":297,"t":"Baby Jump","a":"Mungo Jerry","y":1971,"w":2,"n":"","h":{}},{"r":298,"t":"Hot Love","a":"T. Rex","y":1971,"w":6,"n":"","h":{}},{"r":299,"t":"Double Barrel","a":"Dave and Ansell Collins","y":1971,"w":2,"n":"","h":{"armandwave":2,"MaxtorUwU":1}},{"r":300,"t":"Knock Three Times","a":"Dawn","y":1971,"w":5,"n":"","h":{}},{"r":301,"t":"Chirpy Chirpy Cheep Cheep","a":"Middle of the Road","y":1971,"w":5,"n":"","h":{"armandwave":4}},{"r":302,"t":"Get It On","a":"T. Rex","y":1971,"w":4,"n":"","h":{"armandwave":7,"Nubis84":1}},{"r":303,"t":"I'm Still Waiting","a":"Diana Ross","y":1971,"w":4,"n":"","h":{}},{"r":304,"t":"Hey Girl Don't Bother Me","a":"The Tams","y":1971,"w":3,"n":"","h":{}},{"r":305,"t":"Reason to Believe / Maggie May","a":"Rod Stewart","y":1971,"w":5,"n":"","h":{"armandwave":7,"Lonsonxd":1,"Nubis84":1,"Rocky_stereo":2,"sdecandelario":5}},{"r":306,"t":"Coz I Luv You","a":"Slade","y":1971,"w":4,"n":"","h":{}},{"r":307,"t":"Ernie (The Fastest Milkman in the West)","a":"Benny Hill","y":1971,"w":4,"n":"","h":{}},{"r":308,"t":"I'd Like to Teach the World to Sing (In Perfect Harmony)","a":"The New Seekers","y":1972,"w":4,"n":"","h":{"Nubis84":1}},{"r":309,"t":"Telegram Sam","a":"T. Rex","y":1972,"w":2,"n":"","h":{}},{"r":310,"t":"Son of My Father","a":"Chicory Tip","y":1972,"w":3,"n":"","h":{"armandwave":1}},{"r":311,"t":"Without You","a":"Nilsson","y":1972,"w":5,"n":"","h":{"armandwave":3,"Nubis84":1}},{"r":312,"t":"Amazing Grace","a":"Royal Scots Dragoon Guards","y":1972,"w":5,"n":"","h":{}},{"r":313,"t":"Metal Guru","a":"T. Rex","y":1972,"w":4,"n":"","h":{"armandwave":2}},{"r":314,"t":"Vincent","a":"Don McLean","y":1972,"w":2,"n":"","h":{"armandwave":2}},{"r":315,"t":"Take Me Bak 'Ome","a":"Slade","y":1972,"w":1,"n":"","h":{}},{"r":316,"t":"Puppy Love","a":"Donny Osmond","y":1972,"w":5,"n":"","h":{}},{"r":317,"t":"School's Out","a":"Alice Cooper","y":1972,"w":3,"n":"","h":{"armandwave":2,"MaxtorUwU":1,"Nubis84":3,"verygooood":1}},{"r":318,"t":"You Wear It Well","a":"Rod Stewart","y":1972,"w":1,"n":"","h":{}},{"r":319,"t":"Mama Weer All Crazee Now","a":"Slade","y":1972,"w":3,"n":"","h":{"armandwave":2}},{"r":320,"t":"How Can I Be Sure","a":"David Cassidy","y":1972,"w":2,"n":"","h":{}},{"r":321,"t":"Mouldy Old Dough","a":"Lieutenant Pigeon","y":1972,"w":4,"n":"","h":{}},{"r":322,"t":"Clair","a":"Gilbert O'Sullivan","y":1972,"w":2,"n":"","h":{}},{"r":323,"t":"My Ding-a-Ling","a":"Chuck Berry","y":1972,"w":4,"n":"","h":{}},{"r":324,"t":"Long Haired Lover from Liverpool","a":"Little Jimmy Osmond","y":1972,"w":5,"n":"","h":{}},{"r":325,"t":"Blockbuster!","a":"The Sweet","y":1973,"w":5,"n":"","h":{"sdecandelario":1}},{"r":326,"t":"Cum On Feel the Noize","a":"Slade","y":1973,"w":4,"n":"","h":{"Nubis84":2}},{"r":327,"t":"The Twelfth of Never","a":"Donny Osmond","y":1973,"w":1,"n":"","h":{}},{"r":328,"t":"Get Down","a":"Gilbert O'Sullivan","y":1973,"w":2,"n":"","h":{}},{"r":329,"t":"Tie a Yellow Ribbon Round the Ole Oak Tree","a":"Tony Orlando and Dawn","y":1973,"w":4,"n":"","h":{}},{"r":330,"t":"See My Baby Jive","a":"Wizzard","y":1973,"w":4,"n":"","h":{}},{"r":331,"t":"Can the Can","a":"Suzi Quatro","y":1973,"w":1,"n":"","h":{}},{"r":332,"t":"Rubber Bullets","a":"10cc","y":1973,"w":1,"n":"","h":{}},{"r":333,"t":"Skweeze Me, Pleeze Me","a":"Slade","y":1973,"w":3,"n":"","h":{}},{"r":334,"t":"Welcome Home","a":"Peters and Lee","y":1973,"w":1,"n":"","h":{}},{"r":335,"t":"I'm the Leader of the Gang (I Am)","a":"Gary Glitter","y":1973,"w":4,"n":"","h":{}},{"r":336,"t":"Young Love","a":"Donny Osmond","y":1973,"w":4,"n":"","h":{}},{"r":337,"t":"Angel Fingers","a":"Wizzard","y":1973,"w":1,"n":"","h":{}},{"r":338,"t":"Eye Level","a":"Simon Park Orchestra","y":1973,"w":4,"n":"","h":{}},{"r":339,"t":"Daydreamer / The Puppy Song","a":"David Cassidy","y":1973,"w":3,"n":"","h":{}},{"r":340,"t":"I Love You Love Me Love","a":"Gary Glitter","y":1973,"w":4,"n":"","h":{}},{"r":341,"t":"Merry Xmas Everybody","a":"Slade","y":1973,"w":5,"n":"","h":{}},{"r":342,"t":"You Won't Find Another Fool Like Me","a":"The New Seekers","y":1974,"w":1,"n":"","h":{}},{"r":343,"t":"Tiger Feet","a":"Mud","y":1974,"w":4,"n":"","h":{}},{"r":344,"t":"Devil Gate Drive","a":"Suzi Quatro","y":1974,"w":2,"n":"","h":{}},{"r":345,"t":"Jealous Mind","a":"Alvin Stardust","y":1974,"w":1,"n":"","h":{}},{"r":346,"t":"Billy Don't Be a Hero","a":"Paper Lace","y":1974,"w":3,"n":"","h":{}},{"r":347,"t":"Seasons in the Sun","a":"Terry Jacks","y":1974,"w":4,"n":"","h":{}},{"r":348,"t":"Waterloo","a":"ABBA","y":1974,"w":2,"n":"","h":{"armandwave":1,"Frikomid":12,"Lonsonxd":1,"Nubis84":2,"sdecandelario":1}},{"r":349,"t":"Sugar Baby Love","a":"The Rubettes","y":1974,"w":4,"n":"","h":{"armandwave":1}},{"r":350,"t":"The Streak","a":"Ray Stevens","y":1974,"w":1,"n":"","h":{}},{"r":351,"t":"Always Yours","a":"Gary Glitter","y":1974,"w":1,"n":"","h":{}},{"r":352,"t":"She","a":"Charles Aznavour","y":1974,"w":4,"n":"","h":{}},{"r":353,"t":"Rock Your Baby","a":"George McCrae","y":1974,"w":3,"n":"","h":{"alberto_gu":23,"armandwave":1,"Nubis84":4}},{"r":354,"t":"When Will I See You Again","a":"The Three Degrees","y":1974,"w":2,"n":"","h":{}},{"r":355,"t":"Love Me for a Reason","a":"The Osmonds","y":1974,"w":3,"n":"","h":{}},{"r":356,"t":"Kung Fu Fighting","a":"Carl Douglas","y":1974,"w":3,"n":"","h":{"MaxtorUwU":4}},{"r":357,"t":"Annie's Song","a":"John Denver","y":1974,"w":1,"n":"","h":{"Frikomid":15,"Nubis84":1}},{"r":358,"t":"Sad Sweet Dreamer","a":"Sweet Sensation","y":1974,"w":1,"n":"","h":{}},{"r":359,"t":"Everything I Own","a":"Ken Boothe","y":1974,"w":3,"n":"","h":{"armandwave":1,"MaxtorUwU":1}},{"r":360,"t":"Gonna Make You a Star","a":"David Essex","y":1974,"w":3,"n":"","h":{}},{"r":361,"t":"You're the First, the Last, My Everything","a":"Barry White","y":1974,"w":2,"n":"","h":{"armandwave":5,"MaxtorUwU":1}},{"r":362,"t":"Lonely This Christmas","a":"Mud","y":1974,"w":4,"n":"","h":{"MaxtorUwU":1}},{"r":363,"t":"Down Down","a":"Status Quo","y":1975,"w":1,"n":"","h":{"Lonsonxd":1,"sdecandelario":2}},{"r":364,"t":"Ms Grace","a":"The Tymes","y":1975,"w":1,"n":"","h":{}},{"r":365,"t":"January","a":"Pilot","y":1975,"w":3,"n":"","h":{}},{"r":366,"t":"Make Me Smile (Come Up and See Me)","a":"Steve Harley & Cockney Rebel","y":1975,"w":2,"n":"","h":{}},{"r":367,"t":"If","a":"Telly Savalas","y":1975,"w":2,"n":"","h":{}},{"r":368,"t":"Bye Bye Baby","a":"Bay City Rollers","y":1975,"w":6,"n":"","h":{}},{"r":369,"t":"Oh Boy","a":"Mud","y":1975,"w":2,"n":"","h":{}},{"r":370,"t":"Stand by Your Man","a":"Tammy Wynette","y":1975,"w":3,"n":"","h":{"armandwave":10}},{"r":371,"t":"Whispering Grass","a":"Windsor Davies and Don Estelle","y":1975,"w":3,"n":"","h":{}},{"r":372,"t":"I'm Not in Love","a":"10cc","y":1975,"w":2,"n":"","h":{"alberto_gu":7,"armandwave":13,"GabredMared":1,"Lonsonxd":3,"MaxtorUwU":2,"Nubis84":7,"Rocky_stereo":21,"sdecandelario":1}},{"r":373,"t":"Tears on My Pillow","a":"Johnny Nash","y":1975,"w":1,"n":"","h":{}},{"r":374,"t":"Give a Little Love","a":"Bay City Rollers","y":1975,"w":3,"n":"","h":{}},{"r":375,"t":"Barbados","a":"Typically Tropical","y":1975,"w":1,"n":"","h":{}},{"r":376,"t":"Can't Give You Anything (But My Love)","a":"The Stylistics","y":1975,"w":3,"n":"","h":{}},{"r":377,"t":"Sailing","a":"Rod Stewart","y":1975,"w":4,"n":"","h":{}},{"r":378,"t":"Hold Me Close","a":"David Essex","y":1975,"w":3,"n":"","h":{}},{"r":379,"t":"I Only Have Eyes for You","a":"Art Garfunkel","y":1975,"w":2,"n":"","h":{}},{"r":380,"t":"Space Oddity","a":"David Bowie","y":1975,"w":2,"n":"","h":{"armandwave":6,"Frikomid":37,"GabredMared":1,"Lonsonxd":28,"Nubis84":42,"Rocky_stereo":4,"sdecandelario":8}},{"r":381,"t":"D.I.V.O.R.C.E.","a":"Billy Connolly","y":1975,"w":1,"n":"","h":{}},{"r":382,"t":"Bohemian Rhapsody","a":"Queen","y":1975,"w":9,"n":"","h":{"armandwave":17,"Lonsonxd":1,"Nubis84":4,"Rocky_stereo":2,"verygooood":2}},{"r":383,"t":"Mamma Mia","a":"ABBA","y":1976,"w":2,"n":"","h":{"Frikomid":4,"Lonsonxd":2,"Nubis84":2,"Rocky_stereo":5,"sdecandelario":5}},{"r":384,"t":"Forever and Ever","a":"Slik","y":1976,"w":1,"n":"","h":{}},{"r":385,"t":"December, 1963 (Oh, What a Night)","a":"The Four Seasons","y":1976,"w":2,"n":"","h":{}},{"r":386,"t":"I Love to Love (But My Baby Loves to Dance)","a":"Tina Charles","y":1976,"w":3,"n":"","h":{"armandwave":9,"Nubis84":1}},{"r":387,"t":"Save Your Kisses for Me","a":"Brotherhood of Man","y":1976,"w":6,"n":"","h":{}},{"r":388,"t":"Fernando","a":"ABBA","y":1976,"w":4,"n":"","h":{"Frikomid":4}},{"r":389,"t":"No Charge","a":"J. J. Barrie","y":1976,"w":1,"n":"","h":{}},{"r":390,"t":"Combine Harvester","a":"The Wurzels","y":1976,"w":2,"n":"","h":{}},{"r":391,"t":"You to Me Are Everything","a":"The Real Thing","y":1976,"w":3,"n":"","h":{"Nubis84":1}},{"r":392,"t":"The Roussos Phenomenon (EP)","a":"Demis Roussos","y":1976,"w":1,"n":"","h":{}},{"r":393,"t":"Don't Go Breaking My Heart","a":"Elton John and Kiki Dee","y":1976,"w":6,"n":"","h":{"armandwave":1}},{"r":394,"t":"Dancing Queen","a":"ABBA","y":1976,"w":6,"n":"","h":{"armandwave":4,"Frikomid":55,"GabredMared":3,"Lonsonxd":3,"Nubis84":8,"Rocky_stereo":2,"sdecandelario":18,"verygooood":6}},{"r":395,"t":"Mississippi","a":"Pussycat","y":1976,"w":4,"n":"","h":{}},{"r":396,"t":"If You Leave Me Now","a":"Chicago","y":1976,"w":3,"n":"","h":{"alberto_gu":5,"MaxtorUwU":3,"sdecandelario":1,"verygooood":10}},{"r":397,"t":"Under the Moon of Love","a":"Showaddywaddy","y":1976,"w":3,"n":"","h":{}},{"r":398,"t":"When a Child Is Born (Soleado)","a":"Johnny Mathis","y":1976,"w":3,"n":"","h":{}},{"r":399,"t":"Don't Give Up on Us","a":"David Soul","y":1977,"w":4,"n":"","h":{"MaxtorUwU":1}},{"r":400,"t":"Don't Cry for Me Argentina","a":"Julie Covington","y":1977,"w":1,"n":"","h":{}},{"r":401,"t":"When I Need You","a":"Leo Sayer","y":1977,"w":3,"n":"","h":{}},{"r":402,"t":"Chanson D'Amour","a":"The Manhattan Transfer","y":1977,"w":3,"n":"","h":{}},{"r":403,"t":"Knowing Me, Knowing You","a":"ABBA","y":1977,"w":5,"n":"","h":{"armandwave":2,"BipolarMuzik":1,"Frikomid":1,"Nubis84":1,"sdecandelario":1}},{"r":404,"t":"Free","a":"Deniece Williams","y":1977,"w":2,"n":"","h":{}},{"r":405,"t":"I Don't Want to Talk About It / The First Cut Is the Deepest","a":"Rod Stewart","y":1977,"w":4,"n":"","h":{}},{"r":406,"t":"Lucille","a":"Kenny Rogers","y":1977,"w":1,"n":"","h":{}},{"r":407,"t":"Show You the Way to Go","a":"The Jacksons","y":1977,"w":1,"n":"","h":{}},{"r":408,"t":"So You Win Again","a":"Hot Chocolate","y":1977,"w":3,"n":"","h":{}},{"r":409,"t":"I Feel Love","a":"Donna Summer","y":1977,"w":4,"n":"","h":{"alberto_gu":2,"armandwave":8,"Frikomid":9,"MaxtorUwU":1,"Nubis84":3,"paqueradejere":3,"sdecandelario":12}},{"r":410,"t":"Angelo","a":"Brotherhood of Man","y":1977,"w":1,"n":"","h":{}},{"r":411,"t":"Float On","a":"The Floaters","y":1977,"w":1,"n":"","h":{"paqueradejere":6}},{"r":412,"t":"Way Down","a":"Elvis Presley","y":1977,"w":5,"n":"","h":{}},{"r":413,"t":"Silver Lady","a":"David Soul","y":1977,"w":3,"n":"","h":{}},{"r":414,"t":"Yes Sir, I Can Boogie","a":"Baccara","y":1977,"w":1,"n":"","h":{"Frikomid":42,"GabredMared":3,"MaxtorUwU":1,"Nubis84":1,"sdecandelario":2}},{"r":415,"t":"The Name of the Game","a":"ABBA","y":1977,"w":4,"n":"","h":{"alberto_gu":3,"Frikomid":1}},{"r":416,"t":"Mull of Kintyre / Girls' School","a":"Wings","y":1977,"w":9,"n":"","h":{"armandwave":1}},{"r":417,"t":"Uptown Top Ranking","a":"Althea & Donna","y":1978,"w":1,"n":"","h":{"armandwave":2,"MaxtorUwU":1,"Rocky_stereo":2}},{"r":418,"t":"Figaro","a":"Brotherhood of Man","y":1978,"w":1,"n":"","h":{}},{"r":419,"t":"Take a Chance on Me","a":"ABBA","y":1978,"w":3,"n":"","h":{"armandwave":2,"Frikomid":7,"GabredMared":1,"sdecandelario":1}},{"r":420,"t":"Wuthering Heights","a":"Kate Bush","y":1978,"w":4,"n":"","h":{"BipolarMuzik":7,"Frikomid":82,"GabredMared":201,"Lonsonxd":14,"MaxtorUwU":2,"Nubis84":55,"verygooood":12}},{"r":421,"t":"Matchstalk Men & Matchstalk Cats & Dogs","a":"Brian and Michael","y":1978,"w":3,"n":"","h":{}},{"r":422,"t":"Night Fever","a":"Bee Gees","y":1978,"w":2,"n":"","h":{"MaxtorUwU":1,"Nubis84":3,"sdecandelario":1,"verygooood":8}},{"r":423,"t":"Rivers of Babylon / Brown Girl in the Ring","a":"Boney M.","y":1978,"w":5,"n":"","h":{"armandwave":1,"Nubis84":2,"paqueradejere":1,"sdecandelario":1}},{"r":424,"t":"You're the One That I Want","a":"John Travolta and Olivia Newton-John","y":1978,"w":9,"n":"","h":{"armandwave":2,"Nubis84":1}},{"r":425,"t":"Three Times a Lady","a":"Commodores","y":1978,"w":5,"n":"","h":{"armandwave":2}},{"r":426,"t":"Dreadlock Holiday","a":"10cc","y":1978,"w":1,"n":"","h":{"alberto_gu":2,"armandwave":5,"Lonsonxd":1,"MaxtorUwU":2,"sdecandelario":1}},{"r":427,"t":"Summer Nights","a":"John Travolta and Olivia Newton-John","y":1978,"w":7,"n":"","h":{}},{"r":428,"t":"Rat Trap","a":"The Boomtown Rats","y":1978,"w":2,"n":"","h":{"Frikomid":6}},{"r":429,"t":"Da Ya Think I'm Sexy?","a":"Rod Stewart","y":1978,"w":1,"n":"","h":{"armandwave":2,"Frikomid":1,"Lonsonxd":3,"MaxtorUwU":1,"Nubis84":2,"Rocky_stereo":4,"verygooood":1}},{"r":430,"t":"Mary's Boy Child – Oh My Lord","a":"Boney M.","y":1978,"w":4,"n":"","h":{}},{"r":431,"t":"Y.M.C.A.","a":"Village People","y":1979,"w":3,"n":"","h":{"Nubis84":1,"verygooood":1}},{"r":432,"t":"Hit Me with Your Rhythm Stick","a":"Ian Dury and the Blockheads","y":1979,"w":1,"n":"","h":{"armandwave":2}},{"r":433,"t":"Heart of Glass","a":"Blondie","y":1979,"w":4,"n":"","h":{"alberto_gu":13,"armandwave":17,"Frikomid":10,"GabredMared":1,"Lonsonxd":1,"MaxtorUwU":2,"Nubis84":7,"Rocky_stereo":16,"sdecandelario":6}},{"r":434,"t":"Tragedy","a":"Bee Gees","y":1979,"w":2,"n":"","h":{"Frikomid":24,"Nubis84":3,"Rocky_stereo":1,"sdecandelario":5}},{"r":435,"t":"I Will Survive","a":"Gloria Gaynor","y":1979,"w":4,"n":"","h":{"armandwave":3,"Frikomid":2,"GabredMared":1,"Nubis84":9,"verygooood":1}},{"r":436,"t":"Bright Eyes","a":"Art Garfunkel","y":1979,"w":6,"n":"","h":{}},{"r":437,"t":"Sunday Girl","a":"Blondie","y":1979,"w":3,"n":"","h":{"armandwave":1,"MaxtorUwU":2}},{"r":438,"t":"Ring My Bell","a":"Anita Ward","y":1979,"w":2,"n":"","h":{"MaxtorUwU":2,"verygooood":1}},{"r":439,"t":"Are 'Friends' Electric?","a":"Tubeway Army","y":1979,"w":4,"n":"","h":{"armandwave":10,"Frikomid":2,"Nubis84":1,"sdecandelario":9}},{"r":440,"t":"I Don't Like Mondays","a":"The Boomtown Rats","y":1979,"w":4,"n":"","h":{"armandwave":9,"Frikomid":3,"Nubis84":1,"sdecandelario":1}},{"r":441,"t":"We Don't Talk Anymore","a":"Cliff Richard","y":1979,"w":4,"n":"","h":{}},{"r":442,"t":"Cars","a":"Gary Numan","y":1979,"w":1,"n":"","h":{"armandwave":4,"Frikomid":5,"Lonsonxd":1,"MaxtorUwU":5,"Nubis84":2,"sdecandelario":18}},{"r":443,"t":"Message in a Bottle","a":"The Police","y":1979,"w":3,"n":"","h":{"alberto_gu":31,"armandwave":5,"Frikomid":1,"Lonsonxd":62,"Nubis84":5,"paqueradejere":2,"Rocky_stereo":34,"sdecandelario":2}},{"r":444,"t":"Video Killed the Radio Star","a":"The Buggles","y":1979,"w":1,"n":"","h":{"armandwave":2}},{"r":445,"t":"One Day at a Time","a":"Lena Martell","y":1979,"w":3,"n":"","h":{}},{"r":446,"t":"When You're in Love with a Beautiful Woman","a":"Dr. Hook","y":1979,"w":3,"n":"","h":{}},{"r":447,"t":"Walking on the Moon","a":"The Police","y":1979,"w":1,"n":"","h":{"armandwave":2,"Lonsonxd":6,"MaxtorUwU":4,"Nubis84":2,"paqueradejere":1,"Rocky_stereo":2,"sdecandelario":1}},{"r":448,"t":"Another Brick in the Wall (Part II)","a":"Pink Floyd","y":1979,"w":5,"n":"","h":{"alberto_gu":1,"armandwave":1,"BipolarMuzik":8,"Frikomid":3,"Nubis84":13}}]};</script>
+<script>
+(function() {
+  const D = DATA, USERS = D.users, NU = USERS.length;
+  const $ = id => document.getElementById(id);
+  let filter = 'all', sort = 'rank', q = '';
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fold = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  D.tracks.forEach(t => { t.nh = Object.keys(t.h).length; t.q = fold(t.t + ' ' + t.a); });
+
+  function user() { try { return localStorage.getItem('mh_user'); } catch (e) { return null; } }
+
+  function meta(t) {
+    const out = [];
+    if (t.n === 'winner') out.push('<span class="badge win">🏆 Ganadora</span>');
+    else if (t.n === 'nominee') out.push('<span class="badge">Nominada</span>');
+    else if (t.n) out.push(esc(t.n));
+    if (t.w) out.push(t.w + (t.w === 1 ? ' semana' : ' semanas') + ' nº1');
+    if (t.y && D.showYear && sort === 'pop') out.push(t.y);   // con separadores el año ya se ve
+    return out.join('<br>');
+  }
+
+  function row(t, u) {
+    const mine = u && t.h[u];
+    const dots = USERS.map(x => `<span class="dot${t.h[x] ? ' on' : ''}${x === u ? ' me' : ''}" title="${esc(x)}${t.h[x] ? ': ' + t.h[x] + ' plays' : ''}"></span>`).join('');
+    const qs = encodeURIComponent(t.a + ' ' + t.t);
+    const lfm = 'https://www.last.fm/music/' + encodeURIComponent(t.a.split(/ (?:featuring|feat\.|with|con) /i)[0]) + '/_/' + encodeURIComponent(t.t.split(' / ')[0]);
+    const plays = u ? (mine ? mine + '▶' : '') : (t.nh ? t.nh + '/' + NU : '');
+    return `<div class="trk${mine ? ' mine' : ''}${u && !mine ? ' dim' : ''}">
+      <div class="t-rank">${t.r ?? ''}</div>
+      <div class="t-main"><div class="t-title">${esc(t.t)}</div><div class="t-artist">${esc(t.a)}</div></div>
+      <div class="t-meta">${meta(t)}</div>
+      <div class="dots" title="${t.nh}/${NU} usuarios">${dots}</div>
+      <div class="t-plays" title="${u ? 'Tus reproducciones' : 'Usuarios que la han escuchado'}">${plays}</div>
+      <div class="t-links"><a href="https://www.youtube.com/results?search_query=${qs}" target="_blank" rel="noopener" title="Buscar en YouTube">YT</a><a href="${lfm}" target="_blank" rel="noopener" title="Last.fm">LFM</a></div>
+    </div>`;
+  }
+
+  function render() {
+    const u = user();
+    const heard = t => u ? !!t.h[u] : t.nh > 0;
+    let list = D.tracks.filter(t => (filter === 'all' || (filter === 'heard') === heard(t)) && (!q || t.q.includes(q)));
+    if (sort === 'pop') list = [...list].sort((a, b) => b.nh - a.nh || a.r - b.r);
+    if (sort === 'year') list = [...list].sort((a, b) => (a.y || 0) - (b.y || 0) || a.r - b.r);
+
+    const total = D.tracks.length;
+    let pct, txt;
+    if (u) {
+      const n = D.tracks.filter(t => t.h[u]).length;
+      pct = 100 * n / total;
+      txt = `<b>${esc(u)}</b> ha escuchado <b>${n}</b> de ${total} · ${pct.toFixed(1)}%`;
+    } else {
+      const avg = USERS.reduce((s, x) => s + D.tracks.filter(t => t.h[x]).length, 0) / (NU || 1);
+      const any = D.tracks.filter(t => t.nh).length;
+      pct = 100 * avg / total;
+      txt = `Media del grupo <b>${pct.toFixed(1)}%</b> · ${any} de ${total} las ha escuchado alguien`;
+    }
+    $('progTxt').innerHTML = txt;
+    $('progBar').style.width = pct + '%';
+    $('fHeard').textContent = u ? 'Escuchadas' : 'Alguien';
+    $('fPending').textContent = u ? 'Pendientes' : 'Nadie';
+
+    let html = '', lastY = null;
+    const sepByYear = D.yearSeparators && (sort === 'rank' || sort === 'year');
+    for (const t of list) {
+      if (sepByYear && t.y !== lastY) { html += `<div class="year-sep">${t.y ?? '—'}</div>`; lastY = t.y; }
+      html += row(t, u);
+    }
+    $('tracks').innerHTML = html || '<div class="empty">Nada por aquí.</div>';
+  }
+
+  document.querySelectorAll('#filters button').forEach(b => b.onclick = () => {
+    filter = b.dataset.f;
+    document.querySelectorAll('#filters button').forEach(x => x.classList.toggle('on', x === b));
+    render();
+  });
+  $('sort').onchange = e => { sort = e.target.value; render(); };
+  $('search').oninput = e => { q = fold(e.target.value.trim()); render(); };
+  window.mhRenderList = render;
+  render();
+})();
+</script>
+</body>
+</html>

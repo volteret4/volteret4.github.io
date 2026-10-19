@@ -421,7 +421,7 @@ class NormalizedDB:
 
         if track and artist:
             parts = [f"""
-                SELECT MIN(s.timestamp) FROM {t} s
+                SELECT MIN(s.timestamp) AS ts FROM {t} s
                 JOIN tracks  tr ON tr.id = s.track_id
                 JOIN artists ar ON ar.id = s.artist_id
                 WHERE tr.name = ? AND ar.name = ?
@@ -429,7 +429,7 @@ class NormalizedDB:
             params = [v for _ in tbls for v in (track, artist)]
         elif album and artist:
             parts = [f"""
-                SELECT MIN(s.timestamp) FROM {t} s
+                SELECT MIN(s.timestamp) AS ts FROM {t} s
                 JOIN albums  al ON al.id = s.album_id
                 JOIN artists ar ON ar.id = al.artist_id
                 WHERE al.name = ? AND ar.name = ?
@@ -437,7 +437,7 @@ class NormalizedDB:
             params = [v for _ in tbls for v in (album, artist)]
         elif artist:
             parts = [f"""
-                SELECT MIN(s.timestamp) FROM {t} s
+                SELECT MIN(s.timestamp) AS ts FROM {t} s
                 JOIN artists ar ON ar.id = s.artist_id
                 WHERE ar.name = ?
             """ for t in tbls]
@@ -447,7 +447,7 @@ class NormalizedDB:
 
         union = " UNION ALL ".join(parts)
         row = self.conn.execute(
-            f"SELECT MIN(ts) FROM ({union}) sub(ts)", params
+            f"SELECT MIN(ts) FROM ({union}) sub", params
         ).fetchone()
         return row[0] if row else None
 

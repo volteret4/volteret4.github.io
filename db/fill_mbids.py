@@ -12,7 +12,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from urllib3.util.ssl_ import create_urllib3_context
 
-MAIN_DB  = "db/must_hear_rym_new.db"
+MAIN_DB  = "db/must_hear.db"
 CACHE_DB = "db/lasfm_cache_rym_new_normalized.db"
 RATE_LIMIT = 1.1
 db_lock = Lock()
@@ -108,11 +108,14 @@ def _build_query(field_artist, artist, field_album, album):
     return f'{field_artist}:"{ea}" AND {field_album}:"{eb}"'
 
 
-def search_release_group(artist, album, proxy=None):
+def search_release_group(artist, album, proxy=None, fuzzy=False):
     """Busca en /release-group/ — devuelve rg_mbid directo."""
-    data = _mb_get("release-group/",
-                   {"query": _build_query("artist", artist, "releasegroup", album), "limit": 3},
-                   proxy)
+    if fuzzy:
+        ea, eb = lucene_escape(artist), lucene_escape(album)
+        query = f'artist:"{ea}"~ AND releasegroup:"{eb}"~'
+    else:
+        query = _build_query("artist", artist, "releasegroup", album)
+    data = _mb_get("release-group/", {"query": query, "limit": 3}, proxy)
     if not data:
         return None
     for rg in data.get("release-groups", []):
@@ -188,25 +191,40 @@ def find_mbids(artist, album, proxy, cache_conn):
             seen.add(key)
             variations.append((a, b))
 
+    # Primera línea de nombres multi-línea (artistas/álbumes con doble escritura,
+    # p.ej. japonés/coreano: "Band Name\n밴드 이름")
+    a_first = artist.split('\n')[0].strip()
+    b_first = album.split('\n')[0].strip()
+
+    # Álbum sin subtítulo tras ':' o ' / ' (p.ej. "Album: Deluxe Edition" → "Album")
+    b_nosub = re.sub(r'\s*[:/]\s+.+$', '', b_first).strip() or b_first
+
     # 1. Nombres originales
     _add(artist, album)
 
-    # 2. Simplificados (sin ruido de edición)
-    sa, sb = simplify(artist), simplify(album)
+    # 2. Primera línea (más probable que coincida con MB)
+    _add(a_first, b_first)
+    _add(a_first, b_nosub)
+
+    # 3. Simplificados (sin ruido de edición)
+    sa, sb = simplify(a_first), simplify(b_first)
     _add(sa, sb)
-    _add(sa, album)
-    _add(artist, sb)
+    _add(sa, b_first)
+    _add(a_first, sb)
+    _add(sa, b_nosub)
 
-    # 3. Sin "The" en el artista
-    na = strip_the(artist)
-    _add(na, album)
+    # 4. Sin "The" en el artista
+    na = strip_the(a_first)
+    _add(na, b_first)
     _add(na, sb)
+    _add(na, b_nosub)
 
-    # 4. Completamente saneados (solo alfanumérico) — último recurso
-    xa, xb = strip_special(artist), strip_special(album)
+    # 5. Completamente saneados (solo alfanumérico) — último recurso
+    xa, xb = strip_special(a_first), strip_special(b_first)
     _add(xa, xb)
     _add(xa, strip_special(sb))
     _add(strip_special(na), xb)
+    _add(xa, strip_special(b_nosub))
 
     best_rid = None  # guardamos el mejor release MBID parcial por si no hay RG
 
@@ -230,6 +248,15 @@ def find_mbids(artist, album, proxy, cache_conn):
             if rgid:
                 return rid, rgid
             # Sin RG aun — continuar con la siguiente variación
+
+    # Fuzzy fallback: primera línea saneada con búsqueda aproximada
+    for art, alb in [(a_first, b_first), (sa, sb), (xa, xb)]:
+        if not art or not alb:
+            continue
+        time.sleep(RATE_LIMIT)
+        rg = search_release_group(art, alb, proxy, fuzzy=True)
+        if rg:
+            return best_rid, rg
 
     return best_rid, None
 

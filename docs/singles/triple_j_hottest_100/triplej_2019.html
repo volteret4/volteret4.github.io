@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Singles — Triple J Hottest 100 · 2019</title>
+<link rel="icon" type="image/png" href="/images/discount.png" />
+<!-- Umami Analytics -->
+<script
+    defer
+    src="https://cloud.umami.is/script.js"
+    data-website-id="5d84fd6c-0760-4a0c-a2d0-ffabb82179f5"
+></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:#0a0a0a; --surface:#111; --surface2:#161616; --border:#1e1e1e;
+    --accent:#c9a227; --muted:#666; --text:#e0e0e0; --ok:#5fb57a;
+    --header-h:52px;
+  }
+  *, *::before, *::after { box-sizing:border-box; margin:0; padding:0; }
+  body { background:var(--bg); color:var(--text); font-family:'DM Sans',sans-serif; min-height:100vh; }
+  a { color:inherit; }
+  header {
+    position:fixed; top:0; left:0; right:0; z-index:100; height:var(--header-h);
+    background:rgba(10,10,10,.97); backdrop-filter:blur(12px);
+    border-bottom:1px solid var(--border);
+    display:flex; align-items:center; gap:14px; padding:0 24px;
+  }
+  .site-label { font-family:'DM Mono',monospace; font-size:.6rem; letter-spacing:.18em;
+    text-transform:uppercase; color:var(--muted); white-space:nowrap; }
+  .site-label a { color:var(--muted); text-decoration:none; }
+  .site-label a:hover { color:var(--accent); }
+  h1 { font-family:'Bebas Neue',sans-serif; font-size:1.6rem; letter-spacing:.06em; line-height:1;
+    color:var(--accent); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; min-width:0; }
+  .header-meta { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); margin-left:auto; white-space:nowrap; }
+  .header-nav-link {
+    font-family:'DM Mono',monospace; font-size:.58rem; letter-spacing:.1em; text-transform:uppercase;
+    padding:4px 10px; border-radius:3px; border:1px solid var(--border); color:var(--muted);
+    text-decoration:none; transition:all .12s; flex-shrink:0;
+  }
+  .header-nav-link:hover { border-color:var(--accent); color:var(--accent); }
+  main { padding:24px 40px 80px; margin-top:var(--header-h); }
+  .section-label { font-family:'DM Mono',monospace; font-size:.65rem; letter-spacing:.2em;
+    text-transform:uppercase; color:var(--muted); margin-bottom:20px; }
+  .intro { color:var(--muted); font-size:.9rem; margin-bottom:22px; max-width:70ch; }
+  footer { padding:24px 40px; border-top:1px solid var(--border);
+    font-family:'DM Mono',monospace; font-size:.65rem; color:var(--muted); }
+  @media (max-width:700px) {
+    header { padding:0 16px; gap:10px; }
+    .header-meta, .site-label { display:none; }
+    main, footer { padding-left:16px; padding-right:16px; }
+  }
+
+  .toolbar { display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center; margin-bottom:18px; }
+  .progress { flex:1 1 260px; min-width:0; }
+  .progress-txt { font-family:'DM Mono',monospace; font-size:.7rem; color:var(--muted); margin-bottom:6px; }
+  .progress-txt b { color:var(--text); font-weight:500; }
+  .progress-bar { height:4px; background:var(--border); border-radius:2px; overflow:hidden; }
+  .progress-bar div { height:100%; background:var(--accent); transition:width .4s; }
+  .seg { display:flex; border:1px solid var(--border); border-radius:4px; overflow:hidden; }
+  .seg button { background:none; border:none; color:var(--muted); font-family:'DM Mono',monospace;
+    font-size:.62rem; letter-spacing:.06em; padding:6px 10px; cursor:pointer; text-transform:uppercase; }
+  .seg button + button { border-left:1px solid var(--border); }
+  .seg button.on { background:var(--surface2); color:var(--accent); }
+  .ctl { background:var(--surface); border:1px solid var(--border); color:var(--text); border-radius:4px;
+    font-family:'DM Mono',monospace; font-size:.68rem; padding:6px 9px; }
+  input.ctl { width:200px; max-width:100%; }
+  .ctl:focus { outline:none; border-color:var(--accent); }
+  .tracks { border-top:1px solid var(--border); }
+  .trk { display:grid; grid-template-columns:52px minmax(0,1fr) 110px 150px 64px 60px;
+    align-items:center; gap:12px; padding:9px 10px; border-bottom:1px solid var(--border);
+    border-left:2px solid transparent; }
+  .trk:hover { background:var(--surface); }
+  .trk.mine { border-left-color:var(--ok); }
+  .trk.dim .t-main { opacity:.55; }
+  .t-rank { font-family:'DM Mono',monospace; font-size:.75rem; color:var(--muted); text-align:right; }
+  .t-title { font-size:.95rem; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .t-artist { font-size:.8rem; color:var(--muted); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .t-meta { font-family:'DM Mono',monospace; font-size:.62rem; color:var(--muted); line-height:1.5; }
+  .badge { display:inline-block; padding:1px 6px; border-radius:3px; border:1px solid var(--border); }
+  .badge.win { border-color:var(--accent); color:var(--accent); }
+  .dots { display:flex; flex-wrap:wrap; gap:3px; }
+  .dot { width:8px; height:8px; border-radius:50%; background:var(--border); }
+  .dot.on { background:var(--accent); }
+  .dot.me { outline:1px solid var(--text); outline-offset:1px; }
+  .t-plays { font-family:'DM Mono',monospace; font-size:.7rem; text-align:right; color:var(--ok); }
+  .t-links { display:flex; gap:8px; justify-content:flex-end; }
+  .t-links a { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); text-decoration:none;
+    border:1px solid var(--border); border-radius:3px; padding:2px 5px; }
+  .t-links a:hover { color:var(--accent); border-color:var(--accent); }
+  .year-sep { font-family:'Bebas Neue',sans-serif; font-size:1.3rem; letter-spacing:.06em;
+    color:var(--accent); padding:16px 10px 6px; border-bottom:1px solid var(--border); }
+  .empty { padding:40px 10px; color:var(--muted); font-size:.9rem; }
+  @media (max-width:800px) {
+    .trk { grid-template-columns:28px minmax(0,1fr) auto auto; gap:8px; padding:9px 4px; }
+    .t-meta, .dots { display:none; }
+    input.ctl { width:100%; }
+  }
+
+  /* ── MH user modal ── */
+  .mh-usr-btn {
+    display:flex; align-items:center; gap:4px;
+    background:none; border:1px solid var(--border,#1e1e1e); border-radius:4px;
+    color:var(--muted,#555); font-family:'DM Mono',monospace;
+    font-size:.62rem; padding:4px 9px; cursor:pointer; flex-shrink:0;
+    white-space:nowrap; transition:border-color .12s, color .12s;
+  }
+  .mh-usr-btn:hover { border-color:var(--accent,#c9a227); color:var(--text,#e0e0e0); }
+  .mh-usr-btn.has-user { border-color:var(--accent,#c9a227); color:var(--accent,#c9a227); }
+  .mh-modal-ov {
+    display:none; position:fixed; inset:0; background:rgba(0,0,0,.78);
+    z-index:500; align-items:center; justify-content:center;
+  }
+  .mh-modal-ov.open { display:flex; }
+  .mh-modal-box {
+    background:var(--surface,#111); border:1px solid var(--border,#1e1e1e);
+    border-top:2px solid var(--accent,#c9a227); border-radius:6px;
+    padding:1.4rem; width:min(300px,92vw); max-height:80vh; overflow-y:auto;
+  }
+  .mh-modal-title {
+    font-family:'DM Mono',monospace; font-size:.6rem; letter-spacing:.2em;
+    text-transform:uppercase; color:var(--muted,#555);
+    margin-bottom:1rem; text-align:center;
+  }
+  .mh-usr-opt {
+    padding:9px 12px; margin-bottom:5px;
+    background:var(--surface2,#161616); border:1px solid var(--border,#1e1e1e);
+    border-radius:4px; cursor:pointer; transition:all .15s;
+    font-family:'DM Mono',monospace; font-size:.75rem;
+    letter-spacing:.04em; color:var(--muted,#555);
+  }
+  .mh-usr-opt:hover { border-color:var(--accent,#c9a227); color:var(--text,#e0e0e0); }
+  .mh-usr-opt.active { border-color:var(--accent,#c9a227); color:var(--accent,#c9a227); background:rgba(201,162,39,.07); }
+  .mh-modal-close {
+    display:block; margin:1rem auto 0; padding:6px 18px;
+    background:var(--surface2,#161616); color:var(--muted,#555);
+    border:1px solid var(--border,#1e1e1e); border-radius:4px;
+    cursor:pointer; font-family:'DM Mono',monospace; font-size:.68rem;
+  }
+  .mh-modal-close:hover { color:var(--text,#e0e0e0); }
+</style>
+</head>
+<body>
+
+<div class="mh-modal-ov" id="mhUserModal">
+  <div class="mh-modal-box">
+    <div class="mh-modal-title">Seleccionar usuario</div>
+    <div id="mhUserOpts"></div>
+    <button class="mh-modal-close" id="mhModalClose">Cerrar</button>
+  </div>
+</div>
+<header>
+  <div class="site-label"><a href="index.html">← Triple J Hottest 100</a></div>
+  <h1>Triple J Hottest 100 · 2019</h1>
+  <div class="header-meta">100 canciones</div>
+  <a class="header-nav-link" href="https://en.wikipedia.org/wiki/Triple_J%27s_Hottest_100_of_2019" target="_blank" rel="noopener">Wikipedia ↗</a>
+  <button class="mh-usr-btn" id="mhUserBtn" title="Seleccionar usuario">👤 <span id="mhULbl">—</span></button>
+</header>
+<main>
+  <div class="toolbar">
+    <div class="progress"><div class="progress-txt" id="progTxt"></div><div class="progress-bar"><div id="progBar"></div></div></div>
+    <div class="seg" id="filters">
+      <button data-f="all" class="on">Todas</button><button data-f="heard" id="fHeard">Escuchadas</button><button data-f="pending" id="fPending">Pendientes</button>
+    </div>
+    <select class="ctl" id="sort" aria-label="Ordenar">
+      <option value="rank">Orden de la lista</option>
+      <option value="pop">Más escuchadas en el grupo</option>
+      <option value="year">Año</option>
+    </select>
+    <input class="ctl" id="search" type="search" placeholder="Buscar canción o artista…">
+  </div>
+  <div class="tracks" id="tracks"></div>
+</main>
+<footer>Generado 2026-10-16 22:24 · Listas de Wikipedia · Escuchas de Last.fm</footer>
+
+<script>
+(function() {
+  const USERS = ["alberto_gu", "armandwave", "BipolarMuzik", "EliasJ72", "Frikomid", "GabredMared", "Lonsonxd", "MaxtorUwU", "Nubis84", "paqueradejere", "Rocky_stereo", "sdecandelario", "verygooood"];
+  const KEY   = 'mh_user';
+  const modal  = document.getElementById('mhUserModal');
+  const btn    = document.getElementById('mhUserBtn');
+  const opts   = document.getElementById('mhUserOpts');
+  const close  = document.getElementById('mhModalClose');
+  if (!modal || !btn || !opts) return;
+
+  function buildOpts() {
+    opts.innerHTML = '';
+    const all = document.createElement('div');
+    all.className = 'mh-usr-opt' + (localStorage.getItem(KEY) ? '' : ' active');
+    all.textContent = 'Todos (sin filtro)';
+    all.onclick = () => selectUser(null);
+    opts.appendChild(all);
+    USERS.forEach(u => {
+      const el = document.createElement('div');
+      el.className = 'mh-usr-opt' + (localStorage.getItem(KEY) === u ? ' active' : '');
+      el.textContent = u;
+      el.onclick = () => selectUser(u);
+      opts.appendChild(el);
+    });
+  }
+
+  function updateBtn() {
+    const u = localStorage.getItem(KEY);
+    const lbl = document.getElementById('mhULbl');
+    if (lbl) lbl.textContent = u || '—';
+    btn.title = u ? u : 'Seleccionar usuario';
+    btn.classList.toggle('has-user', !!u);
+  }
+
+  function selectUser(u) {
+    if (u) localStorage.setItem(KEY, u);
+    else localStorage.removeItem(KEY);
+    updateBtn();
+    buildOpts();
+    modal.classList.remove('open');
+    mhRenderList();
+  }
+
+  btn.addEventListener('click', e => { e.stopPropagation(); buildOpts(); modal.classList.add('open'); });
+  close.addEventListener('click', () => modal.classList.remove('open'));
+  modal.addEventListener('click', e => { if (e.target === modal) modal.classList.remove('open'); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') modal.classList.remove('open'); });
+
+  updateBtn();
+})();
+</script>
+<script>const DATA = {"users":["alberto_gu","armandwave","BipolarMuzik","EliasJ72","Frikomid","GabredMared","Lonsonxd","MaxtorUwU","Nubis84","paqueradejere","Rocky_stereo","sdecandelario","verygooood"],"showYear":false,"yearSeparators":false,"tracks":[{"r":1,"t":"Bad Guy","a":"Billie Eilish","y":2019,"w":null,"n":"United States","h":{"armandwave":4,"BipolarMuzik":1,"Frikomid":32,"GabredMared":11,"Lonsonxd":24,"Nubis84":2,"paqueradejere":2}},{"r":2,"t":"Rushing Back","a":"Flume featuring Vera Blue","y":2019,"w":null,"n":"Australia","h":{}},{"r":3,"t":"Charlie","a":"Mallrat","y":2019,"w":null,"n":"Australia","h":{}},{"r":4,"t":"Dance Monkey","a":"Tones and I","y":2019,"w":null,"n":"Australia","h":{"alberto_gu":1,"armandwave":3,"Frikomid":1,"GabredMared":4,"MaxtorUwU":1,"Nubis84":3,"sdecandelario":1}},{"r":5,"t":"Bulls on Parade (Like a Version)","a":"Denzel Curry","y":2019,"w":null,"n":"United States","h":{}},{"r":6,"t":"Drink Too Much","a":"G Flip","y":2019,"w":null,"n":"Australia","h":{}},{"r":7,"t":"Robbery","a":"Lime Cordiale","y":2019,"w":null,"n":"Australia","h":{}},{"r":8,"t":"Heavy Hearted","a":"The Jungle Giants","y":2019,"w":null,"n":"Australia","h":{}},{"r":9,"t":"Better in Blak","a":"Thelma Plum","y":2019,"w":null,"n":"Australia","h":{}},{"r":10,"t":"Exit Sign","a":"Hilltop Hoods featuring Illy and Ecca Vandal","y":2019,"w":null,"n":"Australia","h":{}},{"r":11,"t":"Circles","a":"Post Malone","y":2019,"w":null,"n":"United States","h":{"Frikomid":34,"GabredMared":115,"Nubis84":1}},{"r":12,"t":"By Myself","a":"Fidlar","y":2019,"w":null,"n":"United States","h":{"Nubis84":1,"sdecandelario":2}},{"r":13,"t":"Inappropriate Behaviour","a":"Lime Cordiale","y":2019,"w":null,"n":"Australia","h":{}},{"r":14,"t":"Purple Hat","a":"Sofi Tukker","y":2019,"w":null,"n":"Germany/United States","h":{}},{"r":15,"t":"Never Seen the Rain","a":"Tones and I","y":2019,"w":null,"n":"Australia","h":{}},{"r":16,"t":"Everything I Wanted","a":"Billie Eilish","y":2019,"w":null,"n":"United States","h":{"armandwave":1,"Frikomid":9,"GabredMared":60,"sdecandelario":1}},{"r":17,"t":"I Touch Myself (Like a Version)","a":"Lime Cordiale","y":2019,"w":null,"n":"Australia","h":{}},{"r":18,"t":"Borderline","a":"Tame Impala","y":2019,"w":null,"n":"Australia","h":{"EliasJ72":1,"Frikomid":165,"GabredMared":1,"Nubis84":6,"paqueradejere":1,"sdecandelario":12}},{"r":19,"t":"Glitter","a":"Benee","y":2019,"w":null,"n":"New Zealand","h":{"Frikomid":5,"GabredMared":3,"Nubis84":3}},{"r":20,"t":"Silver","a":"DMA's","y":2019,"w":null,"n":"Australia","h":{}},{"r":21,"t":"Pub Feed","a":"The Chats","y":2019,"w":null,"n":"Australia","h":{"sdecandelario":9}},{"r":22,"t":"Painkiller","a":"Ruel","y":2019,"w":null,"n":"Australia","h":{"armandwave":1}},{"r":23,"t":"Earfquake","a":"Tyler, the Creator","y":2019,"w":null,"n":"United States","h":{"GabredMared":1,"MaxtorUwU":2,"paqueradejere":1,"verygooood":17}},{"r":24,"t":"Infinity","a":"Ocean Alley","y":2019,"w":null,"n":"Australia","h":{}},{"r":25,"t":"Find an Island","a":"Benee","y":2019,"w":null,"n":"New Zealand","h":{}},{"r":26,"t":"Johnny Run Away","a":"Tones and I","y":2019,"w":null,"n":"Australia","h":{}},{"r":27,"t":"Vossi Bop","a":"Stormzy","y":2019,"w":null,"n":"United Kingdom","h":{}},{"r":28,"t":"Juice","a":"Lizzo","y":2019,"w":null,"n":"United States","h":{"Frikomid":2,"MaxtorUwU":1,"Nubis84":2}},{"r":29,"t":"Piece of Your Heart","a":"Meduza featuring Goodboys","y":2019,"w":null,"n":"Italy/United Kingdom","h":{}},{"r":30,"t":"Friends","a":"Flume featuring Reo Cragun","y":2019,"w":null,"n":"Australia/United States","h":{}},{"r":31,"t":"Save It for the Weekend","a":"Skegss","y":2019,"w":null,"n":"Australia","h":{}},{"r":32,"t":"Money","a":"Lime Cordiale","y":2019,"w":null,"n":"Australia","h":{}},{"r":33,"t":"San Frandisco","a":"Dom Dolla","y":2019,"w":null,"n":"Australia","h":{}},{"r":34,"t":"Tokyo Drifting","a":"Glass Animals featuring Denzel Curry","y":2019,"w":null,"n":"United Kingdom/United States","h":{}},{"r":35,"t":"Bury a Friend","a":"Billie Eilish","y":2019,"w":null,"n":"United States","h":{"BipolarMuzik":1,"Frikomid":30,"GabredMared":10,"Lonsonxd":5}},{"r":36,"t":"Solid Gold","a":"Pnau, Kira Divine and Marques Toliver","y":2019,"w":null,"n":"Australia/United States","h":{}},{"r":37,"t":"Red Light Green Light","a":"Duke Dumont featuring Shaun Ross","y":2019,"w":null,"n":"United Kingdom/United States","h":{"armandwave":1}},{"r":38,"t":"Face to Face","a":"Ruel","y":2019,"w":null,"n":"Australia","h":{}},{"r":39,"t":"Longshot","a":"Catfish and the Bottlemen","y":2019,"w":null,"n":"United Kingdom","h":{}},{"r":40,"t":"Graveyard","a":"Halsey","y":2019,"w":null,"n":"United States","h":{"armandwave":1,"Frikomid":1,"GabredMared":46}},{"r":41,"t":"Highest in the Room","a":"Travis Scott","y":2019,"w":null,"n":"United States","h":{"MaxtorUwU":3}},{"r":42,"t":"Robbery","a":"Juice Wrld","y":2019,"w":null,"n":"United States","h":{}},{"r":43,"t":"It Might Be Time","a":"Tame Impala","y":2019,"w":null,"n":"Australia","h":{"Frikomid":3,"GabredMared":3,"Nubis84":1,"sdecandelario":2}},{"r":44,"t":"Cool as Hell","a":"Baker Boy","y":2019,"w":null,"n":"Australia","h":{}},{"r":45,"t":"Ricky","a":"Denzel Curry","y":2019,"w":null,"n":"United States","h":{}},{"r":46,"t":"7 Minutes","a":"Dean Lewis","y":2019,"w":null,"n":"Australia","h":{"armandwave":2}},{"r":47,"t":"Sugar","a":"Brockhampton","y":2019,"w":null,"n":"United States","h":{"armandwave":3}},{"r":48,"t":"Intentions (22)","a":"Ziggy Alberts","y":2019,"w":null,"n":"Australia","h":{}},{"r":49,"t":"Free Time","a":"Ruel","y":2019,"w":null,"n":"Australia","h":{}},{"r":50,"t":"Teach Me About Dying","a":"Holy Holy","y":2019,"w":null,"n":"Australia","h":{}},{"r":51,"t":"Evil Spider","a":"Benee","y":2019,"w":null,"n":"New Zealand","h":{"Frikomid":3}},{"r":52,"t":"Patience","a":"Tame Impala","y":2019,"w":null,"n":"Australia","h":{"Frikomid":5,"Nubis84":1,"sdecandelario":2}},{"r":53,"t":"You Little Beauty","a":"Fisher","y":2019,"w":null,"n":"Australia","h":{}},{"r":54,"t":"Stained Glass","a":"Ocean Alley","y":2019,"w":null,"n":"Australia","h":{}},{"r":55,"t":"Talk","a":"Khalid","y":2019,"w":null,"n":"United States","h":{"armandwave":1}},{"r":56,"t":"Middle Child","a":"J. Cole","y":2019,"w":null,"n":"United States","h":{}},{"r":57,"t":"Jellyfish","a":"Slowly Slowly","y":2019,"w":null,"n":"Australia","h":{}},{"r":58,"t":"Lover","a":"G Flip","y":2019,"w":null,"n":"Australia","h":{}},{"r":59,"t":"Nobody's Home","a":"Mallrat and Basenji","y":2019,"w":null,"n":"Australia","h":{}},{"r":60,"t":"I Missed Out","a":"Hockey Dad","y":2019,"w":null,"n":"Australia","h":{}},{"r":61,"t":"Maybe You Know","a":"Holy Holy","y":2019,"w":null,"n":"Australia","h":{}},{"r":62,"t":"Hell n Back","a":"Bakar","y":2019,"w":null,"n":"United Kingdom","h":{"armandwave":1,"Rocky_stereo":5}},{"r":63,"t":"Nightmare","a":"Halsey","y":2019,"w":null,"n":"United States","h":{"Frikomid":3,"verygooood":1}},{"r":64,"t":"Circles","a":"George Alice","y":2019,"w":null,"n":"Australia","h":{}},{"r":65,"t":"Homecoming Queen","a":"Thelma Plum","y":2019,"w":null,"n":"Australia","h":{}},{"r":66,"t":"Stupid","a":"G Flip","y":2019,"w":null,"n":"Australia","h":{}},{"r":67,"t":"Wish You Were Gay","a":"Billie Eilish","y":2019,"w":null,"n":"United States","h":{"BipolarMuzik":1,"Frikomid":3,"GabredMared":1,"Lonsonxd":4}},{"r":68,"t":"Then What","a":"Illy","y":2019,"w":null,"n":"Australia","h":{}},{"r":69,"t":"Vacation Forever","a":"Violent Soho","y":2019,"w":null,"n":"Australia","h":{"MaxtorUwU":2}},{"r":70,"t":"Talk Deep","a":"EST","y":2019,"w":null,"n":"Australia","h":{}},{"r":71,"t":"Blinding Lights","a":"The Weeknd","y":2019,"w":null,"n":"Canada","h":{"alberto_gu":2,"armandwave":1,"EliasJ72":2,"Frikomid":65,"GabredMared":129,"Lonsonxd":1,"MaxtorUwU":1,"Nubis84":7,"paqueradejere":1,"sdecandelario":20,"verygooood":4}},{"r":72,"t":"Pasta","a":"Angie McMahon","y":2019,"w":null,"n":"Australia","h":{}},{"r":73,"t":"Party Pill","a":"Cub Sport","y":2019,"w":null,"n":"Australia","h":{}},{"r":74,"t":"Nowhere to Go","a":"Hayden James featuring Naations","y":2019,"w":null,"n":"Australia","h":{}},{"r":75,"t":"Paradise","a":"Golden Features and The Presets","y":2019,"w":null,"n":"Australia","h":{}},{"r":76,"t":"Something Tells Me","a":"Meg Mac","y":2019,"w":null,"n":"Australia","h":{}},{"r":77,"t":"I Am Not Afraid","a":"G Flip","y":2019,"w":null,"n":"Australia","h":{}},{"r":78,"t":"Not Angry Anymore","a":"Thelma Plum","y":2019,"w":null,"n":"Australia","h":{}},{"r":79,"t":"Stay Awake","a":"Dean Lewis","y":2019,"w":null,"n":"Australia","h":{}},{"r":80,"t":"Good for You","a":"Spacey Jane","y":2019,"w":null,"n":"Australia","h":{}},{"r":81,"t":"Let You Know","a":"Flume featuring London Grammar","y":2019,"w":null,"n":"Australia/United Kingdom","h":{"Frikomid":5}},{"r":82,"t":"Sugar","a":"Peking Duk and Jack River","y":2019,"w":null,"n":"Australia","h":{}},{"r":83,"t":"Welcome to the Black Parade (Like a Version)","a":"Alex Lahey","y":2019,"w":null,"n":"Australia","h":{}},{"r":84,"t":"Hey You","a":"Dope Lemon","y":2019,"w":null,"n":"Australia","h":{"armandwave":1}},{"r":85,"t":"Doin' Time","a":"Lana Del Rey","y":2019,"w":null,"n":"United States","h":{"Frikomid":103,"GabredMared":176,"Rocky_stereo":4,"verygooood":1}},{"r":86,"t":"Unsainted","a":"Slipknot","y":2019,"w":null,"n":"United States","h":{"armandwave":9,"BipolarMuzik":3,"Lonsonxd":12,"paqueradejere":2}},{"r":87,"t":"Follow God","a":"Kanye West","y":2019,"w":null,"n":"United States","h":{"alberto_gu":1,"EliasJ72":14,"Frikomid":2,"Rocky_stereo":3}},{"r":88,"t":"Lose Control","a":"Meduza, Becky Hill and Goodboys","y":2019,"w":null,"n":"Italy/United Kingdom","h":{}},{"r":89,"t":"Final Form","a":"Sampa the Great","y":2019,"w":null,"n":"Zambia/Australia","h":{}},{"r":90,"t":"Here Comes Your Man (Like a Version)","a":"Skegss","y":2019,"w":null,"n":"Australia","h":{}},{"r":91,"t":"All the Good Girls Go to Hell","a":"Billie Eilish","y":2019,"w":null,"n":"United States","h":{"BipolarMuzik":1,"Frikomid":2,"GabredMared":10,"Lonsonxd":9,"Nubis84":1}},{"r":92,"t":"The Real Thing","a":"Client Liaison","y":2019,"w":null,"n":"Australia","h":{}},{"r":93,"t":"Wow","a":"Post Malone","y":2019,"w":null,"n":"United States","h":{"Frikomid":3,"GabredMared":5}},{"r":94,"t":"Protection","a":"Allday","y":2019,"w":null,"n":"Australia","h":{}},{"r":95,"t":"A.O.K.","a":"Adrian Eagle","y":2019,"w":null,"n":"Australia","h":{}},{"r":96,"t":"Ludens","a":"Bring Me the Horizon","y":2019,"w":null,"n":"United Kingdom","h":{}},{"r":97,"t":"Skin","a":"San Cisco","y":2019,"w":null,"n":"Australia","h":{}},{"r":98,"t":"Meditjin","a":"Baker Boy featuring JessB","y":2019,"w":null,"n":"Australia/New Zealand","h":{}},{"r":99,"t":"C.U.D.I. (Can U Dig It)","a":"Cosmo's Midnight","y":2019,"w":null,"n":"Australia","h":{}},{"r":100,"t":"No Plans","a":"Dune Rats","y":2019,"w":null,"n":"Australia","h":{}}]};</script>
+<script>
+(function() {
+  const D = DATA, USERS = D.users, NU = USERS.length;
+  const $ = id => document.getElementById(id);
+  let filter = 'all', sort = 'rank', q = '';
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fold = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  D.tracks.forEach(t => { t.nh = Object.keys(t.h).length; t.q = fold(t.t + ' ' + t.a); });
+
+  function user() { try { return localStorage.getItem('mh_user'); } catch (e) { return null; } }
+
+  function meta(t) {
+    const out = [];
+    if (t.n === 'winner') out.push('<span class="badge win">🏆 Ganadora</span>');
+    else if (t.n === 'nominee') out.push('<span class="badge">Nominada</span>');
+    else if (t.n) out.push(esc(t.n));
+    if (t.w) out.push(t.w + (t.w === 1 ? ' semana' : ' semanas') + ' nº1');
+    if (t.y && D.showYear && sort === 'pop') out.push(t.y);   // con separadores el año ya se ve
+    return out.join('<br>');
+  }
+
+  function row(t, u) {
+    const mine = u && t.h[u];
+    const dots = USERS.map(x => `<span class="dot${t.h[x] ? ' on' : ''}${x === u ? ' me' : ''}" title="${esc(x)}${t.h[x] ? ': ' + t.h[x] + ' plays' : ''}"></span>`).join('');
+    const qs = encodeURIComponent(t.a + ' ' + t.t);
+    const lfm = 'https://www.last.fm/music/' + encodeURIComponent(t.a.split(/ (?:featuring|feat\.|with|con) /i)[0]) + '/_/' + encodeURIComponent(t.t.split(' / ')[0]);
+    const plays = u ? (mine ? mine + '▶' : '') : (t.nh ? t.nh + '/' + NU : '');
+    return `<div class="trk${mine ? ' mine' : ''}${u && !mine ? ' dim' : ''}">
+      <div class="t-rank">${t.r ?? ''}</div>
+      <div class="t-main"><div class="t-title">${esc(t.t)}</div><div class="t-artist">${esc(t.a)}</div></div>
+      <div class="t-meta">${meta(t)}</div>
+      <div class="dots" title="${t.nh}/${NU} usuarios">${dots}</div>
+      <div class="t-plays" title="${u ? 'Tus reproducciones' : 'Usuarios que la han escuchado'}">${plays}</div>
+      <div class="t-links"><a href="https://www.youtube.com/results?search_query=${qs}" target="_blank" rel="noopener" title="Buscar en YouTube">YT</a><a href="${lfm}" target="_blank" rel="noopener" title="Last.fm">LFM</a></div>
+    </div>`;
+  }
+
+  function render() {
+    const u = user();
+    const heard = t => u ? !!t.h[u] : t.nh > 0;
+    let list = D.tracks.filter(t => (filter === 'all' || (filter === 'heard') === heard(t)) && (!q || t.q.includes(q)));
+    if (sort === 'pop') list = [...list].sort((a, b) => b.nh - a.nh || a.r - b.r);
+    if (sort === 'year') list = [...list].sort((a, b) => (a.y || 0) - (b.y || 0) || a.r - b.r);
+
+    const total = D.tracks.length;
+    let pct, txt;
+    if (u) {
+      const n = D.tracks.filter(t => t.h[u]).length;
+      pct = 100 * n / total;
+      txt = `<b>${esc(u)}</b> ha escuchado <b>${n}</b> de ${total} · ${pct.toFixed(1)}%`;
+    } else {
+      const avg = USERS.reduce((s, x) => s + D.tracks.filter(t => t.h[x]).length, 0) / (NU || 1);
+      const any = D.tracks.filter(t => t.nh).length;
+      pct = 100 * avg / total;
+      txt = `Media del grupo <b>${pct.toFixed(1)}%</b> · ${any} de ${total} las ha escuchado alguien`;
+    }
+    $('progTxt').innerHTML = txt;
+    $('progBar').style.width = pct + '%';
+    $('fHeard').textContent = u ? 'Escuchadas' : 'Alguien';
+    $('fPending').textContent = u ? 'Pendientes' : 'Nadie';
+
+    let html = '', lastY = null;
+    const sepByYear = D.yearSeparators && (sort === 'rank' || sort === 'year');
+    for (const t of list) {
+      if (sepByYear && t.y !== lastY) { html += `<div class="year-sep">${t.y ?? '—'}</div>`; lastY = t.y; }
+      html += row(t, u);
+    }
+    $('tracks').innerHTML = html || '<div class="empty">Nada por aquí.</div>';
+  }
+
+  document.querySelectorAll('#filters button').forEach(b => b.onclick = () => {
+    filter = b.dataset.f;
+    document.querySelectorAll('#filters button').forEach(x => x.classList.toggle('on', x === b));
+    render();
+  });
+  $('sort').onchange = e => { sort = e.target.value; render(); };
+  $('search').oninput = e => { q = fold(e.target.value.trim()); render(); };
+  window.mhRenderList = render;
+  render();
+})();
+</script>
+</body>
+</html>

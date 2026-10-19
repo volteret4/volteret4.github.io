@@ -25,12 +25,23 @@ from typing import List, Dict, Optional, Set, Tuple
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 
+_ENV_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '.env')
+
 try:
     from dotenv import load_dotenv
     if not os.getenv('LASTFM_API_KEY') or not os.getenv('LASTFM_USERS'):
-        load_dotenv()
+        load_dotenv(_ENV_PATH)
 except ImportError:
-    pass
+    # Sin python-dotenv (p.ej. python3 del sistema): parser mínimo KEY=VALUE
+    if os.path.isfile(_ENV_PATH):
+        with open(_ENV_PATH, encoding='utf-8') as _f:
+            for _line in _f:
+                _line = _line.strip()
+                if not _line or _line.startswith('#') or '=' not in _line:
+                    continue
+                _k, _v = _line.split('=', 1)
+                _k = _k.strip().removeprefix('export ').strip()
+                os.environ.setdefault(_k, _v.strip().strip('"').strip("'"))
 
 
 # ── Default DB path ───────────────────────────────────────────────────────────

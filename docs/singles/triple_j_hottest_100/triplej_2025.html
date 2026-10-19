@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Singles — Triple J Hottest 100 · 2025</title>
+<link rel="icon" type="image/png" href="/images/discount.png" />
+<!-- Umami Analytics -->
+<script
+    defer
+    src="https://cloud.umami.is/script.js"
+    data-website-id="5d84fd6c-0760-4a0c-a2d0-ffabb82179f5"
+></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:#0a0a0a; --surface:#111; --surface2:#161616; --border:#1e1e1e;
+    --accent:#c9a227; --muted:#666; --text:#e0e0e0; --ok:#5fb57a;
+    --header-h:52px;
+  }
+  *, *::before, *::after { box-sizing:border-box; margin:0; padding:0; }
+  body { background:var(--bg); color:var(--text); font-family:'DM Sans',sans-serif; min-height:100vh; }
+  a { color:inherit; }
+  header {
+    position:fixed; top:0; left:0; right:0; z-index:100; height:var(--header-h);
+    background:rgba(10,10,10,.97); backdrop-filter:blur(12px);
+    border-bottom:1px solid var(--border);
+    display:flex; align-items:center; gap:14px; padding:0 24px;
+  }
+  .site-label { font-family:'DM Mono',monospace; font-size:.6rem; letter-spacing:.18em;
+    text-transform:uppercase; color:var(--muted); white-space:nowrap; }
+  .site-label a { color:var(--muted); text-decoration:none; }
+  .site-label a:hover { color:var(--accent); }
+  h1 { font-family:'Bebas Neue',sans-serif; font-size:1.6rem; letter-spacing:.06em; line-height:1;
+    color:var(--accent); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; min-width:0; }
+  .header-meta { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); margin-left:auto; white-space:nowrap; }
+  .header-nav-link {
+    font-family:'DM Mono',monospace; font-size:.58rem; letter-spacing:.1em; text-transform:uppercase;
+    padding:4px 10px; border-radius:3px; border:1px solid var(--border); color:var(--muted);
+    text-decoration:none; transition:all .12s; flex-shrink:0;
+  }
+  .header-nav-link:hover { border-color:var(--accent); color:var(--accent); }
+  main { padding:24px 40px 80px; margin-top:var(--header-h); }
+  .section-label { font-family:'DM Mono',monospace; font-size:.65rem; letter-spacing:.2em;
+    text-transform:uppercase; color:var(--muted); margin-bottom:20px; }
+  .intro { color:var(--muted); font-size:.9rem; margin-bottom:22px; max-width:70ch; }
+  footer { padding:24px 40px; border-top:1px solid var(--border);
+    font-family:'DM Mono',monospace; font-size:.65rem; color:var(--muted); }
+  @media (max-width:700px) {
+    header { padding:0 16px; gap:10px; }
+    .header-meta, .site-label { display:none; }
+    main, footer { padding-left:16px; padding-right:16px; }
+  }
+
+  .toolbar { display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center; margin-bottom:18px; }
+  .progress { flex:1 1 260px; min-width:0; }
+  .progress-txt { font-family:'DM Mono',monospace; font-size:.7rem; color:var(--muted); margin-bottom:6px; }
+  .progress-txt b { color:var(--text); font-weight:500; }
+  .progress-bar { height:4px; background:var(--border); border-radius:2px; overflow:hidden; }
+  .progress-bar div { height:100%; background:var(--accent); transition:width .4s; }
+  .seg { display:flex; border:1px solid var(--border); border-radius:4px; overflow:hidden; }
+  .seg button { background:none; border:none; color:var(--muted); font-family:'DM Mono',monospace;
+    font-size:.62rem; letter-spacing:.06em; padding:6px 10px; cursor:pointer; text-transform:uppercase; }
+  .seg button + button { border-left:1px solid var(--border); }
+  .seg button.on { background:var(--surface2); color:var(--accent); }
+  .ctl { background:var(--surface); border:1px solid var(--border); color:var(--text); border-radius:4px;
+    font-family:'DM Mono',monospace; font-size:.68rem; padding:6px 9px; }
+  input.ctl { width:200px; max-width:100%; }
+  .ctl:focus { outline:none; border-color:var(--accent); }
+  .tracks { border-top:1px solid var(--border); }
+  .trk { display:grid; grid-template-columns:52px minmax(0,1fr) 110px 150px 64px 60px;
+    align-items:center; gap:12px; padding:9px 10px; border-bottom:1px solid var(--border);
+    border-left:2px solid transparent; }
+  .trk:hover { background:var(--surface); }
+  .trk.mine { border-left-color:var(--ok); }
+  .trk.dim .t-main { opacity:.55; }
+  .t-rank { font-family:'DM Mono',monospace; font-size:.75rem; color:var(--muted); text-align:right; }
+  .t-title { font-size:.95rem; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .t-artist { font-size:.8rem; color:var(--muted); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .t-meta { font-family:'DM Mono',monospace; font-size:.62rem; color:var(--muted); line-height:1.5; }
+  .badge { display:inline-block; padding:1px 6px; border-radius:3px; border:1px solid var(--border); }
+  .badge.win { border-color:var(--accent); color:var(--accent); }
+  .dots { display:flex; flex-wrap:wrap; gap:3px; }
+  .dot { width:8px; height:8px; border-radius:50%; background:var(--border); }
+  .dot.on { background:var(--accent); }
+  .dot.me { outline:1px solid var(--text); outline-offset:1px; }
+  .t-plays { font-family:'DM Mono',monospace; font-size:.7rem; text-align:right; color:var(--ok); }
+  .t-links { display:flex; gap:8px; justify-content:flex-end; }
+  .t-links a { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); text-decoration:none;
+    border:1px solid var(--border); border-radius:3px; padding:2px 5px; }
+  .t-links a:hover { color:var(--accent); border-color:var(--accent); }
+  .year-sep { font-family:'Bebas Neue',sans-serif; font-size:1.3rem; letter-spacing:.06em;
+    color:var(--accent); padding:16px 10px 6px; border-bottom:1px solid var(--border); }
+  .empty { padding:40px 10px; color:var(--muted); font-size:.9rem; }
+  @media (max-width:800px) {
+    .trk { grid-template-columns:28px minmax(0,1fr) auto auto; gap:8px; padding:9px 4px; }
+    .t-meta, .dots { display:none; }
+    input.ctl { width:100%; }
+  }
+
+  /* ── MH user modal ── */
+  .mh-usr-btn {
+    display:flex; align-items:center; gap:4px;
+    background:none; border:1px solid var(--border,#1e1e1e); border-radius:4px;
+    color:var(--muted,#555); font-family:'DM Mono',monospace;
+    font-size:.62rem; padding:4px 9px; cursor:pointer; flex-shrink:0;
+    white-space:nowrap; transition:border-color .12s, color .12s;
+  }
+  .mh-usr-btn:hover { border-color:var(--accent,#c9a227); color:var(--text,#e0e0e0); }
+  .mh-usr-btn.has-user { border-color:var(--accent,#c9a227); color:var(--accent,#c9a227); }
+  .mh-modal-ov {
+    display:none; position:fixed; inset:0; background:rgba(0,0,0,.78);
+    z-index:500; align-items:center; justify-content:center;
+  }
+  .mh-modal-ov.open { display:flex; }
+  .mh-modal-box {
+    background:var(--surface,#111); border:1px solid var(--border,#1e1e1e);
+    border-top:2px solid var(--accent,#c9a227); border-radius:6px;
+    padding:1.4rem; width:min(300px,92vw); max-height:80vh; overflow-y:auto;
+  }
+  .mh-modal-title {
+    font-family:'DM Mono',monospace; font-size:.6rem; letter-spacing:.2em;
+    text-transform:uppercase; color:var(--muted,#555);
+    margin-bottom:1rem; text-align:center;
+  }
+  .mh-usr-opt {
+    padding:9px 12px; margin-bottom:5px;
+    background:var(--surface2,#161616); border:1px solid var(--border,#1e1e1e);
+    border-radius:4px; cursor:pointer; transition:all .15s;
+    font-family:'DM Mono',monospace; font-size:.75rem;
+    letter-spacing:.04em; color:var(--muted,#555);
+  }
+  .mh-usr-opt:hover { border-color:var(--accent,#c9a227); color:var(--text,#e0e0e0); }
+  .mh-usr-opt.active { border-color:var(--accent,#c9a227); color:var(--accent,#c9a227); background:rgba(201,162,39,.07); }
+  .mh-modal-close {
+    display:block; margin:1rem auto 0; padding:6px 18px;
+    background:var(--surface2,#161616); color:var(--muted,#555);
+    border:1px solid var(--border,#1e1e1e); border-radius:4px;
+    cursor:pointer; font-family:'DM Mono',monospace; font-size:.68rem;
+  }
+  .mh-modal-close:hover { color:var(--text,#e0e0e0); }
+</style>
+</head>
+<body>
+
+<div class="mh-modal-ov" id="mhUserModal">
+  <div class="mh-modal-box">
+    <div class="mh-modal-title">Seleccionar usuario</div>
+    <div id="mhUserOpts"></div>
+    <button class="mh-modal-close" id="mhModalClose">Cerrar</button>
+  </div>
+</div>
+<header>
+  <div class="site-label"><a href="index.html">← Triple J Hottest 100</a></div>
+  <h1>Triple J Hottest 100 · 2025</h1>
+  <div class="header-meta">100 canciones</div>
+  <a class="header-nav-link" href="https://en.wikipedia.org/wiki/Triple_J%27s_Hottest_100_of_2025" target="_blank" rel="noopener">Wikipedia ↗</a>
+  <button class="mh-usr-btn" id="mhUserBtn" title="Seleccionar usuario">👤 <span id="mhULbl">—</span></button>
+</header>
+<main>
+  <div class="toolbar">
+    <div class="progress"><div class="progress-txt" id="progTxt"></div><div class="progress-bar"><div id="progBar"></div></div></div>
+    <div class="seg" id="filters">
+      <button data-f="all" class="on">Todas</button><button data-f="heard" id="fHeard">Escuchadas</button><button data-f="pending" id="fPending">Pendientes</button>
+    </div>
+    <select class="ctl" id="sort" aria-label="Ordenar">
+      <option value="rank">Orden de la lista</option>
+      <option value="pop">Más escuchadas en el grupo</option>
+      <option value="year">Año</option>
+    </select>
+    <input class="ctl" id="search" type="search" placeholder="Buscar canción o artista…">
+  </div>
+  <div class="tracks" id="tracks"></div>
+</main>
+<footer>Generado 2026-10-16 22:24 · Listas de Wikipedia · Escuchas de Last.fm</footer>
+
+<script>
+(function() {
+  const USERS = ["alberto_gu", "armandwave", "BipolarMuzik", "EliasJ72", "Frikomid", "GabredMared", "Lonsonxd", "MaxtorUwU", "Nubis84", "paqueradejere", "Rocky_stereo", "sdecandelario", "verygooood"];
+  const KEY   = 'mh_user';
+  const modal  = document.getElementById('mhUserModal');
+  const btn    = document.getElementById('mhUserBtn');
+  const opts   = document.getElementById('mhUserOpts');
+  const close  = document.getElementById('mhModalClose');
+  if (!modal || !btn || !opts) return;
+
+  function buildOpts() {
+    opts.innerHTML = '';
+    const all = document.createElement('div');
+    all.className = 'mh-usr-opt' + (localStorage.getItem(KEY) ? '' : ' active');
+    all.textContent = 'Todos (sin filtro)';
+    all.onclick = () => selectUser(null);
+    opts.appendChild(all);
+    USERS.forEach(u => {
+      const el = document.createElement('div');
+      el.className = 'mh-usr-opt' + (localStorage.getItem(KEY) === u ? ' active' : '');
+      el.textContent = u;
+      el.onclick = () => selectUser(u);
+      opts.appendChild(el);
+    });
+  }
+
+  function updateBtn() {
+    const u = localStorage.getItem(KEY);
+    const lbl = document.getElementById('mhULbl');
+    if (lbl) lbl.textContent = u || '—';
+    btn.title = u ? u : 'Seleccionar usuario';
+    btn.classList.toggle('has-user', !!u);
+  }
+
+  function selectUser(u) {
+    if (u) localStorage.setItem(KEY, u);
+    else localStorage.removeItem(KEY);
+    updateBtn();
+    buildOpts();
+    modal.classList.remove('open');
+    mhRenderList();
+  }
+
+  btn.addEventListener('click', e => { e.stopPropagation(); buildOpts(); modal.classList.add('open'); });
+  close.addEventListener('click', () => modal.classList.remove('open'));
+  modal.addEventListener('click', e => { if (e.target === modal) modal.classList.remove('open'); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') modal.classList.remove('open'); });
+
+  updateBtn();
+})();
+</script>
+<script>const DATA = {"users":["alberto_gu","armandwave","BipolarMuzik","EliasJ72","Frikomid","GabredMared","Lonsonxd","MaxtorUwU","Nubis84","paqueradejere","Rocky_stereo","sdecandelario","verygooood"],"showYear":false,"yearSeparators":false,"tracks":[{"r":1,"t":"Man I Need","a":"Olivia Dean","y":2025,"w":null,"n":"United Kingdom","h":{}},{"r":2,"t":"Dancing2","a":"Keli Holiday","y":2025,"w":null,"n":"Australia","h":{}},{"r":3,"t":"Dracula","a":"Tame Impala","y":2025,"w":null,"n":"Australia","h":{"Frikomid":6,"MaxtorUwU":2,"Nubis84":10,"paqueradejere":1,"sdecandelario":8}},{"r":4,"t":"Keith","a":"Playlunch","y":2025,"w":null,"n":"Australia","h":{}},{"r":5,"t":"Where Is My Husband!","a":"Raye","y":2025,"w":null,"n":"United Kingdom","h":{"armandwave":1,"Frikomid":3,"Nubis84":3}},{"r":6,"t":"Whateverrrr","a":"Spacey Jane","y":2025,"w":null,"n":"Australia","h":{}},{"r":7,"t":"Nice to Each Other","a":"Olivia Dean","y":2025,"w":null,"n":"United Kingdom","h":{"Nubis84":1,"paqueradejere":6}},{"r":8,"t":"12 to 12","a":"Sombr","y":2025,"w":null,"n":"United States","h":{"Frikomid":4,"MaxtorUwU":1}},{"r":9,"t":"No Broke Boys","a":"Disco Lines and Tinashe","y":2025,"w":null,"n":"United States","h":{"MaxtorUwU":1}},{"r":10,"t":"Please Don't Move to Melbourne","a":"Ball Park Music","y":2025,"w":null,"n":"Australia","h":{}},{"r":11,"t":"So Easy (To Fall in Love)","a":"Olivia Dean","y":2025,"w":null,"n":"United Kingdom","h":{"armandwave":2}},{"r":12,"t":"Victory Lap","a":"Fred Again, PlaqueBoyMax and Skepta","y":2025,"w":null,"n":"United Kingdom/United States","h":{}},{"r":13,"t":"Sally, When the Wine Runs Out","a":"Role Model","y":2025,"w":null,"n":"United States","h":{}},{"r":14,"t":"Rein Me In","a":"Sam Fender and Olivia Dean","y":2025,"w":null,"n":"United Kingdom","h":{}},{"r":15,"t":"The Subway","a":"Chappell Roan","y":2025,"w":null,"n":"United States","h":{"Frikomid":92}},{"r":16,"t":"Dreamin'","a":"Dom Dolla featuring Daya","y":2025,"w":null,"n":"Australia/United States","h":{"Nubis84":1}},{"r":17,"t":"Love Balloon","a":"Ocean Alley","y":2025,"w":null,"n":"Australia","h":{}},{"r":18,"t":"Undressed","a":"Sombr","y":2025,"w":null,"n":"United States","h":{"Frikomid":1,"MaxtorUwU":1}},{"r":19,"t":"Back to Friends","a":"Sombr","y":2025,"w":null,"n":"United States","h":{"Frikomid":3,"MaxtorUwU":1,"Nubis84":3}},{"r":20,"t":"Fame Is a Gun","a":"Addison Rae","y":2025,"w":null,"n":"United States","h":{"alberto_gu":1,"Frikomid":4,"GabredMared":8,"MaxtorUwU":1}},{"r":21,"t":"Car","a":"Royel Otis","y":2025,"w":null,"n":"Australia","h":{}},{"r":22,"t":"What Was That","a":"Lorde","y":2025,"w":null,"n":"New Zealand","h":{"armandwave":1,"Frikomid":34,"GabredMared":1,"MaxtorUwU":1}},{"r":23,"t":"Disco Cowgirl","a":"G Flip","y":2025,"w":null,"n":"Australia","h":{}},{"r":24,"t":"Sugar on My Tongue","a":"Tyler, the Creator","y":2025,"w":null,"n":"United States","h":{"alberto_gu":2,"MaxtorUwU":1}},{"r":25,"t":"All the Noise","a":"Spacey Jane","y":2025,"w":null,"n":"Australia","h":{}},{"r":26,"t":"Sports Car","a":"Tate McRae","y":2025,"w":null,"n":"Canada","h":{"GabredMared":1}},{"r":27,"t":"iPod Touch","a":"Ninajirachi","y":2025,"w":null,"n":"Australia","h":{"alberto_gu":1,"EliasJ72":1,"Frikomid":3,"GabredMared":15,"Nubis84":1,"verygooood":27}},{"r":28,"t":"Loser","a":"Tame Impala","y":2025,"w":null,"n":"Australia","h":{"Frikomid":4,"MaxtorUwU":1,"Nubis84":7,"paqueradejere":1,"sdecandelario":2}},{"r":29,"t":"Anxiety","a":"Doechii","y":2025,"w":null,"n":"United States","h":{"armandwave":1,"Nubis84":1}},{"r":30,"t":"Basic Being Basic","a":"Djo","y":2025,"w":null,"n":"United States","h":{"Frikomid":2}},{"r":31,"t":"Through My Teeth","a":"Spacey Jane","y":2025,"w":null,"n":"Australia","h":{}},{"r":32,"t":"Stay","a":"Fisher","y":2025,"w":null,"n":"Australia","h":{}},{"r":33,"t":"You're a Star","a":"Fred Again and Amyl and the Sniffers","y":2025,"w":null,"n":"United Kingdom/Australia","h":{"Frikomid":2}},{"r":34,"t":"Moody","a":"Royel Otis","y":2025,"w":null,"n":"Australia","h":{}},{"r":35,"t":"Who's Your Boyfriend","a":"Royel Otis","y":2025,"w":null,"n":"Australia","h":{}},{"r":36,"t":"End of Summer","a":"Tame Impala","y":2025,"w":null,"n":"Australia","h":{"armandwave":1,"Frikomid":4,"MaxtorUwU":1,"paqueradejere":1,"sdecandelario":1}},{"r":37,"t":"The Giver","a":"Chappell Roan","y":2025,"w":null,"n":"United States","h":{}},{"r":38,"t":"Pussy Palace","a":"Lily Allen","y":2025,"w":null,"n":"United Kingdom","h":{"Frikomid":11,"MaxtorUwU":1}},{"r":39,"t":"Estimated Delivery","a":"Spacey Jane","y":2025,"w":null,"n":"Australia","h":{}},{"r":40,"t":"My Old Ways","a":"Tame Impala","y":2025,"w":null,"n":"Australia","h":{"armandwave":1,"Frikomid":1,"MaxtorUwU":1,"paqueradejere":2,"sdecandelario":1}},{"r":41,"t":"I'm on Fire (Like a Version)","a":"Keli Holiday","y":2025,"w":null,"n":"Australia","h":{}},{"r":42,"t":"How to Kill Houseplants","a":"Spacey Jane","y":2025,"w":null,"n":"Australia","h":{}},{"r":43,"t":"First Blush","a":"Ocean Alley","y":2025,"w":null,"n":"Australia","h":{}},{"r":44,"t":"Drenched","a":"Ocean Alley","y":2025,"w":null,"n":"Australia","h":{}},{"r":45,"t":"Tit for Tat","a":"Tate McRae","y":2025,"w":null,"n":"Canada","h":{"GabredMared":2}},{"r":46,"t":"Yosemite","a":"Kettama and Interplanetary Criminal","y":2025,"w":null,"n":"Ireland/United Kingdom","h":{}},{"r":47,"t":"Fuck My Computer","a":"Ninajirachi","y":2025,"w":null,"n":"Australia","h":{"EliasJ72":2,"Frikomid":1,"GabredMared":14,"verygooood":24}},{"r":48,"t":"It Gets Better (Forever Mix)","a":"Kettama","y":2025,"w":null,"n":"Ireland","h":{"Frikomid":2}},{"r":49,"t":"Khe Sanh (Like a Version)","a":"Beddy Rays","y":2025,"w":null,"n":"Australia","h":{}},{"r":50,"t":"In Another Life","a":"G Flip","y":2025,"w":null,"n":"Australia","h":{}},{"r":51,"t":"Talk of the Town","a":"Fred Again, Sammy Virji and Reggie","y":2025,"w":null,"n":"United Kingdom/Ireland","h":{}},{"r":52,"t":"Revolving Door","a":"Tate McRae","y":2025,"w":null,"n":"Canada","h":{"GabredMared":2}},{"r":53,"t":"Melodramatic Fanatic","a":"Lime Cordiale and Ruel","y":2025,"w":null,"n":"Australia","h":{}},{"r":54,"t":"Say Something","a":"Royel Otis","y":2025,"w":null,"n":"Australia","h":{}},{"r":55,"t":"Catalonia Dreams","a":"The Terrys","y":2025,"w":null,"n":"Australia","h":{}},{"r":56,"t":"Yougotmefeeling","a":"Parcels","y":2025,"w":null,"n":"Australia","h":{"armandwave":1,"Nubis84":7,"paqueradejere":3,"sdecandelario":1}},{"r":57,"t":"One Thing","a":"Lola Young","y":2025,"w":null,"n":"United Kingdom","h":{}},{"r":58,"t":"Backseat","a":"Balu Brigada","y":2025,"w":null,"n":"New Zealand","h":{"armandwave":1}},{"r":59,"t":"Nokia","a":"Drake","y":2025,"w":null,"n":"Canada","h":{"MaxtorUwU":1}},{"r":60,"t":"Dealer","a":"Lola Young","y":2025,"w":null,"n":"United Kingdom","h":{}},{"r":61,"t":"Balcony","a":"Teen Jesus and the Jean Teasers","y":2025,"w":null,"n":"Australia","h":{}},{"r":62,"t":"Lady Lady","a":"Olivia Dean","y":2025,"w":null,"n":"United Kingdom","h":{}},{"r":63,"t":"White Keys","a":"Dominic Fike","y":2025,"w":null,"n":"United States","h":{}},{"r":64,"t":"Illegal","a":"PinkPantheress","y":2025,"w":null,"n":"United Kingdom","h":{"armandwave":2,"Frikomid":1,"MaxtorUwU":2,"Nubis84":1}},{"r":65,"t":"Headphones On","a":"Addison Rae","y":2025,"w":null,"n":"United States","h":{"alberto_gu":1,"Frikomid":4,"GabredMared":5}},{"r":66,"t":"Delete Ya","a":"Djo","y":2025,"w":null,"n":"United States","h":{}},{"r":67,"t":"Don't Happy, Be Worry","a":"Hilltop Hoods","y":2025,"w":null,"n":"Australia","h":{}},{"r":68,"t":"It's Amazing to Be Young","a":"Fontaines D.C.","y":2025,"w":null,"n":"Ireland","h":{"armandwave":3,"Frikomid":1,"Lonsonxd":1,"sdecandelario":3}},{"r":69,"t":"Shut You Out","a":"The Rions","y":2025,"w":null,"n":"Australia","h":{}},{"r":70,"t":"Take On Me (Like a Version)","a":"The Dreggs","y":2025,"w":null,"n":"Australia","h":{}},{"r":71,"t":"David","a":"Lorde","y":2025,"w":null,"n":"New Zealand","h":{"MaxtorUwU":1}},{"r":72,"t":"A Cold Play","a":"The Kid Laroi","y":2025,"w":null,"n":"Australia","h":{}},{"r":73,"t":"It's Raining Men (Like a Version)","a":"Playlunch","y":2025,"w":null,"n":"Australia","h":{}},{"r":74,"t":"Bed on Fire","a":"G Flip","y":2025,"w":null,"n":"Australia","h":{}},{"r":75,"t":"Divine Feelings","a":"Vance Joy","y":2025,"w":null,"n":"Australia","h":{}},{"r":76,"t":"All I Am","a":"Ninajirachi","y":2025,"w":null,"n":"Australia","h":{"EliasJ72":1,"Frikomid":1,"GabredMared":6,"verygooood":20}},{"r":77,"t":"Leave Me Alone","a":"Reneé Rapp","y":2025,"w":null,"n":"United States","h":{}},{"r":78,"t":"Everybody Scream","a":"Florence and the Machine","y":2025,"w":null,"n":"United Kingdom","h":{}},{"r":79,"t":"Arm's Length","a":"Sam Fender","y":2025,"w":null,"n":"United Kingdom","h":{}},{"r":80,"t":"Mangetout","a":"Wet Leg","y":2025,"w":null,"n":"United Kingdom","h":{"armandwave":3,"Frikomid":2,"GabredMared":5,"MaxtorUwU":2}},{"r":81,"t":"Parachute","a":"Hayley Williams","y":2025,"w":null,"n":"United States","h":{"MaxtorUwU":1}},{"r":82,"t":"Miss Erotica","a":"Peach PRC","y":2025,"w":null,"n":"Australia","h":{}},{"r":83,"t":"Everyone Will See It","a":"Old Mervs","y":2025,"w":null,"n":"Australia","h":{}},{"r":84,"t":"Send It Back","a":"Don West","y":2025,"w":null,"n":"Australia","h":{}},{"r":85,"t":"Never Coming Home","a":"Hilltop Hoods and Six60","y":2025,"w":null,"n":"Australia/New Zealand","h":{}},{"r":86,"t":"Something Bigger Than This","a":"Hilltop Hoods","y":2025,"w":null,"n":"Australia","h":{}},{"r":87,"t":"Left of the Dealer","a":"Ocean Alley","y":2025,"w":null,"n":"Australia","h":{}},{"r":88,"t":"West End Girl","a":"Lily Allen","y":2025,"w":null,"n":"United Kingdom","h":{"MaxtorUwU":1}},{"r":89,"t":"Blackberries","a":"Fisher and Bbyclose","y":2025,"w":null,"n":"Australia/United Kingdom","h":{}},{"r":90,"t":"Tonight's Entertainment","a":"The Rions","y":2025,"w":null,"n":"Australia","h":{}},{"r":91,"t":"We Don't Talk","a":"The Dreggs","y":2025,"w":null,"n":"Australia","h":{}},{"r":92,"t":"Lover Girl","a":"Laufey","y":2025,"w":null,"n":"Iceland","h":{}},{"r":93,"t":"Gossip","a":"Confidence Man and Jade","y":2025,"w":null,"n":"Australia/United Kingdom","h":{"Frikomid":1}},{"r":94,"t":"DTMF","a":"Bad Bunny","y":2025,"w":null,"n":"United States","h":{"armandwave":1,"EliasJ72":1,"Frikomid":1,"GabredMared":1,"Nubis84":3,"Rocky_stereo":10,"sdecandelario":4}},{"r":95,"t":"Caramel","a":"Sleep Token","y":2025,"w":null,"n":"United Kingdom","h":{"MaxtorUwU":2}},{"r":96,"t":"Ecstasy","a":"Keli Holiday","y":2025,"w":null,"n":"Australia","h":{}},{"r":97,"t":"Running on Empty","a":"The Tullamarines","y":2025,"w":null,"n":"Australia","h":{}},{"r":98,"t":"Don't Go","a":"Old Mervs","y":2025,"w":null,"n":"Australia","h":{}},{"r":99,"t":"Delete","a":"Ninajirachi","y":2025,"w":null,"n":"Australia","h":{"EliasJ72":1,"Frikomid":1,"GabredMared":8,"verygooood":40}},{"r":100,"t":"Potion","a":"Djo","y":2025,"w":null,"n":"United States","h":{}}]};</script>
+<script>
+(function() {
+  const D = DATA, USERS = D.users, NU = USERS.length;
+  const $ = id => document.getElementById(id);
+  let filter = 'all', sort = 'rank', q = '';
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fold = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  D.tracks.forEach(t => { t.nh = Object.keys(t.h).length; t.q = fold(t.t + ' ' + t.a); });
+
+  function user() { try { return localStorage.getItem('mh_user'); } catch (e) { return null; } }
+
+  function meta(t) {
+    const out = [];
+    if (t.n === 'winner') out.push('<span class="badge win">🏆 Ganadora</span>');
+    else if (t.n === 'nominee') out.push('<span class="badge">Nominada</span>');
+    else if (t.n) out.push(esc(t.n));
+    if (t.w) out.push(t.w + (t.w === 1 ? ' semana' : ' semanas') + ' nº1');
+    if (t.y && D.showYear && sort === 'pop') out.push(t.y);   // con separadores el año ya se ve
+    return out.join('<br>');
+  }
+
+  function row(t, u) {
+    const mine = u && t.h[u];
+    const dots = USERS.map(x => `<span class="dot${t.h[x] ? ' on' : ''}${x === u ? ' me' : ''}" title="${esc(x)}${t.h[x] ? ': ' + t.h[x] + ' plays' : ''}"></span>`).join('');
+    const qs = encodeURIComponent(t.a + ' ' + t.t);
+    const lfm = 'https://www.last.fm/music/' + encodeURIComponent(t.a.split(/ (?:featuring|feat\.|with|con) /i)[0]) + '/_/' + encodeURIComponent(t.t.split(' / ')[0]);
+    const plays = u ? (mine ? mine + '▶' : '') : (t.nh ? t.nh + '/' + NU : '');
+    return `<div class="trk${mine ? ' mine' : ''}${u && !mine ? ' dim' : ''}">
+      <div class="t-rank">${t.r ?? ''}</div>
+      <div class="t-main"><div class="t-title">${esc(t.t)}</div><div class="t-artist">${esc(t.a)}</div></div>
+      <div class="t-meta">${meta(t)}</div>
+      <div class="dots" title="${t.nh}/${NU} usuarios">${dots}</div>
+      <div class="t-plays" title="${u ? 'Tus reproducciones' : 'Usuarios que la han escuchado'}">${plays}</div>
+      <div class="t-links"><a href="https://www.youtube.com/results?search_query=${qs}" target="_blank" rel="noopener" title="Buscar en YouTube">YT</a><a href="${lfm}" target="_blank" rel="noopener" title="Last.fm">LFM</a></div>
+    </div>`;
+  }
+
+  function render() {
+    const u = user();
+    const heard = t => u ? !!t.h[u] : t.nh > 0;
+    let list = D.tracks.filter(t => (filter === 'all' || (filter === 'heard') === heard(t)) && (!q || t.q.includes(q)));
+    if (sort === 'pop') list = [...list].sort((a, b) => b.nh - a.nh || a.r - b.r);
+    if (sort === 'year') list = [...list].sort((a, b) => (a.y || 0) - (b.y || 0) || a.r - b.r);
+
+    const total = D.tracks.length;
+    let pct, txt;
+    if (u) {
+      const n = D.tracks.filter(t => t.h[u]).length;
+      pct = 100 * n / total;
+      txt = `<b>${esc(u)}</b> ha escuchado <b>${n}</b> de ${total} · ${pct.toFixed(1)}%`;
+    } else {
+      const avg = USERS.reduce((s, x) => s + D.tracks.filter(t => t.h[x]).length, 0) / (NU || 1);
+      const any = D.tracks.filter(t => t.nh).length;
+      pct = 100 * avg / total;
+      txt = `Media del grupo <b>${pct.toFixed(1)}%</b> · ${any} de ${total} las ha escuchado alguien`;
+    }
+    $('progTxt').innerHTML = txt;
+    $('progBar').style.width = pct + '%';
+    $('fHeard').textContent = u ? 'Escuchadas' : 'Alguien';
+    $('fPending').textContent = u ? 'Pendientes' : 'Nadie';
+
+    let html = '', lastY = null;
+    const sepByYear = D.yearSeparators && (sort === 'rank' || sort === 'year');
+    for (const t of list) {
+      if (sepByYear && t.y !== lastY) { html += `<div class="year-sep">${t.y ?? '—'}</div>`; lastY = t.y; }
+      html += row(t, u);
+    }
+    $('tracks').innerHTML = html || '<div class="empty">Nada por aquí.</div>';
+  }
+
+  document.querySelectorAll('#filters button').forEach(b => b.onclick = () => {
+    filter = b.dataset.f;
+    document.querySelectorAll('#filters button').forEach(x => x.classList.toggle('on', x === b));
+    render();
+  });
+  $('sort').onchange = e => { sort = e.target.value; render(); };
+  $('search').oninput = e => { q = fold(e.target.value.trim()); render(); };
+  window.mhRenderList = render;
+  render();
+})();
+</script>
+</body>
+</html>

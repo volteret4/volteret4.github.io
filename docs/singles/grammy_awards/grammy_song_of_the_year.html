@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Singles — Grammy · Song of the Year</title>
+<link rel="icon" type="image/png" href="/images/discount.png" />
+<!-- Umami Analytics -->
+<script
+    defer
+    src="https://cloud.umami.is/script.js"
+    data-website-id="5d84fd6c-0760-4a0c-a2d0-ffabb82179f5"
+></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:#0a0a0a; --surface:#111; --surface2:#161616; --border:#1e1e1e;
+    --accent:#c9a227; --muted:#666; --text:#e0e0e0; --ok:#5fb57a;
+    --header-h:52px;
+  }
+  *, *::before, *::after { box-sizing:border-box; margin:0; padding:0; }
+  body { background:var(--bg); color:var(--text); font-family:'DM Sans',sans-serif; min-height:100vh; }
+  a { color:inherit; }
+  header {
+    position:fixed; top:0; left:0; right:0; z-index:100; height:var(--header-h);
+    background:rgba(10,10,10,.97); backdrop-filter:blur(12px);
+    border-bottom:1px solid var(--border);
+    display:flex; align-items:center; gap:14px; padding:0 24px;
+  }
+  .site-label { font-family:'DM Mono',monospace; font-size:.6rem; letter-spacing:.18em;
+    text-transform:uppercase; color:var(--muted); white-space:nowrap; }
+  .site-label a { color:var(--muted); text-decoration:none; }
+  .site-label a:hover { color:var(--accent); }
+  h1 { font-family:'Bebas Neue',sans-serif; font-size:1.6rem; letter-spacing:.06em; line-height:1;
+    color:var(--accent); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; min-width:0; }
+  .header-meta { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); margin-left:auto; white-space:nowrap; }
+  .header-nav-link {
+    font-family:'DM Mono',monospace; font-size:.58rem; letter-spacing:.1em; text-transform:uppercase;
+    padding:4px 10px; border-radius:3px; border:1px solid var(--border); color:var(--muted);
+    text-decoration:none; transition:all .12s; flex-shrink:0;
+  }
+  .header-nav-link:hover { border-color:var(--accent); color:var(--accent); }
+  main { padding:24px 40px 80px; margin-top:var(--header-h); }
+  .section-label { font-family:'DM Mono',monospace; font-size:.65rem; letter-spacing:.2em;
+    text-transform:uppercase; color:var(--muted); margin-bottom:20px; }
+  .intro { color:var(--muted); font-size:.9rem; margin-bottom:22px; max-width:70ch; }
+  footer { padding:24px 40px; border-top:1px solid var(--border);
+    font-family:'DM Mono',monospace; font-size:.65rem; color:var(--muted); }
+  @media (max-width:700px) {
+    header { padding:0 16px; gap:10px; }
+    .header-meta, .site-label { display:none; }
+    main, footer { padding-left:16px; padding-right:16px; }
+  }
+
+  .toolbar { display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center; margin-bottom:18px; }
+  .progress { flex:1 1 260px; min-width:0; }
+  .progress-txt { font-family:'DM Mono',monospace; font-size:.7rem; color:var(--muted); margin-bottom:6px; }
+  .progress-txt b { color:var(--text); font-weight:500; }
+  .progress-bar { height:4px; background:var(--border); border-radius:2px; overflow:hidden; }
+  .progress-bar div { height:100%; background:var(--accent); transition:width .4s; }
+  .seg { display:flex; border:1px solid var(--border); border-radius:4px; overflow:hidden; }
+  .seg button { background:none; border:none; color:var(--muted); font-family:'DM Mono',monospace;
+    font-size:.62rem; letter-spacing:.06em; padding:6px 10px; cursor:pointer; text-transform:uppercase; }
+  .seg button + button { border-left:1px solid var(--border); }
+  .seg button.on { background:var(--surface2); color:var(--accent); }
+  .ctl { background:var(--surface); border:1px solid var(--border); color:var(--text); border-radius:4px;
+    font-family:'DM Mono',monospace; font-size:.68rem; padding:6px 9px; }
+  input.ctl { width:200px; max-width:100%; }
+  .ctl:focus { outline:none; border-color:var(--accent); }
+  .tracks { border-top:1px solid var(--border); }
+  .trk { display:grid; grid-template-columns:52px minmax(0,1fr) 110px 150px 64px 60px;
+    align-items:center; gap:12px; padding:9px 10px; border-bottom:1px solid var(--border);
+    border-left:2px solid transparent; }
+  .trk:hover { background:var(--surface); }
+  .trk.mine { border-left-color:var(--ok); }
+  .trk.dim .t-main { opacity:.55; }
+  .t-rank { font-family:'DM Mono',monospace; font-size:.75rem; color:var(--muted); text-align:right; }
+  .t-title { font-size:.95rem; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .t-artist { font-size:.8rem; color:var(--muted); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .t-meta { font-family:'DM Mono',monospace; font-size:.62rem; color:var(--muted); line-height:1.5; }
+  .badge { display:inline-block; padding:1px 6px; border-radius:3px; border:1px solid var(--border); }
+  .badge.win { border-color:var(--accent); color:var(--accent); }
+  .dots { display:flex; flex-wrap:wrap; gap:3px; }
+  .dot { width:8px; height:8px; border-radius:50%; background:var(--border); }
+  .dot.on { background:var(--accent); }
+  .dot.me { outline:1px solid var(--text); outline-offset:1px; }
+  .t-plays { font-family:'DM Mono',monospace; font-size:.7rem; text-align:right; color:var(--ok); }
+  .t-links { display:flex; gap:8px; justify-content:flex-end; }
+  .t-links a { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); text-decoration:none;
+    border:1px solid var(--border); border-radius:3px; padding:2px 5px; }
+  .t-links a:hover { color:var(--accent); border-color:var(--accent); }
+  .year-sep { font-family:'Bebas Neue',sans-serif; font-size:1.3rem; letter-spacing:.06em;
+    color:var(--accent); padding:16px 10px 6px; border-bottom:1px solid var(--border); }
+  .empty { padding:40px 10px; color:var(--muted); font-size:.9rem; }
+  @media (max-width:800px) {
+    .trk { grid-template-columns:28px minmax(0,1fr) auto auto; gap:8px; padding:9px 4px; }
+    .t-meta, .dots { display:none; }
+    input.ctl { width:100%; }
+  }
+
+  /* ── MH user modal ── */
+  .mh-usr-btn {
+    display:flex; align-items:center; gap:4px;
+    background:none; border:1px solid var(--border,#1e1e1e); border-radius:4px;
+    color:var(--muted,#555); font-family:'DM Mono',monospace;
+    font-size:.62rem; padding:4px 9px; cursor:pointer; flex-shrink:0;
+    white-space:nowrap; transition:border-color .12s, color .12s;
+  }
+  .mh-usr-btn:hover { border-color:var(--accent,#c9a227); color:var(--text,#e0e0e0); }
+  .mh-usr-btn.has-user { border-color:var(--accent,#c9a227); color:var(--accent,#c9a227); }
+  .mh-modal-ov {
+    display:none; position:fixed; inset:0; background:rgba(0,0,0,.78);
+    z-index:500; align-items:center; justify-content:center;
+  }
+  .mh-modal-ov.open { display:flex; }
+  .mh-modal-box {
+    background:var(--surface,#111); border:1px solid var(--border,#1e1e1e);
+    border-top:2px solid var(--accent,#c9a227); border-radius:6px;
+    padding:1.4rem; width:min(300px,92vw); max-height:80vh; overflow-y:auto;
+  }
+  .mh-modal-title {
+    font-family:'DM Mono',monospace; font-size:.6rem; letter-spacing:.2em;
+    text-transform:uppercase; color:var(--muted,#555);
+    margin-bottom:1rem; text-align:center;
+  }
+  .mh-usr-opt {
+    padding:9px 12px; margin-bottom:5px;
+    background:var(--surface2,#161616); border:1px solid var(--border,#1e1e1e);
+    border-radius:4px; cursor:pointer; transition:all .15s;
+    font-family:'DM Mono',monospace; font-size:.75rem;
+    letter-spacing:.04em; color:var(--muted,#555);
+  }
+  .mh-usr-opt:hover { border-color:var(--accent,#c9a227); color:var(--text,#e0e0e0); }
+  .mh-usr-opt.active { border-color:var(--accent,#c9a227); color:var(--accent,#c9a227); background:rgba(201,162,39,.07); }
+  .mh-modal-close {
+    display:block; margin:1rem auto 0; padding:6px 18px;
+    background:var(--surface2,#161616); color:var(--muted,#555);
+    border:1px solid var(--border,#1e1e1e); border-radius:4px;
+    cursor:pointer; font-family:'DM Mono',monospace; font-size:.68rem;
+  }
+  .mh-modal-close:hover { color:var(--text,#e0e0e0); }
+</style>
+</head>
+<body>
+
+<div class="mh-modal-ov" id="mhUserModal">
+  <div class="mh-modal-box">
+    <div class="mh-modal-title">Seleccionar usuario</div>
+    <div id="mhUserOpts"></div>
+    <button class="mh-modal-close" id="mhModalClose">Cerrar</button>
+  </div>
+</div>
+<header>
+  <div class="site-label"><a href="index.html">← Grammy · Canciones</a></div>
+  <h1>Grammy · Song of the Year</h1>
+  <div class="header-meta">371 canciones</div>
+  <a class="header-nav-link" href="https://en.wikipedia.org/wiki/Grammy_Award_for_Song_of_the_Year" target="_blank" rel="noopener">Wikipedia ↗</a>
+  <button class="mh-usr-btn" id="mhUserBtn" title="Seleccionar usuario">👤 <span id="mhULbl">—</span></button>
+</header>
+<main>
+  <div class="toolbar">
+    <div class="progress"><div class="progress-txt" id="progTxt"></div><div class="progress-bar"><div id="progBar"></div></div></div>
+    <div class="seg" id="filters">
+      <button data-f="all" class="on">Todas</button><button data-f="heard" id="fHeard">Escuchadas</button><button data-f="pending" id="fPending">Pendientes</button>
+    </div>
+    <select class="ctl" id="sort" aria-label="Ordenar">
+      <option value="rank">Orden de la lista</option>
+      <option value="pop">Más escuchadas en el grupo</option>
+      <option value="year">Año</option>
+    </select>
+    <input class="ctl" id="search" type="search" placeholder="Buscar canción o artista…">
+  </div>
+  <div class="tracks" id="tracks"></div>
+</main>
+<footer>Generado 2026-10-16 22:24 · Listas de Wikipedia · Escuchas de Last.fm</footer>
+
+<script>
+(function() {
+  const USERS = ["alberto_gu", "armandwave", "BipolarMuzik", "EliasJ72", "Frikomid", "GabredMared", "Lonsonxd", "MaxtorUwU", "Nubis84", "paqueradejere", "Rocky_stereo", "sdecandelario", "verygooood"];
+  const KEY   = 'mh_user';
+  const modal  = document.getElementById('mhUserModal');
+  const btn    = document.getElementById('mhUserBtn');
+  const opts   = document.getElementById('mhUserOpts');
+  const close  = document.getElementById('mhModalClose');
+  if (!modal || !btn || !opts) return;
+
+  function buildOpts() {
+    opts.innerHTML = '';
+    const all = document.createElement('div');
+    all.className = 'mh-usr-opt' + (localStorage.getItem(KEY) ? '' : ' active');
+    all.textContent = 'Todos (sin filtro)';
+    all.onclick = () => selectUser(null);
+    opts.appendChild(all);
+    USERS.forEach(u => {
+      const el = document.createElement('div');
+      el.className = 'mh-usr-opt' + (localStorage.getItem(KEY) === u ? ' active' : '');
+      el.textContent = u;
+      el.onclick = () => selectUser(u);
+      opts.appendChild(el);
+    });
+  }
+
+  function updateBtn() {
+    const u = localStorage.getItem(KEY);
+    const lbl = document.getElementById('mhULbl');
+    if (lbl) lbl.textContent = u || '—';
+    btn.title = u ? u : 'Seleccionar usuario';
+    btn.classList.toggle('has-user', !!u);
+  }
+
+  function selectUser(u) {
+    if (u) localStorage.setItem(KEY, u);
+    else localStorage.removeItem(KEY);
+    updateBtn();
+    buildOpts();
+    modal.classList.remove('open');
+    mhRenderList();
+  }
+
+  btn.addEventListener('click', e => { e.stopPropagation(); buildOpts(); modal.classList.add('open'); });
+  close.addEventListener('click', () => modal.classList.remove('open'));
+  modal.addEventListener('click', e => { if (e.target === modal) modal.classList.remove('open'); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') modal.classList.remove('open'); });
+
+  updateBtn();
+})();
+</script>
+<script>const DATA = {"users":["alberto_gu","armandwave","BipolarMuzik","EliasJ72","Frikomid","GabredMared","Lonsonxd","MaxtorUwU","Nubis84","paqueradejere","Rocky_stereo","sdecandelario","verygooood"],"showYear":true,"yearSeparators":true,"tracks":[{"r":1,"t":"Nel blu, dipinto di blu (Volare)","a":"Domenico Modugno","y":1959,"w":null,"n":"nominee","h":{"armandwave":7}},{"r":2,"t":"Catch a Falling Star","a":"Perry Como","y":1959,"w":null,"n":"nominee","h":{"armandwave":1}},{"r":3,"t":"Fever","a":"Peggy Lee","y":1959,"w":null,"n":"nominee","h":{"armandwave":5,"Frikomid":2,"Nubis84":1}},{"r":4,"t":"Gigi","a":"Louis Jourdan","y":1959,"w":null,"n":"nominee","h":{}},{"r":5,"t":"Witchcraft","a":"Frank Sinatra","y":1959,"w":null,"n":"nominee","h":{}},{"r":6,"t":"The Battle of New Orleans","a":"Johnny Horton","y":1960,"w":null,"n":"nominee","h":{}},{"r":7,"t":"High Hopes","a":"Frank Sinatra","y":1960,"w":null,"n":"nominee","h":{}},{"r":8,"t":"I Know","a":"Perry Como","y":1960,"w":null,"n":"nominee","h":{}},{"r":9,"t":"Like Young","a":"André Previn","y":1960,"w":null,"n":"nominee","h":{}},{"r":10,"t":"Small World","a":"Johnny Mathis","y":1960,"w":null,"n":"nominee","h":{}},{"r":11,"t":"Theme from Exodus","a":"Ernest Gold","y":1961,"w":null,"n":"nominee","h":{}},{"r":12,"t":"He'll Have to Go","a":"Jim Reeves","y":1961,"w":null,"n":"nominee","h":{}},{"r":13,"t":"Nice 'n' Easy","a":"Frank Sinatra","y":1961,"w":null,"n":"nominee","h":{}},{"r":14,"t":"The Second Time Around","a":"Andy Williams","y":1961,"w":null,"n":"nominee","h":{}},{"r":15,"t":"Theme from A Summer Place","a":"Percy Faith","y":1961,"w":null,"n":"nominee","h":{"armandwave":1,"Nubis84":1}},{"r":16,"t":"Moon River","a":"Henry Mancini","y":1962,"w":null,"n":"nominee","h":{"armandwave":2}},{"r":17,"t":"Big Bad John","a":"Jimmy Dean","y":1962,"w":null,"n":"nominee","h":{}},{"r":18,"t":"A Little Bitty Tear","a":"Burl Ives","y":1962,"w":null,"n":"nominee","h":{}},{"r":19,"t":"Lollipops and Roses","a":"Jack Jones","y":1962,"w":null,"n":"nominee","h":{}},{"r":20,"t":"Make Someone Happy","a":"Various Artists","y":1962,"w":null,"n":"nominee","h":{}},{"r":21,"t":"What Kind of Fool Am I?","a":"Sammy Davis Jr.","y":1963,"w":null,"n":"nominee","h":{}},{"r":22,"t":"As Long as He Needs Me","a":"Shirley Bassey","y":1963,"w":null,"n":"nominee","h":{}},{"r":23,"t":"I Left My Heart in San Francisco","a":"Tony Bennett","y":1963,"w":null,"n":"nominee","h":{}},{"r":24,"t":"My Coloring Book","a":"Sandy Stewart","y":1963,"w":null,"n":"nominee","h":{}},{"r":25,"t":"The Sweetest Sounds","a":"Various Artists","y":1963,"w":null,"n":"nominee","h":{}},{"r":26,"t":"Days of Wine and Roses","a":"Henry Mancini","y":1964,"w":null,"n":"nominee","h":{}},{"r":27,"t":"Call Me Irresponsible","a":"Frank Sinatra","y":1964,"w":null,"n":"nominee","h":{"Lonsonxd":3}},{"r":28,"t":"The Good Life","a":"Tony Bennett","y":1964,"w":null,"n":"nominee","h":{}},{"r":29,"t":"I Wanna Be Around","a":"Tony Bennett","y":1964,"w":null,"n":"nominee","h":{}},{"r":30,"t":"Wives and Lovers","a":"Jack Jones","y":1964,"w":null,"n":"nominee","h":{}},{"r":31,"t":"Hello, Dolly!","a":"Louis Armstrong","y":1965,"w":null,"n":"nominee","h":{"armandwave":6}},{"r":32,"t":"Dear Heart","a":"Andy Williams","y":1965,"w":null,"n":"nominee","h":{}},{"r":33,"t":"A Hard Day's Night","a":"The Beatles","y":1965,"w":null,"n":"nominee","h":{"armandwave":1,"BipolarMuzik":4,"Lonsonxd":2,"Nubis84":1,"Rocky_stereo":1}},{"r":34,"t":"People","a":"Barbra Streisand","y":1965,"w":null,"n":"nominee","h":{"GabredMared":23}},{"r":35,"t":"Who Can I Turn To?","a":"Tony Bennett","y":1965,"w":null,"n":"nominee","h":{}},{"r":36,"t":"The Shadow of Your Smile","a":"Tony Bennett","y":1966,"w":null,"n":"nominee","h":{}},{"r":37,"t":"I Will Wait for You","a":"Connie Francis","y":1966,"w":null,"n":"nominee","h":{}},{"r":38,"t":"King of the Road","a":"Roger Miller","y":1966,"w":null,"n":"nominee","h":{"armandwave":1,"Nubis84":1}},{"r":39,"t":"The September of My Years","a":"Frank Sinatra","y":1966,"w":null,"n":"nominee","h":{}},{"r":40,"t":"Yesterday","a":"The Beatles","y":1966,"w":null,"n":"nominee","h":{"armandwave":2,"BipolarMuzik":1,"Lonsonxd":8,"Rocky_stereo":1}},{"r":41,"t":"Michelle","a":"The Beatles","y":1967,"w":null,"n":"nominee","h":{"armandwave":3,"BipolarMuzik":1,"Lonsonxd":2,"verygooood":2}},{"r":42,"t":"Born Free","a":"Various Artists","y":1967,"w":null,"n":"nominee","h":{}},{"r":43,"t":"The Impossible Dream","a":"Richard Kiley","y":1967,"w":null,"n":"nominee","h":{}},{"r":44,"t":"Somewhere, My Love","a":"Ray Conniff","y":1967,"w":null,"n":"nominee","h":{}},{"r":45,"t":"Strangers in the Night","a":"Frank Sinatra","y":1967,"w":null,"n":"nominee","h":{"Lonsonxd":9,"Nubis84":2,"Rocky_stereo":4}},{"r":46,"t":"Up, Up, and Away","a":"The 5th Dimension","y":1968,"w":null,"n":"nominee","h":{"armandwave":1}},{"r":47,"t":"By the Time I Get to Phoenix","a":"Glen Campbell","y":1968,"w":null,"n":"nominee","h":{"armandwave":1}},{"r":48,"t":"Gentle on My Mind","a":"Glen Campbell","y":1968,"w":null,"n":"nominee","h":{"armandwave":2}},{"r":49,"t":"My Cup Runneth Over","a":"Ed Ames","y":1968,"w":null,"n":"nominee","h":{}},{"r":50,"t":"Ode to Billie Joe","a":"Bobbie Gentry","y":1968,"w":null,"n":"nominee","h":{"armandwave":17}},{"r":51,"t":"Little Green Apples","a":"O. C. Smith","y":1969,"w":null,"n":"nominee","h":{}},{"r":52,"t":"Harper Valley PTA","a":"Jeannie C. Riley","y":1969,"w":null,"n":"nominee","h":{}},{"r":53,"t":"Hey Jude","a":"The Beatles","y":1969,"w":null,"n":"nominee","h":{"armandwave":7,"BipolarMuzik":1,"Lonsonxd":10}},{"r":54,"t":"Honey","a":"Bobby Goldsboro","y":1969,"w":null,"n":"nominee","h":{}},{"r":55,"t":"Mrs. Robinson","a":"Simon & Garfunkel","y":1969,"w":null,"n":"nominee","h":{"armandwave":10,"Frikomid":4,"Lonsonxd":4,"MaxtorUwU":2,"Nubis84":19,"paqueradejere":1,"sdecandelario":6,"verygooood":1}},{"r":56,"t":"Games People Play","a":"Joe South","y":1970,"w":null,"n":"nominee","h":{}},{"r":57,"t":"I'll Never Fall in Love Again","a":"Dionne Warwick","y":1970,"w":null,"n":"nominee","h":{}},{"r":58,"t":"A Time for Us","a":"Henry Mancini","y":1970,"w":null,"n":"nominee","h":{}},{"r":59,"t":"Raindrops Keep Fallin' on My Head","a":"B. J. Thomas","y":1970,"w":null,"n":"nominee","h":{}},{"r":60,"t":"Spinning Wheel","a":"Blood, Sweat & Tears","y":1970,"w":null,"n":"nominee","h":{}},{"r":61,"t":"Bridge over Troubled Water","a":"Simon & Garfunkel","y":1971,"w":null,"n":"nominee","h":{"armandwave":4,"Frikomid":2,"MaxtorUwU":2,"Nubis84":13}},{"r":62,"t":"Everything Is Beautiful","a":"Ray Stevens","y":1971,"w":null,"n":"nominee","h":{}},{"r":63,"t":"Fire and Rain","a":"James Taylor","y":1971,"w":null,"n":"nominee","h":{"armandwave":3,"Nubis84":6,"verygooood":1}},{"r":64,"t":"Let It Be","a":"The Beatles","y":1971,"w":null,"n":"nominee","h":{"armandwave":3,"BipolarMuzik":1,"Lonsonxd":9}},{"r":65,"t":"We've Only Just Begun","a":"The Carpenters","y":1971,"w":null,"n":"nominee","h":{"armandwave":2,"MaxtorUwU":1}},{"r":66,"t":"You've Got a Friend","a":"James Taylor / Carole King","y":1972,"w":null,"n":"nominee","h":{"armandwave":1,"Frikomid":2,"MaxtorUwU":2,"Nubis84":2,"sdecandelario":1}},{"r":67,"t":"Help Me Make It Through the Night","a":"Kris Kristofferson","y":1972,"w":null,"n":"nominee","h":{"armandwave":4}},{"r":68,"t":"It's Impossible","a":"Perry Como","y":1972,"w":null,"n":"nominee","h":{}},{"r":69,"t":"Me and Bobby McGee","a":"Janis Joplin","y":1972,"w":null,"n":"nominee","h":{"armandwave":4,"BipolarMuzik":1,"Frikomid":3,"Lonsonxd":1,"MaxtorUwU":1,"Nubis84":9,"paqueradejere":1,"sdecandelario":2}},{"r":70,"t":"Rose Garden","a":"Lynn Anderson","y":1972,"w":null,"n":"nominee","h":{"armandwave":1,"paqueradejere":5}},{"r":71,"t":"The First Time Ever I Saw Your Face","a":"Roberta Flack","y":1973,"w":null,"n":"nominee","h":{"armandwave":6}},{"r":72,"t":"Alone Again (Naturally)","a":"Gilbert O'Sullivan","y":1973,"w":null,"n":"nominee","h":{"Nubis84":4,"Rocky_stereo":10}},{"r":73,"t":"American Pie","a":"Don McLean","y":1973,"w":null,"n":"nominee","h":{"armandwave":2,"Frikomid":1,"Lonsonxd":26,"Nubis84":20,"Rocky_stereo":3,"sdecandelario":1}},{"r":74,"t":"Song Sung Blue","a":"Neil Diamond","y":1973,"w":null,"n":"nominee","h":{"Nubis84":5}},{"r":75,"t":"The Summer Knows","a":"Michel Legrand","y":1973,"w":null,"n":"nominee","h":{}},{"r":76,"t":"Killing Me Softly with His Song","a":"Roberta Flack","y":1974,"w":null,"n":"nominee","h":{"armandwave":6,"Lonsonxd":4,"paqueradejere":6}},{"r":77,"t":"Behind Closed Doors","a":"Charlie Rich","y":1974,"w":null,"n":"nominee","h":{}},{"r":78,"t":"Tie a Yellow Ribbon Round the Ole Oak Tree","a":"Dawn featuring Tony Orlando","y":1974,"w":null,"n":"nominee","h":{}},{"r":79,"t":"You Are the Sunshine of My Life","a":"Stevie Wonder","y":1974,"w":null,"n":"nominee","h":{"armandwave":2,"Lonsonxd":2,"Nubis84":2,"paqueradejere":12}},{"r":80,"t":"You're So Vain","a":"Carly Simon","y":1974,"w":null,"n":"nominee","h":{"armandwave":1,"MaxtorUwU":1}},{"r":81,"t":"The Way We Were","a":"Barbra Streisand","y":1975,"w":null,"n":"nominee","h":{}},{"r":82,"t":"Feel Like Makin' Love","a":"Roberta Flack","y":1975,"w":null,"n":"nominee","h":{"Lonsonxd":2,"paqueradejere":4}},{"r":83,"t":"I Honestly Love You","a":"Olivia Newton-John","y":1975,"w":null,"n":"nominee","h":{}},{"r":84,"t":"Midnight at the Oasis","a":"Maria Muldaur","y":1975,"w":null,"n":"nominee","h":{"MaxtorUwU":2}},{"r":85,"t":"You and Me Against the World","a":"Helen Reddy","y":1975,"w":null,"n":"nominee","h":{}},{"r":86,"t":"Send in the Clowns","a":"Judy Collins","y":1976,"w":null,"n":"nominee","h":{}},{"r":87,"t":"At Seventeen","a":"Janis Ian","y":1976,"w":null,"n":"nominee","h":{}},{"r":88,"t":"Feelings","a":"Morris Albert","y":1976,"w":null,"n":"nominee","h":{}},{"r":89,"t":"Love Will Keep Us Together","a":"Captain & Tennille","y":1976,"w":null,"n":"nominee","h":{"MaxtorUwU":1}},{"r":90,"t":"Rhinestone Cowboy","a":"Glen Campbell","y":1976,"w":null,"n":"nominee","h":{}},{"r":91,"t":"I Write the Songs","a":"Barry Manilow","y":1977,"w":null,"n":"nominee","h":{"MaxtorUwU":1}},{"r":92,"t":"Afternoon Delight","a":"Starland Vocal Band","y":1977,"w":null,"n":"nominee","h":{}},{"r":93,"t":"Breaking Up Is Hard to Do","a":"Neil Sedaka","y":1977,"w":null,"n":"nominee","h":{"Nubis84":1}},{"r":94,"t":"This Masquerade","a":"George Benson","y":1977,"w":null,"n":"nominee","h":{}},{"r":95,"t":"The Wreck of the Edmund Fitzgerald","a":"Gordon Lightfoot","y":1977,"w":null,"n":"nominee","h":{}},{"r":96,"t":"Evergreen (Love Theme from A Star Is Born)","a":"Barbra Streisand","y":1978,"w":null,"n":"nominee","h":{}},{"r":97,"t":"You Light Up My Life","a":"Debby Boone","y":1978,"w":null,"n":"nominee","h":{}},{"r":98,"t":"Don't It Make My Brown Eyes Blue","a":"Crystal Gayle","y":1978,"w":null,"n":"nominee","h":{}},{"r":99,"t":"Hotel California","a":"Eagles","y":1978,"w":null,"n":"nominee","h":{"armandwave":6,"Frikomid":26,"Lonsonxd":33,"Nubis84":11,"Rocky_stereo":3,"verygooood":1}},{"r":100,"t":"Nobody Does It Better","a":"Carly Simon","y":1978,"w":null,"n":"nominee","h":{}},{"r":101,"t":"Southern Nights","a":"Glen Campbell","y":1978,"w":null,"n":"nominee","h":{}},{"r":102,"t":"Just the Way You Are","a":"Billy Joel","y":1979,"w":null,"n":"nominee","h":{}},{"r":103,"t":"Stayin' Alive","a":"Bee Gees","y":1979,"w":null,"n":"nominee","h":{"armandwave":6,"Frikomid":2,"Nubis84":12,"Rocky_stereo":3,"sdecandelario":6,"verygooood":2}},{"r":104,"t":"Three Times a Lady","a":"Commodores","y":1979,"w":null,"n":"nominee","h":{"armandwave":2}},{"r":105,"t":"You Don't Bring Me Flowers","a":"Neil Diamond and Barbra Streisand","y":1979,"w":null,"n":"nominee","h":{}},{"r":106,"t":"You Needed Me","a":"Anne Murray","y":1979,"w":null,"n":"nominee","h":{}},{"r":107,"t":"What a Fool Believes","a":"The Doobie Brothers","y":1980,"w":null,"n":"nominee","h":{"alberto_gu":15,"armandwave":3,"Lonsonxd":1,"MaxtorUwU":1,"Nubis84":2,"paqueradejere":1}},{"r":108,"t":"After the Love Has Gone","a":"Earth, Wind & Fire","y":1980,"w":null,"n":"nominee","h":{"armandwave":1,"MaxtorUwU":1}},{"r":109,"t":"Chuck E.'s in Love","a":"Rickie Lee Jones","y":1980,"w":null,"n":"nominee","h":{"MaxtorUwU":1}},{"r":110,"t":"Honesty","a":"Billy Joel","y":1980,"w":null,"n":"nominee","h":{}},{"r":111,"t":"I Will Survive","a":"Gloria Gaynor","y":1980,"w":null,"n":"nominee","h":{"armandwave":3,"Frikomid":2,"GabredMared":1,"Nubis84":9,"verygooood":1}},{"r":112,"t":"Minute by Minute","a":"The Doobie Brothers","y":1980,"w":null,"n":"nominee","h":{}},{"r":113,"t":"Reunited","a":"Peaches & Herb","y":1980,"w":null,"n":"nominee","h":{}},{"r":114,"t":"She Believes in Me","a":"Kenny Rogers","y":1980,"w":null,"n":"nominee","h":{}},{"r":115,"t":"Sailing","a":"Christopher Cross","y":1981,"w":null,"n":"nominee","h":{"MaxtorUwU":2}},{"r":116,"t":"Fame","a":"Irene Cara","y":1981,"w":null,"n":"nominee","h":{"armandwave":2}},{"r":117,"t":"Lady","a":"Kenny Rogers","y":1981,"w":null,"n":"nominee","h":{}},{"r":118,"t":"The Rose","a":"Bette Midler","y":1981,"w":null,"n":"nominee","h":{}},{"r":119,"t":"Theme from New York, New York","a":"Frank Sinatra","y":1981,"w":null,"n":"nominee","h":{"armandwave":1,"Lonsonxd":3}},{"r":120,"t":"Woman in Love","a":"Barbra Streisand","y":1981,"w":null,"n":"nominee","h":{}},{"r":121,"t":"Bette Davis Eyes","a":"Kim Carnes","y":1982,"w":null,"n":"nominee","h":{"Frikomid":14,"GabredMared":73,"Lonsonxd":1,"MaxtorUwU":2,"Nubis84":3,"sdecandelario":1}},{"r":122,"t":"Arthur's Theme (Best That You Can Do)","a":"Christopher Cross","y":1982,"w":null,"n":"nominee","h":{"MaxtorUwU":8,"Nubis84":1}},{"r":123,"t":"Endless Love","a":"Diana Ross & Lionel Richie","y":1982,"w":null,"n":"nominee","h":{}},{"r":124,"t":"Just the Two of Us","a":"Grover Washington Jr. with Bill Withers","y":1982,"w":null,"n":"nominee","h":{"armandwave":5}},{"r":125,"t":"9 to 5","a":"Dolly Parton","y":1982,"w":null,"n":"nominee","h":{"MaxtorUwU":1,"Nubis84":2}},{"r":126,"t":"Always on My Mind","a":"Willie Nelson","y":1983,"w":null,"n":"nominee","h":{}},{"r":127,"t":"Ebony and Ivory","a":"Paul McCartney and Stevie Wonder","y":1983,"w":null,"n":"nominee","h":{}},{"r":128,"t":"Eye of the Tiger","a":"Survivor","y":1983,"w":null,"n":"nominee","h":{"armandwave":1,"GabredMared":3,"Nubis84":15,"Rocky_stereo":1,"sdecandelario":1,"verygooood":1}},{"r":129,"t":"I.G.Y. (What a Beautiful World)","a":"Donald Fagen","y":1983,"w":null,"n":"nominee","h":{"armandwave":4,"MaxtorUwU":4}},{"r":130,"t":"Rosanna","a":"Toto","y":1983,"w":null,"n":"nominee","h":{"armandwave":1,"Lonsonxd":4,"MaxtorUwU":1,"paqueradejere":3,"sdecandelario":1}},{"r":131,"t":"Every Breath You Take","a":"The Police","y":1984,"w":null,"n":"nominee","h":{"armandwave":3,"Frikomid":7,"GabredMared":1,"Lonsonxd":28,"Nubis84":19,"Rocky_stereo":32,"sdecandelario":2,"verygooood":1}},{"r":132,"t":"All Night Long (All Night)","a":"Lionel Richie","y":1984,"w":null,"n":"nominee","h":{"armandwave":1,"Lonsonxd":11,"sdecandelario":5}},{"r":133,"t":"Beat It","a":"Michael Jackson","y":1984,"w":null,"n":"nominee","h":{"alberto_gu":2,"armandwave":13,"EliasJ72":1,"Frikomid":1,"GabredMared":3,"Lonsonxd":7,"Nubis84":22,"paqueradejere":1,"sdecandelario":3,"verygooood":2}},{"r":134,"t":"Billie Jean","a":"Michael Jackson","y":1984,"w":null,"n":"nominee","h":{"alberto_gu":17,"armandwave":4,"Frikomid":2,"GabredMared":122,"Lonsonxd":7,"Nubis84":29,"paqueradejere":4,"sdecandelario":2,"verygooood":2}},{"r":135,"t":"Maniac","a":"Michael Sembello","y":1984,"w":null,"n":"nominee","h":{"alberto_gu":2,"armandwave":3,"Frikomid":4,"Nubis84":8,"paqueradejere":2,"Rocky_stereo":6,"sdecandelario":2,"verygooood":1}},{"r":136,"t":"What's Love Got to Do with It","a":"Tina Turner","y":1985,"w":null,"n":"nominee","h":{"armandwave":4,"Nubis84":12}},{"r":137,"t":"Against All Odds (Take a Look at Me Now)","a":"Phil Collins","y":1985,"w":null,"n":"nominee","h":{"Lonsonxd":1,"MaxtorUwU":3,"Nubis84":4}},{"r":138,"t":"Hello","a":"Lionel Richie","y":1985,"w":null,"n":"nominee","h":{}},{"r":139,"t":"I Just Called to Say I Love You","a":"Stevie Wonder","y":1985,"w":null,"n":"nominee","h":{"armandwave":2,"Frikomid":13,"Nubis84":3}},{"r":140,"t":"Time After Time","a":"Cyndi Lauper","y":1985,"w":null,"n":"nominee","h":{"armandwave":3,"BipolarMuzik":1,"MaxtorUwU":1,"Nubis84":1}},{"r":141,"t":"We Are the World","a":"USA for Africa","y":1986,"w":null,"n":"nominee","h":{"armandwave":4,"verygooood":1}},{"r":142,"t":"The Boys of Summer","a":"Don Henley","y":1986,"w":null,"n":"nominee","h":{"armandwave":12,"MaxtorUwU":2,"verygooood":1}},{"r":143,"t":"Everytime You Go Away","a":"Paul Young","y":1986,"w":null,"n":"nominee","h":{"armandwave":1,"MaxtorUwU":1}},{"r":144,"t":"I Want to Know What Love Is","a":"Foreigner","y":1986,"w":null,"n":"nominee","h":{"Nubis84":3,"Rocky_stereo":6,"verygooood":1}},{"r":145,"t":"Money for Nothing","a":"Dire Straits","y":1986,"w":null,"n":"nominee","h":{"armandwave":8,"Frikomid":3,"GabredMared":2,"Lonsonxd":5,"Nubis84":8,"paqueradejere":3,"Rocky_stereo":12,"sdecandelario":3}},{"r":146,"t":"That's What Friends Are For","a":"Dionne Warwick & Friends (Elton John, Gladys Knight and Stevie Wonder)","y":1987,"w":null,"n":"nominee","h":{"armandwave":1}},{"r":147,"t":"Addicted to Love","a":"Robert Palmer","y":1987,"w":null,"n":"nominee","h":{"alberto_gu":1,"Lonsonxd":1,"MaxtorUwU":1,"sdecandelario":3}},{"r":148,"t":"Graceland","a":"Paul Simon","y":1987,"w":null,"n":"nominee","h":{"armandwave":4}},{"r":149,"t":"Higher Love","a":"Steve Winwood","y":1987,"w":null,"n":"nominee","h":{}},{"r":150,"t":"Sledgehammer","a":"Peter Gabriel","y":1987,"w":null,"n":"nominee","h":{"armandwave":1,"Frikomid":1,"Lonsonxd":49,"Nubis84":14,"sdecandelario":1}},{"r":151,"t":"Somewhere Out There","a":"Linda Ronstadt and James Ingram","y":1988,"w":null,"n":"nominee","h":{}},{"r":152,"t":"Didn't We Almost Have It All","a":"Whitney Houston","y":1988,"w":null,"n":"nominee","h":{"MaxtorUwU":2}},{"r":153,"t":"I Still Haven't Found What I'm Looking For","a":"U2","y":1988,"w":null,"n":"nominee","h":{"armandwave":3,"Frikomid":1,"Lonsonxd":9,"MaxtorUwU":4,"Nubis84":3,"Rocky_stereo":1,"sdecandelario":7}},{"r":154,"t":"La Bamba","a":"Los Lobos","y":1988,"w":null,"n":"nominee","h":{}},{"r":155,"t":"Luka","a":"Suzanne Vega","y":1988,"w":null,"n":"nominee","h":{"armandwave":2,"MaxtorUwU":1,"Nubis84":24}},{"r":156,"t":"Don't Worry, Be Happy","a":"Bobby McFerrin","y":1989,"w":null,"n":"nominee","h":{"armandwave":4}},{"r":157,"t":"Be Still My Beating Heart","a":"Sting","y":1989,"w":null,"n":"nominee","h":{}},{"r":158,"t":"Fast Car","a":"Tracy Chapman","y":1989,"w":null,"n":"nominee","h":{"armandwave":3,"Frikomid":2,"GabredMared":207,"MaxtorUwU":10,"Nubis84":11,"paqueradejere":1,"verygooood":1}},{"r":159,"t":"Giving You the Best That I Got","a":"Anita Baker","y":1989,"w":null,"n":"nominee","h":{}},{"r":160,"t":"Piano in the Dark","a":"Brenda Russell","y":1989,"w":null,"n":"nominee","h":{}},{"r":161,"t":"Wind Beneath My Wings","a":"Bette Midler","y":1990,"w":null,"n":"nominee","h":{}},{"r":162,"t":"Don't Know Much","a":"Linda Ronstadt and Aaron Neville","y":1990,"w":null,"n":"nominee","h":{}},{"r":163,"t":"The End of the Innocence","a":"Don Henley","y":1990,"w":null,"n":"nominee","h":{"MaxtorUwU":1}},{"r":164,"t":"The Living Years","a":"Mike + The Mechanics","y":1990,"w":null,"n":"nominee","h":{}},{"r":165,"t":"We Didn't Start the Fire","a":"Billy Joel","y":1990,"w":null,"n":"nominee","h":{"armandwave":1,"Nubis84":1,"sdecandelario":3}},{"r":166,"t":"From a Distance","a":"Bette Midler","y":1991,"w":null,"n":"nominee","h":{}},{"r":167,"t":"Another Day in Paradise","a":"Phil Collins","y":1991,"w":null,"n":"nominee","h":{"alberto_gu":12,"GabredMared":1,"Lonsonxd":17,"MaxtorUwU":1,"Nubis84":5,"Rocky_stereo":5}},{"r":168,"t":"Hold On","a":"Wilson Phillips","y":1991,"w":null,"n":"nominee","h":{"armandwave":1}},{"r":169,"t":"Nothing Compares 2 U","a":"Sinéad O'Connor","y":1991,"w":null,"n":"nominee","h":{"armandwave":6,"Frikomid":2}},{"r":170,"t":"Vision of Love","a":"Mariah Carey","y":1991,"w":null,"n":"nominee","h":{"MaxtorUwU":1}},{"r":171,"t":"Unforgettable","a":"Natalie Cole (with Nat King Cole)","y":1992,"w":null,"n":"nominee","h":{"alberto_gu":3,"armandwave":8,"Lonsonxd":3,"Nubis84":1,"Rocky_stereo":1}},{"r":172,"t":"Baby Baby","a":"Amy Grant","y":1992,"w":null,"n":"nominee","h":{}},{"r":173,"t":"(Everything I Do) I Do It for You","a":"Bryan Adams","y":1992,"w":null,"n":"nominee","h":{"armandwave":2}},{"r":174,"t":"Losing My Religion","a":"R.E.M.","y":1992,"w":null,"n":"nominee","h":{"armandwave":10,"Frikomid":111,"Lonsonxd":7,"Nubis84":33,"Rocky_stereo":52,"sdecandelario":11}},{"r":175,"t":"Walking in Memphis","a":"Marc Cohn","y":1992,"w":null,"n":"nominee","h":{"armandwave":1}},{"r":176,"t":"Tears in Heaven","a":"Eric Clapton","y":1993,"w":null,"n":"nominee","h":{"armandwave":4,"Nubis84":10,"sdecandelario":2}},{"r":177,"t":"Achy Breaky Heart","a":"Billy Ray Cyrus","y":1993,"w":null,"n":"nominee","h":{"alberto_gu":1,"Nubis84":1}},{"r":178,"t":"Beauty and the Beast","a":"Celine Dion and Peabo Bryson","y":1993,"w":null,"n":"nominee","h":{"MaxtorUwU":2}},{"r":179,"t":"Constant Craving","a":"k.d. lang","y":1993,"w":null,"n":"nominee","h":{"alberto_gu":17,"Frikomid":1,"GabredMared":1,"MaxtorUwU":1}},{"r":180,"t":"Save the Best for Last","a":"Vanessa Williams","y":1993,"w":null,"n":"nominee","h":{}},{"r":181,"t":"A Whole New World","a":"Peabo Bryson and Regina Belle","y":1994,"w":null,"n":"nominee","h":{}},{"r":182,"t":"Harvest Moon","a":"Neil Young","y":1994,"w":null,"n":"nominee","h":{"armandwave":10,"Frikomid":3,"MaxtorUwU":4,"Nubis84":5}},{"r":183,"t":"I'd Do Anything for Love (But I Won't Do That)","a":"Meat Loaf","y":1994,"w":null,"n":"nominee","h":{"Frikomid":13,"Nubis84":6}},{"r":184,"t":"If I Ever Lose My Faith in You","a":"Sting","y":1994,"w":null,"n":"nominee","h":{"MaxtorUwU":4}},{"r":185,"t":"The River of Dreams","a":"Billy Joel","y":1994,"w":null,"n":"nominee","h":{}},{"r":186,"t":"Streets of Philadelphia","a":"Bruce Springsteen","y":1995,"w":null,"n":"nominee","h":{"armandwave":3}},{"r":187,"t":"All I Wanna Do","a":"Sheryl Crow","y":1995,"w":null,"n":"nominee","h":{"armandwave":1,"MaxtorUwU":1,"Nubis84":1}},{"r":188,"t":"Can You Feel the Love Tonight","a":"Elton John","y":1995,"w":null,"n":"nominee","h":{}},{"r":189,"t":"Circle of Life","a":"Elton John","y":1995,"w":null,"n":"nominee","h":{}},{"r":190,"t":"I Swear","a":"John Michael Montgomery / All-4-One","y":1995,"w":null,"n":"nominee","h":{"armandwave":1,"MaxtorUwU":1}},{"r":191,"t":"Kiss from a Rose","a":"Seal","y":1996,"w":null,"n":"nominee","h":{"Lonsonxd":1,"MaxtorUwU":1,"Nubis84":2}},{"r":192,"t":"One of Us","a":"Joan Osborne","y":1996,"w":null,"n":"nominee","h":{"armandwave":3}},{"r":193,"t":"I Can Love You Like That","a":"John Michael Montgomery / All-4-One","y":1996,"w":null,"n":"nominee","h":{}},{"r":194,"t":"You Are Not Alone","a":"Michael Jackson","y":1996,"w":null,"n":"nominee","h":{}},{"r":195,"t":"You Oughta Know","a":"Alanis Morissette","y":1996,"w":null,"n":"nominee","h":{"armandwave":1,"Frikomid":1,"Nubis84":13}},{"r":196,"t":"Change the World","a":"Eric Clapton","y":1997,"w":null,"n":"nominee","h":{"Nubis84":1}},{"r":197,"t":"Because You Loved Me","a":"Celine Dion","y":1997,"w":null,"n":"nominee","h":{"MaxtorUwU":1,"Nubis84":1}},{"r":198,"t":"Blue","a":"LeAnn Rimes","y":1997,"w":null,"n":"nominee","h":{}},{"r":199,"t":"Exhale (Shoop Shoop)","a":"Whitney Houston","y":1997,"w":null,"n":"nominee","h":{}},{"r":200,"t":"Give Me One Reason","a":"Tracy Chapman","y":1997,"w":null,"n":"nominee","h":{"MaxtorUwU":1}},{"r":201,"t":"Sunny Came Home","a":"Shawn Colvin","y":1998,"w":null,"n":"nominee","h":{"MaxtorUwU":1}},{"r":202,"t":"Don't Speak","a":"No Doubt","y":1998,"w":null,"n":"nominee","h":{"alberto_gu":9,"MaxtorUwU":3,"Nubis84":4,"Rocky_stereo":1,"sdecandelario":4,"verygooood":1}},{"r":203,"t":"How Do I Live","a":"LeAnn Rimes / Trisha Yearwood","y":1998,"w":null,"n":"nominee","h":{"Nubis84":1}},{"r":204,"t":"I Believe I Can Fly","a":"R. Kelly","y":1998,"w":null,"n":"nominee","h":{}},{"r":205,"t":"Where Have All the Cowboys Gone?","a":"Paula Cole","y":1998,"w":null,"n":"nominee","h":{"MaxtorUwU":2}},{"r":206,"t":"My Heart Will Go On","a":"Celine Dion","y":1999,"w":null,"n":"nominee","h":{"GabredMared":4,"Nubis84":3}},{"r":207,"t":"I Don't Want to Miss a Thing","a":"Aerosmith","y":1999,"w":null,"n":"nominee","h":{"armandwave":2,"Nubis84":4,"sdecandelario":1}},{"r":208,"t":"Iris","a":"Goo Goo Dolls","y":1999,"w":null,"n":"nominee","h":{"armandwave":8,"Frikomid":1,"MaxtorUwU":1,"Nubis84":5}},{"r":209,"t":"Lean on Me","a":"Kirk Franklin","y":1999,"w":null,"n":"nominee","h":{}},{"r":210,"t":"You're Still the One","a":"Shania Twain","y":1999,"w":null,"n":"nominee","h":{"MaxtorUwU":5}},{"r":211,"t":"Smooth","a":"Santana featuring Rob Thomas","y":2000,"w":null,"n":"nominee","h":{"armandwave":3,"MaxtorUwU":1,"Nubis84":2}},{"r":212,"t":"I Want It That Way","a":"Backstreet Boys","y":2000,"w":null,"n":"nominee","h":{"MaxtorUwU":1,"Nubis84":2}},{"r":213,"t":"Livin' la Vida Loca","a":"Ricky Martin","y":2000,"w":null,"n":"nominee","h":{"armandwave":1,"MaxtorUwU":1}},{"r":214,"t":"Unpretty","a":"TLC","y":2000,"w":null,"n":"nominee","h":{"MaxtorUwU":1}},{"r":215,"t":"You've Got a Way","a":"Shania Twain","y":2000,"w":null,"n":"nominee","h":{}},{"r":216,"t":"Beautiful Day","a":"U2","y":2001,"w":null,"n":"nominee","h":{"alberto_gu":4,"armandwave":2,"Frikomid":2,"Lonsonxd":3,"Nubis84":3,"sdecandelario":28,"verygooood":1}},{"r":217,"t":"Breathe","a":"Faith Hill","y":2001,"w":null,"n":"nominee","h":{"alberto_gu":1,"armandwave":1}},{"r":218,"t":"I Hope You Dance","a":"Lee Ann Womack","y":2001,"w":null,"n":"nominee","h":{}},{"r":219,"t":"I Try","a":"Macy Gray","y":2001,"w":null,"n":"nominee","h":{"armandwave":3,"verygooood":1}},{"r":220,"t":"Say My Name","a":"Destiny's Child","y":2001,"w":null,"n":"nominee","h":{"MaxtorUwU":2}},{"r":221,"t":"Fallin'","a":"Alicia Keys","y":2002,"w":null,"n":"nominee","h":{"MaxtorUwU":1,"Nubis84":20,"verygooood":1}},{"r":222,"t":"Drops of Jupiter (Tell Me)","a":"Train","y":2002,"w":null,"n":"nominee","h":{"alberto_gu":100,"Nubis84":5}},{"r":223,"t":"I'm Like a Bird","a":"Nelly Furtado","y":2002,"w":null,"n":"nominee","h":{"alberto_gu":5,"armandwave":1,"MaxtorUwU":1,"Nubis84":3}},{"r":224,"t":"Stuck in a Moment You Can't Get Out Of","a":"U2","y":2002,"w":null,"n":"nominee","h":{"Frikomid":1,"sdecandelario":6}},{"r":225,"t":"Video","a":"India.Arie","y":2002,"w":null,"n":"nominee","h":{"armandwave":1}},{"r":226,"t":"Don't Know Why","a":"Norah Jones","y":2003,"w":null,"n":"nominee","h":{"alberto_gu":1,"armandwave":1,"MaxtorUwU":1,"Nubis84":2,"paqueradejere":1,"verygooood":13}},{"r":227,"t":"Complicated","a":"Avril Lavigne","y":2003,"w":null,"n":"nominee","h":{"alberto_gu":5,"EliasJ72":1,"MaxtorUwU":1,"Nubis84":1,"Rocky_stereo":1}},{"r":228,"t":"The Rising","a":"Bruce Springsteen","y":2003,"w":null,"n":"nominee","h":{"Nubis84":1}},{"r":229,"t":"A Thousand Miles","a":"Vanessa Carlton","y":2003,"w":null,"n":"nominee","h":{}},{"r":230,"t":"Where Were You (When the World Stopped Turning)","a":"Alan Jackson","y":2003,"w":null,"n":"nominee","h":{}},{"r":231,"t":"Dance with My Father","a":"Luther Vandross","y":2004,"w":null,"n":"nominee","h":{}},{"r":232,"t":"Beautiful","a":"Christina Aguilera","y":2004,"w":null,"n":"nominee","h":{"alberto_gu":2,"GabredMared":16,"Nubis84":1}},{"r":233,"t":"I'm with You","a":"Avril Lavigne","y":2004,"w":null,"n":"nominee","h":{"alberto_gu":38,"Frikomid":2,"MaxtorUwU":4}},{"r":234,"t":"Keep Me in Your Heart","a":"Warren Zevon","y":2004,"w":null,"n":"nominee","h":{"armandwave":5,"MaxtorUwU":1}},{"r":235,"t":"Lose Yourself","a":"Eminem","y":2004,"w":null,"n":"nominee","h":{"alberto_gu":1,"EliasJ72":1,"Lonsonxd":2,"Nubis84":14,"sdecandelario":1,"verygooood":1}},{"r":236,"t":"Daughters","a":"John Mayer","y":2005,"w":null,"n":"nominee","h":{"MaxtorUwU":1}},{"r":237,"t":"If I Ain't Got You","a":"Alicia Keys","y":2005,"w":null,"n":"nominee","h":{"armandwave":1,"MaxtorUwU":1,"Nubis84":1,"verygooood":6}},{"r":238,"t":"Jesus Walks","a":"Kanye West","y":2005,"w":null,"n":"nominee","h":{"alberto_gu":12,"armandwave":1,"EliasJ72":12,"Frikomid":2,"Nubis84":7,"Rocky_stereo":2}},{"r":239,"t":"Live Like You Were Dying","a":"Tim McGraw","y":2005,"w":null,"n":"nominee","h":{}},{"r":240,"t":"The Reason","a":"Hoobastank","y":2005,"w":null,"n":"nominee","h":{"alberto_gu":3,"armandwave":1,"Frikomid":22,"MaxtorUwU":1}},{"r":241,"t":"Sometimes You Can't Make It on Your Own","a":"U2","y":2006,"w":null,"n":"nominee","h":{"MaxtorUwU":1,"Nubis84":3,"sdecandelario":3}},{"r":242,"t":"Bless the Broken Road","a":"Rascal Flatts","y":2006,"w":null,"n":"nominee","h":{}},{"r":243,"t":"Devils & Dust","a":"Bruce Springsteen","y":2006,"w":null,"n":"nominee","h":{}},{"r":244,"t":"Ordinary People","a":"John Legend","y":2006,"w":null,"n":"nominee","h":{}},{"r":245,"t":"We Belong Together","a":"Mariah Carey","y":2006,"w":null,"n":"nominee","h":{"Frikomid":3,"GabredMared":1,"MaxtorUwU":2,"Nubis84":2}},{"r":246,"t":"Not Ready to Make Nice","a":"Dixie Chicks","y":2007,"w":null,"n":"nominee","h":{"armandwave":1}},{"r":247,"t":"Be Without You","a":"Mary J. Blige","y":2007,"w":null,"n":"nominee","h":{}},{"r":248,"t":"Jesus, Take the Wheel","a":"Carrie Underwood","y":2007,"w":null,"n":"nominee","h":{}},{"r":249,"t":"Put Your Records On","a":"Corinne Bailey Rae","y":2007,"w":null,"n":"nominee","h":{"armandwave":1}},{"r":250,"t":"You're Beautiful","a":"James Blunt","y":2007,"w":null,"n":"nominee","h":{"GabredMared":15,"MaxtorUwU":2,"Nubis84":3}},{"r":251,"t":"Rehab","a":"Amy Winehouse","y":2008,"w":null,"n":"nominee","h":{"alberto_gu":181,"Frikomid":4,"MaxtorUwU":2,"Nubis84":3}},{"r":252,"t":"Before He Cheats","a":"Carrie Underwood","y":2008,"w":null,"n":"nominee","h":{}},{"r":253,"t":"Hey There Delilah","a":"Plain White T's","y":2008,"w":null,"n":"nominee","h":{"armandwave":2,"Frikomid":1,"sdecandelario":2}},{"r":254,"t":"Like a Star","a":"Corinne Bailey Rae","y":2008,"w":null,"n":"nominee","h":{}},{"r":255,"t":"Umbrella","a":"Rihanna featuring Jay-Z","y":2008,"w":null,"n":"nominee","h":{"armandwave":1,"Frikomid":123,"GabredMared":39,"Nubis84":11,"sdecandelario":1,"verygooood":4}},{"r":256,"t":"Viva la Vida","a":"Coldplay","y":2009,"w":null,"n":"nominee","h":{"armandwave":1,"Frikomid":1,"GabredMared":1,"Lonsonxd":1,"MaxtorUwU":2,"Nubis84":29,"sdecandelario":6,"verygooood":1}},{"r":257,"t":"American Boy","a":"Estelle featuring Kanye West","y":2009,"w":null,"n":"nominee","h":{"alberto_gu":9,"Frikomid":1,"Rocky_stereo":1}},{"r":258,"t":"Chasing Pavements","a":"Adele","y":2009,"w":null,"n":"nominee","h":{"MaxtorUwU":1}},{"r":259,"t":"I'm Yours","a":"Jason Mraz","y":2009,"w":null,"n":"nominee","h":{"Nubis84":3}},{"r":260,"t":"Love Song","a":"Sara Bareilles","y":2009,"w":null,"n":"nominee","h":{}},{"r":261,"t":"Single Ladies (Put a Ring on It)","a":"Beyoncé","y":2010,"w":null,"n":"nominee","h":{"GabredMared":8}},{"r":262,"t":"Poker Face","a":"Lady Gaga","y":2010,"w":null,"n":"nominee","h":{"alberto_gu":1,"GabredMared":3,"verygooood":2}},{"r":263,"t":"Pretty Wings","a":"Maxwell","y":2010,"w":null,"n":"nominee","h":{}},{"r":264,"t":"Use Somebody","a":"Kings of Leon","y":2010,"w":null,"n":"nominee","h":{"Nubis84":1,"sdecandelario":8,"verygooood":2}},{"r":265,"t":"You Belong with Me","a":"Taylor Swift","y":2010,"w":null,"n":"nominee","h":{"GabredMared":10,"Rocky_stereo":22,"verygooood":4}},{"r":266,"t":"Need You Now","a":"Lady Antebellum","y":2011,"w":null,"n":"nominee","h":{}},{"r":267,"t":"Beg, Steal or Borrow","a":"Ray LaMontagne","y":2011,"w":null,"n":"nominee","h":{}},{"r":268,"t":"Fk You","a":"Cee Lo Green","y":2011,"w":null,"n":"nominee","h":{"Nubis84":2,"sdecandelario":1}},{"r":269,"t":"The House That Built Me","a":"Miranda Lambert","y":2011,"w":null,"n":"nominee","h":{}},{"r":270,"t":"Love the Way You Lie","a":"Eminem featuring Rihanna","y":2011,"w":null,"n":"nominee","h":{"verygooood":1}},{"r":271,"t":"Rolling in the Deep","a":"Adele","y":2012,"w":null,"n":"nominee","h":{"Frikomid":9,"MaxtorUwU":1,"Nubis84":18,"paqueradejere":4,"Rocky_stereo":1,"sdecandelario":8,"verygooood":2}},{"r":272,"t":"All of the Lights","a":"Kanye West featuring Rihanna, Kid Cudi and Fergie","y":2012,"w":null,"n":"nominee","h":{"alberto_gu":62,"armandwave":1,"EliasJ72":3,"Frikomid":2,"GabredMared":2,"Nubis84":20,"paqueradejere":7,"Rocky_stereo":2,"sdecandelario":2,"verygooood":23}},{"r":273,"t":"The Cave","a":"Mumford & Sons","y":2012,"w":null,"n":"nominee","h":{"Nubis84":1,"sdecandelario":4}},{"r":274,"t":"Grenade","a":"Bruno Mars","y":2012,"w":null,"n":"nominee","h":{"armandwave":2,"MaxtorUwU":1}},{"r":275,"t":"Holocene","a":"Bon Iver","y":2012,"w":null,"n":"nominee","h":{"armandwave":8,"Frikomid":7,"GabredMared":2,"Lonsonxd":13,"Nubis84":22,"sdecandelario":3}},{"r":276,"t":"We Are Young","a":"Fun featuring Janelle Monáe","y":2013,"w":null,"n":"nominee","h":{}},{"r":277,"t":"The A Team","a":"Ed Sheeran","y":2013,"w":null,"n":"nominee","h":{}},{"r":278,"t":"Adorn","a":"Miguel","y":2013,"w":null,"n":"nominee","h":{}},{"r":279,"t":"Call Me Maybe","a":"Carly Rae Jepsen","y":2013,"w":null,"n":"nominee","h":{"GabredMared":43,"Lonsonxd":1,"Nubis84":4}},{"r":280,"t":"Stronger (What Doesn't Kill You)","a":"Kelly Clarkson","y":2013,"w":null,"n":"nominee","h":{"Frikomid":2,"Nubis84":6}},{"r":281,"t":"Royals","a":"Lorde","y":2014,"w":null,"n":"nominee","h":{"alberto_gu":36,"Frikomid":19,"GabredMared":4,"Lonsonxd":2,"Nubis84":6,"sdecandelario":1,"verygooood":4}},{"r":282,"t":"Just Give Me a Reason","a":"Pink featuring Nate Ruess","y":2014,"w":null,"n":"nominee","h":{}},{"r":283,"t":"Locked Out of Heaven","a":"Bruno Mars","y":2014,"w":null,"n":"nominee","h":{"alberto_gu":1,"armandwave":2,"Frikomid":4,"GabredMared":7,"MaxtorUwU":3,"Nubis84":6,"sdecandelario":1}},{"r":284,"t":"Roar","a":"Katy Perry","y":2014,"w":null,"n":"nominee","h":{"Frikomid":3,"GabredMared":11,"Nubis84":2,"verygooood":2}},{"r":285,"t":"Same Love","a":"Macklemore & Ryan Lewis featuring Mary Lambert","y":2014,"w":null,"n":"nominee","h":{"MaxtorUwU":2}},{"r":286,"t":"Stay with Me","a":"Sam Smith","y":2015,"w":null,"n":"nominee","h":{"MaxtorUwU":2,"Nubis84":2}},{"r":287,"t":"All About That Bass","a":"Meghan Trainor","y":2015,"w":null,"n":"nominee","h":{"alberto_gu":1,"Frikomid":17,"Nubis84":2}},{"r":288,"t":"Chandelier","a":"Sia","y":2015,"w":null,"n":"nominee","h":{"Frikomid":107,"GabredMared":5,"Nubis84":8,"sdecandelario":1}},{"r":289,"t":"Shake It Off","a":"Taylor Swift","y":2015,"w":null,"n":"nominee","h":{"Frikomid":23,"GabredMared":20,"Lonsonxd":1,"Nubis84":2,"verygooood":2}},{"r":290,"t":"Take Me to Church","a":"Hozier","y":2015,"w":null,"n":"nominee","h":{"Frikomid":12,"MaxtorUwU":2,"Nubis84":4,"sdecandelario":1}},{"r":291,"t":"Thinking Out Loud","a":"Ed Sheeran","y":2016,"w":null,"n":"nominee","h":{"Frikomid":1,"GabredMared":3,"Nubis84":8,"sdecandelario":1}},{"r":292,"t":"Alright","a":"Kendrick Lamar","y":2016,"w":null,"n":"nominee","h":{"alberto_gu":21,"armandwave":1,"BipolarMuzik":1,"EliasJ72":56,"Frikomid":3,"GabredMared":2,"Lonsonxd":1,"MaxtorUwU":6,"Nubis84":3,"paqueradejere":1,"Rocky_stereo":15,"sdecandelario":3,"verygooood":147}},{"r":293,"t":"Blank Space","a":"Taylor Swift","y":2016,"w":null,"n":"nominee","h":{"Frikomid":24,"GabredMared":105,"Nubis84":3,"Rocky_stereo":7,"verygooood":4}},{"r":294,"t":"Girl Crush","a":"Little Big Town","y":2016,"w":null,"n":"nominee","h":{}},{"r":295,"t":"See You Again","a":"Wiz Khalifa featuring Charlie Puth","y":2016,"w":null,"n":"nominee","h":{"GabredMared":2,"Nubis84":10}},{"r":296,"t":"Hello","a":"Adele","y":2017,"w":null,"n":"nominee","h":{"Frikomid":7,"MaxtorUwU":1,"Nubis84":3,"paqueradejere":1}},{"r":297,"t":"Formation","a":"Beyoncé","y":2017,"w":null,"n":"nominee","h":{"alberto_gu":1,"GabredMared":18}},{"r":298,"t":"I Took a Pill in Ibiza","a":"Mike Posner","y":2017,"w":null,"n":"nominee","h":{"alberto_gu":7,"armandwave":1,"GabredMared":23,"Nubis84":1}},{"r":299,"t":"Love Yourself","a":"Justin Bieber","y":2017,"w":null,"n":"nominee","h":{}},{"r":300,"t":"7 Years","a":"Lukas Graham","y":2017,"w":null,"n":"nominee","h":{}},{"r":301,"t":"That's What I Like","a":"Bruno Mars","y":2018,"w":null,"n":"nominee","h":{"GabredMared":1,"MaxtorUwU":2,"Nubis84":2,"paqueradejere":1,"Rocky_stereo":1}},{"r":302,"t":"Despacito","a":"Luis Fonsi and Daddy Yankee featuring Justin Bieber","y":2018,"w":null,"n":"nominee","h":{"armandwave":6}},{"r":303,"t":"4:44","a":"Jay-Z","y":2018,"w":null,"n":"nominee","h":{"MaxtorUwU":1}},{"r":304,"t":"Issues","a":"Julia Michaels","y":2018,"w":null,"n":"nominee","h":{"GabredMared":25,"Nubis84":3}},{"r":305,"t":"1-800-273-8255","a":"Logic featuring Alessia Cara and Khalid","y":2018,"w":null,"n":"nominee","h":{}},{"r":306,"t":"This Is America","a":"Childish Gambino","y":2019,"w":null,"n":"nominee","h":{"EliasJ72":21,"Frikomid":4,"Lonsonxd":1,"Nubis84":1,"sdecandelario":4,"verygooood":1}},{"r":307,"t":"All the Stars","a":"Kendrick Lamar and SZA","y":2019,"w":null,"n":"nominee","h":{"armandwave":1,"Frikomid":1,"Nubis84":1,"Rocky_stereo":2}},{"r":308,"t":"Boo'd Up","a":"Ella Mai","y":2019,"w":null,"n":"nominee","h":{"armandwave":1}},{"r":309,"t":"God's Plan","a":"Drake","y":2019,"w":null,"n":"nominee","h":{"alberto_gu":5,"armandwave":1,"GabredMared":1,"Nubis84":1}},{"r":310,"t":"In My Blood","a":"Shawn Mendes","y":2019,"w":null,"n":"nominee","h":{"Nubis84":3}},{"r":311,"t":"The Joke","a":"Brandi Carlile","y":2019,"w":null,"n":"nominee","h":{}},{"r":312,"t":"The Middle","a":"Zedd, Maren Morris and Grey","y":2019,"w":null,"n":"nominee","h":{"GabredMared":15,"verygooood":2}},{"r":313,"t":"Shallow","a":"Lady Gaga and Bradley Cooper","y":2019,"w":null,"n":"nominee","h":{"BipolarMuzik":1}},{"r":314,"t":"Bad Guy","a":"Billie Eilish","y":2020,"w":null,"n":"nominee","h":{"armandwave":4,"BipolarMuzik":1,"Frikomid":32,"GabredMared":11,"Lonsonxd":24,"Nubis84":2,"paqueradejere":2}},{"r":315,"t":"Always Remember Us This Way","a":"Lady Gaga","y":2020,"w":null,"n":"nominee","h":{"GabredMared":1,"Nubis84":1}},{"r":316,"t":"Bring My Flowers Now","a":"Tanya Tucker","y":2020,"w":null,"n":"nominee","h":{}},{"r":317,"t":"Hard Place","a":"H.E.R.","y":2020,"w":null,"n":"nominee","h":{}},{"r":318,"t":"Lover","a":"Taylor Swift","y":2020,"w":null,"n":"nominee","h":{"Frikomid":5,"GabredMared":7,"Nubis84":4,"Rocky_stereo":10,"verygooood":1}},{"r":319,"t":"Norman Fucking Rockwell","a":"Lana Del Rey","y":2020,"w":null,"n":"nominee","h":{"alberto_gu":4,"Frikomid":65,"GabredMared":61,"Rocky_stereo":2,"sdecandelario":1}},{"r":320,"t":"Someone You Loved","a":"Lewis Capaldi","y":2020,"w":null,"n":"nominee","h":{"GabredMared":5,"Nubis84":2}},{"r":321,"t":"Truth Hurts","a":"Lizzo","y":2020,"w":null,"n":"nominee","h":{"Frikomid":5,"MaxtorUwU":1}},{"r":322,"t":"I Can't Breathe","a":"H.E.R.","y":2021,"w":null,"n":"nominee","h":{}},{"r":323,"t":"Black Parade","a":"Beyoncé","y":2021,"w":null,"n":"nominee","h":{}},{"r":324,"t":"The Box","a":"Roddy Ricch","y":2021,"w":null,"n":"nominee","h":{}},{"r":325,"t":"Cardigan","a":"Taylor Swift","y":2021,"w":null,"n":"nominee","h":{"alberto_gu":3,"Frikomid":3,"GabredMared":128,"Nubis84":1,"verygooood":1}},{"r":326,"t":"Circles","a":"Post Malone","y":2021,"w":null,"n":"nominee","h":{"Frikomid":34,"GabredMared":115,"Nubis84":1}},{"r":327,"t":"Don't Start Now","a":"Dua Lipa","y":2021,"w":null,"n":"nominee","h":{"GabredMared":1,"Nubis84":4,"verygooood":4}},{"r":328,"t":"Everything I Wanted","a":"Billie Eilish","y":2021,"w":null,"n":"nominee","h":{"armandwave":1,"Frikomid":9,"GabredMared":60,"sdecandelario":1}},{"r":329,"t":"If the World Was Ending","a":"JP Saxe featuring Julia Michaels","y":2021,"w":null,"n":"nominee","h":{}},{"r":330,"t":"Leave the Door Open","a":"Silk Sonic","y":2022,"w":null,"n":"nominee","h":{"MaxtorUwU":1,"Nubis84":1}},{"r":331,"t":"Bad Habits","a":"Ed Sheeran","y":2022,"w":null,"n":"nominee","h":{"Frikomid":2,"GabredMared":66,"MaxtorUwU":2,"Nubis84":4}},{"r":332,"t":"A Beautiful Noise","a":"Alicia Keys and Brandi Carlile","y":2022,"w":null,"n":"nominee","h":{}},{"r":333,"t":"Drivers License","a":"Olivia Rodrigo","y":2022,"w":null,"n":"nominee","h":{"GabredMared":1,"MaxtorUwU":1}},{"r":334,"t":"Fight for You","a":"H.E.R.","y":2022,"w":null,"n":"nominee","h":{}},{"r":335,"t":"Happier Than Ever","a":"Billie Eilish","y":2022,"w":null,"n":"nominee","h":{"Frikomid":40,"GabredMared":9,"Lonsonxd":25}},{"r":336,"t":"Kiss Me More","a":"Doja Cat featuring SZA","y":2022,"w":null,"n":"nominee","h":{"alberto_gu":28,"GabredMared":26,"MaxtorUwU":1,"Nubis84":2,"verygooood":1}},{"r":337,"t":"Montero (Call Me by Your Name)","a":"Lil Nas X","y":2022,"w":null,"n":"nominee","h":{"armandwave":2,"Frikomid":4,"GabredMared":232,"Lonsonxd":2,"verygooood":2}},{"r":338,"t":"Peaches","a":"Justin Bieber featuring Daniel Caesar and Giveon","y":2022,"w":null,"n":"nominee","h":{}},{"r":339,"t":"Just Like That","a":"Bonnie Raitt","y":2023,"w":null,"n":"nominee","h":{}},{"r":340,"t":"ABCDEFU","a":"Gayle","y":2023,"w":null,"n":"nominee","h":{"GabredMared":6}},{"r":341,"t":"About Damn Time","a":"Lizzo","y":2023,"w":null,"n":"nominee","h":{"Frikomid":1,"MaxtorUwU":1,"Nubis84":1,"sdecandelario":1}},{"r":342,"t":"All Too Well (10 Minute Version) (The Short Film)","a":"Taylor Swift","y":2023,"w":null,"n":"nominee","h":{"Frikomid":11,"GabredMared":7,"Nubis84":2}},{"r":343,"t":"As It Was","a":"Harry Styles","y":2023,"w":null,"n":"nominee","h":{"armandwave":1,"Frikomid":4,"GabredMared":3,"MaxtorUwU":2,"Nubis84":6,"paqueradejere":6,"Rocky_stereo":1}},{"r":344,"t":"Bad Habit","a":"Steve Lacy","y":2023,"w":null,"n":"nominee","h":{"alberto_gu":2,"EliasJ72":1,"MaxtorUwU":2,"Rocky_stereo":4}},{"r":345,"t":"Break My Soul","a":"Beyoncé","y":2023,"w":null,"n":"nominee","h":{"GabredMared":4}},{"r":346,"t":"Easy on Me","a":"Adele","y":2023,"w":null,"n":"nominee","h":{"Frikomid":10,"GabredMared":4,"MaxtorUwU":2,"Nubis84":3,"Rocky_stereo":1}},{"r":347,"t":"God Did","a":"DJ Khaled featuring Rick Ross, Lil Wayne, Jay-Z, John Legend and Fridayy","y":2023,"w":null,"n":"nominee","h":{}},{"r":348,"t":"What Was I Made For?","a":"Billie Eilish","y":2024,"w":null,"n":"nominee","h":{"BipolarMuzik":1,"Frikomid":2,"Lonsonxd":3,"MaxtorUwU":1}},{"r":349,"t":"A&W","a":"Lana Del Rey","y":2024,"w":null,"n":"nominee","h":{"armandwave":3,"Frikomid":88,"GabredMared":11,"Rocky_stereo":3}},{"r":350,"t":"Anti-Hero","a":"Taylor Swift","y":2024,"w":null,"n":"nominee","h":{"Frikomid":2,"GabredMared":3}},{"r":351,"t":"Butterfly","a":"Jon Batiste","y":2024,"w":null,"n":"nominee","h":{}},{"r":352,"t":"Dance the Night","a":"Dua Lipa","y":2024,"w":null,"n":"nominee","h":{"alberto_gu":9,"Frikomid":1,"GabredMared":1,"Nubis84":4}},{"r":353,"t":"Flowers","a":"Miley Cyrus","y":2024,"w":null,"n":"nominee","h":{"MaxtorUwU":1,"verygooood":2}},{"r":354,"t":"Kill Bill","a":"SZA","y":2024,"w":null,"n":"nominee","h":{"Frikomid":1,"GabredMared":43,"Lonsonxd":2,"verygooood":1}},{"r":355,"t":"Vampire","a":"Olivia Rodrigo","y":2024,"w":null,"n":"nominee","h":{"alberto_gu":1,"Frikomid":80,"GabredMared":1,"Nubis84":1}},{"r":356,"t":"Not Like Us","a":"Kendrick Lamar","y":2025,"w":null,"n":"nominee","h":{"EliasJ72":15,"Frikomid":1,"Lonsonxd":2,"sdecandelario":2}},{"r":357,"t":"A Bar Song (Tipsy)","a":"Shaboozey","y":2025,"w":null,"n":"nominee","h":{}},{"r":358,"t":"Birds of a Feather","a":"Billie Eilish","y":2025,"w":null,"n":"nominee","h":{"alberto_gu":1,"Frikomid":9,"GabredMared":66,"Lonsonxd":17,"Nubis84":7,"Rocky_stereo":1,"sdecandelario":1}},{"r":359,"t":"Die with a Smile","a":"Lady Gaga and Bruno Mars","y":2025,"w":null,"n":"nominee","h":{"MaxtorUwU":4}},{"r":360,"t":"Fortnight","a":"Taylor Swift featuring Post Malone","y":2025,"w":null,"n":"nominee","h":{"Frikomid":1,"GabredMared":16,"Nubis84":1}},{"r":361,"t":"Good Luck, Babe!","a":"Chappell Roan","y":2025,"w":null,"n":"nominee","h":{"alberto_gu":4,"Frikomid":82,"GabredMared":62,"Nubis84":2}},{"r":362,"t":"Please Please Please","a":"Sabrina Carpenter","y":2025,"w":null,"n":"nominee","h":{"Frikomid":6,"Nubis84":3,"sdecandelario":1}},{"r":363,"t":"Texas Hold 'Em","a":"Beyoncé","y":2025,"w":null,"n":"nominee","h":{}},{"r":364,"t":"Wildflower","a":"Billie Eilish","y":2026,"w":null,"n":"nominee","h":{"Frikomid":5,"GabredMared":4,"Lonsonxd":8,"Nubis84":1}},{"r":365,"t":"Abracadabra","a":"Lady Gaga","y":2026,"w":null,"n":"nominee","h":{"Frikomid":5,"GabredMared":2,"MaxtorUwU":2,"Nubis84":1}},{"r":366,"t":"Anxiety","a":"Doechii","y":2026,"w":null,"n":"nominee","h":{"armandwave":1,"Nubis84":1}},{"r":367,"t":"APT.","a":"Rosé and Bruno Mars","y":2026,"w":null,"n":"nominee","h":{"GabredMared":43,"Nubis84":1}},{"r":368,"t":"DTMF","a":"Bad Bunny","y":2026,"w":null,"n":"nominee","h":{"armandwave":1,"EliasJ72":1,"Frikomid":1,"GabredMared":1,"Nubis84":3,"Rocky_stereo":10,"sdecandelario":4}},{"r":369,"t":"Golden","a":"Huntrix: Ejae, Audrey Nuna and Rei Ami","y":2026,"w":null,"n":"nominee","h":{"armandwave":2,"Frikomid":6,"Nubis84":3}},{"r":370,"t":"Luther","a":"Kendrick Lamar and SZA","y":2026,"w":null,"n":"nominee","h":{"Frikomid":14,"sdecandelario":1}},{"r":371,"t":"Manchild","a":"Sabrina Carpenter","y":2026,"w":null,"n":"nominee","h":{"Frikomid":2,"GabredMared":1,"MaxtorUwU":1,"Nubis84":1}}]};</script>
+<script>
+(function() {
+  const D = DATA, USERS = D.users, NU = USERS.length;
+  const $ = id => document.getElementById(id);
+  let filter = 'all', sort = 'rank', q = '';
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fold = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  D.tracks.forEach(t => { t.nh = Object.keys(t.h).length; t.q = fold(t.t + ' ' + t.a); });
+
+  function user() { try { return localStorage.getItem('mh_user'); } catch (e) { return null; } }
+
+  function meta(t) {
+    const out = [];
+    if (t.n === 'winner') out.push('<span class="badge win">🏆 Ganadora</span>');
+    else if (t.n === 'nominee') out.push('<span class="badge">Nominada</span>');
+    else if (t.n) out.push(esc(t.n));
+    if (t.w) out.push(t.w + (t.w === 1 ? ' semana' : ' semanas') + ' nº1');
+    if (t.y && D.showYear && sort === 'pop') out.push(t.y);   // con separadores el año ya se ve
+    return out.join('<br>');
+  }
+
+  function row(t, u) {
+    const mine = u && t.h[u];
+    const dots = USERS.map(x => `<span class="dot${t.h[x] ? ' on' : ''}${x === u ? ' me' : ''}" title="${esc(x)}${t.h[x] ? ': ' + t.h[x] + ' plays' : ''}"></span>`).join('');
+    const qs = encodeURIComponent(t.a + ' ' + t.t);
+    const lfm = 'https://www.last.fm/music/' + encodeURIComponent(t.a.split(/ (?:featuring|feat\.|with|con) /i)[0]) + '/_/' + encodeURIComponent(t.t.split(' / ')[0]);
+    const plays = u ? (mine ? mine + '▶' : '') : (t.nh ? t.nh + '/' + NU : '');
+    return `<div class="trk${mine ? ' mine' : ''}${u && !mine ? ' dim' : ''}">
+      <div class="t-rank">${t.r ?? ''}</div>
+      <div class="t-main"><div class="t-title">${esc(t.t)}</div><div class="t-artist">${esc(t.a)}</div></div>
+      <div class="t-meta">${meta(t)}</div>
+      <div class="dots" title="${t.nh}/${NU} usuarios">${dots}</div>
+      <div class="t-plays" title="${u ? 'Tus reproducciones' : 'Usuarios que la han escuchado'}">${plays}</div>
+      <div class="t-links"><a href="https://www.youtube.com/results?search_query=${qs}" target="_blank" rel="noopener" title="Buscar en YouTube">YT</a><a href="${lfm}" target="_blank" rel="noopener" title="Last.fm">LFM</a></div>
+    </div>`;
+  }
+
+  function render() {
+    const u = user();
+    const heard = t => u ? !!t.h[u] : t.nh > 0;
+    let list = D.tracks.filter(t => (filter === 'all' || (filter === 'heard') === heard(t)) && (!q || t.q.includes(q)));
+    if (sort === 'pop') list = [...list].sort((a, b) => b.nh - a.nh || a.r - b.r);
+    if (sort === 'year') list = [...list].sort((a, b) => (a.y || 0) - (b.y || 0) || a.r - b.r);
+
+    const total = D.tracks.length;
+    let pct, txt;
+    if (u) {
+      const n = D.tracks.filter(t => t.h[u]).length;
+      pct = 100 * n / total;
+      txt = `<b>${esc(u)}</b> ha escuchado <b>${n}</b> de ${total} · ${pct.toFixed(1)}%`;
+    } else {
+      const avg = USERS.reduce((s, x) => s + D.tracks.filter(t => t.h[x]).length, 0) / (NU || 1);
+      const any = D.tracks.filter(t => t.nh).length;
+      pct = 100 * avg / total;
+      txt = `Media del grupo <b>${pct.toFixed(1)}%</b> · ${any} de ${total} las ha escuchado alguien`;
+    }
+    $('progTxt').innerHTML = txt;
+    $('progBar').style.width = pct + '%';
+    $('fHeard').textContent = u ? 'Escuchadas' : 'Alguien';
+    $('fPending').textContent = u ? 'Pendientes' : 'Nadie';
+
+    let html = '', lastY = null;
+    const sepByYear = D.yearSeparators && (sort === 'rank' || sort === 'year');
+    for (const t of list) {
+      if (sepByYear && t.y !== lastY) { html += `<div class="year-sep">${t.y ?? '—'}</div>`; lastY = t.y; }
+      html += row(t, u);
+    }
+    $('tracks').innerHTML = html || '<div class="empty">Nada por aquí.</div>';
+  }
+
+  document.querySelectorAll('#filters button').forEach(b => b.onclick = () => {
+    filter = b.dataset.f;
+    document.querySelectorAll('#filters button').forEach(x => x.classList.toggle('on', x === b));
+    render();
+  });
+  $('sort').onchange = e => { sort = e.target.value; render(); };
+  $('search').oninput = e => { q = fold(e.target.value.trim()); render(); };
+  window.mhRenderList = render;
+  render();
+})();
+</script>
+</body>
+</html>

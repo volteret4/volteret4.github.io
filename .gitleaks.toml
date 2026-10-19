@@ -1,0 +1,6 @@
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Generated period index: {\"key\": \"mensual-YYYY-MM\"} trips generic-api-key"
+paths = ['''docs/periodos/data/index\.js''']
