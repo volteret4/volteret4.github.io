@@ -1,0 +1,795 @@
+[
+  {
+    "number": 1,
+    "artist": "Juan Gabriel /",
+    "title": "Juan Gabriel con el Mariachi Vargas de Tecalitlán",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juan-gabriel-con-el-mariachi-vargas-de-tecalitlan/juan-gabriel-con-el-mariachi-vargas-de-tecalitlan",
+    "cover_url": "https://e.snmc.io/i/600/s/89d512aef819d95722cedb7213ddd483/6856740/Juan%20Gabriel%20con%20el%20Mariachi%20Vargas%20de%20Tecalitl%C3%A1n%20-%20Juan%20Gabriel%20con%20el%20Mariachi%20Vargas%20de%20Tecalitl%C3%A1n%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera",
+      "Canción melódica"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Vicente Fernández",
+    "title": "¡Arriba Huentitán!",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vicente-fernandez/_arriba-huentitan",
+    "cover_url": "https://e.snmc.io/i/600/s/672d949450ebbf805b3a71783de7d21c/12784544/Vicente%20Fern%C3%A1ndez%20-%20%C2%A1Arriba%20Huentit%C3%A1n!%2C%20Cover%20art.png",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ranchera",
+      "Mariachi"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Vicente Fernández",
+    "title": "Para siempre",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vicente-fernandez/para-siempre",
+    "cover_url": "https://e.snmc.io/i/600/s/924e82c511705b8d1a92d8fdf63c42ea/2687732/Vicente%20Fern%C3%A1ndez%20-%20Para%20siempre%2C%20Cover%20art.jpeg",
+    "rating": "3.74",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera",
+      "Latin Pop",
+      "Mexican Music"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Linda Ronstadt",
+    "title": "Canciones de mi padre",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/linda-ronstadt/canciones-de-mi-padre",
+    "cover_url": "https://e.snmc.io/i/600/s/2f0c7dc4c3cf4baf0f38fa29af44aff7/1249154/Linda%20Ronstadt%20-%20Canciones%20de%20mi%20padre%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ranchera",
+      "Mariachi",
+      "Habanera"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Rocío Dúrcal",
+    "title": "Canta a Juan Gabriel: Volumen 6",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rocio-durcal/canta-a-juan-gabriel-volumen-6",
+    "cover_url": "https://e.snmc.io/i/600/s/b7f7321fe3f87eb8dc3f9af5097ed2f5/7249142/Roc%C3%ADo%20D%C3%BArcal%20-%20Canta%20a%20Juan%20Gabriel%3A%20Volumen%206%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Canción melódica",
+      "Ranchera",
+      "Flamenco Pop"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Mariachi El Bronx",
+    "title": "Mariachi El Bronx",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mariachi_el_bronx/mariachi_el_bronx",
+    "cover_url": "https://e.snmc.io/i/600/s/6235ba8d8aea8a81e2fbc1049b1c7f2d/2820717/Mariachi%20El%20Bronx%20-%20Mariachi%20El%20Bronx%2C%20Cover%20art.jpeg",
+    "rating": "3.32",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Latin Alternative",
+      "Folk Punk",
+      "Punk Rock"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Luie Luie",
+    "title": "Touchy",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luie_luie/touchy",
+    "cover_url": "https://e.snmc.io/i/600/s/0a90827984b41229b50e9a6cd127b328/1804689/Luie%20Luie%20-%20Touchy%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mambo",
+      "Mariachi",
+      "Spoken Word",
+      "Space Age Pop"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Javier Solís",
+    "title": "Sombras",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/javier-solis/sombras",
+    "cover_url": "https://e.snmc.io/i/600/s/1a2ad955c32e3523eb1c0c6a082a49a5/9490317/Javier%20Sol%C3%ADs%20-%20Sombras%2C%20Cover%20art.jpeg",
+    "rating": "3.97",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Vicente Fernández",
+    "title": "El ídolo de México",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vicente-fernandez/el-idolo-de-mexico",
+    "cover_url": "https://e.snmc.io/i/600/s/d5ac934e7b635392abe849dc65d5b471/6934621/Vicente%20Fern%C3%A1ndez%20-%20El%20%C3%ADdolo%20de%20M%C3%A9xico%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Juan Gabriel",
+    "title": "Todo",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juan-gabriel/todo",
+    "cover_url": "https://e.snmc.io/i/600/s/d00734bdfb85a011e711f2488689b6d5/7522703/Juan%20Gabriel%20-%20Todo%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Canción melódica"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Javier Solís con el Mariachi Perla de Occidente",
+    "title": "Javier Solís con el Mariachi Perla de Occidente",
+    "year": 1957,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/javier-solis-con-el-mariachi-perla-de-occidente/javier-solis-con-el-mariachi-perla-de-occidente",
+    "cover_url": "https://e.snmc.io/i/600/s/b04c17dee750f4ff8b2fa55e032ebd37/7628915/Javier%20Sol%C3%ADs%20con%20el%20Mariachi%20Perla%20de%20Occidente%20-%20Javier%20Sol%C3%ADs%20con%20el%20Mariachi%20Perla%20de%20Occidente%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Mariachi El Bronx",
+    "title": "Mariachi El Bronx II",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mariachi_el_bronx/mariachi_el_bronx_ii",
+    "cover_url": "https://e.snmc.io/i/600/s/cf7f0f192ad7e3964d56c60f0394f200/4182057/Mariachi%20El%20Bronx%20-%20Mariachi%20El%20Bronx%20II%2C%20Cover%20art.jpeg",
+    "rating": "3.30",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Latin Alternative"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Vicente Fernández",
+    "title": "Por tu maldito amor",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vicente-fernandez/por-tu-maldito-amor",
+    "cover_url": "https://e.snmc.io/i/600/s/30a98a80672769c7f8db097a5e51b35e/5418455/Vicente%20Fern%C3%A1ndez%20-%20Por%20tu%20maldito%20amor%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "José Alfredo Jiménez",
+    "title": "El cantinero",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jose-alfredo-jimenez/el-cantinero",
+    "cover_url": "https://e.snmc.io/i/600/s/86fa66fb17afff19398bcf3dff0bc80c/7624748/Jos%C3%A9%20Alfredo%20Jim%C3%A9nez%20-%20El%20cantinero%2C%20Cover%20art.jpeg",
+    "rating": "3.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Linda Ronstadt",
+    "title": "Mas canciones",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/linda-ronstadt/mas-canciones",
+    "cover_url": "https://e.snmc.io/i/600/s/94bc38a6f5d19fef59d00b09464f4c1b/1249151/Linda%20Ronstadt%20-%20Mas%20canciones%2C%20Cover%20art.jpeg",
+    "rating": "3.32",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ranchera",
+      "Mariachi",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "José Alfredo Jiménez",
+    "title": "Ella... la que se fue",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jose-alfredo-jimenez/ella-la-que-se-fue-3",
+    "cover_url": "https://e.snmc.io/i/600/s/f9629abcabd374be39658a71d5665a58/5661130/Jos%C3%A9%20Alfredo%20Jim%C3%A9nez%20-%20Ella___%20la%20que%20se%20fue%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera",
+      "Son huasteco",
+      "Corrido"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Jorge Negrete",
+    "title": "Fiesta mexicana: Vol. II",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jorge-negrete/fiesta-mexicana-vol-ii",
+    "cover_url": "https://e.snmc.io/i/600/s/bcf75214fad7da53eb1ca3068e4ab9ed/8585445/Jorge%20Negrete%20-%20Fiesta%20mexicana%3A%20Vol_%20II%2C%20Cover%20art.jpeg",
+    "rating": "3.56",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera",
+      "Mexican Folk Music"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Juan Gabriel",
+    "title": "El México que se nos fue",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juan-gabriel/el-mexico-que-se-nos-fue",
+    "cover_url": "https://e.snmc.io/i/600/s/34d2b0f985d0a98f572260c181021116/4815297/Juan%20Gabriel%20-%20El%20M%C3%A9xico%20que%20se%20nos%20fue%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Norteño",
+      "Canción melódica"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Mariachi El Bronx",
+    "title": "Mariachi El Bronx III",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mariachi_el_bronx/mariachi_el_bronx_iii",
+    "cover_url": "https://e.snmc.io/i/600/s/984199c1403d7f671c0b14ed9936bb17/5463071/Mariachi%20El%20Bronx%20-%20Mariachi%20El%20Bronx%20III%2C%20Cover%20art.jpeg",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Latin Alternative",
+      "Indie Rock"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Trío Los Panchos",
+    "title": "Los Panchos con Mariachi",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/trio-los-panchos/los-panchos-con-mariachi",
+    "cover_url": "https://e.snmc.io/i/600/s/ca33073d2584266a8010282a79b66f8b/1943931/Tr%C3%ADo%20Los%20Panchos%20-%20Los%20Panchos%20con%20Mariachi%2C%20Cover%20art.jpeg",
+    "rating": "3.51",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Mexican Folk Music",
+      "Ranchera",
+      "Son jarocho"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Luis Miguel",
+    "title": "México en la piel",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luis-miguel/mexico-en-la-piel",
+    "cover_url": "https://e.snmc.io/i/600/s/e104e4aa4c6b0f1e135ce6177f697dfe/1320961/Luis%20Miguel%20-%20M%C3%A9xico%20en%20la%20piel%2C%20Cover%20art.jpeg",
+    "rating": "2.95",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mexican Music",
+      "Canción melódica",
+      "Mariachi",
+      "Ranchera",
+      "Canción melódica"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Antonio Aguilar",
+    "title": "Corridos",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/antonio-aguilar/corridos",
+    "cover_url": "https://e.snmc.io/i/600/s/b9957271a4f8e8b82dad9efedb5aee59/2273574/Antonio%20Aguilar%20-%20Corridos%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido",
+      "Mariachi"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Luis Miguel",
+    "title": "¡MÉXICO por siempre!",
+    "year": 2017,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luis-miguel/_mexico-por-siempre",
+    "cover_url": "https://e.snmc.io/i/600/s/153e92f4e2b120fbefd0ad7a9119cbfb/7099748/Luis%20Miguel%20-%20%C2%A1M%C3%89XICO%20por%20siempre!%2C%20Cover%20art.jpeg",
+    "rating": "3.12",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ranchera",
+      "Mariachi"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Juan Gabriel",
+    "title": "Juan Gabriel",
+    "year": 2010,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juan-gabriel/juan-gabriel-1",
+    "cover_url": "https://e.snmc.io/i/600/s/8dba6e826134a62c56efb697adc8c338/4224011/Juan%20Gabriel%20-%20Juan%20Gabriel%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Cuco Sánchez",
+    "title": "Cuco Sánchez con acompañamiento de mariachi, arpa y guitarra",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cuco-sanchez/cuco-sanchez-con-acompanamiento-de-mariachi-arpa-y-guitarra",
+    "cover_url": "https://e.snmc.io/i/600/s/36593b3d4c3b38a37ac4c63f4721f2ab/6270343/Cuco%20S%C3%A1nchez%20-%20Cuco%20S%C3%A1nchez%20con%20acompa%C3%B1amiento%20de%20mariachi%2C%20arpa%20y%20guitarra%2C%20Cover%20art.jpeg",
+    "rating": "3.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Pedro Infante",
+    "title": "Cuando sale la luna",
+    "year": 1952,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pedro-infante/cuando-sale-la-luna",
+    "cover_url": "https://e.snmc.io/i/600/s/0f0f1a5f7747aa79e63ac7234f18951a/9722264/Pedro%20Infante%20-%20Cuando%20sale%20la%20luna%2C%20Cover%20art.jpeg",
+    "rating": "3.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ranchera",
+      "Mariachi",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Flor de Toloache",
+    "title": "Mariachi Flor de Toloache",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/flor-de-toloache/mariachi-flor-de-toloache",
+    "cover_url": "https://e.snmc.io/i/600/s/b8dc0f5caeb608c1b0b48bb63a81b10a/7034208/Flor%20de%20Toloache%20-%20Mariachi%20Flor%20de%20Toloache%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera",
+      "Latin Pop"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Juan Gabriel con mariachi",
+    "title": "Juan Gabriel con mariachi",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juan-gabriel-con-mariachi/juan-gabriel-con-mariachi",
+    "cover_url": "https://e.snmc.io/i/600/s/dd82c42ef418578f3c263165cd381390/6772338/Juan%20Gabriel%20con%20mariachi%20-%20Juan%20Gabriel%20con%20mariachi%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Latin Pop",
+      "Canción melódica"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Mariachi El Bronx",
+    "title": "Mariachi El Bronx IV",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mariachi-el-bronx/mariachi-el-bronx-iv",
+    "cover_url": "https://e.snmc.io/i/600/s/aea0caf34ab21e502d7087009ff3cdd1/14284107/Mariachi%20El%20Bronx%20-%20Mariachi%20El%20Bronx%20IV%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Latin Alternative"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Vicente Fernández",
+    "title": "Que de raro tiene",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vicente-fernandez/que-de-raro-tiene",
+    "cover_url": "https://e.snmc.io/i/600/s/bbe3ee99b151a9a88c100b7a53098f89/3697751/Vicente%20Fern%C3%A1ndez%20-%20Que%20de%20raro%20tiene%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ranchera",
+      "Mariachi",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Vicente Fernández",
+    "title": "De que manera te olvido",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vicente-fernandez/de-que-manera-te-olvido",
+    "cover_url": "https://e.snmc.io/i/600/s/4301b3f71c765ed53ced3b13a19e2a06/6936243/Vicente%20Fern%C3%A1ndez%20-%20De%20que%20manera%20te%20olvido%2C%20Cover%20art.jpeg",
+    "rating": "3.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Mexican Folk Music",
+      "Ranchera",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Juan Gabriel con mariachi",
+    "title": "Mis ojos tristes...",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juan-gabriel-con-mariachi/mis-ojos-tristes",
+    "cover_url": "https://e.snmc.io/i/600/s/a1691961c83ecc8e334379b3364ae322/7378288/Juan%20Gabriel%20con%20mariachi%20-%20Mis%20ojos%20tristes___%2C%20Cover%20art.jpeg",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Canción melódica"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Javier Solís",
+    "title": "Payaso",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/javier-solis/payaso",
+    "cover_url": "https://e.snmc.io/i/600/s/8d24521583c2053a4e26eff67f03c587/9490333/Javier%20Sol%C3%ADs%20-%20Payaso%2C%20Cover%20art.jpeg",
+    "rating": "3.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Flor de Toloache",
+    "title": "Indestructible",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/flor-de-toloache/indestructible",
+    "cover_url": "https://e.snmc.io/i/600/s/c5101bbfbcde42c7c547b7c8e815768f/7539007/Flor%20de%20Toloache%20-%20Indestructible%2C%20Cover%20art.jpeg",
+    "rating": "3.52",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera",
+      "Latin Pop"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Paquita la del Barrio con mariachi",
+    "title": "Taco placero",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/paquita-la-del-barrio-con-mariachi/taco-placero",
+    "cover_url": "https://e.snmc.io/i/600/s/9d27533fe5cc299f585f740c9366de26/6317334/Paquita%20la%20del%20Barrio%20con%20mariachi%20-%20Taco%20placero%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Christian Nodal",
+    "title": "AYAYAY!",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/christian-nodal/ayayay",
+    "cover_url": "https://e.snmc.io/i/600/s/62ae5312a26b5fffef832e0b1ba71daa/8446765/Christian%20Nodal%20-%20AYAYAY!%2C%20Cover%20art.jpeg",
+    "rating": "3.30",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera",
+      "Norteño"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Irma Serrano",
+    "title": "Irma Serrano",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/irma-serrano/irma-serrano",
+    "cover_url": "https://e.snmc.io/i/600/s/22d3174ec3018fcb9444d111ec4227c4/6277985/Irma%20Serrano%20-%20Irma%20Serrano%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Ranchera",
+      "Bolero-Beat",
+      "Mexican Folk Music"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Javier Solís",
+    "title": "Rancheras con Javier Solís",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/javier-solis/rancheras-con-javier-solis",
+    "cover_url": "https://e.snmc.io/i/600/s/be147d4b56b13579690d325b5696217e/5418206/Javier%20Sol%C3%ADs%20-%20Rancheras%20con%20Javier%20Sol%C3%ADs%2C%20Cover%20art.jpeg",
+    "rating": "3.85",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ranchera",
+      "Mariachi"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Vicente Fernández",
+    "title": "La voz que usted esperaba",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vicente-fernandez/la-voz-que-usted-esperaba",
+    "cover_url": "https://e.snmc.io/i/600/s/244605d6684b48240cda4f9b6fe22083/7181314/Vicente%20Fern%C3%A1ndez%20-%20La%20voz%20que%20usted%20esperaba%2C%20Cover%20art.jpeg",
+    "rating": "3.30",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mariachi",
+      "Bolero",
+      "Ranchera"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Ana Gabriel",
+    "title": "Mi México",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ana-gabriel/mi-mexico",
+    "cover_url": "https://e.snmc.io/i/600/s/989886bdc775ccbc42912703c745b684/12322172/Ana%20Gabriel%20-%20Mi%20M%C3%A9xico%2C%20Cover%20art.jpeg",
+    "rating": "3.46",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ranchera",
+      "Mariachi"
+    ]
+  }
+]

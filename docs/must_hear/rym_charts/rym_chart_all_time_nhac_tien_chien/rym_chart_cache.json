@@ -1,0 +1,427 @@
+[
+  {
+    "number": 1,
+    "artist": "Lệ Thu",
+    "title": "Sơn Ca 9",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/le-thu/son-ca-9",
+    "cover_url": "https://e.snmc.io/i/600/s/79c6a612b79cf7b4962364c353b6ed8d/7459879/L%E1%BB%87%20Thu%20-%20S%C6%A1n%20Ca%209%2C%20Cover%20art.jpeg",
+    "rating": "3.40",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc vàng",
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Julie",
+    "title": "Nỗi lòng",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/julie/noi-long",
+    "cover_url": "https://e.snmc.io/i/600/s/89755def4c8515f2cb5821d0092546d4/12857601/Julie%20-%20N%E1%BB%97i%20l%C3%B2ng%2C%20Cover%20art.jpeg",
+    "rating": "4.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Mai Hương",
+    "title": "Giấc mơ hồi hương",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mai-hưong/giac-mo-hoi-hưong",
+    "cover_url": "https://e.snmc.io/i/600/s/ca931beeaad6567ce2e00f46b5ddcef6/12048320/Mai%20H%C6%B0%C6%A1ng%20-%20Gi%E1%BA%A5c%20m%C6%A1%20h%E1%BB%93i%20h%C6%B0%C6%A1ng%2C%20Cover%20art.jpeg",
+    "rating": "3.06",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Ngọc Minh",
+    "title": "Đêm không cùng",
+    "year": 1982,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ngoc-minh/dem-khong-cung",
+    "cover_url": "https://e.snmc.io/i/600/s/2ceee2afac2636c6029ac94bfed0e9ed/12444761/Ng%E1%BB%8Dc%20Minh%20-%20%C4%90%C3%AAm%20kh%C3%B4ng%20c%C3%B9ng%2C%20Cover%20art.jpeg",
+    "rating": "2.92",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Lan Ngọc",
+    "title": "Cánh hoa duyên kiếp",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lan-ngoc/canh-hoa-duyen-kiep",
+    "cover_url": "https://e.snmc.io/i/600/s/a11968bef804b9cef526a1eed7d4a3c8/15002300/Lan%20Ng%E1%BB%8Dc%20-%20C%C3%A1nh%20hoa%20duy%C3%AAn%20ki%E1%BA%BFp%2C%20Cover%20art.jpeg",
+    "rating": "3.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Tuấn Ngọc",
+    "title": "Lá đổ muôn chiều",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tuan-ngoc/la-do-muon-chieu",
+    "cover_url": "https://e.snmc.io/i/600/s/cdee183a3f19aaefb36811760be53eda/12063899/Tu%E1%BA%A5n%20Ng%E1%BB%8Dc%20-%20L%C3%A1%20%C4%91%E1%BB%95%20mu%C3%B4n%20chi%E1%BB%81u%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Anh Ngọc",
+    "title": "Tiếng hát lênh đênh",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/anh-ngoc/tieng-hat-lenh-denh",
+    "cover_url": "https://e.snmc.io/i/600/s/5171de4eab79294b5f555408c5d99b07/12297635/Anh%20Ng%E1%BB%8Dc%20-%20Ti%E1%BA%BFng%20h%C3%A1t%20l%C3%AAnh%20%C4%91%C3%AAnh%2C%20Cover%20art.jpeg",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Duy Trác",
+    "title": "Giã từ",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/duy-trac/gia-tu",
+    "cover_url": "https://e.snmc.io/i/600/s/a7c797046357b8dc3e8f15853398fa10/13060438/Duy%20Tr%C3%A1c%20-%20Gi%C3%A3%20t%E1%BB%AB%2C%20Cover%20art.jpeg",
+    "rating": "2.96",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến",
+      "Tango"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Thanh Thúy",
+    "title": "Tình khúc tiền chiến",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/thanh-thuy/tinh-khuc-tien-chien",
+    "cover_url": "https://e.snmc.io/i/600/s/8c0c31e4b0800f7e9e8eee740142fcf3/11984515/Thanh%20Th%C3%BAy%20-%20T%C3%ACnh%20kh%C3%BAc%20ti%E1%BB%81n%20chi%E1%BA%BFn%2C%20Cover%20art.jpeg",
+    "rating": "3.26",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bolero Việt Nam",
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Trần Mạnh Tuấn",
+    "title": "Bóng thời gian (The Shadow of Time)",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tran-manh-tuan/bong-thoi-gian-the-shadow-of-time",
+    "cover_url": "https://e.snmc.io/i/600/s/d87117420b1e8f7010b37e132f12194b/1814660/Tr%E1%BA%A7n%20M%E1%BA%A1nh%20Tu%E1%BA%A5n%20-%20B%C3%B3ng%20th%E1%BB%9Di%20gian%20(The%20Shadow%20of%20Time)%2C%20Cover%20art.jpeg",
+    "rating": "3.98",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Jazz",
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Sĩ Phú",
+    "title": "Tà áo xanh",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/si-phu/ta-ao-xanh",
+    "cover_url": "https://e.snmc.io/i/600/s/e8d8837a37f66cecd10369fe1a8dedbc/11976750/S%C4%A9%20Ph%C3%BA%20-%20T%C3%A0%20%C3%A1o%20xanh%2C%20Cover%20art.jpeg",
+    "rating": "2.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Khánh Hà",
+    "title": "Hát cho giấc mơ xưa",
+    "year": 1982,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/khanh-ha/hat-cho-giac-mo-xưa",
+    "cover_url": "https://e.snmc.io/i/600/s/86bea639eba03dfd6f2881137f71176f/15089577/Kh%C3%A1nh%20H%C3%A0%20-%20H%C3%A1t%20cho%20gi%E1%BA%A5c%20m%C6%A1%20x%C6%B0a%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Hồng Vân",
+    "title": "Thi nhạc giao duyên",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/hong-van/thi-nhac-giao-duyen",
+    "cover_url": "https://e.snmc.io/i/600/s/4b80810e1dadb382622ecab1efeb8dac/13859921/H%E1%BB%93ng%20V%C3%A2n%20-%20Thi%20nh%E1%BA%A1c%20giao%20duy%C3%AAn%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ngâm thơ",
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Phương Hồng Hạnh",
+    "title": "Tiếng hát Phương Hồng Hạnh",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/phưong-hong-hanh/tieng-hat-phưong-hong-hanh",
+    "cover_url": "https://e.snmc.io/i/600/s/af93f7a93c01be4e117bc88bbd25199e/14910508/Ph%C6%B0%C6%A1ng%20H%E1%BB%93ng%20H%E1%BA%A1nh%20-%20Ti%E1%BA%BFng%20h%C3%A1t%20Ph%C6%B0%C6%A1ng%20H%E1%BB%93ng%20H%E1%BA%A1nh%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc vàng",
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Paolo Tuấn",
+    "title": "Yêu một ngày, nhớ một đời",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/paolo-tuan/yeu-mot-ngay-nho-mot-doi",
+    "cover_url": "https://e.snmc.io/i/600/s/2eec92360201f038ded73b3fcf0efc1c/14350936/Paolo%20Tu%E1%BA%A5n%20-%20Y%C3%AAu%20m%E1%BB%99t%20ng%C3%A0y%2C%20nh%E1%BB%9B%20m%E1%BB%99t%20%C4%91%E1%BB%9Di%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc vàng",
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Vũ Khanh",
+    "title": "Từ lúc em đi",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vu-khanh/tu-luc-em-di",
+    "cover_url": "https://e.snmc.io/i/600/s/0dc303258d4ef5c11e250c9952fcc714/14878719/V%C5%A9%20Khanh%20-%20T%E1%BB%AB%20l%C3%BAc%20em%20%C4%91i%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Tâm Vấn",
+    "title": "Những tình khúc hoài niệm: \"Bạn lòng\"",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tam-van/nhung-tinh-khuc-hoai-niem-ban-long",
+    "cover_url": "https://e.snmc.io/i/600/s/ecf4c57f91d52b9a2376eaceb867fa4c/11144853/T%C3%A2m%20V%E1%BA%A5n%20-%20Nh%E1%BB%AFng%20t%C3%ACnh%20kh%C3%BAc%20ho%C3%A0i%20ni%E1%BB%87m%3A%20%22B%E1%BA%A1n%20l%C3%B2ng%22%2C%20Cover%20art.png",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến",
+      "Tango"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Trịnh Nam Sơn &",
+    "title": "Tình cuối xót xa",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/trịnh-nam-son-thanh-van/tinh-cuoi-xot-xa",
+    "cover_url": "https://e.snmc.io/i/600/s/0d6a18b51a6b01ce38e3c2f80aa4b1cc/14941294/Tr%E1%BB%8Bnh%20Nam%20S%C6%A1n%20%26%20Thanh%20V%C3%A2n%20-%20T%C3%ACnh%20cu%E1%BB%91i%20x%C3%B3t%20xa%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Trần Mạnh Tuấn",
+    "title": "Độc tấu saxo",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tran-manh-tuan/doc-tau-saxo",
+    "cover_url": "https://e.snmc.io/i/600/s/d309cf4cba26feb248240a94ece65ba9/12246384/Tr%E1%BA%A7n%20M%E1%BA%A1nh%20Tu%E1%BA%A5n%20-%20%C4%90%E1%BB%99c%20t%E1%BA%A5u%20saxo%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Jazz Pop",
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Khánh Ngọc",
+    "title": "Đôi mắt người Sơn Tây",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/khanh-ngoc/doi-mat-ngưoi-son-tay",
+    "cover_url": "https://e.snmc.io/i/600/s/393de8a645aa49a0d36cc1bece862c4c/14030182/Kh%C3%A1nh%20Ng%E1%BB%8Dc%20-%20%C4%90%C3%B4i%20m%E1%BA%AFt%20ng%C6%B0%E1%BB%9Di%20S%C6%A1n%20T%C3%A2y%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Duy Trác /",
+    "title": "Xin hãy rời xa",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/duy-trac-vu-khanh-tuan-ngoc-si-phu/xin-hay-roi-xa",
+    "cover_url": "https://e.snmc.io/i/600/s/6e25e985215cd90e2995288ee11e7b97/13163776/Duy%20Tr%C3%A1c%20%2F%20V%C5%A9%20Khanh%20%2F%20Tu%E1%BA%A5n%20Ng%E1%BB%8Dc%20%2F%20S%C4%A9%20Ph%C3%BA%20-%20Xin%20h%C3%A3y%20r%E1%BB%9Di%20xa%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc vàng",
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Thanh Lan",
+    "title": "Đi lễ chùa Hương",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/thanh-lan/di-le-chua-hưong",
+    "cover_url": "https://e.snmc.io/i/600/s/94031c0b1c13d3b0decad8d3cd45ef8a/7639991/Thanh%20Lan%20-%20%C4%90i%20l%E1%BB%85%20ch%C3%B9a%20H%C6%B0%C6%A1ng%2C%20Cover%20art.jpeg",
+    "rating": "2.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc tiền chiến"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Anh Ngọc",
+    "title": "Tiếng chiều rơi",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/various-artists/tieng-chieu-roi",
+    "cover_url": "https://e.snmc.io/i/600/s/1260e61c588b09ec7c7e552835d05144/8877993/Various%20Artists%20-%20Ti%E1%BA%BFng%20chi%E1%BB%81u%20r%C6%A1i%2C%20Cover%20art.jpeg",
+    "rating": "2.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nhạc vàng",
+      "Nhạc tiền chiến"
+    ]
+  }
+]

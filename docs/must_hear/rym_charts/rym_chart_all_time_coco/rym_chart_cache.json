@@ -1,0 +1,744 @@
+[
+  {
+    "number": 1,
+    "artist": "Lia de Itamaracá",
+    "title": "Ciranda sem fim",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lia-de-itamaraca/ciranda-sem-fim",
+    "cover_url": "https://e.snmc.io/i/600/s/b9fcffcae083015c15fe1a9d032e9744/11547686/Lia%20de%20Itamarac%C3%A1%20-%20Ciranda%20sem%20fim%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ciranda",
+      "Afoxé",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Mestre Ambrósio",
+    "title": "Mestre Ambrósio",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mestre-ambrosio/mestre-ambrosio",
+    "cover_url": "https://e.snmc.io/i/600/s/95a0cdab59859701165a4dfd655b7672/7596786/Mestre%20Ambr%C3%B3sio%20-%20Mestre%20Ambr%C3%B3sio%2C%20Cover%20art.jpeg",
+    "rating": "3.56",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Maracatu",
+      "Coco",
+      "Cantoria",
+      "Samba"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Renata Rosa",
+    "title": "Zunido da mata",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/renata-rosa/zunido-da-mata",
+    "cover_url": "https://e.snmc.io/i/600/s/eff678ac3fb97c0a02bd7bd611082b5a/3206077/Renata%20Rosa%20-%20Zunido%20da%20mata%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco",
+      "Maracatu",
+      "Repente"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Comadre Florzinha",
+    "title": "Comadre Florzinha",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/comadre-florzinha/comadre-florzinha",
+    "cover_url": "https://e.snmc.io/i/600/s/9870d002a2ff6a830c6d7aad52c454cd/1949882/Comadre%20Florzinha%20-%20Comadre%20Florzinha%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Coco",
+      "Maracatu",
+      "Baião",
+      "Ciranda"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "NANA*",
+    "title": "Amazonas",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nana/amazonas",
+    "cover_url": "https://e.snmc.io/i/600/s/ad5221477621e8a1935f92f096a00ca3/2249781/NANA*%20-%20Amazonas%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Avant-Folk",
+      "Coco",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Lia de Itamaracá",
+    "title": "A rainha da ciranda",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lia-de-itamaraca/a-rainha-da-ciranda",
+    "cover_url": "https://e.snmc.io/i/600/s/6fa5e01d29c3b805e4c2438947918b3c/6181125/Lia%20de%20Itamarac%C3%A1%20-%20A%20rainha%20da%20ciranda%2C%20Cover%20art.jpeg",
+    "rating": "3.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ciranda"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Jackson do Pandeiro",
+    "title": "Forró do Jackson",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jackson-do-pandeiro/forro-do-jackson",
+    "cover_url": "https://e.snmc.io/i/600/s/f6abb72a2184bbedfeef3a8005950ad7/7433577/Jackson%20do%20Pandeiro%20-%20Forr%C3%B3%20do%20Jackson%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco",
+      "Forró",
+      "Baião"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Siba e a Fuloresta",
+    "title": "Toda vez que eu dou um passo o mundo sai do lugar",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/siba-e-a-fuloresta/toda-vez-que-eu-dou-um-passo-o-mundo-sai-do-lugar",
+    "cover_url": "https://e.snmc.io/i/600/s/5b0515eb2ee36d5fe08f20cd6b8c8d45/2325575/Siba%20e%20a%20Fuloresta%20-%20Toda%20vez%20que%20eu%20dou%20um%20passo%20o%20mundo%20sai%20do%20lugar%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco",
+      "Ciranda",
+      "Frevo",
+      "Maracatu"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Mestre Ambrósio",
+    "title": "Terceiro samba",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mestre-ambrosio/terceiro-samba",
+    "cover_url": "https://e.snmc.io/i/600/s/e6670bcf6d51cebf131e5f90efead041/7596785/Mestre%20Ambr%C3%B3sio%20-%20Terceiro%20samba%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Coco",
+      "Manguebeat",
+      "Maracatu",
+      "Samba"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Jackson do Pandeiro",
+    "title": "Jackson do Pandeiro",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jackson-do-pandeiro/jackson-do-pandeiro",
+    "cover_url": "https://e.snmc.io/i/600/s/1b0980127a44920d8820a075d45f5765/5953364/Jackson%20do%20Pandeiro%20-%20Jackson%20do%20Pandeiro%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco",
+      "Forró",
+      "Baião"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Mestre Anderson Miguel",
+    "title": "Sonorosa",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mestre-anderson-miguel/sonorosa",
+    "cover_url": "https://e.snmc.io/i/600/s/f4af543b56f04f27d6fc28dedcd9bd9b/6969415/Mestre%20Anderson%20Miguel%20-%20Sonorosa%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ciranda",
+      "Maracatu"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Siba",
+    "title": "Fuloresta do samba",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/siba/fuloresta-do-samba",
+    "cover_url": "https://e.snmc.io/i/600/s/72fa39c06ed143e8cad8b822e8a426dc/1715620/Siba%20-%20Fuloresta%20do%20samba%2C%20Cover%20art.jpeg",
+    "rating": "3.63",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Maracatu",
+      "Ciranda",
+      "Coco",
+      "Frevo"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Lia de Itamaracá",
+    "title": "Eu sou Lia",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lia-de-itamaraca/eu-sou-lia",
+    "cover_url": "https://e.snmc.io/i/600/s/61d1a98a149fcc5ba47ded3bd07490ad/7560148/Lia%20de%20Itamarac%C3%A1%20-%20Eu%20sou%20Lia%2C%20Cover%20art.png",
+    "rating": "3.70",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ciranda",
+      "Maracatu",
+      "Coco",
+      "Afoxé"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Cordel do Fogo Encantado",
+    "title": "O palhaço do circo sem futuro",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cordel-do-fogo-encantado/o-palhaco-do-circo-sem-futuro",
+    "cover_url": "https://e.snmc.io/i/600/s/b14924e4c34ea8df2f99641916b01d42/5363709/Cordel%20do%20Fogo%20Encantado%20-%20O%20palha%C3%A7o%20do%20circo%20sem%20futuro%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Maracatu",
+      "Avant-Folk",
+      "Coco",
+      "Poetry",
+      "Manguebeat"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Nelson da Rabeca &",
+    "title": "Tradição improvisada",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nelson-da-rabeca-thomas-rohrer/tradicao-improvisada",
+    "cover_url": "https://e.snmc.io/i/600/s/7e9c737cf77acd7a2db93719510c9e8e/7174355/Nelson%20da%20Rabeca%20%26%20Thomas%20Rohrer%20-%20Tradi%C3%A7%C3%A3o%20improvisada%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baião",
+      "Coco",
+      "Forró",
+      "Free Improvisation",
+      "Xote"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Cascabulho",
+    "title": "Fome dá dor de cabeça",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cascabulho/fome-da-dor-de-cabeca",
+    "cover_url": "https://e.snmc.io/i/600/s/0b58e0d129d249ffca487ba4ffd8943b/3259473/Cascabulho%20-%20Fome%20d%C3%A1%20dor%20de%20cabe%C3%A7a%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baião",
+      "Coco",
+      "Maracatu",
+      "Manguebeat"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Lia de Itamaracá &",
+    "title": "Pelos olhos do mar",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lia-de-itamaraca-daude/pelos-olhos-do-mar",
+    "cover_url": "https://e.snmc.io/i/600/s/6f155db82d684b903be6fad4f58a1dcd/13956781/Lia%20de%20Itamarac%C3%A1%20%26%20Da%C3%BAde%20-%20Pelos%20olhos%20do%20mar%2C%20Cover%20art.jpeg",
+    "rating": "3.80",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Ciranda",
+      "Brega",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "As Ganhadeiras de Itapuã",
+    "title": "As Ganhadeiras de Itapuã",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/as-ganhadeiras-de-itapua/as-ganhadeiras-de-itapua",
+    "cover_url": "https://e.snmc.io/i/600/s/d6f2974fc04a03328b65dad74c7ebe31/6920109/As%20Ganhadeiras%20de%20Itapu%C3%A3%20-%20As%20Ganhadeiras%20de%20Itapu%C3%A3%2C%20Cover%20art.jpeg",
+    "rating": "3.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba de roda",
+      "Coco",
+      "Samba-choro",
+      "Afoxé"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Bezerra da Silva",
+    "title": "O rei do côco",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bezerra-da-silva/o-rei-do-coco",
+    "cover_url": "https://e.snmc.io/i/600/s/ec3c882bbbc8f78f457180f80253fef1/2751816/Bezerra%20da%20Silva%20-%20O%20rei%20do%20c%C3%B4co%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco",
+      "Samba",
+      "Forró"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Jackson do Pandeiro",
+    "title": "O cabra da peste",
+    "year": 1966,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jackson-do-pandeiro/o-cabra-da-peste",
+    "cover_url": "https://e.snmc.io/i/600/s/87a0d81838e02102eee63a21cd1731fb/10593656/Jackson%20do%20Pandeiro%20-%20O%20cabra%20da%20peste%2C%20Cover%20art.jpeg",
+    "rating": "3.78",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Coco",
+      "Samba",
+      "Baião"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Caçapa",
+    "title": "Elefantes na Rua Nova",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cacapa/elefantes-na-rua-nova",
+    "cover_url": "https://e.snmc.io/i/600/s/02d1ea5b58426db44ba4e8ec33125011/4010982/Ca%C3%A7apa%20-%20Elefantes%20na%20Rua%20Nova%2C%20Cover%20art.png",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Contemporary Folk",
+      "Avant-Folk",
+      "Baião",
+      "Baião",
+      "Coco"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Dona Duda /",
+    "title": "Vamos cirandar",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cobicada-dona-duda-baracho-e-imperial-em-19-autenticas-cirandas-pernambucanas/vamos-cirandar",
+    "cover_url": "https://e.snmc.io/i/600/s/6cf2c416083e76f3ee60d1964f517f0c/3230790/%22Cobi%C3%A7ada%22%20(Dona%20Duda)%2C%20%22Baracho%22%20e%20%22Imperial%22%20em%2019%20aut%C3%AAnticas%20cirandas%20pernambucanas%20-%20Vamos%20cirandar%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ciranda"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Samba de Coco Raízes de Arcoverde",
+    "title": "Maga Bo apresenta Samba de Coco Raízes de Arcoverde",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/samba-de-coco-raizes-de-arcoverde/maga-bo-apresenta-samba-de-coco-raizes-de-arcoverde",
+    "cover_url": "https://e.snmc.io/i/600/s/be8211493c575853390cca8820ce100c/7339843/Samba%20de%20Coco%20Ra%C3%ADzes%20de%20Arcoverde%20-%20Maga%20Bo%20apresenta%20Samba%20de%20Coco%20Ra%C3%ADzes%20de%20Arcoverde%2C%20Cover%20art.jpeg",
+    "rating": "3.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco",
+      "Maracatu",
+      "Electronic Dance Music"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Jackson do Pandeiro",
+    "title": "Alegria Minha Gente",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jackson_do_pandeiro/alegria_minha_gente",
+    "cover_url": "https://e.snmc.io/i/600/s/2690a7c36d92a9450fd471745c65937d/2243430/Jackson%20do%20Pandeiro%20-%20Alegria%20Minha%20Gente%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Coco"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Alessandra Leão",
+    "title": "Acesa",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alessandra-leao/acesa",
+    "cover_url": "https://e.snmc.io/i/600/s/bceb313857afee000726ae98ad357eca/9493928/Alessandra%20Le%C3%A3o%20-%20Acesa%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Art Pop",
+      "Coco",
+      "Ciranda"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Academia da Berlinda",
+    "title": "Descompondo o silêncio",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/academia-da-berlinda/descompondo-o-silencio",
+    "cover_url": "https://e.snmc.io/i/600/s/1d5c49246b3224025c56e4e895064248/8078692/Academia%20da%20Berlinda%20-%20Descompondo%20o%20sil%C3%AAncio%2C%20Cover%20art.jpeg",
+    "rating": "3.40",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia",
+      "Coco",
+      "Manguebeat"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Dona Selma do Coco",
+    "title": "Minha história",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dona-selma-do-coco/minha-historia",
+    "cover_url": "https://e.snmc.io/i/600/s/c4bb42b97c265a2294d872cd88dc3c86/5802699/Dona%20Selma%20do%20Coco%20-%20Minha%20hist%C3%B3ria%2C%20Cover%20art.jpeg",
+    "rating": "3.78",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco",
+      "Maracatu"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Bezerra da Silva",
+    "title": "O rei do côco, vol. 2",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bezerra-da-silva/o-rei-do-coco-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/8c91faba04747e02d3abb40b8c27b57e/2278559/Bezerra%20da%20Silva%20-%20O%20rei%20do%20c%C3%B4co%2C%20vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "3.97",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco",
+      "Partido alto"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Biu Roque",
+    "title": "A noite hoje é maior",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/biu-roque/a-noite-hoje-e-maior",
+    "cover_url": "https://e.snmc.io/i/600/s/b812b7cca6dff7757ceeb1ecd9609a20/7438824/Biu%20Roque%20-%20A%20noite%20hoje%20%C3%A9%20maior%2C%20Cover%20art.jpeg",
+    "rating": "3.81",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco",
+      "Ciranda",
+      "Maracatu"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Jackson do Pandeiro",
+    "title": "Aqui tô eu",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jackson_do_pandeiro/aqui_to_eu",
+    "cover_url": "https://e.snmc.io/i/600/s/0e852542258dc11a3fc4d37e1eae8ddf/6114868/Jackson%20do%20Pandeiro%20-%20Aqui%20t%C3%B4%20eu%2C%20Cover%20art.jpeg",
+    "rating": "3.70",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Coco",
+      "Samba"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Chão e Chinelo",
+    "title": "Loa do Boi Meia Noite",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chao-e-chinelo/loa-do-boi-meia-noite",
+    "cover_url": "https://e.snmc.io/i/600/s/7bed48b1af5510dc75ab42b3005e3da1/3026690/Ch%C3%A3o%20e%20Chinelo%20-%20Loa%20do%20Boi%20Meia%20Noite%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco",
+      "Forró",
+      "Manguebeat"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Cila do Coco e Seus Pupilos",
+    "title": "Cila do Coco e Seus Pupilos",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cila-do-coco-e-seus-pupilos/cila-do-coco-e-seus-pupilos",
+    "cover_url": "https://e.snmc.io/i/600/s/8ab4305a556087f00c3fc34895c5d286/8957764/Cila%20do%20Coco%20e%20Seus%20Pupilos%20-%20Cila%20do%20Coco%20e%20Seus%20Pupilos%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Quinteto Violado",
+    "title": "Música popular do Nordeste 3",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/quinteto-violado/musica-popular-do-nordeste-3",
+    "cover_url": "https://e.snmc.io/i/600/s/42d9e1f2c8f7f2007b8a5c69cf1bc92e/4408700/Quinteto%20Violado%20-%20M%C3%BAsica%20popular%20do%20Nordeste%203%2C%20Cover%20art.jpeg",
+    "rating": "3.74",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Northeastern Brazilian Music",
+      "Samba de roda",
+      "Coco"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Caju & Castanha",
+    "title": "Professor de embolada",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/caju-and-castanha/professor-de-embolada",
+    "cover_url": "https://e.snmc.io/i/600/s/8f4c6d64bea63220d2af3c32508fd12b/1666800/Caju%20%26%20Castanha%20-%20Professor%20de%20embolada%2C%20Cover%20art.jpeg",
+    "rating": "3.17",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Embolada"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Coco Raízes de Arcoverde",
+    "title": "Coco Raízes de Arcoverde",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/coco-raizes-de-arcoverde/coco-raizes-de-arcoverde",
+    "cover_url": "https://e.snmc.io/i/600/s/dfc03642a1ddbf6ca3fe8d9c7a300d02/7009018/Coco%20Ra%C3%ADzes%20de%20Arcoverde%20-%20Coco%20Ra%C3%ADzes%20de%20Arcoverde%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Antonio Nóbrega",
+    "title": "Na pancada do ganzá",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/antonio-nobrega/na-pancada-do-ganza",
+    "cover_url": "https://e.snmc.io/i/600/s/774e8db596410db6d50200be9461bf01/1705150/Antonio%20N%C3%B3brega%20-%20Na%20pancada%20do%20ganz%C3%A1%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Maracatu",
+      "Coco"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Dona Glorinha do Coco",
+    "title": "Dona Glorinha do Coco",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dona-glorinha-do-coco/dona-glorinha-do-coco",
+    "cover_url": "https://e.snmc.io/i/600/s/3996a14dd5714781192a0b44e89d2881/5700289/Dona%20Glorinha%20do%20Coco%20-%20Dona%20Glorinha%20do%20Coco%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco"
+    ]
+  }
+]

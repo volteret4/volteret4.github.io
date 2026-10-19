@@ -1,0 +1,731 @@
+[
+  {
+    "number": 1,
+    "artist": "Kya Kanyut Mesem",
+    "title": "Gamelan Garland",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kya-kanyut-mesem/gamelan-garland",
+    "cover_url": "https://e.snmc.io/i/600/s/d8a2056522d8c487cfce3c948489263f/6934749/Kya%20Kanyut%20Mesem%20-%20Gamelan%20Garland%2C%20Cover%20art.jpeg",
+    "rating": "3.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "National Broadcasting Company (R.R.I.) Orchestra",
+    "title": "Klênêngan Session of Solonese Gamêlan I",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/national-broadcasting-company-r_r_i-orchestra/klenengan-session-of-solonese-gamelan-i",
+    "cover_url": "https://e.snmc.io/i/600/s/ca7b3498e644a8a0fb940bf9136a898a/9607979/National%20Broadcasting%20Company%20(R_R_I_)%20Orchestra%20-%20Kl%C3%AAn%C3%AAngan%20Session%20of%20Solonese%20Gam%C3%AAlan%20I%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Langen Praja",
+    "title": "Langendriyan: Music of Mangkunegaran Solo II",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/langen-praja/langendriyan-music-of-mangkunegaran-solo-ii",
+    "cover_url": "https://e.snmc.io/i/600/s/a4ca86485009c6b4c34abf260e7daf01/3073257/Langen%20Praja%20-%20Langendriyan%3A%20Music%20of%20Mangkunegaran%20Solo%20II%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Solonese Gamelan",
+      "Javanese Gamelan"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Pawiyatan Kraton Surakarta",
+    "title": "Court Music of Kraton Surakarta",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pawiyatan-kraton-surakarta/court-music-of-kraton-surakarta",
+    "cover_url": "https://e.snmc.io/i/600/s/710ae775dc573a058a2a1a5222f1e1fc/7379189/Pawiyatan%20Kraton%20Surakarta%20-%20Court%20Music%20of%20Kraton%20Surakarta%2C%20Cover%20art.jpeg",
+    "rating": "3.78",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Keluarga Karawitan Studio R.R.I. Surakarta",
+    "title": "Klenengan gobyog 4: Endhol-endhol",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keluarga-karawitan-studio-r_r_i-surakarta/klenengan-gobyog-4-endhol-endhol",
+    "cover_url": "https://e.snmc.io/i/600/s/cecd4eff2c7935b2d87256ca42cbde67/8125532/Keluarga%20Karawitan%20Studio%20R_R_I_%20Surakarta%20-%20Klenengan%20gobyog%204%3A%20Endhol-endhol%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Kya Kanyut Mesem /",
+    "title": "Javanese Court Gamelan, Volume II",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gamelan-kya-kanyut-mesem-gamelan-kyai-udan-arum/javanese-court-gamelan-volume-ii",
+    "cover_url": "https://e.snmc.io/i/600/s/d0af02c01228105466845dc3ca35036b/13930468/Gamelan%20Kya%20Kanyut%20Mesem%20%2F%20Gamelan%20Kyai%20Udan%20Arum%20-%20Javanese%20Court%20Gamelan%2C%20Volume%20II%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Sarasehan Karawitan Surakarta",
+    "title": "Rebab and Female Singing of Central Javanese Gamelan",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sarasehan-karawitan-surakarta/rebab-and-female-singing-of-central-javanese-gamelan",
+    "cover_url": "https://e.snmc.io/i/600/s/621e343872b574cf6aeb5ee6b4f081e3/10126116/Sarasehan%20Karawitan%20Surakarta%20-%20Rebab%20and%20Female%20Singing%20of%20Central%20Javanese%20Gamelan%2C%20Cover%20art.jpeg",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Langen Praja",
+    "title": "Music of Mangkunêgaran Solo I",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/langen-praja/music-of-mangkunegaran-solo-i",
+    "cover_url": "https://e.snmc.io/i/600/s/e876e0f857db9e2b5024009b7d883f15/6743290/Langen%20Praja%20-%20Music%20of%20Mangkun%C3%AAgaran%20Solo%20I%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Keluarga Karawitan Studio R.R.I. Surakarta /",
+    "title": "Gambir sawit: Javanese Gamelan Variations",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keluarga-karawitan-studio-r_r_i-surakarta-p-atmosoenarto/gambir-sawit-javanese-gamelan-variations",
+    "cover_url": "https://e.snmc.io/i/600/s/1e16e53d6652e5d8fdb10fc0ce135c82/3186924/Keluarga%20Karawitan%20Studio%20R_R_I_%20Surakarta%20%2F%20P_%20Atmosoenarto%20-%20Gambir%20sawit%3A%20Javanese%20Gamelan%20Variations%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Pawiyatan Kraton Surakarta",
+    "title": "Court Music of Kraton Surakarta II",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pawiyatan-kraton-surakarta/court-music-of-kraton-surakarta-ii",
+    "cover_url": "https://e.snmc.io/i/600/s/c91edb76eb64b60f10621b4f28ae39e1/7622075/Pawiyatan%20Kraton%20Surakarta%20-%20Court%20Music%20of%20Kraton%20Surakarta%20II%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Pawiyatan Kraton Surakarta",
+    "title": "Gêndhing Bonang: Court Music of Kraton Surakarta III",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pawiyatan-kraton-surakarta/gendhing-bonang-court-music-of-kraton-surakarta-iii",
+    "cover_url": "https://e.snmc.io/i/600/s/4920ee174806c8b905857c9bd017c52d/13118084/Pawiyatan%20Kraton%20Surakarta%20-%20G%C3%AAndhing%20Bonang%3A%20Court%20Music%20of%20Kraton%20Surakarta%20III%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Keluarga Karawitan Studio R.R.I. Surakarta /",
+    "title": "Sembawa Bedhayan",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keluarga-karawitan-studio-r_r_i-surakarta-p-atmosoenarto/sembawa-bedhayan",
+    "cover_url": "https://e.snmc.io/i/600/s/7e0209f6da0eb87e745a725a9822a9be/8150427/Keluarga%20Karawitan%20Studio%20R_R_I_%20Surakarta%20%2F%20P_%20Atmosoenarto%20-%20Sembawa%20Bedhayan%2C%20Cover%20art.jpeg",
+    "rating": "3.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Sunarto Ciptosuwarso",
+    "title": "Aneka Pangkur",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sunarto-ciptosuwarso/aneka-pangkur",
+    "cover_url": "https://e.snmc.io/i/600/s/b132dc20b30126527a378cf335c219aa/8140558/Sunarto%20Ciptosuwarso%20-%20Aneka%20Pangkur%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Sarasehan Karawitan Surakarta",
+    "title": "Chamber Music of Central Java",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sarasehan-karawitan-surakarta/chamber-music-of-central-java",
+    "cover_url": "https://e.snmc.io/i/600/s/0ec4c21b855cf2d4bae72c765a3ea717/7673165/Sarasehan%20Karawitan%20Surakarta%20-%20Chamber%20Music%20of%20Central%20Java%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Karawitan Riris Raras Irama Surakarta",
+    "title": "Kutut Manggung",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/karawitan-riris-raras-irama-surakarta/kutut-manggung",
+    "cover_url": "https://e.snmc.io/i/600/s/a7003ed62ea8e8a897170ca74f4c9bc3/14215395/Karawitan%20Riris%20Raras%20Irama%20Surakarta%20-%20Kutut%20Manggung%2C%20Cover%20art.jpeg",
+    "rating": "3.91",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Musicians of STSI Surakarta & Kraton Surakarta",
+    "title": "Gamelan of Central Java: VI. Kraton Surakarta",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/musicians-of-stsi-surakarta-and-kraton-surakarta/gamelan-of-central-java-vi-kraton-surakarta",
+    "cover_url": "https://e.snmc.io/i/600/s/3288ab7a74f156cd5625fcfaef4801b7/5327420/Musicians%20of%20STSI%20Surakarta%20%26%20Kraton%20Surakarta%20-%20Gamelan%20of%20Central%20Java%3A%20VI_%20Kraton%20Surakarta%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Musicians of STSI Surakarta",
+    "title": "Gamelan of Central Java: IV. Spiritual Music",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/musicians-of-stsi-surakarta/gamelan-of-central-java-iv-spiritual-music",
+    "cover_url": "https://e.snmc.io/i/600/s/37589d1bedaede5ca950e472c57e6f3f/2056541/Musicians%20of%20STSI%20Surakarta%20-%20Gamelan%20of%20Central%20Java%3A%20IV_%20Spiritual%20Music%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Raden Tumenggung Warsodiningrat",
+    "title": "Gamelan Music from Java",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/raden-tumenggung-warsodiningrat/gamelan-music-from-java",
+    "cover_url": "https://e.snmc.io/i/600/s/92506ec1736052737ff5b25f980d8924/4192931/Raden%20Tumenggung%20Warsodiningrat%20-%20Gamelan%20Music%20from%20Java%2C%20Cover%20art.jpeg",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "S.T.S.I. Ensemble From the Academy of Art and Dance, Surakarta",
+    "title": "Gamelan of Surakarta",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/s_t_s_i-ensemble-from-the-academy-of-art-and-dance-surakarta/gamelan-of-surakarta",
+    "cover_url": "https://e.snmc.io/i/600/s/544f1a9c695ce8bed5b0cac6090f2ffd/8598764/S_T_S_I_%20Ensemble%20From%20the%20Academy%20of%20Art%20and%20Dance%2C%20Surakarta%20-%20Gamelan%20of%20Surakarta%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Musicians of STSI Surakarta & Kraton Surakarta",
+    "title": "Gamelan of Central Java: VIII. Court Music Treasures",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/musicians-of-stsi-surakarta-and-kraton-surakarta/gamelan-of-central-java-viii-court-music-treasures",
+    "cover_url": "https://e.snmc.io/i/600/s/20a64efedc0564aee0bd3f3942a1c032/2477745/Musicians%20of%20STSI%20Surakarta%20%26%20Kraton%20Surakarta%20-%20Gamelan%20of%20Central%20Java%3A%20VIII_%20Court%20Music%20Treasures%2C%20Cover%20art.jpeg",
+    "rating": "3.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Keluarga Karawitan Studio R.R.I. Surakarta",
+    "title": "Klenengan gobjog [2]",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keluarga-karawitan-studio-r_r_i-surakarta/klenengan-gobjog-2",
+    "cover_url": "https://e.snmc.io/i/600/s/4d7dd4bff9a77dee0a9b35c0b61fc721/8128273/Keluarga%20Karawitan%20Studio%20R_R_I_%20Surakarta%20-%20Klenengan%20gobjog%20%5B2%5D%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Keluarga Karawitan Studio R.R.I. Surakarta /",
+    "title": "Gendhing-gendhing kasmaran",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keluarga-karawitan-rri-stasiun-surakarta-turahjo-harjomartono/gendhing-gendhing-kasmaran",
+    "cover_url": "https://e.snmc.io/i/600/s/749188253d586f19856c445b1166d6dc/8125930/Keluarga%20Karawitan%20RRI%20Stasiun%20Surakarta%20%2F%20Turahjo%20Harjomartono%20-%20Gendhing-gendhing%20kasmaran%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Faculty Members of the Music Conservatory (Sekolah Tinggi Seni Indonesia) Surakarta",
+    "title": "Gamelan of Central Java: I. Classical Gendings",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/faculty-members-of-the-music-conservatory-sekolah-tinggi-seni-indonesia-surakarta/gamelan-of-central-java-i-classical-gendings",
+    "cover_url": "https://e.snmc.io/i/600/s/aaec2dd758f744619713164172aa9e9c/2477725/Faculty%20Members%20of%20the%20Music%20Conservatory%20(Sekolah%20Tinggi%20Seni%20Indonesia)%20Surakarta%20-%20Gamelan%20of%20Central%20Java%3A%20I_%20Classical%20Gendings%2C%20Cover%20art.jpeg",
+    "rating": "3.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Musicians of STSI Surakarta",
+    "title": "Gamelan of Central Java: III. Modes and Timbres",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/musicians-of-stsi-surakarta/gamelan-of-central-java-iii-modes-and-timbres",
+    "cover_url": "https://e.snmc.io/i/600/s/8eebe608dc3d1f956e088861bf662966/2477731/Musicians%20of%20STSI%20Surakarta%20-%20Gamelan%20of%20Central%20Java%3A%20III_%20Modes%20and%20Timbres%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Keluarga Karawitan Studio R.R.I. Surakarta /",
+    "title": "Klenengan gobjog",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keluarga-karawitan-studio-r_r_i-surakarta-p-atmosoenarto/klenengan-gobjog",
+    "cover_url": "",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Keluarga Karawitan Studio R.R.I. Surakarta /",
+    "title": "Srikaloka: Genderan",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keluarga-karawitan-studio-r_r_i-surakarta-p-atmosoenarto/srikaloka-genderan",
+    "cover_url": "https://e.snmc.io/i/600/s/af904edce259a9b15345a628f6a9c3a0/11689771/Keluarga%20Karawitan%20Studio%20R_R_I_%20Surakarta%20%2F%20P_%20Atmosoenarto%20-%20Srikaloka%3A%20Genderan%2C%20Cover%20art.jpeg",
+    "rating": "3.10",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Riris Raras Irama",
+    "title": "Subakastawa",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/riris-raras-irama-s-ciptosuwarsa-nyi-ngatirah-nyi-sutamtinah-nyi-panut/subakastawa",
+    "cover_url": "https://e.snmc.io/i/600/s/cff36e6ad974fbaea32757caa10e5a59/8363774/%20Riris%20Raras%20Irama%20%2F%20%20S_%20Ciptosuwarsa%20%2F%20%20Nyi_%20Ngatirah%20%2F%20%20Nyi_%20Sutamtinah%20%2F%20%20Nyi_%20Panut%20-%20Subakastawa%2C%20Cover%20art.jpeg",
+    "rating": "3.46",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "RRI Surakarta",
+    "title": "Upacara pengantin",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rri-surakarta/upacara-pengantin",
+    "cover_url": "https://e.snmc.io/i/600/s/e13a666c6634cea7581892460c024bd8/3186937/RRI%20Surakarta%20-%20Upacara%20pengantin%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Keluarga Karawitan Studio R.R.I. Surakarta /",
+    "title": "Randu kentir: Klenengan among karsa",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keluarga-karawitan-studio-r_r_i-surakarta-p-atmosoenarto/randu-kentir-klenengan-among-karsa",
+    "cover_url": "https://e.snmc.io/i/600/s/ad32d8102884d1a9bde93f13941f2607/8124741/Keluarga%20Karawitan%20Studio%20R_R_I_%20Surakarta%20%2F%20P_%20Atmosoenarto%20-%20Randu%20kentir%3A%20Klenengan%20among%20karsa%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Surakarta Music Conservatory",
+    "title": "Gamelan of Central Java: XI. Music of Remembrance",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/surakarta-music-conservatory/gamelan-of-central-java-xi-music-of-remembrance",
+    "cover_url": "https://e.snmc.io/i/600/s/10e671b3ce98aa389625b69b00ff385e/2594330/Surakarta%20Music%20Conservatory%20-%20Gamelan%20of%20Central%20Java%3A%20XI_%20Music%20of%20Remembrance%2C%20Cover%20art.jpeg",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Keluarga Karawitan Studio R.R.I. Surakarta /",
+    "title": "Klenengan gobyog 3: Opak-apem",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keluarga-karawitan-studio-r_r_i-surakarta-p-atmosoenarto/klenengan-gobyog-3-opak-apem",
+    "cover_url": "https://e.snmc.io/i/600/s/d1676749598ee15b2e0186a646e93354/12361041/Keluarga%20Karawitan%20Studio%20R_R_I_%20Surakarta%20%2F%20P_%20Atmosoenarto%20-%20Klenengan%20gobyog%203%3A%20Opak-apem%2C%20Cover%20art.jpeg",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Riris Raras Irama /",
+    "title": "Pangkur - Pamijen",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/riris-raras-irama-s-ciptosuwarso/pangkur-pamijen",
+    "cover_url": "https://e.snmc.io/i/600/s/8142cf4602041d7ec92167006c9ef246/8138025/Riris%20Raras%20Irama%20%2F%20S_%20Ciptosuwarso%20-%20Pangkur%20-%20Pamijen%2C%20Cover%20art.jpeg",
+    "rating": "3.35",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Ki Nartosabdho /",
+    "title": "Karya",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ki-nartosabdho-keluarga-karawitan-studio-r_r_i-surakarta/karya",
+    "cover_url": "https://e.snmc.io/i/600/s/5e99458907a42f4095731ed64fe55681/11981010/Ki%20Nartosabdho%20%2F%20Keluarga%20Karawitan%20Studio%20R_R_I_%20Surakarta%20-%20Karya%2C%20Cover%20art.jpeg",
+    "rating": "3.70",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Keluarga Karawitan Studio R.R.I. Surakarta /",
+    "title": "Carang gantung: Siteran nyamleng",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keluarga-karawitan-studio-r_r_i-surakarta-p-atmosoenarto/carang-gantung-siteran-nyamleng",
+    "cover_url": "https://e.snmc.io/i/600/s/78086070569fb2329b05994bc7c15cd2/8938091/Keluarga%20Karawitan%20Studio%20R_R_I_%20Surakarta%20%2F%20P_%20Atmosoenarto%20-%20Carang%20gantung%3A%20Siteran%20nyamleng%2C%20Cover%20art.jpeg",
+    "rating": "3.89",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Surakarta Music Conservatory",
+    "title": "Gamelan of Central Java: IX. Songs of Wisdom and Love",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/surakarta-music-conservatory/gamelan-of-central-java-ix-songs-of-wisdom-and-love",
+    "cover_url": "https://e.snmc.io/i/600/s/41ba723e5e4adab2b95d4a1f8e291742/2477750/Surakarta%20Music%20Conservatory%20-%20Gamelan%20of%20Central%20Java%3A%20IX_%20Songs%20of%20Wisdom%20and%20Love%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Riris Raras Irama",
+    "title": "Ayun ayun",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/riris-raras-irama/ayun-ayun",
+    "cover_url": "https://e.snmc.io/i/600/s/dccec25c04baa6dcefe92e5dafdb593f/9358359/Riris%20Raras%20Irama%20-%20Ayun%20ayun%2C%20Cover%20art.jpeg",
+    "rating": "3.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Keluarga Karawitan Studio R.R.I. Surakarta /",
+    "title": "Kutut manggung gobyog",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keluarga-karawitan-stasion-rri-surakarta-p-atmosunarto/kutut-manggung-gobyog",
+    "cover_url": "https://e.snmc.io/i/600/s/50bc9a5f80937fa7c758ecea2c4b32f9/8378225/Keluarga%20Karawitan%20Stasion%20RRI%20Surakarta%20%2F%20P_%20Atmosunarto%20-%20Kutut%20manggung%20gobyog%2C%20Cover%20art.jpeg",
+    "rating": "3.24",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Surakarta Music Conservatory",
+    "title": "Gamelan of Central Java: X. Sindhen Trio",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/surakarta-music-conservatory/gamelan-of-central-java-x-sindhen-trio",
+    "cover_url": "https://e.snmc.io/i/600/s/e591e4b82375879c44f4f9c041fee7d8/2594328/Surakarta%20Music%20Conservatory%20-%20Gamelan%20of%20Central%20Java%3A%20X_%20Sindhen%20Trio%2C%20Cover%20art.jpeg",
+    "rating": "4.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Surakarta Music Conservatory",
+    "title": "Gamelan of Central Java: VII. Edge of Tradition",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/surakarta-music-conservatory/gamelan-of-central-java-vii-edge-of-tradition",
+    "cover_url": "https://e.snmc.io/i/600/s/dc00b2034da4fa832e71fe4cd0c8c4fc/2477744/Surakarta%20Music%20Conservatory%20-%20Gamelan%20of%20Central%20Java%3A%20VII_%20Edge%20of%20Tradition%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Javanese Gamelan",
+      "Solonese Gamelan"
+    ]
+  }
+]

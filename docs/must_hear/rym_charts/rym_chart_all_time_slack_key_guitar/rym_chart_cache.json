@@ -1,0 +1,713 @@
+[
+  {
+    "number": 1,
+    "artist": "The Gabby Pahinui Hawaiian Band",
+    "title": "Volume 1",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-gabby-pahinui-hawaiian-band/volume-1",
+    "cover_url": "https://e.snmc.io/i/600/s/c8299d555e604d485e5e5dfe40144f9c/1315908/The%20Gabby%20Pahinui%20Hawaiian%20Band%20-%20Volume%201%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "Folk Pop"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Gabby Pahinui",
+    "title": "Gabby",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gabby-pahinui/gabby",
+    "cover_url": "https://e.snmc.io/i/600/s/2c9dceda4f2c3ae80cfedfa45cb42bfa/3288583/Gabby%20Pahinui%20-%20Gabby%2C%20Cover%20art.jpeg",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "Acoustic Blues"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Debashish Bhattacharya &",
+    "title": "Mahima",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/debashish-bhattacharya-bob-brozman/mahima",
+    "cover_url": "https://e.snmc.io/i/600/s/644ce2a3073548fee754b954f874342a/1328293/Debashish%20Bhattacharya%20%26%20Bob%20Brozman%20-%20Mahima%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Hindustani Classical Music",
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Djeli Moussa Diawara &",
+    "title": "Ocean Blues: From Africa to Hawaï",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/djeli-moussa-diawara-bob-brozman/ocean-blues-from-africa-to-hawai",
+    "cover_url": "https://e.snmc.io/i/600/s/6c14084a59570bf8e402a4539dd2d4c8/1398284/Djeli%20Moussa%20Diawara%20%26%20Bob%20Brozman%20-%20Ocean%20Blues%3A%20From%20Africa%20to%20Hawa%C3%AF%2C%20Cover%20art.jpeg",
+    "rating": "3.46",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "Mande Music",
+      "Acoustic Blues"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Gabby Pahinui &",
+    "title": "Two Slack Key Guitars",
+    "year": 1969,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gabby-pahinui-and-atta-isaacs/two-slack-key-guitars",
+    "cover_url": "https://e.snmc.io/i/600/s/eb8e4c6910fbb2f7134c8a9b5c125afe/5677927/Gabby%20Pahinui%20and%20Atta%20Isaacs%20-%20Two%20Slack%20Key%20Guitars%2C%20Cover%20art.jpeg",
+    "rating": "3.88",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "Hapa haole"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Gabby Pahinui",
+    "title": "Rabbit Island Music Festival",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gabby-pahinui/rabbit-island-music-festival",
+    "cover_url": "https://e.snmc.io/i/600/s/d4e6a1522f3371ad4b9c473d65823ae0/1551677/Gabby%20Pahinui%20-%20Rabbit%20Island%20Music%20Festival%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Hawaiian Music",
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Bob Brozman",
+    "title": "Devil's Slide",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bob-brozman/devils-slide",
+    "cover_url": "https://e.snmc.io/i/600/s/6471d6566cf4d2fcdccf90d565620483/1398293/Bob%20Brozman%20-%20Devil's%20Slide%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Acoustic Blues",
+      "Slack-Key Guitar",
+      "Hawaiian Music",
+      "Calypso",
+      "Jazz"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Alice Nāmakelua",
+    "title": "Auntie Alice Ku‘uleialohapoina‘ole Namakelua",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alice-namakelua/auntie-alice-ku‘uleialohapoina‘ole-namakelua",
+    "cover_url": "https://e.snmc.io/i/600/s/ba16214af33f49a7839494d32430c13e/7178658/Alice%20N%C4%81makelua%20-%20Auntie%20Alice%20Ku%E2%80%98uleialohapoina%E2%80%98ole%20Namakelua%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Keola Beamer",
+    "title": "Moe' uhane Kika",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keola-beamer/moe-uhane-kika",
+    "cover_url": "https://e.snmc.io/i/600/s/80dddc49fa50f49ae3b86a0396aa73e3/1495133/Keola%20Beamer%20-%20Moe'%20uhane%20Kika%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "Ambient"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Bob Brozman &",
+    "title": "Kīkā Kila Meets Ki Hō'alu",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bob-brozman-ledward-kaapana/kika-kila-meets-ki-hoalu",
+    "cover_url": "https://e.snmc.io/i/600/s/4366cf207988cf3754d1306bdc4c3f88/1398292/Bob%20Brozman%20%26%20Ledward%20Kaapana%20-%20K%C4%ABk%C4%81%20Kila%20Meets%20Ki%20H%C5%8D'alu%2C%20Cover%20art.jpeg",
+    "rating": "3.26",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "American Primitivism"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "The Gabby Pahinui Hawaiian Band",
+    "title": "Volume 2",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-gabby-pahinui-hawaiian-band/volume-2",
+    "cover_url": "https://e.snmc.io/i/600/s/41ac44312ed72cc2f0038ad89a7853ef/1551174/The%20Gabby%20Pahinui%20Hawaiian%20Band%20-%20Volume%202%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Hawaiian Music",
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "George Helm",
+    "title": "The Music of George Helm a True Hawaiian",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/george-helm/the-music-of-george-helm-a-true-hawaiian",
+    "cover_url": "https://e.snmc.io/i/600/s/96d9031e3e207b28b8f98afaaf43a9c4/7176403/George%20Helm%20-%20The%20Music%20of%20George%20Helm%20a%20True%20Hawaiian%2C%20Cover%20art.jpeg",
+    "rating": "3.88",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Hawaiian Music",
+      "Slack-Key Guitar",
+      "Standards",
+      "Spoken Word"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Ledward Kaapana &",
+    "title": "In the Saddle",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ledward-kaapana-bob-brozman/in-the-saddle",
+    "cover_url": "https://e.snmc.io/i/600/s/167f684560b8816d7e5cbcdba9772fa1/14812031/Ledward%20Kaapana%20%26%20Bob%20Brozman%20-%20In%20the%20Saddle%2C%20Cover%20art.png",
+    "rating": "3.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Gabby Pahinui",
+    "title": "With the Sons of Hawaii",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gabby-pahinui/with-the-sons-of-hawaii",
+    "cover_url": "https://e.snmc.io/i/600/s/1346a8ac359a0e651b1c9ab4c03703af/1823863/Gabby%20Pahinui%20-%20With%20the%20Sons%20of%20Hawaii%2C%20Cover%20art.jpeg",
+    "rating": "3.52",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "Hapa haole"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Bob Brozman",
+    "title": "Lumière",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bob-brozman/lumiere",
+    "cover_url": "https://e.snmc.io/i/600/s/7b14758ec8dcefbb30ef9b7b7f067db6/2152958/Bob%20Brozman%20-%20Lumi%C3%A8re%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Avant-Folk",
+      "Slack-Key Guitar",
+      "Hindustani Classical Music"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Keola Beamer",
+    "title": "Hawaiian Slack Key Guitar in the Real Old Style",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keola-beamer/hawaiian-slack-key-guitar-in-the-real-old-style",
+    "cover_url": "https://e.snmc.io/i/600/s/4b58904a8ab500e086d134c9031f3c6f/1916377/Keola%20Beamer%20-%20Hawaiian%20Slack%20Key%20Guitar%20in%20the%20Real%20Old%20Style%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "Folk Pop",
+      "Folk Pop",
+      "Hawaiian Music"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Sonny Chillingworth",
+    "title": "Waimea Cowboy",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sonny-chillingworth/waimea-cowboy",
+    "cover_url": "https://e.snmc.io/i/600/s/951fb0c50081ca3d1017abc1664f8ebd/6791067/Sonny%20Chillingworth%20-%20Waimea%20Cowboy%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "Hawaiian Music"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "101 Strings",
+    "title": "Hawaiian Paradise",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/101_strings/hawaiian_paradise",
+    "cover_url": "https://e.snmc.io/i/600/s/a91f54b47f1b96a99bd082dc9593c209/4297212/101%20Strings%20-%20Hawaiian%20Paradise%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Exotica",
+      "Slack-Key Guitar",
+      "Orchestral Music",
+      "Hapa haole"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Brother Noland",
+    "title": "Speaking Brown",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/brother-noland/speaking-brown",
+    "cover_url": "https://e.snmc.io/i/600/s/68c41f94b38be7b55ba3cf5b7df2ed7f/12334453/Brother%20Noland%20-%20Speaking%20Brown%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "Contemporary Folk",
+      "Hawaiian Music",
+      "Folk Rock",
+      "Soft Rock"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Ozzie Kotani",
+    "title": "Kani Ki Ho 'Alu",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ozzie-kotani/kani-ki-ho-alu",
+    "cover_url": "https://e.snmc.io/i/600/s/af0a85f81132118e94ce4d98a66c5b75/1549658/Ozzie%20Kotani%20-%20Kani%20Ki%20Ho%20'Alu%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Bob Brozman",
+    "title": "Snapping The Strings",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bob-brozman/snapping-the-strings-1",
+    "cover_url": "https://e.snmc.io/i/600/s/1ef06bcc9ad01ef5ad14138e80ad0246/3090473/Bob%20Brozman%20-%20Snapping%20The%20Strings%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Acoustic Blues",
+      "Old-Time",
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "The Kahauanu Lake Trio",
+    "title": "Hawaiian Style",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-kahauanu-lake-trio/hawaiian-style",
+    "cover_url": "https://e.snmc.io/i/600/s/5c81d18ea7ed6c03dc608a8d2180f935/3037359/The%20Kahauanu%20Lake%20Trio%20-%20Hawaiian%20Style%2C%20Cover%20art.jpeg",
+    "rating": "4.15",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Hawaiian Music",
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "The Pahinui Brothers",
+    "title": "The Pahinui Bros.",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-pahinui-brothers/the-pahinui-bros",
+    "cover_url": "https://e.snmc.io/i/600/s/34cf21363a113334551d065aba3cdf9c/4682934/The%20Pahinui%20Brothers%20-%20The%20Pahinui%20Bros_%2C%20Cover%20art.jpeg",
+    "rating": "3.22",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Hawaiian Music",
+      "Slack-Key Guitar",
+      "Hawaiian Music"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Leonard Kwan &",
+    "title": "Slack Key Guitar in Stereo",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/leonard-kwan-raymond-kane/slack-key-guitar-in-stereo",
+    "cover_url": "https://e.snmc.io/i/600/s/5997d29c1fad4f76f61a962e123583b3/3010487/Leonard%20Kwan%20%26%20Raymond%20Kane%20-%20Slack%20Key%20Guitar%20in%20Stereo%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "Hawaiian Music"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Sonny Chillingworth",
+    "title": "Sonny Solo",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sonny-chillingworth/sonny-solo",
+    "cover_url": "https://e.snmc.io/i/600/s/90d29c5e134acea71c00512647346ea7/1732078/Sonny%20Chillingworth%20-%20Sonny%20Solo%2C%20Cover%20art.jpeg",
+    "rating": "3.15",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "Hawaiian Music"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Gabby Pahinui",
+    "title": "The Best of Hawaiian Slack Key featuring Gabby Pahinui",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gabby-pahinui/the-best-of-hawaiian-slack-key-featuring-gabby-pahinui",
+    "cover_url": "https://e.snmc.io/i/600/s/2d2adcf33266d20fe90177e7ebf1930f/1551698/Gabby%20Pahinui%20-%20The%20Best%20of%20Hawaiian%20Slack%20Key%20featuring%20Gabby%20Pahinui%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Led Kaapana & Friends",
+    "title": "Waltz of the Wind",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/led-kaapana-and-friends/waltz-of-the-wind",
+    "cover_url": "https://e.snmc.io/i/600/s/80ddb6b246bea33efd7aeab9a412c322/3797967/Led%20Kaapana%20%26%20Friends%20-%20Waltz%20of%20the%20Wind%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "Progressive Bluegrass"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "The Reverend Dennis Kamakahi",
+    "title": "Puaʻena",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-reverend-dennis-kamakahi/puaʻena",
+    "cover_url": "https://e.snmc.io/i/600/s/95c3474096164413136fd639410402a9/2400837/The%20Reverend%20Dennis%20Kamakahi%20-%20Pua%CA%BBena%2C%20Cover%20art.jpeg",
+    "rating": "3.30",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Corky Carrol & Friends",
+    "title": "Laid Back",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/corky-carrol-and-friends/laid-back",
+    "cover_url": "https://e.snmc.io/i/600/s/c6ef34762acae408bdfe57fde0a1cf36/12787878/Corky%20Carrol%20%26%20Friends%20-%20Laid%20Back%2C%20Cover%20art.jpeg",
+    "rating": "3.24",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Ray Kāne",
+    "title": "Wa'ahila",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ray-kane/waahila",
+    "cover_url": "https://e.snmc.io/i/600/s/f1d9c06f93fe2f1a66251ae967261dd2/1494964/Ray%20K%C4%81ne%20-%20Wa'ahila%2C%20Cover%20art.jpeg",
+    "rating": "3.27",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Cyril Pahinui",
+    "title": "6 & 12 String Slack Key",
+    "year": 2012,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cyril-pahinui/6-and-12-string-slack-key",
+    "cover_url": "https://e.snmc.io/i/600/s/0c7221b701844a5de10fe4f130264d38/1693906/Cyril%20Pahinui%20-%206%20%26%2012%20String%20Slack%20Key%2C%20Cover%20art.jpeg",
+    "rating": "3.19",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Tau Moe &",
+    "title": "Ho'omana'o I Na Mele O Ka Wa U'i",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-tau-moe-family-with-bob-brozman/hoomanao-i-na-mele-o-ka-wa-ui",
+    "cover_url": "https://e.snmc.io/i/600/s/a05ca7683888d351ebfaf9e4659a3d6c/1487418/The%20Tau%20Moe%20Family%20With%20Bob%20Brozman%20-%20Ho'omana'o%20I%20Na%20Mele%20O%20Ka%20Wa%20U'i%2C%20Cover%20art.jpeg",
+    "rating": "2.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Hawaiian Music",
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Atta",
+    "title": "Slack Key Guitar",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/atta/slack-key-guitar",
+    "cover_url": "https://e.snmc.io/i/600/s/3ebce8731dd86d18b691ebd2f3f295a0/5677937/Atta%20-%20Slack%20Key%20Guitar%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Sons of Hawaii",
+    "title": "Music of Old Hawaii",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sons-of-hawaii/music-of-old-hawaii",
+    "cover_url": "https://e.snmc.io/i/600/s/78079b31c288eb5a29077110f8361902/7988786/Sons%20of%20Hawaii%20-%20Music%20of%20Old%20Hawaii%2C%20Cover%20art.png",
+    "rating": "3.92",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Hawaiian Music",
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Bob Brozman",
+    "title": "Metric Time",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bob-brozman/metric-time",
+    "cover_url": "https://e.snmc.io/i/600/s/eb80ac22917744a2081ef7983d56b966/1433683/Bob%20Brozman%20-%20Metric%20Time%2C%20Cover%20art.jpeg",
+    "rating": "3.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Blues",
+      "Slack-Key Guitar"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Keola Beamer",
+    "title": "Wooden Boat",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keola-beamer/wooden-boat",
+    "cover_url": "https://e.snmc.io/i/600/s/54a165a09a0749d14b461727f16060c0/1495138/Keola%20Beamer%20-%20Wooden%20Boat%2C%20Cover%20art.jpeg",
+    "rating": "3.03",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Slack-Key Guitar",
+      "Folk Pop",
+      "Hawaiian Music"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Keola Beamer",
+    "title": "Soliloquy: Ka Leo O Loko",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keola-beamer/soliloquy-ka-leo-o-loko",
+    "cover_url": "https://e.snmc.io/i/600/s/f84ce88626aac787c76e402648bb79fd/1916341/Keola%20Beamer%20-%20Soliloquy%3A%20Ka%20Leo%20O%20Loko%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Hawaiian Music",
+      "Slack-Key Guitar"
+    ]
+  }
+]

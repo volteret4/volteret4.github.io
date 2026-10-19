@@ -1,0 +1,815 @@
+[
+  {
+    "number": 1,
+    "artist": "Dominguinhos",
+    "title": "Domingo menino Dominguinhos",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dominguinhos/domingo-menino-dominguinhos",
+    "cover_url": "https://e.snmc.io/i/600/s/beac9876dd4702ea12c28080dbd43562/4868760/Dominguinhos%20-%20Domingo%20menino%20Dominguinhos%2C%20Cover%20art.jpeg",
+    "rating": "3.81",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baião",
+      "Forró",
+      "MPB",
+      "Jazz Fusion",
+      "Xote"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Luiz Gonzaga",
+    "title": "A história do Nordeste na voz de Luiz Gonzaga",
+    "year": 1955,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luiz-gonzaga/a-historia-do-nordeste-na-voz-de-luiz-gonzaga",
+    "cover_url": "https://e.snmc.io/i/600/s/a5368e36efbc1c8cc529c23a19787663/3628714/Luiz%20Gonzaga%20-%20A%20hist%C3%B3ria%20do%20Nordeste%20na%20voz%20de%20Luiz%20Gonzaga%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baião",
+      "Forró",
+      "Xote",
+      "Xaxado"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Alceu Valença",
+    "title": "Cavalo de pau",
+    "year": 1982,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alceu-valenca/cavalo-de-pau",
+    "cover_url": "https://e.snmc.io/i/600/s/3aada867fb50530a4aff60a7013e0bfb/2025939/Alceu%20Valen%C3%A7a%20-%20Cavalo%20de%20pau%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Forró",
+      "Maracatu",
+      "Forró"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "João do Vale",
+    "title": "João do Vale",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-do-vale/joao-do-vale",
+    "cover_url": "https://e.snmc.io/i/600/s/b19c21715eb3485dbf178dbc656b244b/2014209/Jo%C3%A3o%20do%20Vale%20-%20Jo%C3%A3o%20do%20Vale%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baião",
+      "Forró",
+      "Xote",
+      "MPB"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Mestre Ambrósio",
+    "title": "Mestre Ambrósio",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mestre-ambrosio/mestre-ambrosio",
+    "cover_url": "https://e.snmc.io/i/600/s/95a0cdab59859701165a4dfd655b7672/7596786/Mestre%20Ambr%C3%B3sio%20-%20Mestre%20Ambr%C3%B3sio%2C%20Cover%20art.jpeg",
+    "rating": "3.56",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Maracatu",
+      "Coco",
+      "Cantoria",
+      "Samba"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "João Gomes",
+    "title": "Eu tenho a senha",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gomes/eu-tenho-a-senha",
+    "cover_url": "https://e.snmc.io/i/600/s/bd530a0fc72c16dbb9652315c675b1d2/9133682/Jo%C3%A3o%20Gomes%20-%20Eu%20tenho%20a%20senha%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Getúlio Abelha",
+    "title": "Marmota",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/getulio-abelha/marmota",
+    "cover_url": "https://e.snmc.io/i/600/s/4a2f991dd8071e83471a3215246688d1/9077789/Get%C3%BAlio%20Abelha%20-%20Marmota%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Brega",
+      "Forró eletrônico",
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Pabllo Vittar",
+    "title": "Batidão tropical",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pabllo-vittar/batidao-tropical",
+    "cover_url": "https://e.snmc.io/i/600/s/7c982125c93356bc1dce00dd016426e2/12058641/Pabllo%20Vittar%20-%20Batid%C3%A3o%20tropical%2C%20Cover%20art.jpeg",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "Brega calypso",
+      "Tecnobrega",
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Comadre Florzinha",
+    "title": "Comadre Florzinha",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/comadre-florzinha/comadre-florzinha",
+    "cover_url": "https://e.snmc.io/i/600/s/9870d002a2ff6a830c6d7aad52c454cd/1949882/Comadre%20Florzinha%20-%20Comadre%20Florzinha%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Coco",
+      "Maracatu",
+      "Baião",
+      "Ciranda"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Marinês",
+    "title": "Aquarela nordestina",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/marines/aquarela-nordestina",
+    "cover_url": "https://e.snmc.io/i/600/s/a64bd8db93110928f3de7306ba8dbcb5/2710919/Marin%C3%AAs%20-%20Aquarela%20nordestina%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Baião",
+      "Xaxado",
+      "Xote"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Pabllo Vittar",
+    "title": "Batidão tropical vol. 2",
+    "year": 2048,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pabllo-vittar/batidao-tropical-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/6aeeeb4e202d26c1aaad8c2bf290d52d/11950468/Pabllo%20Vittar%20-%20Batid%C3%A3o%20tropical%20vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "3.32",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "Tecnobrega",
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Alceu Valença",
+    "title": "Coração bobo",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alceu-valenca/coracao-bobo",
+    "cover_url": "https://e.snmc.io/i/600/s/f0e9c15fac7bbf4dbe52da00c734b840/7401866/Alceu%20Valen%C3%A7a%20-%20Cora%C3%A7%C3%A3o%20bobo%2C%20Cover%20art.png",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "MPB",
+      "Progressive Folk",
+      "Maracatu"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Jackson do Pandeiro",
+    "title": "Forró do Jackson",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jackson-do-pandeiro/forro-do-jackson",
+    "cover_url": "https://e.snmc.io/i/600/s/f6abb72a2184bbedfeef3a8005950ad7/7433577/Jackson%20do%20Pandeiro%20-%20Forr%C3%B3%20do%20Jackson%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco",
+      "Forró",
+      "Baião"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Mestre Ambrósio",
+    "title": "Fuá na casa de CaBRal",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mestre-ambrosio/fua-na-casa-de-cabral",
+    "cover_url": "https://e.snmc.io/i/600/s/fd3e2172f21ae4e2f03279f44629838c/1867328/Mestre%20Ambr%C3%B3sio%20-%20Fu%C3%A1%20na%20casa%20de%20CaBRal%2C%20Cover%20art.jpeg",
+    "rating": "3.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Maracatu",
+      "Manguebeat"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Ary Lobo",
+    "title": "Forró com Ary Lobo",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ary-lobo/forro-com-ary-lobo",
+    "cover_url": "https://e.snmc.io/i/600/s/9dc4f3706e8e28a566c4e6346188d4c2/3817020/Ary%20Lobo%20-%20Forr%C3%B3%20com%20Ary%20Lobo%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Mestre Ambrósio",
+    "title": "Terceiro samba",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mestre-ambrosio/terceiro-samba",
+    "cover_url": "https://e.snmc.io/i/600/s/e6670bcf6d51cebf131e5f90efead041/7596785/Mestre%20Ambr%C3%B3sio%20-%20Terceiro%20samba%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Coco",
+      "Manguebeat",
+      "Maracatu",
+      "Samba"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Luiz Gonzaga",
+    "title": "Quadrilhas e marchinhas juninas",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luiz-gonzaga/quadrilhas-e-marchinhas-juninas",
+    "cover_url": "https://e.snmc.io/i/600/s/1e637b7c7f3a5c3e579669db8f1b7aed/9249314/Luiz%20Gonzaga%20-%20Quadrilhas%20e%20marchinhas%20juninas%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baião",
+      "Forró",
+      "Marchinha",
+      "Xote"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Calcinha Preta",
+    "title": "Vol. 12: Mágica",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/calcinha-preta/vol-12-magica",
+    "cover_url": "https://e.snmc.io/i/600/s/27cc3d900c7c6b0a53ec6d323312c1ed/9908519/Calcinha%20Preta%20-%20Vol_%2012%3A%20M%C3%A1gica%2C%20Cover%20art.jpeg",
+    "rating": "3.89",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "AOR",
+      "Brega calypso"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Os Barões da Pisadinha",
+    "title": "Agora eu pego mesmo",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/os-baroes-da-pisadinha/agora-eu-pego-mesmo",
+    "cover_url": "https://e.snmc.io/i/600/s/305907b64ba1c94c910eca20227c83c7/8371929/Os%20Bar%C3%B5es%20da%20Pisadinha%20-%20Agora%20eu%20pego%20mesmo%2C%20Cover%20art.jpeg",
+    "rating": "2.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "João Gomes",
+    "title": "Digo ou não digo",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gomes/digo-ou-nao-digo",
+    "cover_url": "https://e.snmc.io/i/600/s/d0ea8bc813c2f2ac23c1114f3ebd9250/9922246/Jo%C3%A3o%20Gomes%20-%20Digo%20ou%20n%C3%A3o%20digo%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Dominguinhos",
+    "title": "Oi, lá vou eu!",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dominguinhos/oi-la-vou-eu",
+    "cover_url": "https://e.snmc.io/i/600/s/c0bfcde61e7807b96d36126d819de9e5/1734871/Dominguinhos%20-%20Oi%2C%20l%C3%A1%20vou%20eu!%2C%20Cover%20art.jpeg",
+    "rating": "3.85",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baião",
+      "Forró",
+      "MPB",
+      "Xote"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Luiz Gonzaga",
+    "title": "Sertão 70",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luiz-gonzaga/sertao-70",
+    "cover_url": "https://e.snmc.io/i/600/s/d9fad429dbd69aaa51d9f9fac9a6b3c0/3849361/Luiz%20Gonzaga%20-%20Sert%C3%A3o%2070%2C%20Cover%20art.jpeg",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baião",
+      "Forró",
+      "Xote"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Forro in the Dark",
+    "title": "Forro Zinho",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/forro-in-the-dark/forro-zinho",
+    "cover_url": "https://e.snmc.io/i/600/s/bf8703d276b645f0832e04547a639956/5814724/Forro%20in%20the%20Dark%20-%20Forro%20Zinho%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "Jazz-Rock",
+      "Tropicália"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Nelson da Rabeca &",
+    "title": "Tradição improvisada",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nelson-da-rabeca-thomas-rohrer/tradicao-improvisada",
+    "cover_url": "https://e.snmc.io/i/600/s/7e9c737cf77acd7a2db93719510c9e8e/7174355/Nelson%20da%20Rabeca%20%26%20Thomas%20Rohrer%20-%20Tradi%C3%A7%C3%A3o%20improvisada%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baião",
+      "Coco",
+      "Forró",
+      "Free Improvisation",
+      "Xote"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Getúlio Abelha",
+    "title": "Autópsia+",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/getulio-abelha/autopsia",
+    "cover_url": "https://e.snmc.io/i/600/s/7349deae85243de171dccb14a792c7a3/14382994/Get%C3%BAlio%20Abelha%20-%20Aut%C3%B3psia%2B%2C%20Cover%20art.jpeg",
+    "rating": "3.68",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "Brega",
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Luiz Gonzaga",
+    "title": "O reino do baião",
+    "year": 1957,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luiz-gonzaga/o-reino-do-baiao",
+    "cover_url": "https://e.snmc.io/i/600/s/f06b76491e2a15af7cbc31569a99f6a0/4471473/Luiz%20Gonzaga%20-%20O%20reino%20do%20bai%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baião",
+      "Forró",
+      "Xote"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Alceu Valença",
+    "title": "Sol e chuva",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alceu-valenca/sol-e-chuva",
+    "cover_url": "https://e.snmc.io/i/600/s/4575b65def3ab127b1ce30d1590ab025/3530883/Alceu%20Valen%C3%A7a%20-%20Sol%20e%20chuva%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Forró",
+      "Rock",
+      "Baião"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Aviões do Forró",
+    "title": "Volume 3 - A diferença está no ar",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/avioes-do-forro/volume-3-a-diferenca-esta-no-ar",
+    "cover_url": "https://e.snmc.io/i/600/s/8aac4bf14999fd4bc58a39a6fa684851/10133858/Avi%C3%B5es%20do%20Forr%C3%B3%20-%20Volume%203%20-%20A%20diferen%C3%A7a%20est%C3%A1%20no%20ar%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Falamansa",
+    "title": "Deixa entrar...",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/falamansa/deixa-entrar",
+    "cover_url": "https://e.snmc.io/i/600/s/47e6f8bef8df742f20d6112a69bb950a/10520934/Falamansa%20-%20Deixa%20entrar___%2C%20Cover%20art.jpeg",
+    "rating": "3.08",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró universitário",
+      "Xote"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Elba Ramalho",
+    "title": "Coração Brasileiro",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elba-ramalho/coracao-brasileiro",
+    "cover_url": "https://e.snmc.io/i/600/s/ac924a16f1303bde09ede51bbd3fac2a/5802565/Elba%20Ramalho%20-%20Cora%C3%A7%C3%A3o%20Brasileiro%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Forró",
+      "Baião",
+      "Frevo"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Zé Vaqueiro",
+    "title": "O original",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ze-vaqueiro/o-original",
+    "cover_url": "https://e.snmc.io/i/600/s/dab078b2f7a8d33a9e3b99e52e9af943/8775128/Z%C3%A9%20Vaqueiro%20-%20O%20original%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro",
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Nelson da Rabeca &",
+    "title": "Segredo das árvores",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nelson-da-rabeca-e-dona-benedita/segredo-das-arvores",
+    "cover_url": "https://e.snmc.io/i/600/s/80e280844550a62ae461881008f7f1c8/4019116/Nelson%20da%20Rabeca%20e%20Dona%20Benedita%20-%20Segredo%20das%20%C3%A1rvores%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Xote",
+      "Repente"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Joyce Alane",
+    "title": "Casa Coração",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joyce-alane/casa-coracao",
+    "cover_url": "https://e.snmc.io/i/600/s/fcbc39a6fa1c0f702e73d11b99a1eb12/13301972/Joyce%20Alane%20-%20Casa%20Cora%C3%A7%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Xote",
+      "MPB",
+      "Alt-Pop",
+      "Forró universitário"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Dominguinhos",
+    "title": "Festa no sertão",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dominguinhos/festa-no-sertao",
+    "cover_url": "https://e.snmc.io/i/600/s/1e92255a298c7fc276b316e3b3e6e72c/4868568/Dominguinhos%20-%20Festa%20no%20sert%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Choro",
+      "Samba"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Jackson do Pandeiro",
+    "title": "O cabra da peste",
+    "year": 1966,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jackson-do-pandeiro/o-cabra-da-peste",
+    "cover_url": "https://e.snmc.io/i/600/s/87a0d81838e02102eee63a21cd1731fb/10593656/Jackson%20do%20Pandeiro%20-%20O%20cabra%20da%20peste%2C%20Cover%20art.jpeg",
+    "rating": "3.78",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Coco",
+      "Samba",
+      "Baião"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Forro in the Dark",
+    "title": "Bonfires of São João",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/forro-in-the-dark/bonfires-of-sao-joao",
+    "cover_url": "https://e.snmc.io/i/600/s/55c7cf2d68606f888e7fe8ed6a778b2d/1722627/Forro%20in%20the%20Dark%20-%20Bonfires%20of%20S%C3%A3o%20Jo%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Samba",
+      "Country"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Sivuca &",
+    "title": "Sivuca sinfônico",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sivuca-orquestra-sinfonica-do-recife/sivuca-sinfonico",
+    "cover_url": "https://e.snmc.io/i/600/s/cde8b16185f2182ded274ea6fe428ffd/1771482/Sivuca%20%26%20Orquestra%20Sinf%C3%B4nica%20do%20Recife%20-%20Sivuca%20sinf%C3%B4nico%2C%20Cover%20art.jpeg",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Orchestral Music",
+      "Brazilian Classical Music",
+      "Third Stream"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "João Gomes",
+    "title": "RAIZ",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gomes/raiz",
+    "cover_url": "https://e.snmc.io/i/600/s/4fa6658c78567f5d584ea48f9dbba954/12809183/Jo%C3%A3o%20Gomes%20-%20RAIZ%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Dominguinhos,",
+    "title": "Cada um belisca um pouco",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dominguinhos-sivuca-and-oswaldinho/cada-um-belisca-um-pouco",
+    "cover_url": "https://e.snmc.io/i/600/s/c3dd119038fc075c59806246566f60e1/6777480/Dominguinhos%2C%20Sivuca%20%26%20Oswaldinho%20-%20Cada%20um%20belisca%20um%20pouco%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Baião",
+      "Xote"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Camarão",
+    "title": "Lá vai brasa",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/camarao/la-vai-brasa",
+    "cover_url": "https://e.snmc.io/i/600/s/cdfc56649daa90a51d639be2b17a6319/5672982/Camar%C3%A3o%20-%20L%C3%A1%20vai%20brasa%2C%20Cover%20art.jpeg",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baião",
+      "Forró",
+      "Xote",
+      "Choro"
+    ]
+  }
+]

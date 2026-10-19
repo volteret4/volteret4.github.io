@@ -1,0 +1,789 @@
+[
+  {
+    "number": 1,
+    "artist": "Kalevi Aho",
+    "title": "Symphony No. 8; Pergamon",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lahti-symphony-orchestra-osmo-vanska-hans-ola-ericsson/symphony-no-8-pergamon",
+    "cover_url": "https://e.snmc.io/i/600/s/bbb1d7a00b361f2cbe4c3d67afaf13b8/14323651/Lahti%20Symphony%20Orchestra%20%2F%20Osmo%20V%C3%A4nsk%C3%A4%20%2F%20Hans-Ola%20Ericsson%20-%20Symphony%20No_%208%3B%20Pergamon%2C%20Cover%20art.png",
+    "rating": "3.56",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Modern Classical",
+      "Sinfonia concertante",
+      "Symphony"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Kalevi Aho",
+    "title": "Symphony No. 9 for Trombone & Orchestra; Concerto for Cello & Orchestra",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lahti-symphony-orchestra-osmo-vanska-christian-lindberg-gary-hoffman/symphony-no-9-for-trombone-and-orchestra-concerto-for-cello-and-orchestra",
+    "cover_url": "https://e.snmc.io/i/600/s/1bfcb61aba2677502d5a64bc241a05b5/14323648/Lahti%20Symphony%20Orchestra%20%2F%20Osmo%20V%C3%A4nsk%C3%A4%20%2F%20Christian%20Lindberg%20%2F%20Gary%20Hoffman%20-%20Symphony%20No_%209%20for%20Trombone%20%26%20Orchestra%3B%20Concerto%20for%20Cello%20%26%20Orchestra%2C%20Cover%20art.png",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Modern Classical",
+      "Orchestral Music",
+      "Sinfonia concertante",
+      "Neoclassicism",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Wolfgang Amadeus Mozart /",
+    "title": "Sinfonie concertanti KV 364 & KV 297b",
+    "year": 1966,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/berliner-philharmoniker-karl-bohm/sinfonie-concertanti-kv-364-and-kv-297b",
+    "cover_url": "https://e.snmc.io/i/600/s/a1b9a45afbcb14f38a4561d49e3a425f/6554631/Berliner%20Philharmoniker%20%2F%20Karl%20B%C3%B6hm%20-%20Sinfonie%20concertanti%20KV%20364%20%26%20KV%20297b%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Sinfonia concertante",
+      "Orchestral Music"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Édouard Lalo",
+    "title": "Symphonie Espagnole",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chicago-symphony-orchestra-walter-hendl-henryk-szeryng/symphonie-espagnole",
+    "cover_url": "https://e.snmc.io/i/600/s/df336bbefe7b2a9ee555526e9a92db02/2356670/Chicago%20Symphony%20Orchestra%20%2F%20Walter%20Hendl%20%2F%20Henryk%20Szeryng%20-%20Symphonie%20Espagnole%2C%20Cover%20art.jpeg",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Spanish Classical Music",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Boris Tishchenko\nБорис Тищенко",
+    "title": "Violin Concerto No. 2 Op. 84",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/leningrad-philharmonic-orchestra-v-sinaisky-sergei-stadler/violin-concerto-no-2-op-84",
+    "cover_url": "https://e.snmc.io/i/600/s/c9527f32fae5a33f4d0d05a308806d4a/8173585/Leningrad%20Philharmonic%20Orchestra%20%2F%20V_%20Sinaisky%20%2F%20Sergei%20Stadler%20-%20Violin%20Concerto%20No_%202%20Op_%2084%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Modern Classical",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Hector Berlioz",
+    "title": "Harold in Italy",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/boston-symphony-charles-munch-william-primrose/harold-in-italy",
+    "cover_url": "https://e.snmc.io/i/600/s/03fef0fc7c83204291c4f5468592c948/3992927/Boston%20Symphony%20%2F%20Charles%20Munch%20%2F%20William%20Primrose%20-%20Harold%20in%20Italy%2C%20Cover%20art.jpeg",
+    "rating": "3.36",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Kalevi Aho /",
+    "title": "Symphony No. 3; Songs and Dances of Death",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lahti-symphony-orchestra-osmo-vanska-jaakko-kuusisto-matti-salminen/symphony-no-3-songs-and-dances-of-death",
+    "cover_url": "https://e.snmc.io/i/600/s/daf1244e8ae481faeb502db7ad7894b5/14332673/Lahti%20Symphony%20Orchestra%20%2F%20Osmo%20V%C3%A4nsk%C3%A4%20%2F%20Jaakko%20Kuusisto%20%2F%20Matti%20Salminen%20-%20Symphony%20No_%203%3B%20Songs%20and%20Dances%20of%20Death%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Modern Classical",
+      "Orchestral Music",
+      "Sinfonia concertante",
+      "Orchestral Song",
+      "Saint Petersburg School"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Hector Berlioz",
+    "title": "Harold in Italy",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/new-york-philharmonic-leonard-bernstein-william-lincer/harold-in-italy",
+    "cover_url": "https://e.snmc.io/i/600/s/59da814bcbdade6b9e76fad94871c691/2011460/New%20York%20Philharmonic%20%2F%20Leonard%20Bernstein%20%2F%20William%20Lincer%20-%20Harold%20in%20Italy%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Hector Berlioz",
+    "title": "Harold en Italie; Tristia",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orchestre-revolutionnaire-et-romantique-monteverdi-choir-john-eliot-gardiner-gerard-causse/harold-en-italie-tristia",
+    "cover_url": "https://e.snmc.io/i/600/s/2301f9a7980d5e6e770fdfa1f6020793/1483771/Orchestre%20R%C3%A9volutionnaire%20et%20Romantique%20%2F%20Monteverdi%20Choir%20%2F%20John%20Eliot%20Gardiner%20%2F%20G%C3%A9rard%20Causs%C3%A9%20-%20Harold%20en%20Italie%3B%20Tristia%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Choral",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Sinfonia concertante in E flat major, K. 364",
+    "year": 1951,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-zimbler-sinfonietta-joseph-fuchs-lillian-fuchs/sinfonia-concertante-in-e-flat-major-k-364",
+    "cover_url": "https://e.snmc.io/i/600/s/019b852a5ccef7fe04e51bb97bf49c36/10383474/The%20Zimbler%20Sinfonietta%20%2F%20Joseph%20Fuchs%20%2F%20Lillian%20Fuchs%20-%20Sinfonia%20concertante%20in%20E%20flat%20major%2C%20K_%20364%2C%20Cover%20art.jpeg",
+    "rating": "4.06",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Édouard Lalo",
+    "title": "Symphonie espagnole",
+    "year": 1954,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/philharmonia-orchestra-david-oistrakh-jean-martinon/symphonie-espagnole",
+    "cover_url": "https://e.snmc.io/i/600/s/10cb84e7f285a9f4f7375eae80a9fa52/4485823/Philharmonia%20Orchestra%20%2F%20David%20Oistrakh%20%2F%20Jean%20Martinon%20-%20Symphonie%20espagnole%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Concerto",
+      "Spanish Classical Music"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Violin Concerto K. 211; Sinfonia concertante K. 364",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/london-symphony-orchestra-colin-davis-arthur-grumiaux-arrigo-pellicia/violin-concerto-k-211-sinfonia-concertante-k-364",
+    "cover_url": "https://e.snmc.io/i/600/s/282cd49f893168442ff93671712a55bf/5638517/London%20Symphony%20Orchestra%20%2F%20Colin%20Davis%20%2F%20Arthur%20Grumiaux%20%2F%20Arrigo%20Pellicia%20-%20Violin%20Concerto%20K_%20211%3B%20Sinfonia%20concertante%20K_%20364%2C%20Cover%20art.jpeg",
+    "rating": "4.30",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Concerto",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Samuel Barber /",
+    "title": "Cello Concerto / Symphony for Cello & Orchestra",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/baltimore-symphony-orchestra-david-zinman-yo-yo-ma/cello-concerto-symphony-for-cello-and-orchestra",
+    "cover_url": "https://e.snmc.io/i/600/s/ccf59ac6b2f196795a688546023b61de/3916464/Baltimore%20Symphony%20Orchestra%20%2F%20David%20Zinman%20%2F%20Yo-Yo%20Ma%20-%20Cello%20Concerto%20%2F%20Symphony%20for%20Cello%20%26%20Orchestra%2C%20Cover%20art.jpeg",
+    "rating": "3.07",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Modern Classical",
+      "Concerto",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Hector Berlioz",
+    "title": "Harold en Italie",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/london-symphony-orchestra-colin-davis-nobuko-imai/harold-en-italie",
+    "cover_url": "https://e.snmc.io/i/600/s/4750d81ed3bd11b040a892bdc4213330/4613817/London%20Symphony%20Orchestra%20%2F%20Colin%20Davis%20%2F%20Nobuko%20Imai%20-%20Harold%20en%20Italie%2C%20Cover%20art.jpeg",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Concerto for Flute & Harp, K.299; Sinfonia concertante K.297b",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/capella-istropolitana-richard-edlinger-jiri-valek-hana-mullerova-jiri-krejci-vaclav-kyzivat-zdenek-tylsar-jiri-seidl/concerto-for-flute-and-harp-k_299-sinfonia-concertante-k_297b",
+    "cover_url": "https://e.snmc.io/i/600/s/fcb79b3654ceeb6ad6f62893b2f512f8/2145042/Capella%20Istropolitana%20%2F%20Richard%20Edlinger%20%2F%20Ji%C5%99%C3%AD%20V%C3%A1lek%20%2F%20Hana%20M%C3%BCllerov%C3%A1%20%2F%20Ji%C5%99%C3%AD%20Krej%C4%8D%C3%AD%20%2F%20V%C3%A1clav%20Kyziv%C3%A1t%20%2F%20Zden%C4%9Bk%20Tyl%C5%A1ar%20%2F%20Ji%C5%99%C3%AD%20Seidl%20-%20Concerto%20for%20Flute%20%26%20Harp%2C%20K_299%3B%20Sinfonia%20concertante%20K_297b%2C%20Cover%20art.jpeg",
+    "rating": "3.78",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Concerto",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Symphonie concertante KV 297 B; Oboe Concerto KV 314",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/academy-of-st-martin-in-the-fields-neville-marriner-aurele-nicolet-heinz-holliger-hermann-baumann-klaus-thunemann/symphonie-concertante-kv-297-b-oboe-concerto-kv-314",
+    "cover_url": "https://e.snmc.io/i/600/s/ffb278a8f33fc27cbc9f245650411e0f/5836782/Academy%20of%20St%20Martin%20in%20the%20Fields%20%2F%20Neville%20Marriner%20%2F%20Aur%C3%A8le%20Nicolet%20%2F%20Heinz%20Holliger%20%2F%20Hermann%20Baumann%20%2F%20Klaus%20Thunemann%20-%20Symphonie%20concertante%20KV%20297%20B%3B%20Oboe%20Concerto%20KV%20314%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Concerto",
+      "Sinfonia concertante",
+      "Symphony"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Sergei Prokofiev\nСергей Прокофьев /",
+    "title": "Sinfonia concertante / Cello Concerto",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/city-of-birmingham-symphony-orchestra-paavo-jarvi-truls-mork/sinfonia-concertante-cello-concerto",
+    "cover_url": "https://e.snmc.io/i/600/s/e9206607614866bd724c958121bf1967/3600253/City%20of%20Birmingham%20Symphony%20Orchestra%20%2F%20Paavo%20J%C3%A4rvi%20%2F%20Truls%20M%C3%B8rk%20-%20Sinfonia%20concertante%20%2F%20Cello%20Concerto%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Modern Classical",
+      "Concerto",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Henry Charles Litolff",
+    "title": "Concerto symphonique No 2 in B minor; Concerto symphonique No 4 in D minor",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bournemouth-symphony-orchestra-andrew-litton-peter-donohoe/concerto-symphonique-no-2-in-b-minor-concerto-symphonique-no-4-in-d-minor",
+    "cover_url": "https://e.snmc.io/i/600/s/499de97ec524684484bae4f7325e7068/4610394/Bournemouth%20Symphony%20Orchestra%20%2F%20Andrew%20Litton%20%2F%20Peter%20Donohoe%20-%20Concerto%20symphonique%20No%202%20in%20B%20minor%3B%20Concerto%20symphonique%20No%204%20in%20D%20minor%2C%20Cover%20art.png",
+    "rating": "3.13",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Wolfgang Amadeus Mozart /",
+    "title": "Sinfonie concertanti K. 297b & K. 364",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orpheus-chamber-orchestra/sinfonie-concertanti-k-297b-and-k-364",
+    "cover_url": "https://e.snmc.io/i/600/s/d0c955e0c099e9ab1508de1773ab5842/2179237/Orpheus%20Chamber%20Orchestra%20-%20Sinfonie%20concertanti%20K_%20297b%20%26%20K_%20364%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Joseph Jongen /",
+    "title": "Symphonie concertante for Organ and Orchestra / Symphony No. 3 \"Organ\"",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dallas-symphony-orchestra-eduardo-mata-jean-guillou/symphonie-concertante-for-organ-and-orchestra-symphony-no-3-organ",
+    "cover_url": "https://e.snmc.io/i/600/s/fca60703ca3245c69c9640e9864f22c3/2725325/Dallas%20Symphony%20Orchestra%20%2F%20Eduardo%20Mata%20%2F%20Jean%20Guillou%20-%20Symphonie%20concertante%20for%20Organ%20and%20Orchestra%20%2F%20Symphony%20No_%203%20%22Organ%22%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Western Classical Music",
+      "Sinfonia concertante",
+      "Romanticism",
+      "Modern Classical"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Édouard Lalo",
+    "title": "Symphonie espagnole op. 21",
+    "year": 1952,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/yehudi-menuhin-orchestre-de-lassociation-des-concerts-colonne-jean-fournet/symphonie-espagnole-op-21",
+    "cover_url": "https://e.snmc.io/i/600/s/4f7887e23e6fa020c505f99fa34f7650/6089371/Yehudi%20Menuhin%20%2F%20Orchestre%20de%20l'Association%20des%20Concerts%20Colonne%20%2F%20Jean%20Fournet%20-%20Symphonie%20espagnole%20op_%2021%2C%20Cover%20art.jpeg",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Spanish Classical Music",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Bernhard Crusell",
+    "title": "Symphonies concertantes",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/consortium-classicum-academy-of-st-martin-in-the-fields-iona-brown-dieter-klocker/symphonies-concertantes",
+    "cover_url": "https://e.snmc.io/i/600/s/954804c0a033e7c464ae1e8ee10f7c90/2649990/Consortium%20Classicum%20%2F%20Academy%20of%20St%20Martin%20in%20the%20Fields%20%2F%20Iona%20Brown%20%2F%20Dieter%20Kl%C3%B6cker%20-%20Symphonies%20concertantes%2C%20Cover%20art.jpeg",
+    "rating": "3.81",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Édouard Lalo",
+    "title": "Symphonie espagnole opus 21",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/london-philharmonic-orchestra-eduard-van-beinum-alfredo-campoli/symphonie-espagnole-opus-21",
+    "cover_url": "https://e.snmc.io/i/600/s/7959677b589aa3731b9dccfeffe90b47/2486651/London%20Philharmonic%20Orchestra%20%2F%20Eduard%20van%20Beinum%20%2F%20Alfredo%20Campoli%20-%20Symphonie%20espagnole%20opus%2021%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Spanish Classical Music",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Édouard Lalo,",
+    "title": "Symphonie Espagnole, Op. 21",
+    "year": 1953,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jascha-heifetz-rca-victor-symphony-orchestra/symphonie-espagnole-op-21",
+    "cover_url": "https://e.snmc.io/i/600/s/3baa54f6168e2ae43f6d39cfe947e8a4/6030143/Jascha%20Heifetz%20%26%20RCA%20Victor%20Symphony%20Orchestra%20-%20Symphonie%20Espagnole%2C%20Op_%2021%2C%20Cover%20art.jpeg",
+    "rating": "3.70",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Ignaz Joseph Pleyel /",
+    "title": "Symphonies concertantes; Bassoon Concerto",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/radio-sinfonieorchester-stuttgart-johannes-moesus/symphonies-concertantes-bassoon-concerto",
+    "cover_url": "https://e.snmc.io/i/600/s/71be499e23bdf253ce4798392d787ce7/11775140/Radio-Sinfonieorchester%20Stuttgart%20%2F%20Johannes%20Moesus%20-%20Symphonies%20concertantes%3B%20Bassoon%20Concerto%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Sinfonia concertante",
+      "Concerto"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Hector Berlioz",
+    "title": "Harold in Italy",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/czech-philharmonic-orchestra-vaclav-jiracek-ladislav-cerny/harold-in-italy",
+    "cover_url": "",
+    "rating": "3.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Henry Charles Litolff",
+    "title": "Concerto symphonique No 3 in E flat major; Concerto symphonique No 5 in C minor",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bbc-scottish-symphony-orchestra-andrew-litton-peter-donohoe/concerto-symphonique-no-3-in-e-flat-major-concerto-symphonique-no-5-in-c-minor",
+    "cover_url": "https://e.snmc.io/i/600/s/2fdbec48f082c26df8956fbba075654f/8103613/BBC%20Scottish%20Symphony%20Orchestra%20%2F%20Andrew%20Litton%20%2F%20Peter%20Donohoe%20-%20Concerto%20symphonique%20No%203%20in%20E%20flat%20major%3B%20Concerto%20symphonique%20No%205%20in%20C%20minor%2C%20Cover%20art.png",
+    "rating": "3.40",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Hector Berlioz",
+    "title": "Harold en Italie",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/czech-philharmonic-orchestra-dietrich-fischer-dieskau-josef-suk/harold-en-italie",
+    "cover_url": "https://e.snmc.io/i/600/s/454d848083b2a6ecb824817ba9826316/4277625/Czech%20Philharmonic%20Orchestra%20%2F%20Dietrich%20Fischer-Dieskau%20%2F%20Josef%20Suk%20-%20Harold%20en%20Italie%2C%20Cover%20art.jpeg",
+    "rating": "4.28",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Jean-Baptiste Bréval /",
+    "title": "Symphonies concertantes",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orchestre-de-chambre-bernard-calmel-bernard-calmel/symphonies-concertantes",
+    "cover_url": "https://e.snmc.io/i/600/s/362134c8d7146a82f9546c4f159b4b3d/3945098/Orchestre%20de%20Chambre%20Bernard%20Calmel%20%2F%20Bernard%20Calmel%20-%20Symphonies%20concertantes%2C%20Cover%20art.jpeg",
+    "rating": "3.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Joseph Jongen",
+    "title": "Symphonie concertante",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orchestre-du-theatre-national-de-lopera-georges-pretre-virgil-fox/symphonie-concertante",
+    "cover_url": "https://e.snmc.io/i/600/s/abb2f60f1335bbdedb5179a6dd3d9311/1626188/Orchestre%20du%20Th%C3%A9%C3%A2tre%20national%20de%20l'op%C3%A9ra%20%2F%20Georges%20Pr%C3%AAtre%20%2F%20Virgil%20Fox%20-%20Symphonie%20concertante%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Modern Classical",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Flute and Harp Concerto K. 299; Sinfonia concertante K. 297b",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/philharmonia-orchestra-giuseppe-sinopoli-john-anderson-michael-collins-richard-watkins-meyrick-alexander-kenneth-smith-bryn-lewis/flute-and-harp-concerto-k-299-sinfonia-concertante-k-297b",
+    "cover_url": "https://e.snmc.io/i/600/s/8743f8eb2b2179f9b403d95c6b0027e3/9837147/Philharmonia%20Orchestra%20%2F%20Giuseppe%20Sinopoli%20%2F%20John%20Anderson%20%2F%20Michael%20Collins%20%2F%20Richard%20Watkins%20%2F%20Meyrick%20Alexander%20%2F%20Kenneth%20Smith%20%2F%20Bryn%20Lewis%20-%20Flute%20and%20Harp%20Concerto%20K_%20299%3B%20Sinfonia%20concertante%20K_%20297b%2C%20Cover%20art.jpeg",
+    "rating": "3.12",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Concerto",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Hector Berlioz",
+    "title": "Harold en Italie",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orchestre-de-paris-daniel-barenboim-pinchas-zukerman/harold-en-italie",
+    "cover_url": "https://e.snmc.io/i/600/s/f032e36c0349217ad1b603c63c5c2420/8929995/Orchestre%20de%20Paris%20%2F%20Daniel%20Barenboim%20%2F%20Pinchas%20Zukerman%20-%20Harold%20en%20Italie%2C%20Cover%20art.jpeg",
+    "rating": "3.88",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Sergei Prokofiev\nСергей Прокофьев /",
+    "title": "Sinfonia concertante, Op.125 / Vocalise",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/royal-philharmonic-orchestra-malcolm-sargent-mstislav-rostropovitch-alexander-dedyukhin/sinfonia-concertante-op_125-vocalise",
+    "cover_url": "",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Modern Classical",
+      "Sinfonia concertante",
+      "Chamber Music"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Wolfgang Amadeus Mozart /",
+    "title": "Karajan Conducts Mozart Concertos: Oboe Concerto, Sinfonia Concertante",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/berlin-philharmonic-orchestra-herbert-von-karajan/karajan-conducts-mozart-concertos-oboe-concerto-sinfonia-concertante",
+    "cover_url": "https://e.snmc.io/i/600/s/f72d816e10cbd514073cc1ef342cbb2a/4031026/Berlin%20Philharmonic%20Orchestra%20%2F%20Herbert%20von%20Karajan%20-%20Karajan%20Conducts%20Mozart%20Concertos%3A%20Oboe%20Concerto%2C%20Sinfonia%20Concertante%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Concerto",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Hector Berlioz",
+    "title": "Harold in Italy",
+    "year": 1952,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/royal-philharmonic-orchestra-thomas-beecham-william-primrose/harold-in-italy",
+    "cover_url": "",
+    "rating": "2.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Allan Pettersson /",
+    "title": "Symfoni nr 16 / Symfoni nr 6",
+    "year": 1985,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/stockholms-filharmoniska-orkester-yuri-ahronovitch-frederick-l-hemke/symfoni-nr-16-symfoni-nr-6",
+    "cover_url": "https://e.snmc.io/i/600/s/7d1e578fd46a22c996b06a853bdd5811/6442712/Stockholms%20Filharmoniska%20Orkester%20%2F%20Yuri%20Ahronovitch%20%2F%20Frederick%20L_%20Hemke%20-%20Symfoni%20nr%2016%20%2F%20Symfoni%20nr%206%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Modern Classical",
+      "Symphony",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Federico García Vigil",
+    "title": "Sinfonía concertante para bandoneón y orquesta",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/federico-garcia-vigil/sinfonia-concertante-para-bandoneon-y-orquesta",
+    "cover_url": "https://e.snmc.io/i/600/s/a6c2a65ef6db464e607d49a2127f11ce/10858304/Federico%20Garc%C3%ADa%20Vigil%20-%20Sinfon%C3%ADa%20concertante%20para%20bandone%C3%B3n%20y%20orquesta%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Latin American Classical Music",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Wolfgang Amadeus Mozart /",
+    "title": "Sinfonia concertante / Serenade Nr.10 \"Gran Partita\"",
+    "year": 2012,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/neville-marriner/sinfonia-concertante-serenade-nr_10-gran-partita",
+    "cover_url": "",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Serenade",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Gösta Nystroem /",
+    "title": "Sinfonia concertante / Nordiskt capriccio",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sveriges-radios-symfoniorkester-stig-westerberg-erling-blondal-bengtsson/sinfonia-concertante-nordiskt-capriccio",
+    "cover_url": "https://e.snmc.io/i/600/s/001bbdd2d27bb5986919ca7bafbc570e/6016845/Sveriges%20Radios%20Symfoniorkester%20%2F%20Stig%20Westerberg%20%2F%20Erling%20Bl%C3%B6ndal%20Bengtsson%20-%20Sinfonia%20concertante%20%2F%20Nordiskt%20capriccio%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Modern Classical",
+      "Sinfonia concertante"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Sinfonia concertante in E-flat major, K.364; Concertone in C major, K.190",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/english-chamber-orchestra-raymond-leppard-cho-liang-lin-jaime-laredo/sinfonia-concertante-in-e-flat-major-k_364-concertone-in-c-major-k_190",
+    "cover_url": "https://e.snmc.io/i/600/s/e559db45c5384b5b1954dbc21154fd9e/6530918/English%20Chamber%20Orchestra%20%2F%20Raymond%20Leppard%20%2F%20Cho-Liang%20Lin%20%2F%20Jaime%20Laredo%20-%20Sinfonia%20concertante%20in%20E-flat%20major%2C%20K_364%3B%20Concertone%20in%20C%20major%2C%20K_190%2C%20Cover%20art.jpeg",
+    "rating": "3.35",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Sinfonia concertante"
+    ]
+  }
+]

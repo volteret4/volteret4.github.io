@@ -1,0 +1,761 @@
+[
+  {
+    "number": 1,
+    "artist": "Magalhães",
+    "title": "Magalhães e sua guitarra",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/magalhaes/magalhaes-e-sua-guitarra",
+    "cover_url": "https://e.snmc.io/i/600/s/19024e7b0e05cc60e7fb1e1ba858c708/12040446/Magalh%C3%A3es%20-%20Magalh%C3%A3es%20e%20sua%20guitarra%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Onda de Beleza Natural",
+    "title": "Apocalypso",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/onda-de-beleza-natural/apocalypso",
+    "cover_url": "https://e.snmc.io/i/600/s/064b0c4332f837c6b077d666a168096d/13474951/Onda%20de%20Beleza%20Natural%20-%20Apocalypso%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Afrobeat",
+      "Guitarrada",
+      "Avant-Garde Jazz",
+      "Experimental Rock",
+      "Free Jazz"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Oseas",
+    "title": "Oseas e sua guitarra maravilhosa vol. 2",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/oseas/oseas-e-sua-guitarra-maravilhosa-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/f0320259690ad512d2828a51f4404b4e/7720722/Oseas%20-%20Oseas%20e%20sua%20guitarra%20maravilhosa%20vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "3.51",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada",
+      "Carimbó",
+      "Forró"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Aldo Sena",
+    "title": "Aldo Sena",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/aldo-sena/aldo-sena",
+    "cover_url": "https://e.snmc.io/i/600/s/0a1d07a72196303c22d996e4409e2fba/5914486/Aldo%20Sena%20-%20Aldo%20Sena%2C%20Cover%20art.jpeg",
+    "rating": "3.26",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada",
+      "Brega",
+      "Cumbia",
+      "Pop Rock"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Kaoma",
+    "title": "Worldbeat",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kaoma/worldbeat-3",
+    "cover_url": "https://e.snmc.io/i/600/s/493066928872f462c20497156a90cdfc/1388307/Kaoma%20-%20Worldbeat%2C%20Cover%20art.jpeg",
+    "rating": "2.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada",
+      "Pop Reggae"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Figueroas",
+    "title": "Lambada Quente",
+    "year": 2045,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/figueroas/lambada-quente",
+    "cover_url": "https://e.snmc.io/i/600/s/b46968d209b082ce4b7a7bb497e5aa0c/5680185/Figueroas%20-%20Lambada%20Quente%2C%20Cover%20art.jpeg",
+    "rating": "2.92",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Felipe Cordeiro",
+    "title": "Se apaixone pela loucura do seu amor",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/felipe-cordeiro/se-apaixone-pela-loucura-do-seu-amor",
+    "cover_url": "https://e.snmc.io/i/600/s/ea4947779012af530554b931f237e478/5057370/Felipe%20Cordeiro%20-%20Se%20apaixone%20pela%20loucura%20do%20seu%20amor%2C%20Cover%20art.jpeg",
+    "rating": "3.13",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada",
+      "MPB",
+      "Brega",
+      "Latin Pop"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Manoel Cordeiro",
+    "title": "Guitar hero Brasil",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/manoel-cordeiro/guitar-hero-brasil",
+    "cover_url": "https://e.snmc.io/i/600/s/697f7e8f6ff31aed39325df6b8b1af0f/7748202/Manoel%20Cordeiro%20-%20Guitar%20hero%20Brasil%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada",
+      "Guitarrada"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Vieira e Seu Conjunto",
+    "title": "Lambada das quebradas",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vieira-e-seu-conjunto/lambada-das-quebradas",
+    "cover_url": "https://e.snmc.io/i/600/s/b8431cf53547c5798911116779a60102/12230289/Vieira%20e%20Seu%20Conjunto%20-%20Lambada%20das%20quebradas%2C%20Cover%20art.jpeg",
+    "rating": "3.27",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada",
+      "Guitarrada",
+      "Carimbó"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Felipe Cordeiro",
+    "title": "Kitsch Pop Cult",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/felipe-cordeiro/kitsch-pop-cult",
+    "cover_url": "https://e.snmc.io/i/600/s/86030cd97931b2f00ded7e7a7619a0a3/4039433/Felipe%20Cordeiro%20-%20Kitsch%20Pop%20Cult%2C%20Cover%20art.png",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada",
+      "Carimbó",
+      "Guitarrada",
+      "MPB",
+      "Brega"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "André Amazonas",
+    "title": "Uma guitarra especial",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/andre-amazonas/uma-guitarra-especial",
+    "cover_url": "https://e.snmc.io/i/600/s/fe249d3318a6c34483af9f9a8fea861f/10935855/Andr%C3%A9%20Amazonas%20-%20Uma%20guitarra%20especial%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada",
+      "Forró",
+      "Lambada"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Ximbinha & Banda",
+    "title": "Guitarras que cantam",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chimbinha-and-banda/guitarras-que-cantam",
+    "cover_url": "https://e.snmc.io/i/600/s/ec22a42ef8b98380e1fef374d123c3e8/6664278/Chimbinha%20%26%20Banda%20-%20Guitarras%20que%20cantam%2C%20Cover%20art.jpeg",
+    "rating": "3.24",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada",
+      "Cumbia",
+      "Merengue"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Figueroas",
+    "title": "Swing Veneno",
+    "year": 2070,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/figueroas/swing-veneno",
+    "cover_url": "https://e.snmc.io/i/600/s/1abf9cd47ccbbff64dd0401e5a7c9a2c/6615586/Figueroas%20-%20Swing%20Veneno%2C%20Cover%20art.png",
+    "rating": "2.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada",
+      "Brega",
+      "Cumbia"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Lucas Estrela",
+    "title": "Sal ou Moscou",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lucas-estrela/sal-ou-moscou",
+    "cover_url": "https://e.snmc.io/i/600/s/293b6fe8d3af5809d296ed983103184b/6122898/Lucas%20Estrela%20-%20Sal%20ou%20Moscou%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Tecnobrega",
+      "Guitarrada",
+      "Tecnobrega",
+      "Carimbó"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "The Charque Side of the Moon",
+    "title": "The Charque Side of the Moon",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-charque-side-of-the-moon/the-charque-side-of-the-moon",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "2.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada",
+      "Brega",
+      "Progressive Pop",
+      "Lundu",
+      "Progressive Pop"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Aldo Sena e seu conjunto",
+    "title": "Solo de ouro",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/aldo-sena-e-seu-conjunto/solo-de-ouro",
+    "cover_url": "https://e.snmc.io/i/600/s/37b90292f1b74820b9118106cffecfb8/5914503/Aldo%20Sena%20e%20seu%20conjunto%20-%20Solo%20de%20ouro%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada",
+      "Guitarrada",
+      "Yacht Rock"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Teixeira de Manaus",
+    "title": "Solista de sax",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/teixeira-de-manaus/solista-de-sax",
+    "cover_url": "https://e.snmc.io/i/600/s/fd50b170e7d1e650cc81b5b82aafa87f/12183313/Teixeira%20de%20Manaus%20-%20Solista%20de%20sax%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Pim",
+    "title": "Carimbó e lambada vol. 3",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pim/carimbo-e-lambada-vol-3",
+    "cover_url": "https://e.snmc.io/i/600/s/3421cfd247f7b44c5ab31aa335b79fba/11621483/Pim%20-%20Carimb%C3%B3%20e%20lambada%20vol_%203%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada",
+      "Carimbó"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Oseas",
+    "title": "Oseas e sua guitarra maravilhosa",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/oseas/oseas-e-sua-guitarra-maravilhosa",
+    "cover_url": "https://e.snmc.io/i/600/s/928ebd2cef10c4d05655a9fa67a831d7/10937299/Oseas%20-%20Oseas%20e%20sua%20guitarra%20maravilhosa%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada",
+      "Lambada"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "La Pupuña",
+    "title": "All Right Penoso!!!",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/la-pupuna/all-right-penoso",
+    "cover_url": "https://e.snmc.io/i/600/s/140ddc6ed0570dd00e0d6b354bc1ee3f/4205987/La%20Pupu%C3%B1a%20-%20All%20Right%20Penoso!!!%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada",
+      "Merengue",
+      "Progressive Rock"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Manoel Cordeiro",
+    "title": "Manoel Cordeiro & Sonora Amazônia",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/manoel-cordeiro/manoel-cordeiro-and-sonora-amazonia",
+    "cover_url": "https://e.snmc.io/i/600/s/9613f492fc001e73f9c6810896526a17/6431585/Manoel%20Cordeiro%20-%20Manoel%20Cordeiro%20%26%20Sonora%20Amaz%C3%B4nia%2C%20Cover%20art.jpeg",
+    "rating": "2.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada",
+      "Cumbia",
+      "Carimbó"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Os Panteras",
+    "title": "Coisas que acontecem",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/os-panteras/coisas-que-acontecem",
+    "cover_url": "https://e.snmc.io/i/600/s/dbbacc9d7db79346b77edaa276759fe5/8627003/Os%20Panteras%20-%20Coisas%20que%20acontecem%2C%20Cover%20art.jpeg",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Guitarrada das Manas",
+    "title": "Guamaense",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/guitarrada-das-manas/guamaense",
+    "cover_url": "https://e.snmc.io/i/600/s/8183600984b812a25811a88155fb35bb/7880214/Guitarrada%20das%20Manas%20-%20Guamaense%2C%20Cover%20art.jpeg",
+    "rating": "2.99",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Digital Cumbia",
+      "Guitarrada"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Vieira e Seu Conjunto",
+    "title": "Lambada das quebradas Vol. 2",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vieira-e-seu-conjunto/lambada-das-quebradas-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/a3ccfd8975ece550917d1538b97daa00/6098891/Vieira%20e%20Seu%20Conjunto%20-%20Lambada%20das%20quebradas%20Vol_%202%2C%20Cover%20art.png",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Mestres da Guitarrada",
+    "title": "Música magneta",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mestres-da-guitarrada/musica-magneta",
+    "cover_url": "https://e.snmc.io/i/600/s/835ca5fac6973d7e6b7ed1c1f1c415f2/10938940/Mestres%20da%20Guitarrada%20-%20M%C3%BAsica%20magneta%2C%20Cover%20art.jpeg",
+    "rating": "3.86",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Mestre Vieira",
+    "title": "Guitarreiro do Mundo",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mestre-vieira/guitarreiro-do-mundo",
+    "cover_url": "https://e.snmc.io/i/600/s/9472df73c9d589b0578d93fca026d82a/6854332/Mestre%20Vieira%20-%20Guitarreiro%20do%20Mundo%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Magalhães",
+    "title": "Bicho bom",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/magalhaes/bicho-bom",
+    "cover_url": "https://e.snmc.io/i/600/s/99f0aa3115195cdf048e7df8e80409b8/8320463/Magalh%C3%A3es%20-%20Bicho%20bom%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Pio Lobato",
+    "title": "Pio Lobato",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pio_lobato/pio_lobato",
+    "cover_url": "https://e.snmc.io/i/600/s/d453a5e3251f2cfa2fdef1efe081a7dc/5890866/Pio%20Lobato%20-%20Pio%20Lobato%2C%20Cover%20art.jpeg",
+    "rating": "2.95",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada",
+      "Tecnobrega",
+      "Post-Rock"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Marinho Guitarra de Ouro",
+    "title": "Melô da piramide",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/marinho-guitarra-de-ouro/melo-da-piramide",
+    "cover_url": "https://e.snmc.io/i/600/s/d7eb51c028030f5adee340f350f95261/11991475/Marinho%20Guitarra%20de%20Ouro%20-%20Mel%C3%B4%20da%20piramide%2C%20Cover%20art.jpeg",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Kaoma",
+    "title": "A la media noche",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kaoma/a-la-media-noche",
+    "cover_url": "https://e.snmc.io/i/600/s/29de12648e6f828981274a0c3578b7e0/1877563/Kaoma%20-%20A%20la%20media%20noche%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Vieira e Seu Conjunto",
+    "title": "O rei da Lambada - Lambada das quebradas Vol.3",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vieira-e-seu-conjunto/o-rei-da-lambada-lambada-das-quebradas-vol_3",
+    "cover_url": "https://e.snmc.io/i/600/s/38d06f0a01ffb94b2b497c6d84a2eebc/6098896/Vieira%20e%20Seu%20Conjunto%20-%20O%20rei%20da%20Lambada%20-%20Lambada%20das%20quebradas%20Vol_3%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Lucas Estrela",
+    "title": "Farol",
+    "year": 2017,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lucas-estrela/farol",
+    "cover_url": "https://e.snmc.io/i/600/s/918a040a0e77b23668ba6f686e2cf157/9265929/Lucas%20Estrela%20-%20Farol%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Carimbó",
+      "Guitarrada",
+      "Tecnobrega",
+      "Cumbia"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Combo Cordeiro",
+    "title": "Combo Cordeiro",
+    "year": 2017,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/combo-cordeiro/combo-cordeiro",
+    "cover_url": "https://e.snmc.io/i/600/s/a866baee8f58d601bd076d4d12cfec68/6558988/Combo%20Cordeiro%20-%20Combo%20Cordeiro%2C%20Cover%20art.png",
+    "rating": "2.99",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Electronic",
+      "Guitarrada",
+      "Tecnobrega",
+      "Digital Cumbia"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Teixeira de Manaus",
+    "title": "Solista de sax vol. 2",
+    "year": 1982,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/teixeira-de-manaus/solista-de-sax-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/bc547c6f24038769179d210babfd5dfe/10609382/Teixeira%20de%20Manaus%20-%20Solista%20de%20sax%20vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "3.93",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Felipe Cordeiro",
+    "title": "Transpyra",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/felipe-cordeiro/transpyra",
+    "cover_url": "https://e.snmc.io/i/600/s/68db8678e8623e288c3118a6f3001bda/7458198/Felipe%20Cordeiro%20-%20Transpyra%2C%20Cover%20art.jpeg",
+    "rating": "2.86",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lambada",
+      "Latin Electronic",
+      "Carimbó",
+      "Neo-Psychedelia"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Vieira e Seu Conjunto",
+    "title": "Lambadas e cambará",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vieira-e-seu-conjunto/lambadas-e-cambara",
+    "cover_url": "https://e.snmc.io/i/600/s/6c89fe5467957eed491908c24856b98a/11877498/Vieira%20e%20Seu%20Conjunto%20-%20Lambadas%20e%20cambar%C3%A1%2C%20Cover%20art.jpeg",
+    "rating": "3.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Sol",
+    "title": "Lambada sabor tropical",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sol/lambada-sabor-tropical",
+    "cover_url": "https://e.snmc.io/i/600/s/d2d0c41d67b75abbc716a8e012bb356d/6683597/Sol%20-%20Lambada%20sabor%20tropical%2C%20Cover%20art.jpeg",
+    "rating": "4.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Dance-Pop",
+      "Lambada"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Desumanos",
+    "title": "Desumanos",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/desumanos/desumanos",
+    "cover_url": "https://e.snmc.io/i/600/s/a52bc73fa4472cd745329fd8fc8d4f79/10388103/Desumanos%20-%20Desumanos%2C%20Cover%20art.jpeg",
+    "rating": "3.52",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guitarrada"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Camarones Orquestra Guitarrística &",
+    "title": "Oh sorte",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/camarones-orquestra-guitarristica-manoel-cordeiro/oh-sorte",
+    "cover_url": "https://e.snmc.io/i/600/s/c8ecacc381539d8ddc2182743bd3a9fd/10545962/Camarones%20Orquestra%20Guitarr%C3%ADstica%20%26%20Manoel%20Cordeiro%20-%20Oh%20sorte%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Art Rock",
+      "Guitarrada",
+      "Punk Rock",
+      "Cumbia"
+    ]
+  }
+]

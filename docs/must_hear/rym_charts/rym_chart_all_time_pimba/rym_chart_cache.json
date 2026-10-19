@@ -1,0 +1,740 @@
+[
+  {
+    "number": 1,
+    "artist": "José Pinhal",
+    "title": "José Pinhal",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jose-pinhal/jose-pinhal",
+    "cover_url": "https://e.snmc.io/i/600/s/0b659ede64ee0c22beb4ca6cc2165cfa/8145258/Jos%C3%A9%20Pinhal%20-%20Jos%C3%A9%20Pinhal%2C%20Cover%20art.png",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba",
+      "Rumba flamenca",
+      "Brega"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "José Pinhal",
+    "title": "Vol. 2",
+    "year": 1985,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jose-pinhal/vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/605b3f4f05ea5a33a9cfaeecacffcd59/10425559/Jos%C3%A9%20Pinhal%20-%20Vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba",
+      "Rumba flamenca"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Soraya Cristina",
+    "title": "Felicidade",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/soraya_cristina/felicidade",
+    "cover_url": "https://e.snmc.io/i/600/s/73687afaeb80d3ebfbd59a1416748b37/6063058/Soraya%20Cristina%20-%20Felicidade%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Pedro Mafama",
+    "title": "Estava no abismo mas dei um passo em frente",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pedro-mafama/estava-no-abismo-mas-dei-um-passo-em-frente",
+    "cover_url": "https://e.snmc.io/i/600/s/fda3c4a016b375c7097a649aec01d64c/11006206/Pedro%20Mafama%20-%20Estava%20no%20abismo%20mas%20dei%20um%20passo%20em%20frente%2C%20Cover%20art.jpeg",
+    "rating": "3.10",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Art Pop",
+      "Alternative R&B",
+      "Pimba",
+      "Pimba",
+      "Batida"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "José Pinhal",
+    "title": "Volume 3",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jose-pinhal/volume-3",
+    "cover_url": "https://e.snmc.io/i/600/s/fe955fae35c2e6eaaafc0f90e08e4d3b/11424696/Jos%C3%A9%20Pinhal%20-%20Volume%203%2C%20Cover%20art.jpeg",
+    "rating": "3.09",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Synthpop",
+      "Pimba"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Paulo e Odette",
+    "title": "A cigana",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/paulo-e-odette/a-cigana",
+    "cover_url": "https://e.snmc.io/i/600/s/228b03bbdb10cf6e029f4875ca851e0e/11568173/Paulo%20e%20Odette%20-%20A%20cigana%2C%20Cover%20art.jpeg",
+    "rating": "3.51",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Duo Paula Margarida e Maia",
+    "title": "O autocarro do amor",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/duo-paula-margarida-e-maia/o-autocarro-do-amor",
+    "cover_url": "https://e.snmc.io/i/600/s/ef2290a1841dce8f95e4c0e6b53ae814/8600517/Duo%20Paula%20Margarida%20e%20Maia%20-%20O%20autocarro%20do%20amor%2C%20Cover%20art.png",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Domingos Gonçalves",
+    "title": "Cadá",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/domingos-goncalves/cada",
+    "cover_url": "https://e.snmc.io/i/600/s/2cc05fa7b1dc012ca77a618fb300c1dc/11950823/Domingos%20Gon%C3%A7alves%20-%20Cad%C3%A1%2C%20Cover%20art.jpeg",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Quim Barreiros",
+    "title": "Comer, comer",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/quim-barreiros/comer-comer",
+    "cover_url": "https://e.snmc.io/i/600/s/a8afd44e2e5d30f0dce443eb2afb098d/2324882/Quim%20Barreiros%20-%20Comer%2C%20comer%2C%20Cover%20art.jpeg",
+    "rating": "2.36",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Olga Guerreiro",
+    "title": "Nada de nada",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/olga-guerreiro/nada-de-nada",
+    "cover_url": "https://e.snmc.io/i/600/s/e0907aadbe18eb6a4515037f4a5e8bac/11962798/Olga%20Guerreiro%20-%20Nada%20de%20nada%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "João Trindade e Lucinda Cerejo",
+    "title": "Voando para trás dos montes",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-trindade-e-lucinda-cerejo/voando-para-tras-dos-montes",
+    "cover_url": "https://e.snmc.io/i/600/s/1537be6d6f10b2d95e3ee97bd10d5135/12298589/Jo%C3%A3o%20Trindade%20e%20Lucinda%20Cerejo%20-%20Voando%20para%20tr%C3%A1s%20dos%20montes%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Santos e Sandra",
+    "title": "Quem me achou o passarinho",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/santos-e-sandra/quem-me-achou-o-passarinho",
+    "cover_url": "https://e.snmc.io/i/600/s/8052ae4a5e06b931d1f3159a6a3b78a2/10736350/Santos%20e%20Sandra%20-%20Quem%20me%20achou%20o%20passarinho%2C%20Cover%20art.jpeg",
+    "rating": "3.35",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Ilídio Nascimento",
+    "title": "Alô, Portugal",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ilidio-nascimento/alo-portugal",
+    "cover_url": "https://e.snmc.io/i/600/s/1d6332e2f6929c3779c17537b3126403/13733503/Il%C3%ADdio%20Nascimento%20-%20Al%C3%B4%2C%20Portugal%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba",
+      "Tango"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Chico’s Band",
+    "title": "O fado da ingrácia",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chico’s-band/o-fado-da-ingracia",
+    "cover_url": "https://e.snmc.io/i/600/s/bd837c514f3ed8616993fc6f4ebd7241/13228335/Chico%E2%80%99s%20Band%20-%20O%20fado%20da%20ingr%C3%A1cia%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Paula Marques",
+    "title": "Minha mãezinha",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/paula-marques/minha-maezinha",
+    "cover_url": "https://e.snmc.io/i/600/s/53dc6b7a772224dc887cb88b092d80a5/13204251/Paula%20Marques%20-%20Minha%20m%C3%A3ezinha%2C%20Cover%20art.jpeg",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Daniel Saraiva",
+    "title": "Menina dos meus sonhos",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/daniel_saraiva/menina_dos_meus_sonhos",
+    "cover_url": "https://e.snmc.io/i/600/s/91a95386ee46ceab1d19a8e426644fae/6063043/Daniel%20Saraiva%20-%20Menina%20dos%20meus%20sonhos%2C%20Cover%20art.jpeg",
+    "rating": "3.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Fernando Mariano",
+    "title": "O máximo para dançar",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/fernando-mariano/o-maximo-para-dancar",
+    "cover_url": "https://e.snmc.io/i/600/s/79942300d1d1743f078916f1f3bbb960/12483976/Fernando%20Mariano%20-%20O%20m%C3%A1ximo%20para%20dan%C3%A7ar%2C%20Cover%20art.jpeg",
+    "rating": "3.88",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Sistema Musical Elka Ritmo",
+    "title": "Rapsódia",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sistema-musical-elka-ritmo/rapsodia",
+    "cover_url": "https://e.snmc.io/i/600/s/d0685afdfb9987a9f47c363cd09725b6/11950794/Sistema%20Musical%20Elka%20Ritmo%20-%20Raps%C3%B3dia%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "José Maria",
+    "title": "Música para dançar",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jose-maria/musica-para-dancar",
+    "cover_url": "https://e.snmc.io/i/600/s/a90c2e8e05dc0540f8e9a5f04da99b33/12506632/Jos%C3%A9%20Maria%20-%20M%C3%BAsica%20para%20dan%C3%A7ar%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba",
+      "Lambada",
+      "Fado"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Musical Contact Band",
+    "title": "Vol. 1",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/musical-contact-band/vol-1",
+    "cover_url": "https://e.snmc.io/i/600/s/4f5f5d97566a3509193d2efe43f5966e/8676507/Musical%20Contact%20Band%20-%20Vol_%201%2C%20Cover%20art.png",
+    "rating": "3.10",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Eulália Nunes",
+    "title": "Eulália Nunes",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/eulalia-nunes/eulalia-nunes",
+    "cover_url": "https://e.snmc.io/i/600/s/7d498e9f9e917de6ec6034d2cc2a6de0/11962573/Eul%C3%A1lia%20Nunes%20-%20Eul%C3%A1lia%20Nunes%2C%20Cover%20art.jpeg",
+    "rating": "3.13",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba",
+      "Tango"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Necallopes",
+    "title": "Sabugueiro em flor",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/necallopes/sabugueiro-em-flor",
+    "cover_url": "https://e.snmc.io/i/600/s/16c3c4643ad84dc431acd5a6dbf6c5e4/10976309/Necallopes%20-%20Sabugueiro%20em%20flor%2C%20Cover%20art.png",
+    "rating": "2.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Zé Café",
+    "title": "Música de baile",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ze-cafe/musica-de-baile",
+    "cover_url": "https://e.snmc.io/i/600/s/c87920d26ca65e70d0e29cc922a037bd/13216375/Z%C3%A9%20Caf%C3%A9%20-%20M%C3%BAsica%20de%20baile%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Quim Barreiros",
+    "title": "Mestre de culinária",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/quim_barreiros/mestre_de_culinaria",
+    "cover_url": "https://e.snmc.io/i/600/s/1a34ee68c682d7fc639ccbd6d14af289/1820153/Quim%20Barreiros%20-%20Mestre%20de%20culin%C3%A1ria%2C%20Cover%20art.jpeg",
+    "rating": "1.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Ivam Raimundo Gomes",
+    "title": "Festa cigana",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ivam-raimundo-gomes/festa-cigana",
+    "cover_url": "https://e.snmc.io/i/600/s/3f845775e45645e772c3c30badd19c78/11568241/Ivam%20Raimundo%20Gomes%20-%20Festa%20cigana%2C%20Cover%20art.jpeg",
+    "rating": "2.95",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rumba flamenca",
+      "Pimba"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Jovens Ciganos da Póvoa",
+    "title": "Porque te quero",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jovens-ciganos-da-povoa/porque-te-quero",
+    "cover_url": "https://e.snmc.io/i/600/s/ad6bfa07647e901e076dcb12cf8602e1/12257690/Jovens%20Ciganos%20da%20P%C3%B3voa%20-%20Porque%20te%20quero%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rumba flamenca",
+      "Pimba"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Ana Malhoa",
+    "title": "Azucar",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ana_malhoa/azucar",
+    "cover_url": "https://e.snmc.io/i/600/s/2ea3bf540177bd96b997c75ed71ef28d/4641997/Ana%20Malhoa%20-%20Azucar%2C%20Cover%20art.jpeg",
+    "rating": "2.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba",
+      "Dance-Pop"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Quim Barreiros",
+    "title": "Chupa Teresa",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/quim-barreiros/chupa-teresa",
+    "cover_url": "https://e.snmc.io/i/600/s/8f023a112b80939841eb487cc89fff63/2324868/Quim%20Barreiros%20-%20Chupa%20Teresa%2C%20Cover%20art.jpeg",
+    "rating": "2.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Rosita",
+    "title": "Rosas com amor",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rosita/rosas-com-amor",
+    "cover_url": "https://e.snmc.io/i/600/s/0d0587d4b1513dc07ac1a3b9111f2d2c/11596023/Rosita%20-%20Rosas%20com%20amor%2C%20Cover%20art.jpeg",
+    "rating": "3.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Corsário",
+    "title": "Canções ciganas",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/corsario/cancoes-ciganas",
+    "cover_url": "https://e.snmc.io/i/600/s/e85ee1c6cfbc9b977e2a30897731b3f7/11961476/Cors%C3%A1rio%20-%20Can%C3%A7%C3%B5es%20ciganas%2C%20Cover%20art.jpeg",
+    "rating": "3.17",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rumba flamenca",
+      "Pimba"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Rui Pires",
+    "title": "Órgão electrónico - Música portuguesa",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rui-pires/orgao-electronico-musica-portuguesa",
+    "cover_url": "https://e.snmc.io/i/600/s/8ee336b73a1203bc83647cc3e8af1b92/11569516/Rui%20Pires%20-%20%C3%93rg%C3%A3o%20electr%C3%B3nico%20-%20M%C3%BAsica%20portuguesa%2C%20Cover%20art.jpeg",
+    "rating": "2.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba",
+      "Tango"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "José Malhoa",
+    "title": "Recordar",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jose-malhoa/recordar",
+    "cover_url": "https://e.snmc.io/i/600/s/ff0c444139943ae249c1e211b7342e2d/2441214/Jos%C3%A9%20Malhoa%20-%20Recordar%2C%20Cover%20art.jpeg",
+    "rating": "2.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Lia [PRT]",
+    "title": "Agradeço a ...",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lia__prt_/agradeco_a____",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "3.27",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Quim Barreiros",
+    "title": "A cabritinha",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/quim-barreiros/a-cabritinha",
+    "cover_url": "https://e.snmc.io/i/600/s/a83d32be4bda5caa9ac09a74e05f5796/2972620/Quim%20Barreiros%20-%20A%20cabritinha%2C%20Cover%20art.jpeg",
+    "rating": "1.89",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba",
+      "Pop Rock"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Quim Barreiros",
+    "title": "A garagem da vizinha",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/quim-barreiros/a-garagem-da-vizinha",
+    "cover_url": "https://e.snmc.io/i/600/s/41e916c3127e830a4a6ca3bbf2b0ff61/2260102/Quim%20Barreiros%20-%20A%20garagem%20da%20vizinha%2C%20Cover%20art.jpeg",
+    "rating": "2.01",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Quim Barreiros",
+    "title": "Fui acudir",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/quim_barreiros/fui_acudir",
+    "cover_url": "https://e.snmc.io/i/600/s/4c498557e77ccfb3c1307a6a553f3394/2359446/Quim%20Barreiros%20-%20Fui%20acudir%2C%20Cover%20art.jpeg",
+    "rating": "2.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Leonel Nunes",
+    "title": "O meu sogro era atleta",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/leonel-nunes/o-meu-sogro-era-atleta",
+    "cover_url": "https://e.snmc.io/i/600/s/3ff5307658bb718aef6039bbb8b5f041/14291238/Leonel%20Nunes%20-%20O%20meu%20sogro%20era%20atleta%2C%20Cover%20art.png",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Mónica Sintra",
+    "title": "Cantar O Amor",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/monica_sintra/cantar_o_amor",
+    "cover_url": "",
+    "rating": "2.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Sistema Musical Elka Ritmo",
+    "title": "Cuidado ó Armanda",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sistema-musical-elka-ritmo/cuidado-o-armanda",
+    "cover_url": "https://e.snmc.io/i/600/s/795313cfeb05c13a4ba69788e7d027ba/11950786/Sistema%20Musical%20Elka%20Ritmo%20-%20Cuidado%20%C3%B3%20Armanda%2C%20Cover%20art.jpeg",
+    "rating": "2.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Iran Costa",
+    "title": "O Bicho",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/iran-costa/o-bicho",
+    "cover_url": "https://e.snmc.io/i/600/s/5b0497f10f35e7ba2e763dbb40c7193b/4074403/Iran%20Costa%20-%20O%20Bicho%2C%20Cover%20art.jpeg",
+    "rating": "2.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pimba"
+    ]
+  }
+]

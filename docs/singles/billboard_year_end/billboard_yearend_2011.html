@@ -53,50 +53,130 @@
     main, footer { padding-left:16px; padding-right:16px; }
   }
 
-  .toolbar { display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center; margin-bottom:18px; }
-  .progress { flex:1 1 260px; min-width:0; }
-  .progress-txt { font-family:'DM Mono',monospace; font-size:.7rem; color:var(--muted); margin-bottom:6px; }
-  .progress-txt b { color:var(--text); font-weight:500; }
-  .progress-bar { height:4px; background:var(--border); border-radius:2px; overflow:hidden; }
-  .progress-bar div { height:100%; background:var(--accent); transition:width .4s; }
-  .seg { display:flex; border:1px solid var(--border); border-radius:4px; overflow:hidden; }
+  :root { --heard:#e8ff47; --pending:#ff4747; --panel:390px; --header-h:88px; --gap:6px; }
+  header { right:var(--panel); height:var(--header-h); flex-direction:column; align-items:stretch;
+    gap:0; padding:0; border-right:1px solid var(--border); }
+  .hdr-r1, .hdr-r2 { display:flex; align-items:center; gap:12px; padding:0 16px; height:44px; min-width:0; }
+  .hdr-r1 { padding-right:120px; }
+  .hdr-r2 { border-top:1px solid var(--border); }
+  header .mh-usr-btn { position:absolute; top:10px; right:16px; }
+  .progress { width:170px; flex-shrink:0; }
+  .progress-txt { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); margin-bottom:4px;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .progress-txt b { color:var(--heard); font-weight:500; }
+  .progress-bar { height:3px; background:var(--border); border-radius:2px; overflow:hidden; }
+  .progress-bar div { height:100%; background:var(--heard); transition:width .4s; }
+  .controls { display:flex; align-items:center; gap:8px; margin-left:auto; min-width:0; }
+  .seg { display:flex; border:1px solid var(--border); border-radius:3px; overflow:hidden; flex-shrink:0; }
   .seg button { background:none; border:none; color:var(--muted); font-family:'DM Mono',monospace;
-    font-size:.62rem; letter-spacing:.06em; padding:6px 10px; cursor:pointer; text-transform:uppercase; }
+    font-size:.6rem; letter-spacing:.08em; padding:5px 10px; cursor:pointer; text-transform:uppercase; }
   .seg button + button { border-left:1px solid var(--border); }
-  .seg button.on { background:var(--surface2); color:var(--accent); }
-  .ctl { background:var(--surface); border:1px solid var(--border); color:var(--text); border-radius:4px;
-    font-family:'DM Mono',monospace; font-size:.68rem; padding:6px 9px; }
-  input.ctl { width:200px; max-width:100%; }
-  .ctl:focus { outline:none; border-color:var(--accent); }
-  .tracks { border-top:1px solid var(--border); }
-  .trk { display:grid; grid-template-columns:52px minmax(0,1fr) 110px 150px 64px 60px;
-    align-items:center; gap:12px; padding:9px 10px; border-bottom:1px solid var(--border);
-    border-left:2px solid transparent; }
-  .trk:hover { background:var(--surface); }
-  .trk.mine { border-left-color:var(--ok); }
-  .trk.dim .t-main { opacity:.55; }
-  .t-rank { font-family:'DM Mono',monospace; font-size:.75rem; color:var(--muted); text-align:right; }
-  .t-title { font-size:.95rem; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
-  .t-artist { font-size:.8rem; color:var(--muted); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
-  .t-meta { font-family:'DM Mono',monospace; font-size:.62rem; color:var(--muted); line-height:1.5; }
+  .seg button.on { background:rgba(232,255,71,.06); color:var(--heard); }
+  .ctl { background:var(--surface); border:1px solid var(--border); color:var(--text); border-radius:3px;
+    font-family:'DM Mono',monospace; font-size:.64rem; padding:5px 8px; flex-shrink:0; }
+  input.ctl { width:160px; }
+  .ctl:focus { outline:none; border-color:var(--heard); }
+  .grid-sizer { display:flex; align-items:center; gap:6px; flex-shrink:0; }
+  .grid-sizer span { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); min-width:24px; text-align:right; }
+  #gridSlider { -webkit-appearance:none; appearance:none; width:70px; height:3px; background:var(--border);
+    border-radius:2px; outline:none; cursor:pointer; }
+  #gridSlider::-webkit-slider-thumb { -webkit-appearance:none; width:11px; height:11px; border-radius:50%; background:var(--heard); }
+  #gridSlider::-moz-range-thumb { width:11px; height:11px; border-radius:50%; background:var(--heard); border:none; }
+
+  main { margin-right:var(--panel); padding:16px 20px 60px; }
+  #grid { display:grid; grid-template-columns:repeat(var(--cols,8),1fr); gap:var(--gap); }
+  .year-sep { grid-column:1/-1; font-family:'Bebas Neue',sans-serif; font-size:1.4rem; letter-spacing:.06em;
+    color:var(--accent); padding:14px 2px 2px; border-bottom:1px solid var(--border); margin-bottom:4px; }
+  .year-sep:first-child { padding-top:0; }
+  .card { position:relative; aspect-ratio:1; border-radius:3px; overflow:hidden; cursor:pointer;
+    background:var(--surface); transition:transform .15s; content-visibility:auto; contain-intrinsic-size:150px; }
+  .card:hover { transform:scale(1.05); z-index:10; }
+  .card.active { outline:2px solid var(--heard); outline-offset:2px; z-index:11; }
+  .card img { width:100%; height:100%; object-fit:cover; display:block; opacity:0; transition:opacity .25s; }
+  .card img.ok { opacity:1; }
+  .card.dim img.ok { opacity:.35; }
+  .card::before { content:''; position:absolute; top:5px; right:5px; width:7px; height:7px; border-radius:50%; z-index:3; }
+  .card.heard::before   { background:var(--heard);   box-shadow:0 0 5px var(--heard); }
+  .card.pending::before { background:var(--pending); box-shadow:0 0 5px var(--pending); }
+  .card-ph { position:absolute; inset:0; display:flex; flex-direction:column; justify-content:center;
+    padding:10px; background:repeating-linear-gradient(135deg,#121212 0 8px,#151515 8px 16px); }
+  .card-ph b { font-family:'Bebas Neue',sans-serif; font-size:1rem; letter-spacing:.03em; line-height:1.05;
+    color:#bbb; overflow:hidden; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; }
+  .card-ph i { font-style:normal; font-size:.6rem; color:var(--muted); margin-top:4px;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .card.has-img .card-ph { display:none; }
+  .card-overlay { position:absolute; inset:0; z-index:2; display:flex; flex-direction:column; justify-content:flex-end;
+    padding:7px; background:linear-gradient(0deg,rgba(0,0,0,.92) 0%,rgba(0,0,0,0) 60%); opacity:0; transition:opacity .18s; }
+  .card:hover .card-overlay { opacity:1; }
+  .card-num { font-family:'Bebas Neue',sans-serif; font-size:.85rem; color:var(--heard); line-height:1; }
+  .card-title { font-size:.62rem; font-weight:500; color:#fff; line-height:1.3; overflow:hidden;
+    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
+  .card-artist { font-size:.56rem; color:#999; margin-top:2px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .card-rank { position:absolute; top:4px; left:5px; z-index:3; font-family:'Bebas Neue',sans-serif; font-size:.8rem;
+    color:#fff; text-shadow:0 0 4px #000, 0 0 2px #000; }
+  .empty { grid-column:1/-1; padding:40px 4px; color:var(--muted); font-family:'DM Mono',monospace; font-size:.75rem; }
+
+  #panel { position:fixed; top:0; right:0; bottom:0; width:var(--panel); background:#0c0c0c;
+    border-left:1px solid var(--border); z-index:200; display:flex; flex-direction:column; overflow:hidden; }
+  .panel-topbar { height:var(--header-h); border-bottom:1px solid var(--border); display:flex; align-items:center;
+    padding:0 16px; flex-shrink:0; font-family:'DM Mono',monospace; font-size:.6rem; letter-spacing:.18em;
+    text-transform:uppercase; color:var(--muted); }
+  .panel-cover { position:relative; aspect-ratio:1; max-height:300px; flex-shrink:0; background:var(--surface); overflow:hidden; }
+  .panel-cover img { width:100%; height:100%; object-fit:cover; display:block; }
+  .panel-cover .card-ph b { font-size:2rem; -webkit-line-clamp:4; }
+  .panel-cover .card-ph i { font-size:.8rem; }
+  .panel-status { position:absolute; bottom:8px; left:8px; font-family:'DM Mono',monospace; font-size:.6rem;
+    letter-spacing:.12em; text-transform:uppercase; padding:2px 7px; border-radius:2px; z-index:3; }
+  .panel-status.heard { background:var(--heard); color:#000; }
+  .panel-status.pending { background:var(--pending); color:#fff; }
+  .panel-body { flex:1; overflow-y:auto; padding:16px; scrollbar-width:thin; scrollbar-color:var(--border) transparent; }
+  .panel-empty { height:100%; display:flex; align-items:center; justify-content:center; text-align:center;
+    font-family:'DM Mono',monospace; font-size:.75rem; color:var(--muted); }
+  .p-num { font-family:'DM Mono',monospace; font-size:.62rem; color:var(--heard); letter-spacing:.15em; margin-bottom:4px; }
+  .p-title { font-family:'Bebas Neue',sans-serif; font-size:1.6rem; letter-spacing:.04em; line-height:1.05; margin-bottom:3px; }
+  .p-artist { font-size:.85rem; color:#999; margin-bottom:2px; }
+  .p-meta { font-family:'DM Mono',monospace; font-size:.66rem; color:var(--muted); margin-bottom:12px; line-height:1.6; }
   .badge { display:inline-block; padding:1px 6px; border-radius:3px; border:1px solid var(--border); }
   .badge.win { border-color:var(--accent); color:var(--accent); }
-  .dots { display:flex; flex-wrap:wrap; gap:3px; }
-  .dot { width:8px; height:8px; border-radius:50%; background:var(--border); }
-  .dot.on { background:var(--accent); }
-  .dot.me { outline:1px solid var(--text); outline-offset:1px; }
-  .t-plays { font-family:'DM Mono',monospace; font-size:.7rem; text-align:right; color:var(--ok); }
-  .t-links { display:flex; gap:8px; justify-content:flex-end; }
-  .t-links a { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); text-decoration:none;
-    border:1px solid var(--border); border-radius:3px; padding:2px 5px; }
-  .t-links a:hover { color:var(--accent); border-color:var(--accent); }
-  .year-sep { font-family:'Bebas Neue',sans-serif; font-size:1.3rem; letter-spacing:.06em;
-    color:var(--accent); padding:16px 10px 6px; border-bottom:1px solid var(--border); }
-  .empty { padding:40px 10px; color:var(--muted); font-size:.9rem; }
+  .p-label { font-family:'DM Mono',monospace; font-size:.58rem; letter-spacing:.18em; text-transform:uppercase;
+    color:var(--muted); margin:14px 0 6px; }
+  .p-users { display:flex; flex-wrap:wrap; gap:5px; }
+  .p-user { font-family:'DM Mono',monospace; font-size:.6rem; padding:2px 8px; border-radius:2px;
+    border:1px solid var(--border); color:var(--muted); }
+  .p-user.on { background:rgba(232,255,71,.08); border-color:rgba(232,255,71,.25); color:rgba(232,255,71,.85); }
+  .p-user.me { outline:1px solid var(--text); outline-offset:1px; }
+  .p-links { display:flex; gap:7px; flex-wrap:wrap; margin-top:14px; }
+  .p-links a { font-family:'DM Mono',monospace; font-size:.62rem; letter-spacing:.08em; text-transform:uppercase;
+    padding:4px 10px; border-radius:3px; border:1px solid var(--border); color:var(--muted); text-decoration:none; }
+  .p-links a:hover { color:var(--heard); border-color:var(--heard); }
+  #pAudio { width:100%; height:32px; margin-top:12px; display:none; }
+  .p-links button { font-family:'DM Mono',monospace; font-size:.62rem; letter-spacing:.08em; text-transform:uppercase;
+    padding:4px 10px; border-radius:3px; cursor:pointer; background:rgba(255,0,0,.08);
+    border:1px solid rgba(255,70,70,.45); color:#ff6b6b; }
+  .p-links button:hover { background:rgba(255,0,0,.16); }
+  .p-yt { margin-top:14px; border-radius:4px; overflow:hidden; background:var(--surface);
+    border:1px solid var(--border); aspect-ratio:16/9; display:none; }
+  .p-yt.on { display:block; }
+  .p-yt iframe { display:block; width:100%; height:100%; border:0; }
+  .panel-close { display:none; position:absolute; top:12px; right:12px; width:34px; height:34px; border-radius:50%;
+    background:rgba(255,255,255,.07); border:1px solid var(--border); color:var(--text); font-size:1rem;
+    cursor:pointer; align-items:center; justify-content:center; z-index:10; }
+  footer { margin-right:var(--panel); }
+
   @media (max-width:800px) {
-    .trk { grid-template-columns:28px minmax(0,1fr) auto auto; gap:8px; padding:9px 4px; }
-    .t-meta, .dots { display:none; }
-    input.ctl { width:100%; }
+    header { right:0; height:auto; }
+    .hdr-r1 { padding-right:110px; }
+    .hdr-r2 { height:auto; flex-wrap:wrap; padding:8px 12px; gap:8px; }
+    .progress { width:100%; }
+    .controls { margin-left:0; width:100%; overflow-x:auto; scrollbar-width:none; }
+    input.ctl { width:120px; }
+    main { margin-right:0; padding:12px 10px 60px; }
+    footer { margin-right:0; }
+    #panel { inset:0; width:100%; border-left:none; transform:translateY(105%);
+      transition:transform .28s cubic-bezier(.4,0,.2,1); }
+    #panel.open { transform:translateY(0); }
+    .panel-topbar { height:52px; }
+    .panel-close { display:flex; }
   }
 
   /* ── MH user modal ── */
@@ -152,28 +232,37 @@
   </div>
 </div>
 <header>
-  <div class="site-label"><a href="index.html">← Billboard Year-End Hot 100</a></div>
-  <h1>Billboard Year-End 2011</h1>
-  <div class="header-meta">100 canciones</div>
-  <a class="header-nav-link" href="https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2011" target="_blank" rel="noopener">Wikipedia ↗</a>
+  <div class="hdr-r1">
+    <div class="site-label"><a href="index.html">← Billboard Year-End Hot 100</a></div>
+    <h1>Billboard Year-End 2011</h1>
+    <div class="header-meta">100 canciones</div>
+    <a class="header-nav-link" href="https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2011" target="_blank" rel="noopener">Wikipedia ↗</a>
+  </div>
+  <div class="hdr-r2">
+    <div class="progress"><div class="progress-txt" id="progTxt"></div><div class="progress-bar"><div id="progBar"></div></div></div>
+    <div class="controls">
+      <div class="seg" id="filters">
+        <button data-f="all" class="on">Todas</button><button data-f="heard" id="fHeard">Escuchadas</button><button data-f="pending" id="fPending">Pendientes</button>
+      </div>
+      <select class="ctl" id="sort" aria-label="Ordenar">
+        <option value="rank">Orden de la lista</option>
+        <option value="pop">Más escuchadas</option>
+        <option value="year">Año</option>
+      </select>
+      <input class="ctl" id="search" type="search" placeholder="Buscar…">
+      <div class="grid-sizer"><input type="range" id="gridSlider" min="3" max="16" aria-label="Columnas"><span id="gridLbl"></span></div>
+    </div>
+  </div>
   <button class="mh-usr-btn" id="mhUserBtn" title="Seleccionar usuario">👤 <span id="mhULbl">—</span></button>
 </header>
-<main>
-  <div class="toolbar">
-    <div class="progress"><div class="progress-txt" id="progTxt"></div><div class="progress-bar"><div id="progBar"></div></div></div>
-    <div class="seg" id="filters">
-      <button data-f="all" class="on">Todas</button><button data-f="heard" id="fHeard">Escuchadas</button><button data-f="pending" id="fPending">Pendientes</button>
-    </div>
-    <select class="ctl" id="sort" aria-label="Ordenar">
-      <option value="rank">Orden de la lista</option>
-      <option value="pop">Más escuchadas en el grupo</option>
-      <option value="year">Año</option>
-    </select>
-    <input class="ctl" id="search" type="search" placeholder="Buscar canción o artista…">
-  </div>
-  <div class="tracks" id="tracks"></div>
-</main>
-<footer>Generado 2026-10-19 12:24 · Listas de Wikipedia · Escuchas de Last.fm</footer>
+<main><div id="grid"></div></main>
+<aside id="panel">
+  <div class="panel-topbar">Canción</div>
+  <button class="panel-close" id="pClose" aria-label="Cerrar">✕</button>
+  <div class="panel-cover" id="pCover"></div>
+  <div class="panel-body" id="pBody"><div class="panel-empty">Pulsa una carátula</div></div>
+</aside>
+<footer>Generado 2026-10-19 15:16 · Listas de Wikipedia · Escuchas de Last.fm</footer>
 
 <script>
 (function() {
@@ -226,86 +315,165 @@
   updateBtn();
 })();
 </script>
-<script>const DATA = {"users":["alberto_gu","armandwave","BipolarMuzik","EliasJ72","Frikomid","GabredMared","Lonsonxd","MaxtorUwU","Nubis84","paqueradejere","Rocky_stereo","sdecandelario","verygooood"],"showYear":false,"yearSeparators":false,"tracks":[{"r":1,"t":"Rolling in the Deep","a":"Adele","y":2011,"w":null,"n":"","h":{"Frikomid":9,"MaxtorUwU":1,"Nubis84":18,"paqueradejere":4,"Rocky_stereo":1,"sdecandelario":8,"verygooood":2}},{"r":2,"t":"Party Rock Anthem","a":"LMFAO featuring Lauren Bennett and GoonRock","y":2011,"w":null,"n":"","h":{"Lonsonxd":1,"MaxtorUwU":3,"Nubis84":1,"sdecandelario":11}},{"r":3,"t":"Firework","a":"Katy Perry","y":2011,"w":null,"n":"","h":{"Frikomid":1,"GabredMared":9,"Nubis84":2,"verygooood":1}},{"r":4,"t":"E.T.","a":"Katy Perry featuring Kanye West","y":2011,"w":null,"n":"","h":{"armandwave":2,"Frikomid":1,"GabredMared":19,"verygooood":1}},{"r":5,"t":"Give Me Everything","a":"Pitbull featuring Ne-Yo, Afrojack and Nayer","y":2011,"w":null,"n":"","h":{"GabredMared":7,"MaxtorUwU":1,"Nubis84":1}},{"r":6,"t":"Grenade","a":"Bruno Mars","y":2011,"w":null,"n":"","h":{"armandwave":2,"MaxtorUwU":1}},{"r":7,"t":"Fuck You (Forget You)","a":"CeeLo Green","y":2011,"w":null,"n":"","h":{"alberto_gu":1,"Nubis84":1,"sdecandelario":2}},{"r":8,"t":"Super Bass","a":"Nicki Minaj","y":2011,"w":null,"n":"","h":{"alberto_gu":1,"armandwave":1,"GabredMared":4}},{"r":9,"t":"Moves like Jagger","a":"Maroon 5 featuring Christina Aguilera","y":2011,"w":null,"n":"","h":{"GabredMared":15,"verygooood":1}},{"r":10,"t":"Just Can't Get Enough","a":"The Black Eyed Peas","y":2011,"w":null,"n":"","h":{"MaxtorUwU":2}},{"r":11,"t":"On the Floor","a":"Jennifer Lopez featuring Pitbull","y":2011,"w":null,"n":"","h":{"GabredMared":33,"Nubis84":3}},{"r":12,"t":"S&M","a":"Rihanna","y":2011,"w":null,"n":"","h":{"GabredMared":2}},{"r":13,"t":"Pumped Up Kicks","a":"Foster the People","y":2011,"w":null,"n":"","h":{"alberto_gu":27,"armandwave":7,"Frikomid":4,"Nubis84":5,"Rocky_stereo":3,"sdecandelario":30,"verygooood":50}},{"r":14,"t":"Last Friday Night (T.G.I.F.)","a":"Katy Perry","y":2011,"w":null,"n":"","h":{"GabredMared":174,"Nubis84":6,"Rocky_stereo":4}},{"r":15,"t":"Just the Way You Are","a":"Bruno Mars","y":2011,"w":null,"n":"","h":{"armandwave":1,"MaxtorUwU":1}},{"r":16,"t":"Tonight (I'm Lovin' You)","a":"Enrique Iglesias featuring Ludacris and DJ Frank E","y":2011,"w":null,"n":"","h":{}},{"r":17,"t":"Raise Your Glass","a":"Pink","y":2011,"w":null,"n":"","h":{}},{"r":18,"t":"Born This Way","a":"Lady Gaga","y":2011,"w":null,"n":"","h":{"GabredMared":2,"verygooood":1}},{"r":19,"t":"Fuckin' Perfect","a":"Pink","y":2011,"w":null,"n":"","h":{}},{"r":20,"t":"What's My Name?","a":"Rihanna featuring Drake","y":2011,"w":null,"n":"","h":{"alberto_gu":2,"GabredMared":45}},{"r":21,"t":"Look at Me Now","a":"Chris Brown featuring Lil Wayne and Busta Rhymes","y":2011,"w":null,"n":"","h":{}},{"r":22,"t":"Down on Me","a":"Jeremih featuring 50 Cent","y":2011,"w":null,"n":"","h":{"Rocky_stereo":1}},{"r":23,"t":"How to Love","a":"Lil Wayne","y":2011,"w":null,"n":"","h":{}},{"r":24,"t":"Someone Like You","a":"Adele","y":2011,"w":null,"n":"","h":{"armandwave":1,"Frikomid":2,"GabredMared":1,"MaxtorUwU":1,"Nubis84":2,"paqueradejere":1,"Rocky_stereo":1,"sdecandelario":2,"verygooood":2}},{"r":25,"t":"Good Life","a":"OneRepublic","y":2011,"w":null,"n":"","h":{"MaxtorUwU":1}},{"r":26,"t":"The Lazy Song","a":"Bruno Mars","y":2011,"w":null,"n":"","h":{"MaxtorUwU":1}},{"r":27,"t":"Till the World Ends","a":"Britney Spears","y":2011,"w":null,"n":"","h":{"Frikomid":2,"GabredMared":6,"Nubis84":1}},{"r":28,"t":"The Show Goes On","a":"Lupe Fiasco","y":2011,"w":null,"n":"","h":{}},{"r":29,"t":"The Edge of Glory","a":"Lady Gaga","y":2011,"w":null,"n":"","h":{"Nubis84":1}},{"r":30,"t":"We R Who We R","a":"Kesha","y":2011,"w":null,"n":"","h":{}},{"r":31,"t":"Black and Yellow","a":"Wiz Khalifa","y":2011,"w":null,"n":"","h":{}},{"r":32,"t":"Tonight Tonight","a":"Hot Chelle Rae","y":2011,"w":null,"n":"","h":{}},{"r":33,"t":"Blow","a":"Kesha","y":2011,"w":null,"n":"","h":{"armandwave":1}},{"r":34,"t":"Lighters","a":"Bad Meets Evil featuring Bruno Mars","y":2011,"w":null,"n":"","h":{}},{"r":35,"t":"If I Die Young","a":"The Band Perry","y":2011,"w":null,"n":"","h":{}},{"r":36,"t":"Stereo Hearts","a":"Gym Class Heroes featuring Adam Levine","y":2011,"w":null,"n":"","h":{"Nubis84":6,"sdecandelario":1}},{"r":37,"t":"The Time (Dirty Bit)","a":"The Black Eyed Peas","y":2011,"w":null,"n":"","h":{"MaxtorUwU":4}},{"r":38,"t":"Coming Home","a":"Diddy – Dirty Money featuring Skylar Grey","y":2011,"w":null,"n":"","h":{}},{"r":39,"t":"Hey Baby (Drop It to the Floor)","a":"Pitbull featuring T-Pain","y":2011,"w":null,"n":"","h":{"MaxtorUwU":2}},{"r":40,"t":"Only Girl (In the World)","a":"Rihanna","y":2011,"w":null,"n":"","h":{"GabredMared":98,"verygooood":8}},{"r":41,"t":"6 Foot 7 Foot","a":"Lil Wayne featuring Cory Gunz","y":2011,"w":null,"n":"","h":{"MaxtorUwU":5}},{"r":42,"t":"Just a Kiss","a":"Lady Antebellum","y":2011,"w":null,"n":"","h":{}},{"r":43,"t":"Dirt Road Anthem","a":"Jason Aldean","y":2011,"w":null,"n":"","h":{}},{"r":44,"t":"Dynamite","a":"Taio Cruz","y":2011,"w":null,"n":"","h":{}},{"r":45,"t":"No Hands","a":"Waka Flocka Flame featuring Wale and Roscoe Dash","y":2011,"w":null,"n":"","h":{}},{"r":46,"t":"I Wanna Go","a":"Britney Spears","y":2011,"w":null,"n":"","h":{"GabredMared":33}},{"r":47,"t":"I'm on One","a":"DJ Khaled featuring Drake, Rick Ross and Lil Wayne","y":2011,"w":null,"n":"","h":{}},{"r":48,"t":"You Make Me Feel...","a":"Cobra Starship featuring Sabi","y":2011,"w":null,"n":"","h":{}},{"r":49,"t":"Yeah 3x","a":"Chris Brown","y":2011,"w":null,"n":"","h":{}},{"r":50,"t":"Moment 4 Life","a":"Nicki Minaj featuring Drake","y":2011,"w":null,"n":"","h":{}},{"r":51,"t":"I Need a Doctor","a":"Dr. Dre featuring Eminem and Skylar Grey","y":2011,"w":null,"n":"","h":{}},{"r":52,"t":"Just a Dream","a":"Nelly","y":2011,"w":null,"n":"","h":{}},{"r":53,"t":"Motivation","a":"Kelly Rowland featuring Lil Wayne","y":2011,"w":null,"n":"","h":{}},{"r":54,"t":"Stereo Love","a":"Edward Maya featuring Vika Jigulina","y":2011,"w":null,"n":"","h":{"alberto_gu":1,"GabredMared":50}},{"r":55,"t":"Jar of Hearts","a":"Christina Perri","y":2011,"w":null,"n":"","h":{}},{"r":56,"t":"Roll Up","a":"Wiz Khalifa","y":2011,"w":null,"n":"","h":{}},{"r":57,"t":"Sexy and I Know It","a":"LMFAO","y":2011,"w":null,"n":"","h":{"Frikomid":1,"Lonsonxd":1,"MaxtorUwU":2,"Nubis84":2,"sdecandelario":6}},{"r":58,"t":"Rocketeer","a":"Far East Movement featuring Ryan Tedder","y":2011,"w":null,"n":"","h":{}},{"r":59,"t":"All of the Lights","a":"Kanye West","y":2011,"w":null,"n":"","h":{"alberto_gu":62,"armandwave":1,"EliasJ72":3,"Frikomid":2,"GabredMared":2,"Nubis84":20,"paqueradejere":7,"Rocky_stereo":2,"sdecandelario":2,"verygooood":23}},{"r":60,"t":"Hold It Against Me","a":"Britney Spears","y":2011,"w":null,"n":"","h":{}},{"r":61,"t":"More","a":"Usher","y":2011,"w":null,"n":"","h":{}},{"r":62,"t":"What the Hell","a":"Avril Lavigne","y":2011,"w":null,"n":"","h":{"GabredMared":20,"MaxtorUwU":1}},{"r":63,"t":"Written in the Stars","a":"Tinie Tempah featuring Eric Turner","y":2011,"w":null,"n":"","h":{}},{"r":64,"t":"Bottoms Up","a":"Trey Songz featuring Nicki Minaj","y":2011,"w":null,"n":"","h":{}},{"r":65,"t":"DJ Got Us Fallin' in Love","a":"Usher featuring Pitbull","y":2011,"w":null,"n":"","h":{}},{"r":66,"t":"For the First Time","a":"The Script","y":2011,"w":null,"n":"","h":{}},{"r":67,"t":"Honey Bee","a":"Blake Shelton","y":2011,"w":null,"n":"","h":{}},{"r":68,"t":"Don't You Wanna Stay","a":"Jason Aldean featuring Kelly Clarkson","y":2011,"w":null,"n":"","h":{}},{"r":69,"t":"We Found Love","a":"Rihanna featuring Calvin Harris","y":2011,"w":null,"n":"","h":{"Frikomid":1,"GabredMared":112,"Nubis84":3,"verygooood":3}},{"r":70,"t":"Pretty Girl Rock","a":"Keri Hilson","y":2011,"w":null,"n":"","h":{}},{"r":71,"t":"Yoü and I","a":"Lady Gaga","y":2011,"w":null,"n":"","h":{}},{"r":72,"t":"Like a G6","a":"Far East Movement featuring The Cataracs and Dev","y":2011,"w":null,"n":"","h":{"alberto_gu":3}},{"r":73,"t":"Without You","a":"David Guetta featuring Usher","y":2011,"w":null,"n":"","h":{"Nubis84":3,"verygooood":1}},{"r":74,"t":"Back to December","a":"Taylor Swift","y":2011,"w":null,"n":"","h":{"Frikomid":1,"GabredMared":1}},{"r":75,"t":"Teenage Dream","a":"Katy Perry","y":2011,"w":null,"n":"","h":{"Frikomid":11,"GabredMared":27,"verygooood":1}},{"r":76,"t":"Crazy Girl","a":"Eli Young Band","y":2011,"w":null,"n":"","h":{}},{"r":77,"t":"Cheers (Drink to That)","a":"Rihanna","y":2011,"w":null,"n":"","h":{}},{"r":78,"t":"Who Says","a":"Selena Gomez & the Scene","y":2011,"w":null,"n":"","h":{}},{"r":79,"t":"Barefoot Blue Jean Night","a":"Jake Owen","y":2011,"w":null,"n":"","h":{}},{"r":80,"t":"Knee Deep","a":"Zac Brown Band featuring Jimmy Buffett","y":2011,"w":null,"n":"","h":{}},{"r":81,"t":"Country Girl (Shake It for Me)","a":"Luke Bryan","y":2011,"w":null,"n":"","h":{}},{"r":82,"t":"Remind Me","a":"Brad Paisley and Carrie Underwood","y":2011,"w":null,"n":"","h":{}},{"r":83,"t":"In the Dark","a":"Dev","y":2011,"w":null,"n":"","h":{}},{"r":84,"t":"Backseat","a":"New Boyz featuring The Cataracs and Dev","y":2011,"w":null,"n":"","h":{}},{"r":85,"t":"Headlines","a":"Drake","y":2011,"w":null,"n":"","h":{"alberto_gu":14,"MaxtorUwU":2}},{"r":86,"t":"Best Thing I Never Had","a":"Beyoncé","y":2011,"w":null,"n":"","h":{}},{"r":87,"t":"Don't Wanna Go Home","a":"Jason Derulo","y":2011,"w":null,"n":"","h":{}},{"r":88,"t":"Where Them Girls At","a":"David Guetta featuring Flo Rida and Nicki Minaj","y":2011,"w":null,"n":"","h":{"GabredMared":15,"Nubis84":1,"verygooood":1}},{"r":89,"t":"She Ain't You","a":"Chris Brown","y":2011,"w":null,"n":"","h":{}},{"r":90,"t":"Take a Back Road","a":"Rodney Atkins","y":2011,"w":null,"n":"","h":{}},{"r":91,"t":"Please Don't Go","a":"Mike Posner","y":2011,"w":null,"n":"","h":{}},{"r":92,"t":"Sure Thing","a":"Miguel","y":2011,"w":null,"n":"","h":{"armandwave":1,"Rocky_stereo":7}},{"r":93,"t":"Price Tag","a":"Jessie J featuring B.o.B","y":2011,"w":null,"n":"","h":{"Frikomid":11,"GabredMared":23}},{"r":94,"t":"God Gave Me You","a":"Blake Shelton","y":2011,"w":null,"n":"","h":{}},{"r":95,"t":"She Will","a":"Lil Wayne featuring Drake","y":2011,"w":null,"n":"","h":{}},{"r":96,"t":"Are You Gonna Kiss Me or Not","a":"Thompson Square","y":2011,"w":null,"n":"","h":{}},{"r":97,"t":"Animal","a":"Neon Trees","y":2011,"w":null,"n":"","h":{"sdecandelario":1}},{"r":98,"t":"You and Tequila","a":"Kenny Chesney featuring Grace Potter","y":2011,"w":null,"n":"","h":{}},{"r":99,"t":"Colder Weather","a":"Zac Brown Band","y":2011,"w":null,"n":"","h":{}},{"r":100,"t":"My Last","a":"Big Sean featuring Chris Brown","y":2011,"w":null,"n":"","h":{}}]};</script>
+<script>const DATA = {"users":["alberto_gu","armandwave","BipolarMuzik","EliasJ72","Frikomid","GabredMared","Lonsonxd","MaxtorUwU","Nubis84","paqueradejere","Rocky_stereo","sdecandelario","verygooood"],"showYear":false,"yearSeparators":false,"tracks":[{"r":1,"t":"Rolling in the Deep","a":"Adele","y":2011,"w":null,"n":"","h":{"Frikomid":9,"MaxtorUwU":1,"Nubis84":18,"paqueradejere":4,"Rocky_stereo":1,"sdecandelario":8,"verygooood":2},"c":"https://cdn-images.dzcdn.net/images/cover/d66197eb2ff199a77b8c6b9387fa1143/250x250-000000-80-0-0.jpg","dz":66539032,"yt":"rYEDA3JcQqw"},{"r":2,"t":"Party Rock Anthem","a":"LMFAO featuring Lauren Bennett and GoonRock","y":2011,"w":null,"n":"","h":{"Lonsonxd":1,"MaxtorUwU":3,"Nubis84":1,"sdecandelario":11},"c":"https://cdn-images.dzcdn.net/images/cover/8bac43eef296e9ec1711a4b968955a5a/250x250-000000-80-0-0.jpg","dz":12452629,"yt":"KQ6zr6kCPj8"},{"r":3,"t":"Firework","a":"Katy Perry","y":2011,"w":null,"n":"","h":{"Frikomid":1,"GabredMared":9,"Nubis84":2,"verygooood":1},"c":"https://cdn-images.dzcdn.net/images/cover/74572e68ba0588c0c1a7cc7fdecb4b7b/250x250-000000-80-0-0.jpg","dz":3892384211,"yt":"QGJuMBdaqIw"},{"r":4,"t":"E.T.","a":"Katy Perry featuring Kanye West","y":2011,"w":null,"n":"","h":{"armandwave":2,"Frikomid":1,"GabredMared":19,"verygooood":1},"c":"https://cdn-images.dzcdn.net/images/cover/f0b077f113025645f7194cdcd7880a59/250x250-000000-80-0-0.jpg","dz":10107807,"yt":"t5Sd5c4o9UM"},{"r":5,"t":"Give Me Everything","a":"Pitbull featuring Ne-Yo, Afrojack and Nayer","y":2011,"w":null,"n":"","h":{"GabredMared":7,"MaxtorUwU":1,"Nubis84":1},"c":"https://cdn-images.dzcdn.net/images/cover/93806e3105596219e5c241af4b7e1955/250x250-000000-80-0-0.jpg","dz":10308117,"yt":"EPo5wWmKEaI"},{"r":6,"t":"Grenade","a":"Bruno Mars","y":2011,"w":null,"n":"","h":{"armandwave":2,"MaxtorUwU":1},"c":"https://cdn-images.dzcdn.net/images/cover/5b59dc18e109515420f8237719bd2186/250x250-000000-80-0-0.jpg","dz":8011849,"yt":"SR6iYWJxHqs"},{"r":7,"t":"Fuck You (Forget You)","a":"CeeLo Green","y":2011,"w":null,"n":"","h":{"alberto_gu":1,"Nubis84":1,"sdecandelario":2},"c":"https://cdn-images.dzcdn.net/images/cover/e267f32162f75d39149c924e421f857e/250x250-000000-80-0-0.jpg","dz":7303269,"yt":"pc0mxOXbWIU"},{"r":8,"t":"Super Bass","a":"Nicki Minaj","y":2011,"w":null,"n":"","h":{"alberto_gu":1,"armandwave":1,"GabredMared":4},"c":"https://cdn-images.dzcdn.net/images/cover/f3f28eaf22f4aa1382b1fe83c6723961/250x250-000000-80-0-0.jpg","dz":412843352,"yt":"4JipHEz53sU"},{"r":9,"t":"Moves like Jagger","a":"Maroon 5 featuring Christina Aguilera","y":2011,"w":null,"n":"","h":{"GabredMared":15,"verygooood":1},"c":"https://cdn-images.dzcdn.net/images/cover/dca15ab8325905cb9ca815a0a3e5cb3f/250x250-000000-80-0-0.jpg","dz":13986043,"yt":"suRsxpoAc5w"},{"r":10,"t":"Just Can't Get Enough","a":"The Black Eyed Peas","y":2011,"w":null,"n":"","h":{"MaxtorUwU":2},"c":"https://cdn-images.dzcdn.net/images/cover/98fc9820d4e2cd15970703ca2b219b6f/250x250-000000-80-0-0.jpg","dz":11277400,"yt":"OrTyD7rjBpw"},{"r":11,"t":"On the Floor","a":"Jennifer Lopez featuring Pitbull","y":2011,"w":null,"n":"","h":{"GabredMared":33,"Nubis84":3},"c":"https://cdn-images.dzcdn.net/images/cover/d3df69d1356e25bf018df6cb66f8376b/250x250-000000-80-0-0.jpg","dz":8930372,"yt":"t4H_Zoh7G5A"},{"r":12,"t":"S&M","a":"Rihanna","y":2011,"w":null,"n":"","h":{"GabredMared":2},"c":"https://cdn-images.dzcdn.net/images/cover/31d1611e28e53aa614f8e4c3a498c08a/250x250-000000-80-0-0.jpg","dz":10092333,"yt":"KdS6HFQ_LUc"},{"r":13,"t":"Pumped Up Kicks","a":"Foster the People","y":2011,"w":null,"n":"","h":{"alberto_gu":27,"armandwave":7,"Frikomid":4,"Nubis84":5,"Rocky_stereo":3,"sdecandelario":30,"verygooood":50},"c":"https://cdn-images.dzcdn.net/images/cover/34307194dc769db428b22a8259c30022/250x250-000000-80-0-0.jpg","dz":4122117881,"yt":"SDTZ7iX4vTQ"},{"r":14,"t":"Last Friday Night (T.G.I.F.)","a":"Katy Perry","y":2011,"w":null,"n":"","h":{"GabredMared":174,"Nubis84":6,"Rocky_stereo":4},"c":"https://cdn-images.dzcdn.net/images/cover/99578b0bb8c838383c414a5b62b5e15d/250x250-000000-80-0-0.jpg","dz":17135109,"yt":"KlyXNRrsk4A"},{"r":15,"t":"Just the Way You Are","a":"Bruno Mars","y":2011,"w":null,"n":"","h":{"armandwave":1,"MaxtorUwU":1},"c":"https://cdn-images.dzcdn.net/images/cover/9334963153030e6fb74acbdb26cf1b65/250x250-000000-80-0-0.jpg","dz":10201935,"yt":"LjhCEhWiKXk"},{"r":16,"t":"Tonight (I'm Lovin' You)","a":"Enrique Iglesias featuring Ludacris and DJ Frank E","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/1721fd0813b72b7253b80cc425b5755a/250x250-000000-80-0-0.jpg","dz":7928085,"yt":"Jx2yQejrrUE"},{"r":17,"t":"Raise Your Glass","a":"Pink","y":2011,"w":null,"n":"","h":{},"yt":"XjVNlG5cZyQ"},{"r":18,"t":"Born This Way","a":"Lady Gaga","y":2011,"w":null,"n":"","h":{"GabredMared":2,"verygooood":1},"c":"https://cdn-images.dzcdn.net/images/cover/0f256c4bebac58a7c4122e0e639303a8/250x250-000000-80-0-0.jpg","dz":11747931,"yt":"wV1FrqwZyKw"},{"r":19,"t":"Fuckin' Perfect","a":"Pink","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/4dab32e8d10daa3f6811fd0b438a887b/250x250-000000-80-0-0.jpg","dz":10247613,"yt":"BnfDT0dY3bw"},{"r":20,"t":"What's My Name?","a":"Rihanna featuring Drake","y":2011,"w":null,"n":"","h":{"alberto_gu":2,"GabredMared":45},"c":"https://cdn-images.dzcdn.net/images/cover/0dc1da3cac53b489724a5a10ab4354a4/250x250-000000-80-0-0.jpg","dz":8081684,"yt":"U0CGsw6h60k"},{"r":21,"t":"Look at Me Now","a":"Chris Brown featuring Lil Wayne and Busta Rhymes","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/a27c9214747933ad7a1270b73176c8ce/250x250-000000-80-0-0.jpg","dz":652442532,"yt":"8gyLR4NfMiI"},{"r":22,"t":"Down on Me","a":"Jeremih featuring 50 Cent","y":2011,"w":null,"n":"","h":{"Rocky_stereo":1},"c":"https://cdn-images.dzcdn.net/images/cover/3e4adeb18ab92cd17340ab71b6851a6b/250x250-000000-80-0-0.jpg","dz":12229779,"yt":"AaXaig_43lU"},{"r":23,"t":"How to Love","a":"Lil Wayne","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/c6539bedbe83e90e7ea9a5e6364df73e/250x250-000000-80-0-0.jpg","dz":13623126,"yt":"y8Gf4-eT3w0"},{"r":24,"t":"Someone Like You","a":"Adele","y":2011,"w":null,"n":"","h":{"armandwave":1,"Frikomid":2,"GabredMared":1,"MaxtorUwU":1,"Nubis84":2,"paqueradejere":1,"Rocky_stereo":1,"sdecandelario":2,"verygooood":2},"c":"https://cdn-images.dzcdn.net/images/cover/35becca9e8a8ea0267ff467f7832d214/250x250-000000-80-0-0.jpg","dz":376730901,"yt":"hLQl3WQQoQ0"},{"r":25,"t":"Good Life","a":"OneRepublic","y":2011,"w":null,"n":"","h":{"MaxtorUwU":1},"c":"https://cdn-images.dzcdn.net/images/cover/b6cdf2b80e36ba9f726ee53a78ce4fec/250x250-000000-80-0-0.jpg","dz":12452403,"yt":"jZhQOvvV45w"},{"r":26,"t":"The Lazy Song","a":"Bruno Mars","y":2011,"w":null,"n":"","h":{"MaxtorUwU":1},"c":"https://cdn-images.dzcdn.net/images/cover/5b59dc18e109515420f8237719bd2186/250x250-000000-80-0-0.jpg","dz":8011853,"yt":"fLexgOxsZu0"},{"r":27,"t":"Till the World Ends","a":"Britney Spears","y":2011,"w":null,"n":"","h":{"Frikomid":2,"GabredMared":6,"Nubis84":1},"c":"https://cdn-images.dzcdn.net/images/cover/5b2b30cf894265853681f66045cb7f7d/250x250-000000-80-0-0.jpg","dz":10697605,"yt":"qzU9OrZlKb8"},{"r":28,"t":"The Show Goes On","a":"Lupe Fiasco","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/618e45ba7fdfbb57e68965bdb127c6f8/250x250-000000-80-0-0.jpg","dz":12229778,"yt":"Rmp6zIr5y4U"},{"r":29,"t":"The Edge of Glory","a":"Lady Gaga","y":2011,"w":null,"n":"","h":{"Nubis84":1},"c":"https://cdn-images.dzcdn.net/images/cover/afa142391fff34f34b1c3ca540e70b0d/250x250-000000-80-0-0.jpg","dz":12791982,"yt":"QeWBS0JBNzQ"},{"r":30,"t":"We R Who We R","a":"Kesha","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/8c9e83c173a7a09bd25cdeaf7b98dc81/250x250-000000-80-0-0.jpg","dz":630116662,"yt":"mXvmSaE0JXA"},{"r":31,"t":"Black and Yellow","a":"Wiz Khalifa","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/af7203fbcbf4b3ef09e54d30a97323e1/250x250-000000-80-0-0.jpg","dz":13547629,"yt":"UePtoxDhJSw"},{"r":32,"t":"Tonight Tonight","a":"Hot Chelle Rae","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/d564aa0abb240e7c5e99036eef28fe19/250x250-000000-80-0-0.jpg","dz":1211087022,"yt":"QzlNFcT2aOE"},{"r":33,"t":"Blow","a":"Kesha","y":2011,"w":null,"n":"","h":{"armandwave":1},"c":"https://cdn-images.dzcdn.net/images/cover/a2e5bc7040dc6035d4f4fdd494849b68/250x250-000000-80-0-0.jpg","dz":12206760,"yt":"CFWX0hWCbng"},{"r":34,"t":"Lighters","a":"Bad Meets Evil featuring Bruno Mars","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/e8293720739bc27bb6278061c25a2343/250x250-000000-80-0-0.jpg","dz":12255576,"yt":"YWt4wmZ_EMI"},{"r":35,"t":"If I Die Young","a":"The Band Perry","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/70fdffb6309e109862f281a6ab4cc31f/250x250-000000-80-0-0.jpg","dz":4100492341,"yt":"7NJqUN9TClM"},{"r":36,"t":"Stereo Hearts","a":"Gym Class Heroes featuring Adam Levine","y":2011,"w":null,"n":"","h":{"Nubis84":6,"sdecandelario":1},"c":"https://cdn-images.dzcdn.net/images/cover/047f41701e6662d6283277fd30b33cd3/250x250-000000-80-0-0.jpg","dz":14954243,"yt":"T3E9Wjbq44E"},{"r":37,"t":"The Time (Dirty Bit)","a":"The Black Eyed Peas","y":2011,"w":null,"n":"","h":{"MaxtorUwU":4},"c":"https://cdn-images.dzcdn.net/images/cover/affc178431ab1d51a60f877cb5775562/250x250-000000-80-0-0.jpg","dz":7987918,"yt":"JwQZQygg3Lk"},{"r":38,"t":"Coming Home","a":"Diddy – Dirty Money featuring Skylar Grey","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/5d48f65156cc478e70b0050793873c40/250x250-000000-80-0-0.jpg","dz":10153374,"yt":"FOXfbTx_P7c"},{"r":39,"t":"Hey Baby (Drop It to the Floor)","a":"Pitbull featuring T-Pain","y":2011,"w":null,"n":"","h":{"MaxtorUwU":2},"c":"https://cdn-images.dzcdn.net/images/cover/c9d7a946d788cac1b7d81e8c4824cf68/250x250-000000-80-0-0.jpg","dz":7300948,"yt":"LefQdEMJP1I"},{"r":40,"t":"Only Girl (In the World)","a":"Rihanna","y":2011,"w":null,"n":"","h":{"GabredMared":98,"verygooood":8},"c":"https://cdn-images.dzcdn.net/images/cover/08e4fccc896c3d4729f7151a862ec56b/250x250-000000-80-0-0.jpg","dz":7293823,"yt":"pa14VNsdSYM"},{"r":41,"t":"6 Foot 7 Foot","a":"Lil Wayne featuring Cory Gunz","y":2011,"w":null,"n":"","h":{"MaxtorUwU":5},"c":"https://cdn-images.dzcdn.net/images/cover/c6539bedbe83e90e7ea9a5e6364df73e/250x250-000000-80-0-0.jpg","dz":13623118,"yt":"c7tOAGY59uQ"},{"r":42,"t":"Just a Kiss","a":"Lady Antebellum","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/d89a5f5c0259c47030f8227f00232365/250x250-000000-80-0-0.jpg","dz":842130852,"yt":"v_yTphvyiPU"},{"r":43,"t":"Dirt Road Anthem","a":"Jason Aldean","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/6246897f93cf716c7c18f7953802907c/250x250-000000-80-0-0.jpg","dz":3786129632,"yt":"Lb9q1ScC4cg"},{"r":44,"t":"Dynamite","a":"Taio Cruz","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/ec8696680b2c1c26f9463b8420d9d39f/250x250-000000-80-0-0.jpg","dz":7009802,"yt":"VUjdiDeJ0xg"},{"r":45,"t":"No Hands","a":"Waka Flocka Flame featuring Wale and Roscoe Dash","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/40f44258eb8127d96b50e58a27b1811d/250x250-000000-80-0-0.jpg","dz":7303329,"yt":"skhxizRYxps"},{"r":46,"t":"I Wanna Go","a":"Britney Spears","y":2011,"w":null,"n":"","h":{"GabredMared":33},"c":"https://cdn-images.dzcdn.net/images/cover/be502f78a0b035b5a8f366d2f26d080c/250x250-000000-80-0-0.jpg","dz":10287262,"yt":"T-sxSd1uwoU"},{"r":47,"t":"I'm on One","a":"DJ Khaled featuring Drake, Rick Ross and Lil Wayne","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/f5e82fd897a40dfca5cb78f681aa9a88/250x250-000000-80-0-0.jpg","dz":12687711,"yt":"Z09lYqdxqzo"},{"r":48,"t":"You Make Me Feel...","a":"Cobra Starship featuring Sabi","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/faef9fe1b0d585254c87b0cf3c4868eb/250x250-000000-80-0-0.jpg","dz":14172440,"yt":"HpyZEzrDf4c"},{"r":49,"t":"Yeah 3x","a":"Chris Brown","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/41d09535f0daec05f4776518e56dcb07/250x250-000000-80-0-0.jpg","dz":10153545,"yt":"3mC2ixOAivA"},{"r":50,"t":"Moment 4 Life","a":"Nicki Minaj featuring Drake","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/67dce89b5e39d542b5c451942af15789/250x250-000000-80-0-0.jpg","dz":10154131,"yt":"Ks3_kuRAzHs"},{"r":51,"t":"I Need a Doctor","a":"Dr. Dre featuring Eminem and Skylar Grey","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/a71f29ab2cfa97c88f69afa9041e5f35/250x250-000000-80-0-0.jpg","dz":9806802,"yt":"VA770wpLX-Q"},{"r":52,"t":"Just a Dream","a":"Nelly","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/94628c647146cd8fdf64f8921f73d305/250x250-000000-80-0-0.jpg","dz":7562926,"yt":"N6O2ncUKvlg"},{"r":53,"t":"Motivation","a":"Kelly Rowland featuring Lil Wayne","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/eb3765cd717405c836de1c4643f8022f/250x250-000000-80-0-0.jpg","dz":10351437,"yt":"s1XozsBN5Z4"},{"r":54,"t":"Stereo Love","a":"Edward Maya featuring Vika Jigulina","y":2011,"w":null,"n":"","h":{"alberto_gu":1,"GabredMared":50},"c":"https://cdn-images.dzcdn.net/images/cover/5b823acc99170378c8807062e62280c2/250x250-000000-80-0-0.jpg","dz":1254389442,"yt":"p-Z3YrHJ1sU"},{"r":55,"t":"Jar of Hearts","a":"Christina Perri","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/2cf468fd0556a7e87d10640ebb270587/250x250-000000-80-0-0.jpg","dz":12343340,"yt":"8v_4O44sfjM"},{"r":56,"t":"Roll Up","a":"Wiz Khalifa","y":2011,"w":null,"n":"","h":{},"yt":"UhQz-0QVmQ0"},{"r":57,"t":"Sexy and I Know It","a":"LMFAO","y":2011,"w":null,"n":"","h":{"Frikomid":1,"Lonsonxd":1,"MaxtorUwU":2,"Nubis84":2,"sdecandelario":6},"c":"https://cdn-images.dzcdn.net/images/cover/3956c047659b4123de9eba7bf0c65156/250x250-000000-80-0-0.jpg","dz":13837248,"yt":"wyx6JDQCslE"},{"r":58,"t":"Rocketeer","a":"Far East Movement featuring Ryan Tedder","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/84e573a60040c1d947762ec703e84148/250x250-000000-80-0-0.jpg","dz":9919698,"yt":"RcmKbTR--iA"},{"r":59,"t":"All of the Lights","a":"Kanye West","y":2011,"w":null,"n":"","h":{"alberto_gu":62,"armandwave":1,"EliasJ72":3,"Frikomid":2,"GabredMared":2,"Nubis84":20,"paqueradejere":7,"Rocky_stereo":2,"sdecandelario":2,"verygooood":23},"c":"https://cdn-images.dzcdn.net/images/cover/742aba8510ba803bea51d304cf2ca786/250x250-000000-80-0-0.jpg","dz":7667061,"yt":"HAfFfqiYLp0"},{"r":60,"t":"Hold It Against Me","a":"Britney Spears","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/7dc1b6055b72e74630fec3798a6e872b/250x250-000000-80-0-0.jpg","dz":9975930,"yt":"-Edv8Onsrgg"},{"r":61,"t":"More","a":"Usher","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/3195d62f601a4004bb3abd7d3044df7a/250x250-000000-80-0-0.jpg","dz":9793266,"yt":"CQf13Mbza9k"},{"r":62,"t":"What the Hell","a":"Avril Lavigne","y":2011,"w":null,"n":"","h":{"GabredMared":20,"MaxtorUwU":1},"c":"https://cdn-images.dzcdn.net/images/cover/2fdba8bb5757bce9261926719f953b5c/250x250-000000-80-0-0.jpg","dz":10285669,"yt":"tQmEd_UeeIk"},{"r":63,"t":"Written in the Stars","a":"Tinie Tempah featuring Eric Turner","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/b1fbe7929d7444512a07e4615c21e5a4/250x250-000000-80-0-0.jpg","dz":6922865,"yt":"YgFyi74DVjc"},{"r":64,"t":"Bottoms Up","a":"Trey Songz featuring Nicki Minaj","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/6bb71088bf52c904cb0be4037f03381e/250x250-000000-80-0-0.jpg","dz":12229777,"yt":"ekAXPCphKXQ"},{"r":65,"t":"DJ Got Us Fallin' in Love","a":"Usher featuring Pitbull","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/dce24a48f339b72c01ba4db7af7a929d/250x250-000000-80-0-0.jpg","dz":7226155,"yt":"C-dvTjK_07c"},{"r":66,"t":"For the First Time","a":"The Script","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/8ef88eee9fa5d871636b51a76fe49e0d/250x250-000000-80-0-0.jpg","dz":7245912,"yt":"CPEBN2dVNUY"},{"r":67,"t":"Honey Bee","a":"Blake Shelton","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/78fe037fa949eaf2110a8f80d4a91d7b/250x250-000000-80-0-0.jpg","dz":12785894,"yt":"xZjosn2u1gA"},{"r":68,"t":"Don't You Wanna Stay","a":"Jason Aldean featuring Kelly Clarkson","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/08718acdbd92cd8bc1d64ea5b7339350/250x250-000000-80-0-0.jpg","dz":8057342,"yt":"VL2BjBRi01k"},{"r":69,"t":"We Found Love","a":"Rihanna featuring Calvin Harris","y":2011,"w":null,"n":"","h":{"Frikomid":1,"GabredMared":112,"Nubis84":3,"verygooood":3},"c":"https://cdn-images.dzcdn.net/images/cover/3ea32a08c26db12336c89467847cfe39/250x250-000000-80-0-0.jpg","dz":4289372852,"yt":"tg00YEETFzg"},{"r":70,"t":"Pretty Girl Rock","a":"Keri Hilson","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/d3dd8fa945f18c488cf3d33773f792fb/250x250-000000-80-0-0.jpg","dz":8081556,"yt":"HtXOVKNazYU"},{"r":71,"t":"Yoü and I","a":"Lady Gaga","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/aae6b1317f16dce45d25dac2e07cf198/250x250-000000-80-0-0.jpg","dz":13978375,"yt":"X9YMU0WeBwU"},{"r":72,"t":"Like a G6","a":"Far East Movement featuring The Cataracs and Dev","y":2011,"w":null,"n":"","h":{"alberto_gu":3},"c":"https://cdn-images.dzcdn.net/images/cover/79e50cdd2d0e1b765d4122cdb211dbf2/250x250-000000-80-0-0.jpg","dz":7180013,"yt":"w4s6H4ku6ZY"},{"r":73,"t":"Without You","a":"David Guetta featuring Usher","y":2011,"w":null,"n":"","h":{"Nubis84":3,"verygooood":1},"c":"https://cdn-images.dzcdn.net/images/cover/df2b15f388c327764238816067a7e2c5/250x250-000000-80-0-0.jpg","dz":14243666,"yt":"jUe8uoKdHao"},{"r":74,"t":"Back to December","a":"Taylor Swift","y":2011,"w":null,"n":"","h":{"Frikomid":1,"GabredMared":1},"c":"https://cdn-images.dzcdn.net/images/cover/c1613c3579a594bce2ebc77bccfaa4e7/250x250-000000-80-0-0.jpg","dz":2355587715,"yt":"QUwxKWT6m7U"},{"r":75,"t":"Teenage Dream","a":"Katy Perry","y":2011,"w":null,"n":"","h":{"Frikomid":11,"GabredMared":27,"verygooood":1},"c":"https://cdn-images.dzcdn.net/images/cover/54989a922c93505f7a9d581587e37135/250x250-000000-80-0-0.jpg","dz":6963668,"yt":"98WtmW-lfeE"},{"r":76,"t":"Crazy Girl","a":"Eli Young Band","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/6f72e324532605fd93916492d6735935/250x250-000000-80-0-0.jpg","dz":653790522,"yt":"J3HwFtdVTfM"},{"r":77,"t":"Cheers (Drink to That)","a":"Rihanna","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/3a12c64bb52a167944783878ffe41f02/250x250-000000-80-0-0.jpg","dz":13529561,"yt":"ZR0v0i63PQ4"},{"r":78,"t":"Who Says","a":"Selena Gomez & the Scene","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/d29a64c59660446d5dc33b70a7fbe309/250x250-000000-80-0-0.jpg","dz":12207012,"yt":"BzE1mX4Px0I"},{"r":79,"t":"Barefoot Blue Jean Night","a":"Jake Owen","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/7364daf37006fe054ba1127d92e923e8/250x250-000000-80-0-0.jpg","dz":13540261,"yt":"aRh-vBOS-dU"},{"r":80,"t":"Knee Deep","a":"Zac Brown Band featuring Jimmy Buffett","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/debebfe6cf0cf8edfef9bd17abaa2250/250x250-000000-80-0-0.jpg","dz":1488783362,"yt":"9n5G0qFBsHM"},{"r":81,"t":"Country Girl (Shake It for Me)","a":"Luke Bryan","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/db963c810bb06415eccb5011fdd8f5e1/250x250-000000-80-0-0.jpg","dz":1614081222,"yt":"7HX4SfnVlP4"},{"r":82,"t":"Remind Me","a":"Brad Paisley and Carrie Underwood","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/8df85c460346071fdfba365f72ca6f73/250x250-000000-80-0-0.jpg","dz":11238117,"yt":"7qzhngp7jh8"},{"r":83,"t":"In the Dark","a":"Dev","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/0a4a2364f5894c1153cb122a51118f82/250x250-000000-80-0-0.jpg","dz":15092603,"yt":"mgEixhE3Oms"},{"r":84,"t":"Backseat","a":"New Boyz featuring The Cataracs and Dev","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/6182d31d701c2ee851177c1fbb393786/250x250-000000-80-0-0.jpg","dz":13548277,"yt":"herLMUn2-U0"},{"r":85,"t":"Headlines","a":"Drake","y":2011,"w":null,"n":"","h":{"alberto_gu":14,"MaxtorUwU":2},"c":"https://cdn-images.dzcdn.net/images/cover/6e7a6c8f36669dcd11abe7e7c3222e91/250x250-000000-80-0-0.jpg","dz":17347964,"yt":"cimoNqiulUE"},{"r":86,"t":"Best Thing I Never Had","a":"Beyoncé","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/5d71d7b74ea5257af52b9724864e7912/250x250-000000-80-0-0.jpg","dz":13784347,"yt":"FHp2KgyQUFk"},{"r":87,"t":"Don't Wanna Go Home","a":"Jason Derulo","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/0f8c5376d6ad5edd6334f4146cf373a2/250x250-000000-80-0-0.jpg","dz":13548266,"yt":"2CGF_Z3yZAo"},{"r":88,"t":"Where Them Girls At","a":"David Guetta featuring Flo Rida and Nicki Minaj","y":2011,"w":null,"n":"","h":{"GabredMared":15,"Nubis84":1,"verygooood":1},"c":"https://cdn-images.dzcdn.net/images/cover/33f69464af8ad8d3db76a674497063a3/250x250-000000-80-0-0.jpg","dz":12228180,"yt":"p4kVWCSzfK4"},{"r":89,"t":"She Ain't You","a":"Chris Brown","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/a27c9214747933ad7a1270b73176c8ce/250x250-000000-80-0-0.jpg","dz":652442542},{"r":90,"t":"Take a Back Road","a":"Rodney Atkins","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/d16175b118ef3460c073fc3eedad9d8c/250x250-000000-80-0-0.jpg","dz":2873483092,"yt":"-R9GrGheMRw"},{"r":91,"t":"Please Don't Go","a":"Mike Posner","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/54138f66a0b68f25c23fd6c2f69550d4/250x250-000000-80-0-0.jpg","dz":3648850532,"yt":"HpixdTlYlKU"},{"r":92,"t":"Sure Thing","a":"Miguel","y":2011,"w":null,"n":"","h":{"armandwave":1,"Rocky_stereo":7},"c":"https://cdn-images.dzcdn.net/images/cover/daf07dbfba88c920d13b5340c66ba75f/250x250-000000-80-0-0.jpg","dz":2454348155,"yt":"q4GJVOMjCC4"},{"r":93,"t":"Price Tag","a":"Jessie J featuring B.o.B","y":2011,"w":null,"n":"","h":{"Frikomid":11,"GabredMared":23},"c":"https://cdn-images.dzcdn.net/images/cover/405b52366b38b948669cdd79bad8d9f8/250x250-000000-80-0-0.jpg","dz":2376930995,"yt":"qMxX-QOV9tI"},{"r":94,"t":"God Gave Me You","a":"Blake Shelton","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/78fe037fa949eaf2110a8f80d4a91d7b/250x250-000000-80-0-0.jpg","dz":12785896,"yt":"nCf2PoTuh4Q"},{"r":95,"t":"She Will","a":"Lil Wayne featuring Drake","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/f81b647b7d18fa873b82a3bad5a7bae1/250x250-000000-80-0-0.jpg","dz":3319741851,"yt":"Fw3H8R5hHEY"},{"r":96,"t":"Are You Gonna Kiss Me or Not","a":"Thompson Square","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/a59f7f013bfa7ca7cacac997bcd613d1/250x250-000000-80-0-0.jpg","dz":3782977832,"yt":"FDUOcHg5ijg"},{"r":97,"t":"Animal","a":"Neon Trees","y":2011,"w":null,"n":"","h":{"sdecandelario":1},"c":"https://cdn-images.dzcdn.net/images/cover/5087588ed15d7446d4befdad2bd48652/250x250-000000-80-0-0.jpg","dz":905000872,"yt":"gM7Hlg75Mlo"},{"r":98,"t":"You and Tequila","a":"Kenny Chesney featuring Grace Potter","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/02de0eb42698b60b146c36cb9414c3f7/250x250-000000-80-0-0.jpg","dz":7151627,"yt":"Q8XkLrErSHw"},{"r":99,"t":"Colder Weather","a":"Zac Brown Band","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/debebfe6cf0cf8edfef9bd17abaa2250/250x250-000000-80-0-0.jpg","dz":1488783422},{"r":100,"t":"My Last","a":"Big Sean featuring Chris Brown","y":2011,"w":null,"n":"","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/2c1dbf474b33bc25dad960d8a3ddc127/250x250-000000-80-0-0.jpg","dz":14539386,"yt":"EeTPi2a2Ld4"}]};</script>
 <script>
 (function() {
   const D = DATA, USERS = D.users, NU = USERS.length;
   const $ = id => document.getElementById(id);
-  let filter = 'all', sort = 'rank', q = '';
-  const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const mobile = () => matchMedia('(max-width:800px)').matches;
+  let filter = 'all', sort = 'rank', q = '', cur = null;
+  const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fold = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
-  D.tracks.forEach(t => { t.nh = Object.keys(t.h).length; t.q = fold(t.t + ' ' + t.a); });
+  D.tracks.forEach((t, i) => { t.i = i; t.nh = Object.keys(t.h).length; t.q = fold(t.t + ' ' + t.a); });
 
   function user() { try { return localStorage.getItem('mh_user'); } catch (e) { return null; } }
 
-  function meta(t) {
-    const out = [];
-    if (t.n === 'winner') out.push('<span class="badge win">🏆 Ganadora</span>');
-    else if (t.n === 'nominee') out.push('<span class="badge">Nominada</span>');
-    else if (t.n) out.push(esc(t.n));
-    if (t.w) out.push(t.w + (t.w === 1 ? ' semana' : ' semanas') + ' nº1');
-    if (t.y && D.showYear && sort === 'pop') out.push(t.y);   // con separadores el año ya se ve
-    return out.join('<br>');
-  }
+  // Carátulas: solo se pide la imagen cuando la tarjeta se acerca al viewport,
+  // y el grid se pinta por lotes para que listas de 1000+ no bloqueen el primer render.
+  const io = new IntersectionObserver(es => es.forEach(e => {
+    if (!e.isIntersecting) return;
+    const img = e.target; io.unobserve(img);
+    img.onload = () => { img.classList.add('ok'); img.parentElement.classList.add('has-img'); };
+    img.src = img.dataset.src;
+  }), { rootMargin: '400px' });
 
-  function row(t, u) {
-    const mine = u && t.h[u];
-    const dots = USERS.map(x => `<span class="dot${t.h[x] ? ' on' : ''}${x === u ? ' me' : ''}" title="${esc(x)}${t.h[x] ? ': ' + t.h[x] + ' plays' : ''}"></span>`).join('');
-    const qs = encodeURIComponent(t.a + ' ' + t.t);
-    const lfm = 'https://www.last.fm/music/' + encodeURIComponent(t.a.split(/ (?:featuring|feat\.|with|con) /i)[0]) + '/_/' + encodeURIComponent(t.t.split(' / ')[0]);
-    const plays = u ? (mine ? mine + '▶' : '') : (t.nh ? t.nh + '/' + NU : '');
-    return `<div class="trk${mine ? ' mine' : ''}${u && !mine ? ' dim' : ''}">
-      <div class="t-rank">${t.r ?? ''}</div>
-      <div class="t-main"><div class="t-title">${esc(t.t)}</div><div class="t-artist">${esc(t.a)}</div></div>
-      <div class="t-meta">${meta(t)}</div>
-      <div class="dots" title="${t.nh}/${NU} usuarios">${dots}</div>
-      <div class="t-plays" title="${u ? 'Tus reproducciones' : 'Usuarios que la han escuchado'}">${plays}</div>
-      <div class="t-links"><a href="https://www.youtube.com/results?search_query=${qs}" target="_blank" rel="noopener" title="Buscar en YouTube">YT</a><a href="${lfm}" target="_blank" rel="noopener" title="Last.fm">LFM</a></div>
+  function card(t, u) {
+    const mine = u ? !!t.h[u] : t.nh > 0;
+    return `<div class="card ${mine ? 'heard' : 'pending'}${u && !mine ? ' dim' : ''}" data-i="${t.i}">
+      <div class="card-ph"><b>${esc(t.t)}</b><i>${esc(t.a)}</i></div>
+      ${t.c ? `<img data-src="${esc(t.c)}" alt="" decoding="async">` : ''}
+      ${t.r != null ? `<div class="card-rank">${t.r}</div>` : ''}
+      <div class="card-overlay"><div class="card-num">${t.r != null ? '#' + t.r : ''}${t.y && D.showYear ? ' · ' + t.y : ''}</div>
+        <div class="card-title">${esc(t.t)}</div><div class="card-artist">${esc(t.a)}</div></div>
     </div>`;
   }
 
+  let renderToken = 0;
   function render() {
     const u = user();
     const heard = t => u ? !!t.h[u] : t.nh > 0;
     let list = D.tracks.filter(t => (filter === 'all' || (filter === 'heard') === heard(t)) && (!q || t.q.includes(q)));
-    if (sort === 'pop') list = [...list].sort((a, b) => b.nh - a.nh || a.r - b.r);
-    if (sort === 'year') list = [...list].sort((a, b) => (a.y || 0) - (b.y || 0) || a.r - b.r);
+    if (sort === 'pop') list = [...list].sort((a, b) => b.nh - a.nh || a.i - b.i);
+    if (sort === 'year') list = [...list].sort((a, b) => (a.y || 0) - (b.y || 0) || a.i - b.i);
 
     const total = D.tracks.length;
     let pct, txt;
     if (u) {
       const n = D.tracks.filter(t => t.h[u]).length;
       pct = 100 * n / total;
-      txt = `<b>${esc(u)}</b> ha escuchado <b>${n}</b> de ${total} · ${pct.toFixed(1)}%`;
+      txt = `<b>${n}</b>/${total} · ${pct.toFixed(1)}% ${esc(u)}`;
     } else {
       const avg = USERS.reduce((s, x) => s + D.tracks.filter(t => t.h[x]).length, 0) / (NU || 1);
-      const any = D.tracks.filter(t => t.nh).length;
       pct = 100 * avg / total;
-      txt = `Media del grupo <b>${pct.toFixed(1)}%</b> · ${any} de ${total} las ha escuchado alguien`;
+      txt = `media <b>${pct.toFixed(1)}%</b> · ${D.tracks.filter(t => t.nh).length}/${total} alguien`;
     }
     $('progTxt').innerHTML = txt;
     $('progBar').style.width = pct + '%';
     $('fHeard').textContent = u ? 'Escuchadas' : 'Alguien';
     $('fPending').textContent = u ? 'Pendientes' : 'Nadie';
 
-    let html = '', lastY = null;
+    const parts = [];
+    let lastY;
     const sepByYear = D.yearSeparators && (sort === 'rank' || sort === 'year');
     for (const t of list) {
-      if (sepByYear && t.y !== lastY) { html += `<div class="year-sep">${t.y ?? '—'}</div>`; lastY = t.y; }
-      html += row(t, u);
+      if (sepByYear && t.y !== lastY) { parts.push(`<div class="year-sep">${t.y ?? '—'}</div>`); lastY = t.y; }
+      parts.push(card(t, u));
     }
-    $('tracks').innerHTML = html || '<div class="empty">Nada por aquí.</div>';
+    const grid = $('grid'), token = ++renderToken;
+    io.disconnect();
+    grid.innerHTML = parts.length ? '' : '<div class="empty">Nada por aquí.</div>';
+    const CHUNK = 240;
+    (function chunk(i) {
+      if (token !== renderToken) return;
+      grid.insertAdjacentHTML('beforeend', parts.slice(i, i + CHUNK).join(''));
+      grid.querySelectorAll('img[data-src]:not([src])').forEach(img => io.observe(img));
+      if (i + CHUNK < parts.length) requestAnimationFrame(() => chunk(i + CHUNK));
+      else if (cur) grid.querySelector(`.card[data-i="${cur.i}"]`)?.classList.add('active');
+    })(0);
   }
 
+  function openPanel(t) {
+    cur = t;
+    const u = user(), mine = u ? !!t.h[u] : t.nh > 0;
+    document.querySelectorAll('.card.active').forEach(c => c.classList.remove('active'));
+    document.querySelector(`.card[data-i="${t.i}"]`)?.classList.add('active');
+    const big = t.c ? t.c.replace('/250x250-', '/500x500-') : '';
+    $('pCover').innerHTML = `<div class="card-ph"><b>${esc(t.t)}</b><i>${esc(t.a)}</i></div>`
+      + (big ? `<img src="${esc(big)}" alt="" onload="this.previousElementSibling.style.display='none'">` : '')
+      + `<span class="panel-status ${mine ? 'heard' : 'pending'}">${u ? (mine ? 'Escuchada · ' + t.h[u] + ' plays' : 'Pendiente') : t.nh + '/' + NU + ' usuarios'}</span>`;
+    const meta = [];
+    if (t.y) meta.push(t.y);
+    if (t.n === 'winner') meta.push('<span class="badge win">🏆 Ganadora</span>');
+    else if (t.n === 'nominee') meta.push('<span class="badge">Nominada</span>');
+    else if (t.n) meta.push(esc(t.n));
+    if (t.w) meta.push(t.w + (t.w === 1 ? ' semana' : ' semanas') + ' nº1');
+    const users = USERS.map(x => `<span class="p-user${t.h[x] ? ' on' : ''}${x === u ? ' me' : ''}">${esc(x)}${t.h[x] ? ' · ' + t.h[x] : ''}</span>`).join('');
+    const qs = encodeURIComponent(t.a + ' ' + t.t);
+    const lfm = 'https://www.last.fm/music/' + encodeURIComponent(t.a.split(/ (?:featuring|feat\.|with|con) /i)[0]) + '/_/' + encodeURIComponent(t.t.split(' / ')[0]);
+    $('pBody').innerHTML = `
+      ${t.r != null ? `<div class="p-num">#${t.r}</div>` : ''}
+      <div class="p-title">${esc(t.t)}</div>
+      <div class="p-artist">${esc(t.a)}</div>
+      <div class="p-meta">${meta.join(' · ')}</div>
+      <audio id="pAudio" controls preload="none"></audio>
+      <div class="p-label">Escuchada por ${t.nh}/${NU}</div>
+      <div class="p-users">${users}</div>
+      <div class="p-links">
+        ${t.yt ? `<button id="pYtBtn" type="button">▶ YouTube</button>`
+               : `<a href="https://www.youtube.com/results?search_query=${qs}" target="_blank" rel="noopener">Buscar en YouTube</a>`}
+        <a href="${lfm}" target="_blank" rel="noopener">Last.fm</a>
+        ${t.dz ? `<a href="https://www.deezer.com/track/${t.dz}" target="_blank" rel="noopener">Deezer</a>` : ''}
+      </div>
+      <div class="p-yt" id="pYt"></div>`;
+    if (t.yt) $('pYtBtn').onclick = () => {
+      $('pAudio').pause();
+      $('pYt').innerHTML = `<iframe src="https://www.youtube.com/embed/${t.yt}?autoplay=1&rel=0" allow="autoplay; encrypted-media; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="${esc(t.t)}"></iframe>`;
+      $('pYt').classList.add('on');
+      $('pYtBtn').remove();
+      $('pYt').scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    };
+    if (t.dz) preview(t);
+    $('panel').classList.add('open');
+  }
+
+  // Preview de 30 s: las URLs de Deezer caducan, así que se piden al abrir (JSONP, sin CORS).
+  function preview(t) {
+    const cb = 'dz' + t.dz, s = document.createElement('script');
+    window[cb] = d => {
+      delete window[cb]; s.remove();
+      const a = $('pAudio');
+      if (cur === t && a && d && d.preview) { a.src = d.preview; a.style.display = 'block'; }
+    };
+    s.src = `https://api.deezer.com/track/${t.dz}?output=jsonp&callback=${cb}`;
+    s.onerror = () => { delete window[cb]; s.remove(); };
+    document.body.appendChild(s);
+  }
+
+  $('grid').onclick = e => { const c = e.target.closest('.card'); if (c) openPanel(D.tracks[+c.dataset.i]); };
+  $('pClose').onclick = () => $('panel').classList.remove('open');
   document.querySelectorAll('#filters button').forEach(b => b.onclick = () => {
     filter = b.dataset.f;
     document.querySelectorAll('#filters button').forEach(x => x.classList.toggle('on', x === b));
     render();
   });
   $('sort').onchange = e => { sort = e.target.value; render(); };
-  $('search').oninput = e => { q = fold(e.target.value.trim()); render(); };
-  window.mhRenderList = render;
+  let qt;
+  $('search').oninput = e => { clearTimeout(qt); qt = setTimeout(() => { q = fold(e.target.value.trim()); render(); }, 150); };
+  function setCols(v) {
+    $('grid').style.setProperty('--cols', v);
+    $('gridLbl').textContent = v + '×';
+    try { localStorage.setItem('sg_cols', v); } catch (e) {}
+  }
+  $('gridSlider').oninput = e => setCols(e.target.value);
+  let cols = mobile() ? 3 : 8;
+  try { cols = +localStorage.getItem('sg_cols') || cols; } catch (e) {}
+  $('gridSlider').value = cols; setCols(cols);
+  const fitHeader = () => document.querySelector('main').style.marginTop = document.querySelector('header').offsetHeight + 'px';
+  addEventListener('resize', fitHeader); fitHeader();
+
+  window.mhRenderList = () => { render(); if (cur) openPanel(cur); };
   render();
+  if (!mobile() && D.tracks.length) openPanel(D.tracks[0]);
 })();
 </script>
 </body>

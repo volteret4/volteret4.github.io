@@ -1,0 +1,745 @@
+[
+  {
+    "number": 1,
+    "artist": "Pibes Chorros",
+    "title": "Arriba las manos",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pibes-chorros/arriba-las-manos",
+    "cover_url": "https://e.snmc.io/i/600/s/49d3440c451f5fc1057a349365ae8464/4140376/Pibes%20Chorros%20-%20Arriba%20las%20manos%2C%20Cover%20art.jpeg",
+    "rating": "3.68",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Super Mer Ka 2",
+    "title": "La Lata",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/super-mer-ka-2/la-lata",
+    "cover_url": "https://e.snmc.io/i/600/s/63d69353a494fe30d6d5e38c091da296/5048419/Super%20Mer%20Ka%202%20-%20La%20Lata%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Pibes Chorros",
+    "title": "Criando cuervos",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pibes-chorros/criando-cuervos",
+    "cover_url": "https://e.snmc.io/i/600/s/66c5809edd57898d39bb9a8db46bf871/4140392/Pibes%20Chorros%20-%20Criando%20cuervos%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Mala Fama",
+    "title": "Ritmo sustancia",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mala-fama/ritmo-sustancia",
+    "cover_url": "https://e.snmc.io/i/600/s/7ce0944a4eb0107979e98c1d2f0f713d/3836114/Mala%20Fama%20-%20Ritmo%20sustancia%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Yerba Brava",
+    "title": "Cumbia villera",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/yerba-brava/cumbia-villera",
+    "cover_url": "https://e.snmc.io/i/600/s/e0c48ec5007b9a1297d38d0ebb67afd8/4486338/Yerba%20Brava%20-%20Cumbia%20villera%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Pala Ancha",
+    "title": "Cumbia Callejera",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pala-ancha/cumbia-callejera",
+    "cover_url": "https://e.snmc.io/i/600/s/5be32a1d57a0ab6b7b6c582161eb4944/4600106/Pala%20Ancha%20-%20Cumbia%20Callejera%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Damas Gratis",
+    "title": "Para los pibes",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/damas-gratis/para-los-pibes",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "3.30",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Pibes Chorros",
+    "title": "Sólo le pido a Dios",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pibes-chorros/solo-le-pido-a-dios",
+    "cover_url": "https://e.snmc.io/i/600/s/cb895fd6012af550d009ee48228ba1fe/4140385/Pibes%20Chorros%20-%20S%C3%B3lo%20le%20pido%20a%20Dios%2C%20Cover%20art.jpeg",
+    "rating": "3.30",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "La Piba",
+    "title": "¿Y nosotras que?",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/la-piba/_y-nosotras-que",
+    "cover_url": "https://e.snmc.io/i/600/s/3a5d1adedfa8cc368b715bc982a9f54d/10485612/La%20Piba%20-%20%C2%BFY%20nosotras%20que%3F%2C%20Cover%20art.png",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Pibes Chorros",
+    "title": "El poder de la guadaña",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pibes-chorros/el-poder-de-la-guadana",
+    "cover_url": "https://e.snmc.io/i/600/s/0b03c20175068c94146bf4208dd83fba/2724012/Pibes%20Chorros%20-%20El%20poder%20de%20la%20guada%C3%B1a%2C%20Cover%20art.jpeg",
+    "rating": "3.11",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Flor de Piedra",
+    "title": "La vanda más loca",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/flor-de-piedra/la-vanda-mas-loca",
+    "cover_url": "https://e.snmc.io/i/600/s/692585b7f24791323b5c2506486d0009/8131570/Flor%20de%20Piedra%20-%20La%20vanda%20m%C3%A1s%20loca%2C%20Cover%20art.jpeg",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Los Gedientos del Rock",
+    "title": "Con síndrome de abstinencia",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-gedientos-del-rock/con-sindrome-de-abstinencia",
+    "cover_url": "https://e.snmc.io/i/600/s/9d34a23030d410a206626007cf6c2a7f/4018896/Los%20Gedientos%20del%20Rock%20-%20Con%20s%C3%ADndrome%20de%20abstinencia%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera",
+      "Ska"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Los Turros",
+    "title": "En este futuro brillante, no puedes olvidar tu pasado",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-turros/en-este-futuro-brillante-no-puedes-olvidar-tu-pasado",
+    "cover_url": "https://e.snmc.io/i/600/s/376aa750dc9426c2a859d381214e98d4/9409646/Los%20Turros%20-%20En%20este%20futuro%20brillante%2C%20no%20puedes%20olvidar%20tu%20pasado%2C%20Cover%20art.jpeg",
+    "rating": "3.52",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera",
+      "Cumbia turra"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Damas Gratis",
+    "title": "Operación Damas Gratis",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/damas_gratis/operacion_damas_gratis",
+    "cover_url": "https://e.snmc.io/i/600/s/3eb4a30e99151f0da24abe1a0b3ac3e0/3874835/Damas%20Gratis%20-%20Operaci%C3%B3n%20Damas%20Gratis%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera",
+      "Ska",
+      "Reggae"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Damas Gratis",
+    "title": "100% Negro Cumbiero",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/damas-gratis/100-negro-cumbiero",
+    "cover_url": "https://e.snmc.io/i/600/s/52618aebcb04d6e3aef74632adcb3792/10480650/Damas%20Gratis%20-%20100%25%20Negro%20Cumbiero%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Kumbia Queers",
+    "title": "Pecados Tropicales",
+    "year": 2012,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kumbia_queers/pecados_tropicales",
+    "cover_url": "https://e.snmc.io/i/600/s/f1f4267945672641839f9e78b0ec8bde/5730943/Kumbia%20Queers%20-%20Pecados%20Tropicales%2C%20Cover%20art.jpeg",
+    "rating": "3.15",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia argentina",
+      "Cumbia villera",
+      "Latin Alternative",
+      "Digital Cumbia"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Papacho Mc Caco",
+    "title": "Difusion 2",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/papacho-mc-caco/difusion-2",
+    "cover_url": "https://e.snmc.io/i/600/s/bad44b53bd3251287d530a5a94e90eee/9409633/Papacho%20Mc%20Caco%20-%20Difusion%202%2C%20Cover%20art.jpeg",
+    "rating": "3.35",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia turra",
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Supermerk2",
+    "title": "¿Qué no vale nada?",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/supermerk2/_que-no-vale-nada",
+    "cover_url": "https://e.snmc.io/i/600/s/4cf4d980de7026a2ec3fdfe4cd82a667/9810911/Supermerk2%20-%20%C2%BFQu%C3%A9%20no%20vale%20nada%3F%2C%20Cover%20art.jpeg",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Repiola",
+    "title": "La 2da del boxeador",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/repiola/la_2da_del_boxeador",
+    "cover_url": "https://e.snmc.io/i/600/s/cf4a444db50b388b4b5f6661684f4f1b/4291476/Repiola%20-%20La%202da%20del%20boxeador%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Flor Linyera",
+    "title": "ANTECEDENTES",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/flor-linyera/antecedentes",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Latin Alternative",
+      "Cumbia villera",
+      "Indie Pop",
+      "Punk Rock"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "El Migue Obrero",
+    "title": "La noche",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/el-migue-obrero/la-noche",
+    "cover_url": "https://e.snmc.io/i/600/s/3451941a4d252cc699080cbba930d98d/6233423/El%20Migue%20Obrero%20-%20La%20noche%2C%20Cover%20art.jpeg",
+    "rating": "3.04",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Chopped and Screwed",
+      "Vaporwave",
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Super Mer Ka 2",
+    "title": "A puro saqueo",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/super-mer-ka-2/a-puro-saqueo",
+    "cover_url": "https://e.snmc.io/i/600/s/ed462cdf6c080b0a84e9a88e425d6ddb/8140950/Super%20Mer%20Ka%202%20-%20A%20puro%20saqueo%2C%20Cover%20art.jpeg",
+    "rating": "3.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Corre Guachín",
+    "title": "Que Te Alcanza el Wa Wa",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/corre-guachin/que-te-alcanza-el-wa-wa",
+    "cover_url": "https://e.snmc.io/i/600/s/b689642e90c65e948612a84a0873af56/13094709/Corre%20Guach%C3%ADn%20-%20Que%20Te%20Alcanza%20el%20Wa%20Wa%2C%20Cover%20art.jpeg",
+    "rating": "3.70",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Mala Fama",
+    "title": "Para vos basuura",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mala-fama/para-vos-basuura",
+    "cover_url": "https://e.snmc.io/i/600/s/4c5f4bc5cfa7cca90fd3a4d5bb799be8/3933147/Mala%20Fama%20-%20Para%20vos%20basuura%2C%20Cover%20art.jpeg",
+    "rating": "2.68",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "El Dipy",
+    "title": "No lo compren",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/el-dipy/no-lo-compren",
+    "cover_url": "https://e.snmc.io/i/600/s/0f1c49a3f860ab14d11121ea44617a4a/7543613/El%20Dipy%20-%20No%20lo%20compren%2C%20Cover%20art.jpeg",
+    "rating": "3.03",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Flor de Piedra",
+    "title": "Más duros que nunca",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/flor-de-piedra/mas-duros-que-nunca",
+    "cover_url": "https://e.snmc.io/i/600/s/b420ade3877bb9d28f51e2b7c264ba29/7742536/Flor%20de%20Piedra%20-%20M%C3%A1s%20duros%20que%20nunca%2C%20Cover%20art.jpeg",
+    "rating": "3.70",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Eh!!! Guacho",
+    "title": "Es corta la bocha",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/eh-guacho/es-corta-la-bocha",
+    "cover_url": "https://e.snmc.io/i/600/s/c64c3634d42f217723c36daed6acfdb6/7561313/Eh!!!%20Guacho%20-%20Es%20corta%20la%20bocha%2C%20Cover%20art.png",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Guachín",
+    "title": "Las dos caras de la villa",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/guachin/las-dos-caras-de-la-villa",
+    "cover_url": "https://e.snmc.io/i/600/s/ada65d87a541a9953f62cadac3fa9c92/7554870/Guach%C3%ADn%20-%20Las%20dos%20caras%20de%20la%20villa%2C%20Cover%20art.jpeg",
+    "rating": "3.52",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Piola Vago",
+    "title": "Los pibes del barrio...",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/piola-vago/los-pibes-del-barrio",
+    "cover_url": "https://e.snmc.io/i/600/s/9474252bbc610b6aa3fc17fdb21647e2/2519883/Piola%20Vago%20-%20Los%20pibes%20del%20barrio___%2C%20Cover%20art.jpeg",
+    "rating": "4.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera",
+      "Cumbiatón"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Pibes Chorros",
+    "title": "Perdonalos, no saben lo que hacen...",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pibes-chorros/perdonalos-no-saben-lo-que-hacen",
+    "cover_url": "https://e.snmc.io/i/600/s/411489e3935e5f0bb0c94f759956ac50/4140401/Pibes%20Chorros%20-%20Perdonalos%2C%20no%20saben%20lo%20que%20hacen___%2C%20Cover%20art.jpeg",
+    "rating": "3.09",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Meta Guacha",
+    "title": "Lona, cartón y chapa",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/meta-guacha/lona-carton-y-chapa",
+    "cover_url": "https://e.snmc.io/i/600/s/7d7461531a50f998eff9882c5fa991fa/8222038/Meta%20Guacha%20-%20Lona%2C%20cart%C3%B3n%20y%20chapa%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Kumbia Queers",
+    "title": "Canta y No Llores",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kumbia-queers/canta-y-no-llores",
+    "cover_url": "https://e.snmc.io/i/600/s/c26049f0e57fb69060fd202e42b05d32/6503286/Kumbia%20Queers%20-%20Canta%20y%20No%20Llores%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia argentina",
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Damas Gratis",
+    "title": "Solo para entendidos",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/damas-gratis/solo-para-entendidos",
+    "cover_url": "https://e.snmc.io/i/600/s/f714cf2f558bd51abc427e881949cb64/12104941/Damas%20Gratis%20-%20Solo%20para%20entendidos%2C%20Cover%20art.jpeg",
+    "rating": "4.16",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Bajo Palabra",
+    "title": "Cumbia rapera",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bajo-palabra/cumbia-rapera",
+    "cover_url": "https://e.snmc.io/i/600/s/c2bf2a9a651e2b03c0d091288158b635/11530282/Bajo%20Palabra%20-%20Cumbia%20rapera%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera",
+      "Latin Rap",
+      "Conscious Hip Hop"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "El Migue Obrero",
+    "title": "EL ESCABIO, LA WACHA Y LA SUSTANCIA",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/el-migue-obrero/el-escabio-la-wacha-y-la-sustancia",
+    "cover_url": "https://e.snmc.io/i/600/s/53f01337eca6f1eceff25bd2d60da323/10280181/El%20Migue%20Obrero%20-%20EL%20ESCABIO%2C%20LA%20WACHA%20Y%20LA%20SUSTANCIA%2C%20Cover%20art.png",
+    "rating": "3.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Chopped and Screwed",
+      "Cumbia villera",
+      "Vaporwave",
+      "Cumbia turra"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "La Base Musical",
+    "title": "Parulo",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/la-base-musical/parulo",
+    "cover_url": "https://e.snmc.io/i/600/s/d4a06ee9605ce226a65544a67b3d6a3c/7634313/La%20Base%20Musical%20-%20Parulo%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Yerba Brava",
+    "title": "Corriendo la coneja",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/yerba-brava/corriendo-la-coneja",
+    "cover_url": "https://e.snmc.io/i/600/s/408d74e227494224548ca3523d4a9e89/4486363/Yerba%20Brava%20-%20Corriendo%20la%20coneja%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Damas Gratis",
+    "title": "La gota que rebasó el vaso",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/damas_gratis/la_gota_que_rebaso_el_vaso",
+    "cover_url": "https://e.snmc.io/i/600/s/33586ce76daaea7f7e6d38d62c3c71aa/3874839/Damas%20Gratis%20-%20La%20gota%20que%20rebas%C3%B3%20el%20vaso%2C%20Cover%20art.jpeg",
+    "rating": "3.12",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera",
+      "Cumbia argentina"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Los Gedes",
+    "title": "Los Gedes no duermen, descansan...",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-gedes/los-gedes-no-duermen-descansan",
+    "cover_url": "https://e.snmc.io/i/600/s/049d53cd6d9268c9cf474dd9effdf4b6/4385100/Los%20Gedes%20-%20Los%20Gedes%20no%20duermen%2C%20descansan___%2C%20Cover%20art.jpeg",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia argentina",
+      "Cumbia villera",
+      "Cumbia"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Yerba Brava",
+    "title": "100% villero",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/yerba-brava/100-villero",
+    "cover_url": "https://e.snmc.io/i/600/s/446a666ff2eba802c6ade419254992ce/4486341/Yerba%20Brava%20-%20100%25%20villero%2C%20Cover%20art.jpeg",
+    "rating": "3.27",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia villera"
+    ]
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "number": 1,
+    "artist": "Trío Matamoros",
+    "title": "Ecos de Cuba",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/trio-matamoros/ecos-de-cuba",
+    "cover_url": "https://e.snmc.io/i/600/s/e72b74be3f78e6e5a50ab12d2b486cd7/2632282/Tr%C3%ADo%20Matamoros%20-%20Ecos%20de%20Cuba%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trova",
+      "Bolero son"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Cuarteto Patria",
+    "title": "A una coqueta",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cuarteto-patria/a-una-coqueta",
+    "cover_url": "https://e.snmc.io/i/600/s/7549bd0b3f17032302a3d9a624241ff3/4980911/Cuarteto%20Patria%20-%20A%20una%20coqueta%2C%20Cover%20art.jpeg",
+    "rating": "3.40",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bolero son",
+      "Trova"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "La Familia Valera Miranda",
+    "title": "Cuba",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/la-familia-valera-miranda/cuba",
+    "cover_url": "https://e.snmc.io/i/600/s/fa441058efb9da0e50eb6237e3e9b09a/4524879/La%20Familia%20Valera%20Miranda%20-%20Cuba%2C%20Cover%20art.jpeg",
+    "rating": "3.46",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Son cubano",
+      "Bolero son"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Sexteto Habanero",
+    "title": "1926 - 1948",
+    "year": 1926,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sexteto-habanero/1926-1948",
+    "cover_url": "https://e.snmc.io/i/600/s/94223da92b0a170f2a93914f8b7d65a7/6122168/Sexteto%20Habanero%20-%201926%20-%201948%2C%20Cover%20art.jpeg",
+    "rating": "4.08",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bolero son"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Vieja Trova Santiaguera",
+    "title": "Vieja Trova Santiaguera",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vieja-trova-santiaguera/vieja-trova-santiaguera",
+    "cover_url": "https://e.snmc.io/i/600/s/53570ac2898274afd828a8a806cac5d3/4004341/Vieja%20Trova%20Santiaguera%20-%20Vieja%20Trova%20Santiaguera%2C%20Cover%20art.jpeg",
+    "rating": "3.09",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bolero",
+      "Son cubano",
+      "Trova"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Santos Colón",
+    "title": "Fiel",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/santos_colon/fiel",
+    "cover_url": "https://e.snmc.io/i/600/s/fd934e1cdf0f99e29699c4f9545b5932/3541285/Santos%20Col%C3%B3n%20-%20Fiel%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bolero son"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Eliades Ochoa y Cuarteto Patria",
+    "title": "Son de Santiago",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/eliades-ochoa-y-cuarteto-patria/son-de-santiago",
+    "cover_url": "https://e.snmc.io/i/600/s/4d185e99225479ee17c7990a9f3aa1b8/2155150/Eliades%20Ochoa%20y%20Cuarteto%20Patria%20-%20Son%20de%20Santiago%2C%20Cover%20art.jpeg",
+    "rating": "3.78",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guajira",
+      "Trova",
+      "Bolero son",
+      "Guajira"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Compay Segundo",
+    "title": "Compay Segundo y Su Grupo",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/compay-segundo/compay-segundo-y-su-grupo",
+    "cover_url": "https://e.snmc.io/i/600/s/dd93a709e9360b03a144ae506866a91e/6176466/Compay%20Segundo%20-%20Compay%20Segundo%20y%20Su%20Grupo%2C%20Cover%20art.jpeg",
+    "rating": "3.14",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bolero son",
+      "Trova"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Miguel Matamoros",
+    "title": "La música de Miguel Matamoros",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/miguel_matamoros/la_musica_de_miguel_matamoros",
+    "cover_url": "https://e.snmc.io/i/600/s/df69eaea59b42a9167a46c33dfe29ada/3480484/Miguel%20Matamoros%20-%20La%20m%C3%BAsica%20de%20Miguel%20Matamoros%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bolero son"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Mariano Mercerón y sus Muchachos Pimienta",
+    "title": "Vol. III",
+    "year": 1956,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mariano_merceron_y_sus_muchachos_pimienta/vol__iii",
+    "cover_url": "https://e.snmc.io/i/600/s/16f031b32b662d2e59181768ee973ae6/2024699/Mariano%20Mercer%C3%B3n%20y%20sus%20Muchachos%20Pimienta%20-%20Vol_%20III%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaracha",
+      "Bolero son"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Pablo Milanés &",
+    "title": "Años Vol. III",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pablo-milanes-con-cotan-el-albino-y-compay-segundo/anos-vol-iii",
+    "cover_url": "https://e.snmc.io/i/600/s/7779f7387161661b6f699f288aef74ab/3321628/Pablo%20Milan%C3%A9s%20con%20Cot%C3%A1n%20el%20Albino%20y%20Compay%20Segundo%20-%20A%C3%B1os%20Vol_%20III%2C%20Cover%20art.jpeg",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Nueva trova",
+      "Bolero son"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Orlando Contreras",
+    "title": "Este es Contreras",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orlando-contreras/este-es-contreras",
+    "cover_url": "https://e.snmc.io/i/600/s/550bdc5cfbfcddf30ed775fad452999b/6479479/Orlando%20Contreras%20-%20Este%20es%20Contreras%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bolero son"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Ana Gabriel",
+    "title": "Eternamente",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ana-gabriel/eternamente",
+    "cover_url": "https://e.snmc.io/i/600/s/dd139dda63c633ef5b9531b025c66021/1497351/Ana%20Gabriel%20-%20Eternamente%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bolero",
+      "Bolero son"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "María Teresa Vera",
+    "title": "Maria Teresa Vera's Revival",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/maria_teresa_vera/maria_teresa_veras_revival",
+    "cover_url": "https://e.snmc.io/i/600/s/208b49be6c4a09901e90f3aacea16019/1279589/Mar%C3%ADa%20Teresa%20Vera%20-%20Maria%20Teresa%20Vera's%20Revival%2C%20Cover%20art.jpeg",
+    "rating": "3.05",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bolero son"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Santos Colón",
+    "title": "Brindis de Navidad",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/santos_colon/brindis_de_navidad",
+    "cover_url": "https://e.snmc.io/i/600/s/d5f45782c72fb31fabfa2c497617521a/6118504/Santos%20Col%C3%B3n%20-%20Brindis%20de%20Navidad%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Christmas Music",
+      "Bolero son"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Conjunto Rumbavana",
+    "title": "Conjunto Rumbavana con Orestes Macías",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/conjunto-rumbavana/conjunto-rumbavana-con-orestes-macias",
+    "cover_url": "https://e.snmc.io/i/600/s/323b294ed311a1b0e7626242c747da3d/7107514/Conjunto%20Rumbavana%20-%20Conjunto%20Rumbavana%20con%20Orestes%20Mac%C3%ADas%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bolero son",
+      "Rumba cubana"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "La Charanga Rubalcaba",
+    "title": "El Danzon de la Reina Isabel",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/la_charanga_rubalcaba/el_danzon_de_la_reina_isabel",
+    "cover_url": "https://e.snmc.io/i/600/s/d8e1cb9407abbd5cc866446d6959597b/5449782/La%20Charanga%20Rubalcaba%20-%20El%20Danzon%20de%20la%20Reina%20Isabel%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cuban Charanga",
+      "Guaracha",
+      "Danzón",
+      "Chachachá",
+      "Mambo"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Noro Morales and His Quintet",
+    "title": "No Blues, Noro",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/noro-morales-and-his-quintet/no-blues-noro",
+    "cover_url": "https://e.snmc.io/i/600/s/a23890ebc26a2909d024014e3d1f4b07/9663167/Noro%20Morales%20and%20His%20Quintet%20-%20No%20Blues%2C%20Noro%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Descarga",
+      "Mambo",
+      "Bolero son",
+      "Mambo",
+      "Rhumba"
+    ]
+  }
+]

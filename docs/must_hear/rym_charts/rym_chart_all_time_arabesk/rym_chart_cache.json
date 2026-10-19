@@ -1,0 +1,761 @@
+[
+  {
+    "number": 1,
+    "artist": "Zafer Dilek",
+    "title": "Oyun Havaları",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zafer-dilek/oyun-havalari-1",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Turkish Folk Music"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Müslüm Gürses",
+    "title": "Küskünüm",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/muslum-gurses/kuskunum",
+    "cover_url": "https://e.snmc.io/i/600/s/0d829d9dc470954e0636932f5767e6d2/1898758/M%C3%BCsl%C3%BCm%20G%C3%BCrses%20-%20K%C3%BCsk%C3%BCn%C3%BCm%2C%20Cover%20art.jpeg",
+    "rating": "3.68",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "İbrahim Tatlıses",
+    "title": "Mavi Mavi",
+    "year": 1985,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ibrahim-tatlises/mavi-mavi",
+    "cover_url": "https://e.snmc.io/i/600/s/eb45cf396b86aa1b7f2f59490768fa7b/9232919/%C4%B0brahim%20Tatl%C4%B1ses%20-%20Mavi%20Mavi%2C%20Cover%20art.png",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Müslüm Gürses",
+    "title": "Aşk Tesadüfleri Sever",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/muslum-gurses/ask-tesadufleri-sever",
+    "cover_url": "https://e.snmc.io/i/600/s/f0cbb5b694b278b0269d4c7c6c427e4b/9536092/M%C3%BCsl%C3%BCm%20G%C3%BCrses%20-%20A%C5%9Fk%20Tesad%C3%BCfleri%20Sever%2C%20Cover%20art.jpeg",
+    "rating": "3.22",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Turkish Pop"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Selda Bağcan",
+    "title": "Dost Merhaba",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/selda-bagcan/dost-merhaba",
+    "cover_url": "https://e.snmc.io/i/600/s/3158de5e4933d2a6a7aa34ef1244a71f/9556644/Selda%20Ba%C4%9Fcan%20-%20Dost%20Merhaba%2C%20Cover%20art.png",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Pop",
+      "Turkish Folk Music",
+      "Arabesk",
+      "Progressive Folk"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Orhan Gencebay",
+    "title": "Batsın Bu Dünya",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orhan-gencebay/batsin-bu-dunya",
+    "cover_url": "https://e.snmc.io/i/600/s/d1b232fa4d4bf5bf4a4d4afd91085839/2240727/Orhan%20Gencebay%20-%20Bats%C4%B1n%20Bu%20D%C3%BCnya%2C%20Cover%20art.jpeg",
+    "rating": "3.04",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Ahmet Kaya",
+    "title": "Dosta Düşmana Karşı",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ahmet-kaya/dosta-dusmana-karsi",
+    "cover_url": "https://e.snmc.io/i/600/s/f8fa58b3c20a764aea18ac9c67eb3fcd/2310923/Ahmet%20Kaya%20-%20Dosta%20D%C3%BC%C5%9Fmana%20Kar%C5%9F%C4%B1%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Özgün Müzik",
+      "Arabesk",
+      "Turkish Folk Music"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Ahmet Kaya",
+    "title": "Beni Bul",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ahmet-kaya/beni-bul",
+    "cover_url": "https://e.snmc.io/i/600/s/e4e03f18e7137c03dba1d9e3879f5533/4023699/Ahmet%20Kaya%20-%20Beni%20Bul%2C%20Cover%20art.jpeg",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Özgün Müzik",
+      "Turkish Folk Music"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Bergen",
+    "title": "Acıların Kadını",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bergen/acilarin-kadini",
+    "cover_url": "https://e.snmc.io/i/600/s/d20325cc06653b373eb563f919d8faf8/6925876/Bergen%20-%20Ac%C4%B1lar%C4%B1n%20Kad%C4%B1n%C4%B1%2C%20Cover%20art.jpeg",
+    "rating": "3.35",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Şevval Sam",
+    "title": "Sek",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sevval_sam/sek",
+    "cover_url": "https://e.snmc.io/i/600/s/9d91729ab4395c35a9fdeb5b07278851/2344225/%C5%9Eevval%20Sam%20-%20Sek%2C%20Cover%20art.jpeg",
+    "rating": "3.36",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Turkish Classical Music"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Kamuran Akkor",
+    "title": "Sev Yeter",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kamuran-akkor/sev-yeter",
+    "cover_url": "https://e.snmc.io/i/600/s/1b3dba0486d341aea959fce85c905e12/6332920/Kamuran%20Akkor%20-%20Sev%20Yeter%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "EsRAP",
+    "title": "Mamafih",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/esrap/mamafih",
+    "cover_url": "https://e.snmc.io/i/600/s/6e65a3f50d2903c66b50f87b95bf8c57/10083993/EsRAP%20-%20Mamafih%2C%20Cover%20art.jpeg",
+    "rating": "3.26",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesque Rap",
+      "Conscious Hip Hop",
+      "Arabesk",
+      "Hip House",
+      "Pop Rap"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Gülden Karaböcek",
+    "title": "Müzik ve Ben",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gulden-karabocek/muzik-ve-ben",
+    "cover_url": "https://e.snmc.io/i/600/s/f682ad50f02814ded1418358189b869e/6335107/G%C3%BClden%20Karab%C3%B6cek%20-%20M%C3%BCzik%20ve%20Ben%2C%20Cover%20art.jpeg",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Pop",
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Ahmet Kaya",
+    "title": "Hoşçakalın Gözüm",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ahmet-kaya/hoscakalin-gozum",
+    "cover_url": "https://e.snmc.io/i/600/s/aff33e301d5e69079c8c647788b743e8/2295317/Ahmet%20Kaya%20-%20Ho%C5%9F%C3%A7akal%C4%B1n%20G%C3%B6z%C3%BCm%2C%20Cover%20art.jpeg",
+    "rating": "3.36",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Özgün Müzik",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Müslüm Gürses",
+    "title": "Mutlu Ol Yeter",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/muslum_gurses/mutlu_ol_yeter",
+    "cover_url": "https://e.snmc.io/i/600/s/f3fb357c82c45e9ae6bcf8cf7be6d9f1/12461726/M%C3%BCsl%C3%BCm%20G%C3%BCrses%20-%20Mutlu%20Ol%20Yeter%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Müslüm Gürses",
+    "title": "Sandık",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/muslum-gurses/sandik",
+    "cover_url": "https://e.snmc.io/i/600/s/b7b8f37691b699d8210c71e9de9d99be/2558718/M%C3%BCsl%C3%BCm%20G%C3%BCrses%20-%20Sand%C4%B1k%2C%20Cover%20art.jpeg",
+    "rating": "2.97",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "İbrahim Tatlıses",
+    "title": "Yalan",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ibrahim-tatlises/yalan-1",
+    "cover_url": "https://e.snmc.io/i/600/s/f8f5aa973e8e9f4bf30ae3d01ecd2814/5660392/%C4%B0brahim%20Tatl%C4%B1ses%20-%20Yalan%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Fairuz Derin Bulut",
+    "title": "Arabesk",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/fairuz-derin-bulut/arabesk",
+    "cover_url": "https://e.snmc.io/i/600/s/8320f6b4ea2fdb23c285360e39e4edea/2546197/Fairuz%20Derin%20Bulut%20-%20Arabesk%2C%20Cover%20art.jpeg",
+    "rating": "3.06",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Anatolian Rock",
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "EsRAP &",
+    "title": "… weil sie Wien nicht kennen",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/esrap-gg/…-weil-sie-wien-nicht-kennen",
+    "cover_url": "https://e.snmc.io/i/600/s/84c407ee02458e606ba3b7f7c36af776/11284211/EsRAP%20%2B%20GG%20-%20%E2%80%A6%20weil%20sie%20Wien%20nicht%20kennen%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rap Rock",
+      "Arabesk",
+      "Conscious Hip Hop",
+      "Alternative Metal",
+      "Balkan Music"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Kamuran Akkor",
+    "title": "Kamuran Akkor 2",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kamuran-akkor/kamuran-akkor-2",
+    "cover_url": "https://e.snmc.io/i/600/s/8606b44d3e11da188a3181131375fe4c/5918021/Kamuran%20Akkor%20-%20Kamuran%20Akkor%202%2C%20Cover%20art.jpeg",
+    "rating": "3.46",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Pop",
+      "Arabesk",
+      "Psychedelic Pop",
+      "Anatolian Rock"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Ahmet Kaya",
+    "title": "Yıldızlar Ve Yakamoz",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ahmet_kaya/yildizlar_ve_yakamoz",
+    "cover_url": "https://e.snmc.io/i/600/s/6bb704497af174151a0e774ee0f16b26/4023743/Ahmet%20Kaya%20-%20Y%C4%B1ld%C4%B1zlar%20Ve%20Yakamoz%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Özgün Müzik",
+      "Turkish Folk Music"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "İbrahim Tatlıses",
+    "title": "Klasikleri",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ibrahim_tatlises/klasikleri",
+    "cover_url": "https://e.snmc.io/i/600/s/ed1c1abc1326c9b9f599742471b87372/2033801/%C4%B0brahim%20Tatl%C4%B1ses%20-%20Klasikleri%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Orhan Gencebay",
+    "title": "Orhan Gencebay",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orhan-gencebay/orhan-gencebay-1",
+    "cover_url": "https://e.snmc.io/i/600/s/b5bf3cd5d330ca4ba2c20b80b9c78fd0/2237161/Orhan%20Gencebay%20-%20Orhan%20Gencebay%2C%20Cover%20art.jpeg",
+    "rating": "3.15",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Orhan Gencebay",
+    "title": "Leyla ile Mecnun",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orhan-gencebay/leyla-ile-mecnun",
+    "cover_url": "https://e.snmc.io/i/600/s/0f3a048c237b5ed061d3cf41455b2f8a/3745752/Orhan%20Gencebay%20-%20Leyla%20ile%20Mecnun%2C%20Cover%20art.jpeg",
+    "rating": "3.32",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Film Soundtrack",
+      "Turkish Folk Music",
+      "Turkish Classical Music"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Müslüm Gürses",
+    "title": "Bağrıyanık",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/muslum_gurses/bagriyanik",
+    "cover_url": "https://e.snmc.io/i/600/s/6929153224cdd195a69624be3a2913b8/2575766/M%C3%BCsl%C3%BCm%20G%C3%BCrses%20-%20Ba%C4%9Fr%C4%B1yan%C4%B1k%2C%20Cover%20art.jpeg",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Orhan Gencebay",
+    "title": "Dil Yarası",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orhan-gencebay/dil-yarasi",
+    "cover_url": "https://e.snmc.io/i/600/s/04716afad186e48e523cefc434be7cdd/6334762/Orhan%20Gencebay%20-%20Dil%20Yaras%C4%B1%2C%20Cover%20art.jpeg",
+    "rating": "3.47",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Turkish Folk Music",
+      "Turkish Classical Music"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Cengiz Kurtoğlu",
+    "title": "Unutulan...",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cengiz_kurtoglu/unutulan___",
+    "cover_url": "https://e.snmc.io/i/600/s/98c4b0b27f6226f9669577e3318de251/1896897/Cengiz%20Kurto%C4%9Flu%20-%20Unutulan___%2C%20Cover%20art.jpeg",
+    "rating": "3.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "İbrahim Tatlıses",
+    "title": "Ayağında Kundura",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ibrahim-tatlises/ayaginda-kundura",
+    "cover_url": "https://e.snmc.io/i/600/s/3f42726a2188c8985bd0871a09634d72/6265656/%C4%B0brahim%20Tatl%C4%B1ses%20-%20Aya%C4%9F%C4%B1nda%20Kundura%2C%20Cover%20art.jpeg",
+    "rating": "3.07",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Bülent Ersoy",
+    "title": "Yüz Karası",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bulent-ersoy/yuz-karasi",
+    "cover_url": "https://e.snmc.io/i/600/s/f948a5d233d72947fd6cf72ee939326c/9200066/B%C3%BClent%20Ersoy%20-%20Y%C3%BCz%20Karas%C4%B1%2C%20Cover%20art.jpeg",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "İbrahim Tatlıses",
+    "title": "Fosforlu Cevriyem",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ibrahim_tatlises/fosforlu_cevriyem",
+    "cover_url": "https://e.snmc.io/i/600/s/fc96268be88ceda1e54b9f477871dfef/2650448/%C4%B0brahim%20Tatl%C4%B1ses%20-%20Fosforlu%20Cevriyem%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "İbrahim Tatlıses",
+    "title": "Mega Aşk",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ibrahim-tatlises/mega-ask",
+    "cover_url": "https://e.snmc.io/i/600/s/7191c4e59dc71bbd2eb2b39b400ddbbe/2647928/%C4%B0brahim%20Tatl%C4%B1ses%20-%20Mega%20A%C5%9Fk%2C%20Cover%20art.jpeg",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Müslüm Gürses",
+    "title": "Müzik Ziyafeti",
+    "year": 1982,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/muslum_gurses/muzik_ziyafeti",
+    "cover_url": "https://e.snmc.io/i/600/s/27dc206b57e09989758ae131905237bf/2605911/M%C3%BCsl%C3%BCm%20G%C3%BCrses%20-%20M%C3%BCzik%20Ziyafeti%2C%20Cover%20art.jpeg",
+    "rating": "2.95",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Hakkı Bulut",
+    "title": "Kimdir Bu Adam",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/hakki-bulut/kimdir-bu-adam",
+    "cover_url": "https://e.snmc.io/i/600/s/28187bb949833101c5d1924ace9c0545/3859121/Hakk%C4%B1%20Bulut%20-%20Kimdir%20Bu%20Adam%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Azer Bülbül",
+    "title": "Kalemin Kırıldı",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/azer-bulbul/kalemin-kirildi",
+    "cover_url": "https://e.snmc.io/i/600/s/25b426a6f8cd86b68f1b17284902bd2a/6479110/Azer%20B%C3%BClb%C3%BCl%20-%20Kalemin%20K%C4%B1r%C4%B1ld%C4%B1%2C%20Cover%20art.jpeg",
+    "rating": "3.56",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Orhan Gencebay",
+    "title": "Sende Haklısın",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orhan-gencebay/sende-haklisin",
+    "cover_url": "https://e.snmc.io/i/600/s/bfe05c42829e9cca8fdba350b4b4d907/3745885/Orhan%20Gencebay%20-%20Sende%20Hakl%C4%B1s%C4%B1n%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Turkish Folk Music",
+      "Turkish Classical Music"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Orhan Gencebay",
+    "title": "Hatasiz Kul Olmaz",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orhan-gencebay/hatasiz-kul-olmaz",
+    "cover_url": "https://e.snmc.io/i/600/s/2d92013f94bb4b3c8ca923af25634098/2441581/Orhan%20Gencebay%20-%20Hatasiz%20Kul%20Olmaz%2C%20Cover%20art.jpeg",
+    "rating": "3.24",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Orhan Gencebay",
+    "title": "Aşkı Ben Yaratmadım",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orhan-gencebay/aski-ben-yaratmadim",
+    "cover_url": "https://e.snmc.io/i/600/s/bd5e49bcc33f1ae81c49954a775f1cd1/6334754/Orhan%20Gencebay%20-%20A%C5%9Fk%C4%B1%20Ben%20Yaratmad%C4%B1m%2C%20Cover%20art.jpeg",
+    "rating": "3.15",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Turkish Folk Music",
+      "Turkish Classical Music"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "İbrahim Tatlıses",
+    "title": "Gülüm Benim",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ibrahim-tatlises/gulum-benim",
+    "cover_url": "https://e.snmc.io/i/600/s/e248b692edad36fd923d78be865bb8f1/7061676/%C4%B0brahim%20Tatl%C4%B1ses%20-%20G%C3%BCl%C3%BCm%20Benim%2C%20Cover%20art.jpeg",
+    "rating": "3.40",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Orhan Gencebay",
+    "title": "Sarhoşun Biri",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orhan-gencebay/sarhosun-biri",
+    "cover_url": "https://e.snmc.io/i/600/s/5d48bdce6950d2bcd873dba7ea400536/2643906/Orhan%20Gencebay%20-%20Sarho%C5%9Fun%20Biri%2C%20Cover%20art.jpeg",
+    "rating": "2.99",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Ahmet Kaya",
+    "title": "Biraz da Sen Ağla",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ahmet_kaya/biraz_da_sen_agla",
+    "cover_url": "https://e.snmc.io/i/600/s/d71ed0ec5164d5b8cbe5cc9aafa2e35c/4023641/Ahmet%20Kaya%20-%20Biraz%20da%20Sen%20A%C4%9Fla%2C%20Cover%20art.jpeg",
+    "rating": "2.68",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Özgün Müzik",
+      "Turkish Folk Music"
+    ]
+  }
+]

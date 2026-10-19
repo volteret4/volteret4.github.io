@@ -1,0 +1,813 @@
+[
+  {
+    "number": 1,
+    "artist": "Caetano Veloso",
+    "title": "Livro",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/caetano-veloso/livro",
+    "cover_url": "https://e.snmc.io/i/600/s/35887921f2b70eabff31a0bf25eadd68/2574466/Caetano%20Veloso%20-%20Livro%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Samba-reggae",
+      "Capoeira Music",
+      "Afoxé"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Daniela Mercury",
+    "title": "Feijão com arroz",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/daniela-mercury/feijao-com-arroz",
+    "cover_url": "https://e.snmc.io/i/600/s/af6f2e65ff435f549c80ac6a060c574c/8306625/Daniela%20Mercury%20-%20Feij%C3%A3o%20com%20arroz%2C%20Cover%20art.png",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-reggae",
+      "MPB",
+      "Afoxé"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Carlinhos Brown",
+    "title": "Alfagamabetízado",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/carlinhos-brown/alfagamabetizado",
+    "cover_url": "https://e.snmc.io/i/600/s/c1ffbeb181c67994d223679d36c67762/4494086/Carlinhos%20Brown%20-%20Alfagamabet%C3%ADzado%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Samba-reggae",
+      "Samba",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Olodum",
+    "title": "Egito Madagáscar",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/olodum/egito-madagascar",
+    "cover_url": "https://e.snmc.io/i/600/s/ad25e108d672e1dbb4b482482e35b307/8050880/Olodum%20-%20Egito%20Madag%C3%A1scar%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Afoxé",
+      "Samba-reggae",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Sérgio Mendes",
+    "title": "Brasileiro",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sergio-mendes/brasileiro",
+    "cover_url": "https://e.snmc.io/i/600/s/8a38eb1701d0546de76e97761ae88195/1382212/S%C3%A9rgio%20Mendes%20-%20Brasileiro%2C%20Cover%20art.jpeg",
+    "rating": "3.46",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Jazz Pop",
+      "Samba",
+      "Samba-reggae",
+      "Batucada",
+      "Latin Funk"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Daniela Mercury",
+    "title": "O canto da cidade",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/daniela-mercury/o-canto-da-cidade",
+    "cover_url": "https://e.snmc.io/i/600/s/eff6d8f033eaacde159720ac3b212e89/8036473/Daniela%20Mercury%20-%20O%20canto%20da%20cidade%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-reggae",
+      "MPB",
+      "Afoxé",
+      "Frevo"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Seu Jorge",
+    "title": "Baile à la baiana",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/seu-jorge/baile-a-la-baiana",
+    "cover_url": "https://e.snmc.io/i/600/s/aea5e94b969fc3a4dc4af3a14aa40124/13047296/Seu%20Jorge%20-%20Baile%20%C3%A0%20la%20baiana%2C%20Cover%20art.jpeg",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "Samba Soul",
+      "MPB",
+      "Merengue",
+      "Synth Funk"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Chico César",
+    "title": "Cuscuz clã",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chico-cesar/cuscuz-cla",
+    "cover_url": "https://e.snmc.io/i/600/s/601e7083e1f8020e2062eaacc232d7a7/1530408/Chico%20C%C3%A9sar%20-%20Cuscuz%20cl%C3%A3%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Axé",
+      "Carimbó",
+      "Frevo"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Timbalada",
+    "title": "Timbalada",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/timbalada/timbalada",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "Samba-reggae"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Ilê Aiyê",
+    "title": "Canto negro",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ile-aiye/canto-negro",
+    "cover_url": "https://e.snmc.io/i/600/s/a6cc995271f7b20d8063e677062ef919/8038177/Il%C3%AA%20Aiy%C3%AA%20-%20Canto%20negro%2C%20Cover%20art.jpeg",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Afoxé",
+      "Axé",
+      "Samba de roda",
+      "Candomblé Music"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Margareth Menezes",
+    "title": "Kindala",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/margareth-menezes/kindala",
+    "cover_url": "https://e.snmc.io/i/600/s/cc71d20e47bff10ede66cbcf41f83c46/8045798/Margareth%20Menezes%20-%20Kindala%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "Samba-reggae",
+      "Afoxé"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Daniela Mercury",
+    "title": "Sol da liberdade",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/daniela-mercury/sol-da-liberdade",
+    "cover_url": "https://e.snmc.io/i/600/s/5df4a91e39fbee3f97289681ea30cc84/7353717/Daniela%20Mercury%20-%20Sol%20da%20liberdade%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "Samba-reggae",
+      "MPB"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "A Travestis",
+    "title": "Respeita as travestis",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/a-travestis/respeita-as-travestis",
+    "cover_url": "https://e.snmc.io/i/600/s/741ed14076d43f1703d979aeb3ce5b23/8831656/A%20Travestis%20-%20Respeita%20as%20travestis%2C%20Cover%20art.jpeg",
+    "rating": "2.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagodão",
+      "Electropop"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "BaianaSystem",
+    "title": "1º ato: Navio pirata",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/baianasystem/1-ato-navio-pirata",
+    "cover_url": "https://e.snmc.io/i/600/s/a1e75b2398588a1f78331fdc9dd03890/8787025/BaianaSystem%20-%201%C2%BA%20ato%3A%20Navio%20pirata%2C%20Cover%20art.jpeg",
+    "rating": "3.15",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-reggae",
+      "Latin Alternative",
+      "Dub"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Grupo Controle Digital",
+    "title": "A festa é nossa",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-controle-digital/a-festa-e-nossa",
+    "cover_url": "https://e.snmc.io/i/600/s/2acaae9b86ba5de0853d985b64facfc9/7084504/Grupo%20Controle%20Digital%20-%20A%20festa%20%C3%A9%20nossa%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "Minimal Wave",
+      "Pop Reggae",
+      "Boogie"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Gilberto Gil",
+    "title": "Soy loco por ti America",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gilberto-gil/soy-loco-por-ti-america",
+    "cover_url": "https://e.snmc.io/i/600/s/ac21e2a333bdb35c802d929248597f11/1226538/Gilberto%20Gil%20-%20Soy%20loco%20por%20ti%20America%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "MPB",
+      "Pop Reggae"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Ivete Sangalo",
+    "title": "As super novas, vol. 1",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ivete-sangalo/as-super-novas-vol-1",
+    "cover_url": "https://e.snmc.io/i/600/s/dbf9f61f26e1952b29c69bb7216b3b35/7856232/Ivete%20Sangalo%20-%20As%20super%20novas%2C%20vol_%201%2C%20Cover%20art.jpeg",
+    "rating": "3.23",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "Pop",
+      "Samba-reggae",
+      "Brega"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Margareth Menezes",
+    "title": "Um canto pra subir",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/margareth-menezes/um-canto-pra-subir",
+    "cover_url": "https://e.snmc.io/i/600/s/ea3ef189fc339baefb4c7ae3ad481db9/7512659/Margareth%20Menezes%20-%20Um%20canto%20pra%20subir%2C%20Cover%20art.jpeg",
+    "rating": "3.46",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "Samba-reggae",
+      "Afoxé",
+      "Synth Funk",
+      "Lambada"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Olodum",
+    "title": "A música do Olodum",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/olodum/a-musica-do-olodum",
+    "cover_url": "https://e.snmc.io/i/600/s/922e7f3e119b67e11536bbddf04f0a32/8127229/Olodum%20-%20A%20m%C3%BAsica%20do%20Olodum%2C%20Cover%20art.jpeg",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-reggae",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Timbalada",
+    "title": "Cada cabeça é um mundo",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/timbalada/cada-cabeca-e-um-mundo",
+    "cover_url": "https://e.snmc.io/i/600/s/f49e202819dbc17731c4139911c1354f/1211189/Timbalada%20-%20Cada%20cabe%C3%A7a%20%C3%A9%20um%20mundo%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "Samba-reggae"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Daniela Mercury",
+    "title": "Música de rua",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/daniela-mercury/musica-de-rua",
+    "cover_url": "https://e.snmc.io/i/600/s/12cd0f76f831e49c555f8f9f6055e699/8036474/Daniela%20Mercury%20-%20M%C3%BAsica%20de%20rua%2C%20Cover%20art.jpeg",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "Samba-reggae"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Josyara",
+    "title": "ÀdeusdarÁ",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/josyara/adeusdara",
+    "cover_url": "https://e.snmc.io/i/600/s/61e897569da3e04450928f7077c9d8f4/10190849/Josyara%20-%20%C3%80deusdar%C3%81%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-reggae",
+      "MPB",
+      "Alt-Pop",
+      "Ciranda",
+      "Afoxé"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Ivete Sangalo",
+    "title": "Ivete Sangalo",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ivete-sangalo/ivete-sangalo",
+    "cover_url": "https://e.snmc.io/i/600/s/a5f0de5b84f1fde2415aeff5c4d134ee/13399553/Ivete%20Sangalo%20-%20Ivete%20Sangalo%2C%20Cover%20art.jpeg",
+    "rating": "2.86",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "MPB",
+      "Samba-reggae"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Pisrico com Marcio Victor",
+    "title": "MPB: Makumba popular brasileira",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pisrico-com-marcio-victor/mpb-makumba-popular-brasileira",
+    "cover_url": "https://e.snmc.io/i/600/s/91ea76337c39845cc9be9251b45d6e82/7583447/Pisrico%20com%20Marcio%20Victor%20-%20MPB%3A%20Makumba%20popular%20brasileira%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagodão",
+      "Candomblé Music",
+      "Arrochadeira"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Ivete Sangalo",
+    "title": "Beat beleza",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ivete-sangalo/beat-beleza",
+    "cover_url": "https://e.snmc.io/i/600/s/fc3bdf0223ed265811f70abe03d9b022/14802025/Ivete%20Sangalo%20-%20Beat%20beleza%2C%20Cover%20art.jpeg",
+    "rating": "3.10",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "MPB",
+      "Samba-reggae"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Ivete Sangalo",
+    "title": "Festa",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ivete-sangalo/festa",
+    "cover_url": "https://e.snmc.io/i/600/s/9b94d315ccc796f60340b39b4c967c38/14802012/Ivete%20Sangalo%20-%20Festa%2C%20Cover%20art.jpeg",
+    "rating": "3.02",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "Pop",
+      "MPB",
+      "Samba-reggae"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Fantasmão",
+    "title": "Pluralidade",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/fantasmao/pluralidade",
+    "cover_url": "https://e.snmc.io/i/600/s/8a0c83c3f2ed9df55346f575e0a7ad6d/8296830/Fantasm%C3%A3o%20-%20Pluralidade%2C%20Cover%20art.jpeg",
+    "rating": "3.81",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagodão",
+      "Axé"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Daniela Mercury",
+    "title": "Daniela Mercury",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/daniela-mercury/daniela-mercury",
+    "cover_url": "https://e.snmc.io/i/600/s/740e82b57ff9796452fc79d520d18f5a/8038691/Daniela%20Mercury%20-%20Daniela%20Mercury%2C%20Cover%20art.jpeg",
+    "rating": "3.14",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-reggae",
+      "Axé",
+      "MPB",
+      "Forró",
+      "Baião"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Olodum",
+    "title": "Núbia Axum Etiópia",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/olodum/nubia-axum-etiopia",
+    "cover_url": "https://e.snmc.io/i/600/s/8a1aeaa6ab0114b28f8aee998b4003a9/8127214/Olodum%20-%20N%C3%BAbia%20Axum%20Eti%C3%B3pia%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-reggae",
+      "Afoxé",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "É o Tchan",
+    "title": "É o Tchan do Brasil",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/e-o-tchan/e-o-tchan-do-brasil",
+    "cover_url": "https://e.snmc.io/i/600/s/7eaee80d46b9796a67a85a50b81fb0ef/3844381/%C3%89%20o%20Tchan%20-%20%C3%89%20o%20Tchan%20do%20Brasil%2C%20Cover%20art.jpeg",
+    "rating": "2.80",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagodão",
+      "Samba de roda",
+      "Calypso"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Reflexu's",
+    "title": "Da mãe África",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/reflexus/da-mae-africa",
+    "cover_url": "https://e.snmc.io/i/600/s/154eba958a3b495c923756227a81567a/12051706/Reflexu's%20-%20Da%20m%C3%A3e%20%C3%81frica%2C%20Cover%20art.jpeg",
+    "rating": "3.68",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-reggae",
+      "Axé"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Flavia Coelho",
+    "title": "Mundo meu",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/flavia-coelho/mundo-meu",
+    "cover_url": "https://e.snmc.io/i/600/s/07a578836dc0205ba7b5082aaa9540b6/5568416/Flavia%20Coelho%20-%20Mundo%20meu%2C%20Cover%20art.jpeg",
+    "rating": "3.32",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-reggae",
+      "MPB"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Carrapicho",
+    "title": "Festa do Boï Bumba",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/carrapicho/festa_do_boi_bumba",
+    "cover_url": "https://e.snmc.io/i/600/s/c60ad8a86f785672b5ba315d5b94d7e5/1725866/Carrapicho%20-%20Festa%20do%20Bo%C3%AF%20Bumba%2C%20Cover%20art.jpeg",
+    "rating": "3.08",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "Toada de Boi",
+      "Carimbó"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Daniela Mercury",
+    "title": "Balé mulato",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/daniela-mercury/bale-mulato-1",
+    "cover_url": "https://e.snmc.io/i/600/s/3972df658695383571ebf39d7fca076c/8790976/Daniela%20Mercury%20-%20Bal%C3%A9%20mulato%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "MPB",
+      "Samba-exaltação",
+      "Capoeira Music"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Banda Eva",
+    "title": "Hora H",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/banda_eva/hora_h",
+    "cover_url": "https://e.snmc.io/i/600/s/5a60428ab7382358781cf26e9e960086/7848501/Banda%20Eva%20-%20Hora%20H%2C%20Cover%20art.jpeg",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "MPB"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Ivete Sangalo",
+    "title": "Clube carnavalesco Inocentes em Progresso",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ivete-sangalo/clube-carnavalesco-inocentes-em-progresso",
+    "cover_url": "https://e.snmc.io/i/600/s/e5ed181bd39ebfa3638f65691e68bf71/7854538/Ivete%20Sangalo%20-%20Clube%20carnavalesco%20Inocentes%20em%20Progresso%2C%20Cover%20art.jpeg",
+    "rating": "3.03",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "Pop",
+      "Pop Reggae",
+      "Dance-Pop"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Banda Eva",
+    "title": "Beleza Rara",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/banda_eva/beleza_rara",
+    "cover_url": "https://e.snmc.io/i/600/s/289606566331c17a5d64fdb3954d6a75/7848504/Banda%20Eva%20-%20Beleza%20Rara%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Axé",
+      "Pop",
+      "Salsa"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "ÀTTØØXXÁ",
+    "title": "É foda porra",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/attooxxa/e-foda-porra",
+    "cover_url": "https://e.snmc.io/i/600/s/b8e60c91073fd5531a794cb64ef9d58b/8563112/%C3%80TT%C3%98%C3%98XX%C3%81%20-%20%C3%89%20foda%20porra%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagodão"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Afrocidade",
+    "title": "Vivão",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/afrocidade/vivao",
+    "cover_url": "https://e.snmc.io/i/600/s/814a5ce3b4d2262b15e27c77132e6991/9673119/Afrocidade%20-%20Viv%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "2.93",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Afrobeats",
+      "Pagodão",
+      "Trap",
+      "Conscious Hip Hop"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Ivete Sangalo",
+    "title": "Real fantasia",
+    "year": 2012,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ivete-sangalo/real-fantasia",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "3.03",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pop",
+      "Axé",
+      "Latin Pop",
+      "Zouk"
+    ]
+  }
+]

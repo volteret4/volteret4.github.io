@@ -4312,8 +4312,9 @@ def render_root_index_html(collections: list[dict], generated: str,
         avg_pct  = c["avg_pct"]
         users_n  = c["users"]
         total    = c["total"]
+        kind     = "singles" if c.get("unit") == "canciones" else "albums"
         cards_html += f"""
-      <a class="col-card" href="{c.get('url', c['slug']+'/index.html')}">
+      <a class="col-card" data-kind="{kind}" href="{c.get('url', c['slug']+'/index.html')}">
         <div class="col-name">{c['name']}</div>
         <div class="col-meta">{users_n} users &middot; {total} {c.get('unit', 'albums')}</div>
         <div class="col-bar-wrap">
@@ -4328,6 +4329,13 @@ def render_root_index_html(collections: list[dict], generated: str,
         f'&larr; All Collections</a></div>'
         if back_link else
         '<div class="site-label">Must Hear Tracker</div>'
+    )
+    kinds = {"singles" if c.get("unit") == "canciones" else "albums" for c in collections}
+    kind_filter = (
+        '<div class="kind-seg" id="kind-seg">'
+        '<button data-kind="albums">Álbumes</button>'
+        '<button data-kind="singles">Singles</button></div>'
+        if len(kinds) > 1 else ""
     )
 
     return f"""<!DOCTYPE html>
@@ -4412,6 +4420,16 @@ def render_root_index_html(collections: list[dict], generated: str,
   }}
   .col-card:hover {{ border-color:#333; transform:translateY(-2px); }}
   .col-card:hover::after {{ transform:scaleX(1); }}
+  .col-card.kind-hidden {{ display:none; }}
+  .kind-seg {{ display:flex; border:1px solid var(--border); border-radius:3px; overflow:hidden; flex-shrink:0; }}
+  .kind-seg button {{
+    background:none; border:none; color:var(--muted); cursor:pointer;
+    font-family:'DM Mono',monospace; font-size:.58rem; letter-spacing:.1em; text-transform:uppercase;
+    padding:4px 10px; transition:all .12s;
+  }}
+  .kind-seg button + button {{ border-left:1px solid var(--border); }}
+  .kind-seg button:hover {{ color:var(--text); }}
+  .kind-seg button.on {{ background:#161616; color:var(--accent); }}
   .col-name {{
     font-family:'Bebas Neue',sans-serif;
     font-size:1.6rem; letter-spacing:.05em;
@@ -4447,7 +4465,8 @@ def render_root_index_html(collections: list[dict], generated: str,
 <header>
   {site_label}
   <h1>{title}</h1>
-  <div class="header-meta">{len(collections)} collection{'s' if len(collections) != 1 else ''}</div>
+  {kind_filter}
+  <div class="header-meta" id="col-count">{len(collections)} collection{'s' if len(collections) != 1 else ''}</div>
   <a class="header-nav-link" href="index_alternativo.html">Explorador ↗</a>
   <a class="header-nav-link" href="estadisticas.html">Estadísticas</a>
   {_mh_user_modal_btn()}
@@ -4459,6 +4478,29 @@ def render_root_index_html(collections: list[dict], generated: str,
 </main>
 <footer>Generated {generated} · Data from MusicBrainz, Last.fm, RYM &amp; Scaruffi</footer>
 {_mh_user_modal_js(users or [])}
+<script>
+(function() {{
+  const seg = document.getElementById('kind-seg');
+  if (!seg) return;
+  const cards = document.querySelectorAll('.col-card[data-kind]');
+  function apply(kind) {{
+    let n = 0;
+    cards.forEach(c => {{
+      const hide = kind && c.dataset.kind !== kind;
+      c.classList.toggle('kind-hidden', hide);
+      if (!hide) n++;
+    }});
+    seg.querySelectorAll('button').forEach(b => b.classList.toggle('on', b.dataset.kind === kind));
+    document.getElementById('col-count').textContent = n + (n === 1 ? ' collection' : ' collections');
+    try {{ localStorage.setItem('mh_kind', kind || ''); }} catch (e) {{}}
+  }}
+  seg.querySelectorAll('button').forEach(b => b.onclick = () =>
+    apply(b.classList.contains('on') ? '' : b.dataset.kind));   // re-click → todas
+  let saved = '';
+  try {{ saved = localStorage.getItem('mh_kind') || ''; }} catch (e) {{}}
+  apply(saved);
+}})();
+</script>
 </body>
 </html>
 """
@@ -6254,13 +6296,17 @@ def global_index_only(args, root_dir: Path, mh_conn, scrobbles_conn,
 
 def main():
     parser = argparse.ArgumentParser(description="1001 Albums Must Hear — HTML Generator")
-    parser.add_argument("--must-hear-db", dest="must_hear_db", default=None,
+    _default_mh  = "db/must_hear_rym_new.db"
+    _default_scr = "db/lastfm_cache_rym_new_normalized.db"
+    parser.add_argument("--must-hear-db", dest="must_hear_db",
+                        default=_default_mh if Path(_default_mh).exists() else None,
                         help="Ruta a must_hear.db (esquema normalizado: albums, artists, genres...)")
     parser.add_argument("--scrobbles-db", dest="scrobbles_db", default=None,
                         help="Ruta a rym_lastfm.db (scrobbles para calcular heard). "
                              "Si no se indica, se usa --must-hear-db para usuarios y scrobbles.")
     # Compatibilidad: --db sigue funcionando como alias de --scrobbles-db
-    parser.add_argument("--db", dest="db", default=None,
+    parser.add_argument("--db", dest="db",
+                        default=_default_scr if Path(_default_scr).exists() else None,
                         help="[legacy] Alias de --scrobbles-db para compatibilidad")
     parser.add_argument("--out",    default="docs/must_hear",
                         help="Directorio raíz de salida (contiene el index superior)")
@@ -6754,6 +6800,13 @@ def main():
     else:
         users = args.users or []
     print(f"👥 {len(users)} usuarios: {', '.join(users)}")
+    if not users:
+        # Sin usuarios se reescribiría la colección y el índice con todo a 0
+        print("❌ 0 usuarios: revisa --must-hear-db / --db. No se escribe nada.",
+              file=__import__("sys").stderr)
+        if mh_conn: mh_conn.close()
+        if scrobbles_conn: scrobbles_conn.close()
+        return 1
 
     users_index = []
     heard_album_ids_by_user: dict[str, list] = {}  # para poblar user_heard
@@ -6835,4 +6888,4 @@ def main():
     if scrobbles_conn: scrobbles_conn.close()
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

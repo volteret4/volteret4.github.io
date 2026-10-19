@@ -1,0 +1,782 @@
+[
+  {
+    "number": 1,
+    "artist": "Los Mirlos",
+    "title": "Los Charapas de Oro",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-mirlos/los-charapas-de-oro",
+    "cover_url": "https://e.snmc.io/i/600/s/d69229fa24ec884d7cc4d0ceb5fe88d1/4507500/Los%20Mirlos%20-%20Los%20Charapas%20de%20Oro%2C%20Cover%20art.jpeg",
+    "rating": "3.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica",
+      "Guaracha",
+      "Pandilla"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Los Wembler's de Iquitos",
+    "title": "La danza del petrolero",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-wemblers-de-iquitos/la-danza-del-petrolero",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica",
+      "Surf Rock",
+      "Psychedelic Rock"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Chicha Libre",
+    "title": "¡Sonido amazonico!",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chicha-libre/_sonido-amazonico",
+    "cover_url": "https://e.snmc.io/i/600/s/9a2c0918e038e57822455d1c5dc778a2/2183365/Chicha%20Libre%20-%20%C2%A1Sonido%20amazonico!%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia peruana",
+      "Cumbia amazónica",
+      "Latin Alternative",
+      "Psychedelic Pop"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Juaneco y Su Combo",
+    "title": "El gran cacique",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juaneco-y-su-combo/el-gran-cacique",
+    "cover_url": "https://e.snmc.io/i/600/s/80c6ee58a8fdf61f88911c5508d60b65/5610736/Juaneco%20y%20Su%20Combo%20-%20El%20gran%20cacique%2C%20Cover%20art.jpeg",
+    "rating": "3.51",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica",
+      "Cumbia peruana",
+      "Surf Rock",
+      "Garage Psych"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Los Pirañas",
+    "title": "Historia natural",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-piranas/historia-natural",
+    "cover_url": "https://e.snmc.io/i/600/s/ddf7a98087904ac3fb38a990f7557e40/7699953/Los%20Pira%C3%B1as%20-%20Historia%20natural%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Latin Alternative",
+      "Tropicanibalismo",
+      "Psychedelic Rock",
+      "Digital Cumbia",
+      "Vallenato"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Sonido Gallo Negro",
+    "title": "Sendero mistico",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sonido-gallo-negro/sendero-mistico",
+    "cover_url": "https://e.snmc.io/i/600/s/02856ead4b33830e896f86db6178d314/5223296/Sonido%20Gallo%20Negro%20-%20Sendero%20mistico%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia peruana",
+      "Neo-Psychedelia",
+      "Cumbia amazónica",
+      "Surf Rock",
+      "Digital Cumbia"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Juaneco y Su Combo",
+    "title": "Juaneco y Su Combo",
+    "year": 1969,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juaneco-y-su-combo/juaneco-y-su-combo",
+    "cover_url": "https://e.snmc.io/i/600/s/41861b0a6fbd5b175c705e43f3165f31/5792610/Juaneco%20y%20Su%20Combo%20-%20Juaneco%20y%20Su%20Combo%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica",
+      "Cumbia peruana",
+      "Pandilla",
+      "Psychedelic Rock"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Los Mirlos",
+    "title": "El sonido selvático",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-mirlos/el-sonido-selvatico",
+    "cover_url": "https://e.snmc.io/i/600/s/acb65d63348a04cd136cb000d2f42151/4507204/Los%20Mirlos%20-%20El%20sonido%20selv%C3%A1tico%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica",
+      "Cumbia peruana",
+      "Guaracha",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Sonido Gallo Negro",
+    "title": "Cumbia salvaje",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sonido-gallo-negro/cumbia-salvaje",
+    "cover_url": "https://e.snmc.io/i/600/s/0de0835ae83d7ef979d6816c804a4275/4228738/Sonido%20Gallo%20Negro%20-%20Cumbia%20salvaje%2C%20Cover%20art.jpeg",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia peruana",
+      "Neo-Psychedelia",
+      "Cumbia amazónica",
+      "Latin Alternative",
+      "Surf Rock"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Los Wembler's de Iquitos",
+    "title": "Visión del Ayahuasca",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-wemblers-de-iquitos/vision-del-ayahuasca",
+    "cover_url": "https://e.snmc.io/i/600/s/014c7db2cd3df4c1bbc2e550464a5432/7842535/Los%20Wembler's%20de%20Iquitos%20-%20Visi%C3%B3n%20del%20Ayahuasca%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia peruana",
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Juaneco y Su Combo",
+    "title": "El brujo",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juaneco-y-su-combo/el-brujo",
+    "cover_url": "https://e.snmc.io/i/600/s/b9da42774419745301bff0f7ee4c9749/4966960/Juaneco%20y%20Su%20Combo%20-%20El%20brujo%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica",
+      "Surf Rock"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Grupo 2000",
+    "title": "El Destape",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-2000/el-destape-1",
+    "cover_url": "https://e.snmc.io/i/600/s/59f347349760c72aacbd1c896fedceb9/13433220/Grupo%202000%20-%20El%20Destape%2C%20Cover%20art.png",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica",
+      "Pandilla",
+      "Guaracha"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Los Mirlos",
+    "title": "El poder verde",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-mirlos/el-poder-verde",
+    "cover_url": "https://e.snmc.io/i/600/s/3ddf31b1e68d92a20ab755f17e6bc711/12583118/Los%20Mirlos%20-%20El%20poder%20verde%2C%20Cover%20art.jpeg",
+    "rating": "3.32",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica",
+      "Cumbia peruana"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Bareto",
+    "title": "Cumbia",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bareto/cumbia",
+    "cover_url": "https://e.snmc.io/i/600/s/7f5f5f9ebbc24e51c16d1672b6487fd1/2884194/Bareto%20-%20Cumbia%2C%20Cover%20art.jpeg",
+    "rating": "3.23",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia peruana",
+      "Cumbia amazónica",
+      "Reggae",
+      "Chicha"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Los Mirlos",
+    "title": "El milagro verde",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-mirlos/el-milagro-verde",
+    "cover_url": "https://e.snmc.io/i/600/s/e2ba40a740f2bdf1894026cecb6501d6/11614659/Los%20Mirlos%20-%20El%20milagro%20verde%2C%20Cover%20art.jpeg",
+    "rating": "3.85",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica",
+      "Cumbia peruana"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Juaneco y Su Combo",
+    "title": "Ven a bailar con Juaneco y su Combo",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juaneco_y_su_combo/ven_a_bailar_con_juaneco_y_su_combo",
+    "cover_url": "https://e.snmc.io/i/600/s/f1f40e05cc380a6302f4b201c6689f3a/5610740/Juaneco%20y%20Su%20Combo%20-%20Ven%20a%20bailar%20con%20Juaneco%20y%20su%20Combo%2C%20Cover%20art.jpeg",
+    "rating": "4.02",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Los Mirlos",
+    "title": "The World Meets Los Mirlos",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-mirlos/the-world-meets-los-mirlos",
+    "cover_url": "https://e.snmc.io/i/600/s/f49e2890bafb3298a2182a2a64b4fa4e/14698576/Los%20Mirlos%20-%20The%20World%20Meets%20Los%20Mirlos%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Los Picantes",
+    "title": "Sin pelos en la lengua",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-picantes/sin-pelos-en-la-lengua",
+    "cover_url": "https://e.snmc.io/i/600/s/58740cdd7a4cef0dc5fdf4526c05615f/12072488/Los%20Picantes%20-%20Sin%20pelos%20en%20la%20lengua%2C%20Cover%20art.jpeg",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bolero",
+      "Cueca",
+      "Cumbia amazónica",
+      "Latin House",
+      "Cumbia peruana"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Ranil y su Conjunto Tropical",
+    "title": "Ranil y su conjunto tropical",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ranil-y-su-conjunto-tropical/ranil-y-su-conjunto-tropical",
+    "cover_url": "https://e.snmc.io/i/600/s/c7ff7dd7eb00e6a9343d705eb8916645/8426941/Ranil%20y%20su%20Conjunto%20Tropical%20-%20Ranil%20y%20su%20conjunto%20tropical%2C%20Cover%20art.jpeg",
+    "rating": "3.15",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia peruana",
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Los Ecos",
+    "title": "¡Peligrosa...!",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los_ecos_f1/_peligrosa____",
+    "cover_url": "https://e.snmc.io/i/600/s/df086b78195bc5865f176eed78de2b71/8442885/Los%20Ecos%20-%20%C2%A1Peligrosa___!%2C%20Cover%20art.png",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia peruana",
+      "Cumbia amazónica",
+      "Chicha",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Los Rangers de Tingo María",
+    "title": "La trochita",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-rangers-de-tingo-maria/la-trochita",
+    "cover_url": "https://e.snmc.io/i/600/s/3b8b7ada8ec604a453679ece5cb664f9/11916097/Los%20Rangers%20de%20Tingo%20Mar%C3%ADa%20-%20La%20trochita%2C%20Cover%20art.jpeg",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Peruvian Music",
+      "Cumbia amazónica",
+      "Cumbia peruana"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Los Tigres de Tarapoto",
+    "title": "La danza de los tigres",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-tigres-de-tarapoto/la-danza-de-los-tigres",
+    "cover_url": "https://e.snmc.io/i/600/s/9689d9a94f0bfef15c544e646260e451/11173446/Los%20Tigres%20de%20Tarapoto%20-%20La%20danza%20de%20los%20tigres%2C%20Cover%20art.jpeg",
+    "rating": "3.26",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica",
+      "Chicha",
+      "Pandilla"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Los Mirlos",
+    "title": "Tu ñaña",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-mirlos/tu-nana",
+    "cover_url": "https://e.snmc.io/i/600/s/8e886c9bdc1e86095fd9e11a076c8223/11255643/Los%20Mirlos%20-%20Tu%20%C3%B1a%C3%B1a%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Juaneco y Su Combo",
+    "title": "Dale Juaneco",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juaneco-y-su-combo/dale-juaneco",
+    "cover_url": "https://e.snmc.io/i/600/s/a676d7243534795165813dfc8e485283/5558208/Juaneco%20y%20Su%20Combo%20-%20Dale%20Juaneco%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Los Wembler's de Iquitos",
+    "title": "La amenaza verde",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-wemblers-de-iquitos/la-amenaza-verde",
+    "cover_url": "https://e.snmc.io/i/600/s/22a56388ae588f3e9342a400b0cfbdd9/8174532/Los%20Wembler's%20de%20Iquitos%20-%20La%20amenaza%20verde%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Los Dexters de Uchiza",
+    "title": "Fiesta en la jungla",
+    "year": 1982,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-dexters-de-uchiza/fiesta-en-la-jungla",
+    "cover_url": "https://e.snmc.io/i/600/s/369b7da30443dcc5bd3161348774a5c8/11916223/Los%20Dexters%20de%20Uchiza%20-%20Fiesta%20en%20la%20jungla%2C%20Cover%20art.png",
+    "rating": "2.99",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica",
+      "Carimbó"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Sonido Gallo Negro",
+    "title": "Cumbiavision",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sonido-gallo-negro/cumbiavision",
+    "cover_url": "https://e.snmc.io/i/600/s/80dab2aab9e602d9010a3f9148b2694b/14848361/Sonido%20Gallo%20Negro%20-%20Cumbiavision%2C%20Cover%20art.jpeg",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Juaneco y Su Combo",
+    "title": "Juaneco y Su Combo",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juaneco_y_su_combo/juaneco_y_su_combo",
+    "cover_url": "https://e.snmc.io/i/600/s/17c1443d08848da4a5b02457a03e66ca/6241162/Juaneco%20y%20Su%20Combo%20-%20Juaneco%20y%20Su%20Combo%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Barrio Calavera",
+    "title": "Suena calle",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/barrio-calavera/suena-calle",
+    "cover_url": "https://e.snmc.io/i/600/s/614450e50cc8bb46ad673e291ad0207c/4748996/Barrio%20Calavera%20-%20Suena%20calle%2C%20Cover%20art.jpeg",
+    "rating": "3.51",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ska Punk",
+      "Cumbia amazónica",
+      "Reggae Rock",
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Los Mirlos",
+    "title": "Los reyes de la cumbia amazónica",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-mirlos/los-reyes-de-la-cumbia-amazonica",
+    "cover_url": "https://e.snmc.io/i/600/s/4ad3300789080f48767c204fd68d4a97/4507295/Los%20Mirlos%20-%20Los%20reyes%20de%20la%20cumbia%20amaz%C3%B3nica%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia argentina",
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Juaneco y Su Combo",
+    "title": "Linda nena",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juaneco-y-su-combo/linda-nena",
+    "cover_url": "https://e.snmc.io/i/600/s/5664c343ebe31a6d211e090721f6a3eb/5561569/Juaneco%20y%20Su%20Combo%20-%20Linda%20nena%2C%20Cover%20art.jpeg",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "La Cumbia Negra",
+    "title": "La Cumbia Negra",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/la-cumbia-negra/la-cumbia-negra",
+    "cover_url": "https://e.snmc.io/i/600/s/86663a1798819d52fc37e68ef848c851/6878361/La%20Cumbia%20Negra%20-%20La%20Cumbia%20Negra%2C%20Cover%20art.jpeg",
+    "rating": "3.10",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Eusebio y Su Banjo",
+    "title": "Cumbias de oro y cumbiones pegaditos",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/eusebio-y-su-banjo/cumbias-de-oro-y-cumbiones-pegaditos",
+    "cover_url": "https://e.snmc.io/i/600/s/341b3c899f195279ab3565050cc2b8af/10595641/Eusebio%20y%20Su%20Banjo%20-%20Cumbias%20de%20oro%20y%20cumbiones%20pegaditos%2C%20Cover%20art.jpeg",
+    "rating": "3.17",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia peruana",
+      "Cumbia amazónica",
+      "Guaracha"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Depresión Tropical",
+    "title": "La Chumaychada",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/depresion-tropical/la-chumaychada",
+    "cover_url": "https://e.snmc.io/i/600/s/31f1838fcacfa168b629e958b83cf1e4/13115554/Depresi%C3%B3n%20Tropical%20-%20La%20Chumaychada%2C%20Cover%20art.jpeg",
+    "rating": "4.27",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Indie Pop",
+      "Hypnagogic Pop",
+      "Cumbia amazónica",
+      "Indie Surf",
+      "Chillwave"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Los Wembler's de Iquitos",
+    "title": "Al ritmo de Los Wembler's",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-wemblers-de-iquitos/al-ritmo-de-los-wemblers",
+    "cover_url": "https://e.snmc.io/i/600/s/c5e2c84a8551d1038dda9d40d8299567/11186574/Los%20Wembler's%20de%20Iquitos%20-%20Al%20ritmo%20de%20Los%20Wembler's%2C%20Cover%20art.png",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Mauricio Mesones",
+    "title": "Viaje tropical",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mauricio-mesones/viaje-tropical",
+    "cover_url": "https://e.snmc.io/i/600/s/4ef321de2cfbb16e09e1896620a3caf5/9998588/Mauricio%20Mesones%20-%20Viaje%20tropical%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Los Mirlos",
+    "title": "Con Sabor a Selva",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-mirlos/con-sabor-a-selva",
+    "cover_url": "https://e.snmc.io/i/600/s/bafc14543b3a5c4c218a2bc969f36e9e/8320298/Los%20Mirlos%20-%20Con%20Sabor%20a%20Selva%2C%20Cover%20art.jpeg",
+    "rating": "3.91",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Juaneco y Su Combo",
+    "title": "No llores abuelita",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juaneco_y_su_combo/no_llores_abuelita",
+    "cover_url": "https://e.snmc.io/i/600/s/7f1151222cc3f069056d391a5b033cd6/5561606/Juaneco%20y%20Su%20Combo%20-%20No%20llores%20abuelita%2C%20Cover%20art.jpeg",
+    "rating": "2.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Los Wembler's de Iquitos",
+    "title": "El Sabor Tropical De",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-wemblers-de-iquitos/el-sabor-tropical-de",
+    "cover_url": "https://e.snmc.io/i/600/s/00b62acf827d40f9f14773514d74b908/11212736/Los%20Wembler's%20de%20Iquitos%20-%20El%20Sabor%20Tropical%20De%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Sonido Verde de Moyobamba",
+    "title": "Recordando a Sacanche",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sonido-verde-de-moyobamba/recordando-a-sacanche",
+    "cover_url": "https://e.snmc.io/i/600/s/26ead444c6e098d52f0a1f951512a8b1/11560694/Sonido%20Verde%20de%20Moyobamba%20-%20Recordando%20a%20Sacanche%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia amazónica"
+    ]
+  }
+]

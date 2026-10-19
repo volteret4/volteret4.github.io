@@ -1,0 +1,796 @@
+[
+  {
+    "number": 1,
+    "artist": "Stan Getz & João Gilberto",
+    "title": "Getz / Gilberto",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/stan-getz-and-joao-gilberto-featuring-antonio-carlos-jobim/getz-gilberto",
+    "cover_url": "https://e.snmc.io/i/600/s/6d360dc7c4b7841f97aed289eef4f426/12249641/Stan%20Getz%20%26%20Jo%C3%A3o%20Gilberto%20featuring%20Ant%C3%B4nio%20Carlos%20Jobim%20-%20Getz%20%2F%20Gilberto%2C%20Cover%20art.jpeg",
+    "rating": "4.01",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-jazz",
+      "Cool Jazz",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "João Gilberto",
+    "title": "João Gilberto",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gilberto/joao-gilberto",
+    "cover_url": "https://e.snmc.io/i/600/s/ae2aec421897e96fa524b01b921709b2/14590633/Jo%C3%A3o%20Gilberto%20-%20Jo%C3%A3o%20Gilberto%2C%20Cover%20art.jpeg",
+    "rating": "3.91",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Nara Leão",
+    "title": "Dez anos depois",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nara-leao/dez-anos-depois",
+    "cover_url": "https://e.snmc.io/i/600/s/c506719553b42d1e78ecd24e2d98771d/13586027/Nara%20Le%C3%A3o%20-%20Dez%20anos%20depois%2C%20Cover%20art.jpeg",
+    "rating": "3.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "João Gilberto",
+    "title": "Amoroso",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gilberto/amoroso",
+    "cover_url": "https://e.snmc.io/i/600/s/b4e564d9ae7fdeec63c6bf7826e137ad/13645171/Jo%C3%A3o%20Gilberto%20-%20Amoroso%2C%20Cover%20art.jpeg",
+    "rating": "3.88",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-canção",
+      "Traditional Pop"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Antônio Carlos Jobim",
+    "title": "Stone Flower",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/antonio-carlos-jobim/stone-flower",
+    "cover_url": "https://e.snmc.io/i/600/s/420984efb9ef0c81c9b0ed90ca926fff/13585378/Ant%C3%B4nio%20Carlos%20Jobim%20-%20Stone%20Flower%2C%20Cover%20art.png",
+    "rating": "3.86",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-jazz",
+      "Lounge",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Elis Regina &",
+    "title": "Elis & Tom",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elis-regina-antonio-carlos-jobim/elis-and-tom",
+    "cover_url": "https://e.snmc.io/i/600/s/3c03647a40195ef25cac30e976208b7c/12304118/Elis%20Regina%20%26%20Ant%C3%B4nio%20Carlos%20Jobim%20-%20Elis%20%26%20Tom%2C%20Cover%20art.jpeg",
+    "rating": "3.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "MPB",
+      "Vocal Jazz"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Tom Jobim",
+    "title": "Inédito",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tom-jobim/inedito",
+    "cover_url": "https://e.snmc.io/i/600/s/b8e70e577c736220407a51bb883967bf/1243688/Tom%20Jobim%20-%20In%C3%A9dito%2C%20Cover%20art.jpeg",
+    "rating": "3.85",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-jazz",
+      "MPB",
+      "Choro"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "João Gilberto",
+    "title": "Chega de saudade",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gilberto/chega-de-saudade",
+    "cover_url": "https://e.snmc.io/i/600/s/7c728592e84156370373cd5073e3edf5/12240584/Jo%C3%A3o%20Gilberto%20-%20Chega%20de%20saudade%2C%20Cover%20art.jpeg",
+    "rating": "3.81",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Toquinho e Vinícius",
+    "title": "O poeta e o violão",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/toquinho-e-vinicius/o-poeta-e-o-violao",
+    "cover_url": "https://e.snmc.io/i/600/s/2b3ef307f60ce18d0c99afaa2d74f04e/11949638/Toquinho%20e%20Vin%C3%ADcius%20-%20O%20poeta%20e%20o%20viol%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Antônio Carlos Jobim",
+    "title": "Wave",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/antonio-carlos-jobim/wave",
+    "cover_url": "https://e.snmc.io/i/600/s/688f02cdd36b4c9e21d2ed4535ba8bd8/14528326/Ant%C3%B4nio%20Carlos%20Jobim%20-%20Wave%2C%20Cover%20art.png",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Lounge",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Ornella Vanoni,",
+    "title": "La voglia la pazzia l'incoscienza l'allegria",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ornella-vanoni-vinicius-de-moraes-toquinho/la-voglia-la-pazzia-lincoscienza-lallegria",
+    "cover_url": "https://e.snmc.io/i/600/s/c44b93f40cda42057c18fa15b6eee0d0/1843405/Ornella%20Vanoni%2C%20Vinicius%20de%20Moraes%20%26%20Toquinho%20-%20La%20voglia%20la%20pazzia%20l'incoscienza%20l'allegria%2C%20Cover%20art.jpeg",
+    "rating": "3.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "MPB",
+      "Samba"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "João Gilberto,",
+    "title": "Brasil",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gilberto-caetano-veloso-gilberto-gil-maria-bethania/brasil",
+    "cover_url": "https://e.snmc.io/i/600/s/c707bfbc3040b43690ac693f051bb14b/13285510/Jo%C3%A3o%20Gilberto%2C%20Caetano%20Veloso%2C%20Gilberto%20Gil%20%26%20Maria%20Beth%C3%A2nia%20-%20Brasil%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-exaltação",
+      "Traditional Pop"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Edu Lobo",
+    "title": "Cantiga de longe",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/edu-lobo/cantiga-de-longe",
+    "cover_url": "https://e.snmc.io/i/600/s/f194381365384a31a2bbd1a072380e2a/1561724/Edu%20Lobo%20-%20Cantiga%20de%20longe%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Bossa nova",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Stan Getz &",
+    "title": "Jazz Samba Encore!",
+    "year": 1963,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/stan-getz-luiz-bonfa/jazz-samba-encore",
+    "cover_url": "https://e.snmc.io/i/600/s/0f604534538f6810c4bea90a8ab09393/14004387/Stan%20Getz%20%26%20Luiz%20Bonf%C3%A1%20-%20Jazz%20Samba%20Encore!%2C%20Cover%20art.png",
+    "rating": "3.78",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-jazz",
+      "Bossa nova",
+      "Cool Jazz"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Agustín Pereyra Lucena Quartet",
+    "title": "La rana",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agustin-pereyra-lucena-quartet/la-rana",
+    "cover_url": "https://e.snmc.io/i/600/s/b07d2f4e00461ca3a226e7fea3c97939/11662936/Agust%C3%ADn%20Pereyra%20Lucena%20Quartet%20-%20La%20rana%2C%20Cover%20art.jpeg",
+    "rating": "3.80",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Marília Medalha",
+    "title": "Caminhada",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/marilia-medalha/caminhada",
+    "cover_url": "https://e.snmc.io/i/600/s/25307d072aea7652c7283bf786e726c6/2332092/Mar%C3%ADlia%20Medalha%20-%20Caminhada%2C%20Cover%20art.jpeg",
+    "rating": "3.81",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-jazz",
+      "MPB",
+      "Vocal Jazz"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Nara Leão",
+    "title": "O canto livre de Nara",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nara-leao/o-canto-livre-de-nara",
+    "cover_url": "https://e.snmc.io/i/600/s/a4908eea50e68e35772aefba5bccb584/1401328/Nara%20Le%C3%A3o%20-%20O%20canto%20livre%20de%20Nara%2C%20Cover%20art.jpeg",
+    "rating": "3.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-jazz",
+      "Vocal Jazz",
+      "Brazilian Folk Music"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Lamp",
+    "title": "Soyokaze Apartment Room 201\nそよ風アパートメント201",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lamp/そよ風アパートメント201",
+    "cover_url": "https://e.snmc.io/i/600/s/63e22fbf494455850de905eda6cfc05e/14515845/Lamp%20-%20%E3%81%9D%E3%82%88%E9%A2%A8%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88201%20%5BSoyokaze%20Apartment%20Room%20201%5D%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Shibuya-kei",
+      "Bossa nova",
+      "Jazz Pop",
+      "Samba-jazz",
+      "Indie Pop"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Edu Lobo",
+    "title": "Edu canta Zumbi",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/edu-lobo/edu-canta-zumbi",
+    "cover_url": "https://e.snmc.io/i/600/s/8213c5868b318ef677b83683466cf88e/1867546/Edu%20Lobo%20-%20Edu%20canta%20Zumbi%2C%20Cover%20art.jpeg",
+    "rating": "3.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Bossa nova",
+      "Samba-jazz",
+      "Brazilian Classical Music"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "João Gilberto",
+    "title": "O amor, o sorriso e a flor",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gilberto/o-amor-o-sorriso-e-a-flor",
+    "cover_url": "https://e.snmc.io/i/600/s/704a1337ed0ea01eeef8e527f326b320/13802869/Jo%C3%A3o%20Gilberto%20-%20O%20amor%2C%20o%20sorriso%20e%20a%20flor%2C%20Cover%20art.png",
+    "rating": "3.74",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Baden Powell",
+    "title": "À vontade",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/baden-powell/a-vontade",
+    "cover_url": "https://e.snmc.io/i/600/s/d28b2a36ac22f34e61e2ffaa57876427/3404458/Baden%20Powell%20-%20%C3%80%20vontade%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Choro",
+      "Samba",
+      "Candomblé Music"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Vinicius",
+    "title": "Como dizia o poeta...",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vinicius-marilia-medalha-toquinho/como-dizia-o-poeta",
+    "cover_url": "https://e.snmc.io/i/600/s/b23d92b5ba578be00fb98ba26bac5135/2141710/Vinicius%2C%20Marilia%20Medalha%20%26%20Toquinho%20-%20Como%20dizia%20o%20poeta___%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "MPB",
+      "Samba",
+      "Samba"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "João Donato",
+    "title": "Quem é quem",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-donato/quem-e-quem",
+    "cover_url": "https://e.snmc.io/i/600/s/6cb1cd75e0602ca3c527aedcc81a395c/1227637/Jo%C3%A3o%20Donato%20-%20Quem%20%C3%A9%20quem%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "MPB",
+      "Samba-jazz",
+      "Jazz Fusion",
+      "Jazz-Funk"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "João Donato",
+    "title": "Lugar comum",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-donato/lugar-comum",
+    "cover_url": "https://e.snmc.io/i/600/s/1be12cee5568fcc28ea373c885b8fe1f/1227638/Jo%C3%A3o%20Donato%20-%20Lugar%20comum%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-jazz",
+      "MPB",
+      "Bossa nova",
+      "Bossa nova",
+      "Jazz Fusion"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Rosinha de Valença",
+    "title": "Um violão em primeiro plano",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rosinha-de-valenca/um-violao-em-primeiro-plano",
+    "cover_url": "https://e.snmc.io/i/600/s/1062bca97df46e5458b389d2a08ade3e/1317186/Rosinha%20de%20Valen%C3%A7a%20-%20Um%20viol%C3%A3o%20em%20primeiro%20plano%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Bossa nova",
+      "Samba",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Stan Getz &",
+    "title": "Jazz Samba",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/stan-getz-charlie-byrd/jazz-samba",
+    "cover_url": "https://e.snmc.io/i/600/s/4b347e0de5716d439915c3ab119c4a4f/3969695/Stan%20Getz%20%26%20Charlie%20Byrd%20-%20Jazz%20Samba%2C%20Cover%20art.jpeg",
+    "rating": "3.68",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-jazz",
+      "Bossa nova",
+      "Cool Jazz",
+      "West Coast Jazz"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Luiz Bonfá",
+    "title": "Plays and Sings Bossa Nova",
+    "year": 1963,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luiz-bonfa/plays-and-sings-bossa-nova",
+    "cover_url": "https://e.snmc.io/i/600/s/942f97bc8c2a2fd8f3adf33a1dd5c046/13741920/Luiz%20Bonf%C3%A1%20-%20Plays%20and%20Sings%20Bossa%20Nova%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-jazz",
+      "Samba"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Tamba 4",
+    "title": "We and the Sea",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tamba-4/we-and-the-sea",
+    "cover_url": "https://e.snmc.io/i/600/s/c087b056f4b5c4c4418ac8330f586b6c/1390355/Tamba%204%20-%20We%20and%20the%20Sea%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-jazz",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Baden Powell",
+    "title": "Poema on Guitar",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/baden-powell/poema-on-guitar-1",
+    "cover_url": "https://e.snmc.io/i/600/s/371622dda6c8d297f0e348c355d69cd8/1590291/Baden%20Powell%20-%20Poema%20on%20Guitar%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-jazz",
+      "Choro"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "dahlia",
+    "title": "Le mode d'emploi",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dahlia/le-mode-demploi",
+    "cover_url": "https://e.snmc.io/i/600/s/054ac5214c2a971855079211f664bd10/13485880/dahlia%20-%20Le%20mode%20d'emploi%2C%20Cover%20art.png",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Shibuya-kei",
+      "Bossa nova",
+      "Jazz Pop",
+      "Cocktail Nation"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "João Gilberto",
+    "title": "Joao Gilberto en México",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gilberto/joao-gilberto-en-mexico",
+    "cover_url": "https://e.snmc.io/i/600/s/f8f2d23f6f5222084d844a138086a9d8/1494696/Jo%C3%A3o%20Gilberto%20-%20Joao%20Gilberto%20en%20M%C3%A9xico%2C%20Cover%20art.jpeg",
+    "rating": "3.70",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Edu Lobo",
+    "title": "A música de Edu Lobo por Edu Lobo",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/edu-lobo/a-musica-de-edu-lobo-por-edu-lobo",
+    "cover_url": "https://e.snmc.io/i/600/s/2f9184a3adbeaf16df4677d63dc8d6e9/9312002/Edu%20Lobo%20-%20A%20m%C3%BAsica%20de%20Edu%20Lobo%20por%20Edu%20Lobo%2C%20Cover%20art.png",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "MPB",
+      "Samba-jazz",
+      "Singer-Songwriter"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Quincy Jones",
+    "title": "Big Band Bossa Nova",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/quincy-jones/big-band-bossa-nova",
+    "cover_url": "https://e.snmc.io/i/600/s/3b9bee9b8ef1c50cf6a87205f9fc8397/3696661/Quincy%20Jones%20-%20Big%20Band%20Bossa%20Nova%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Big Band",
+      "Bossa nova",
+      "Samba-jazz",
+      "Lounge"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Rita Payés &",
+    "title": "Como la piel",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rita-payes-elisabeth-roma/como-la-piel",
+    "cover_url": "https://e.snmc.io/i/600/s/4f2be72f732161622377d76bb6051e8f/8955810/Rita%20Pay%C3%A9s%20%26%20Elisabeth%20Roma%20-%20Como%20la%20piel%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Chamber Jazz",
+      "Latin Jazz",
+      "Vocal Jazz"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Nara Leão",
+    "title": "Nara",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nara-leao/nara-1",
+    "cover_url": "https://e.snmc.io/i/600/s/72d2520f0d325a8b8c7a47fef3f48f2b/1563167/Nara%20Le%C3%A3o%20-%20Nara%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "MPB",
+      "Samba",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Stan Getz & João Gilberto",
+    "title": "The Best of Two Worlds",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/stan-getz-and-joao-gilberto/the-best-of-two-worlds",
+    "cover_url": "https://e.snmc.io/i/600/s/2588c159b28b6ec1b3cf131638d6de5c/12862342/Stan%20Getz%20%26%20Jo%C3%A3o%20Gilberto%20-%20The%20Best%20of%20Two%20Worlds%2C%20Cover%20art.png",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-jazz",
+      "Cool Jazz",
+      "MPB"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Stan Getz &",
+    "title": "Stan Getz With Guest Artist Laurindo Almeida",
+    "year": 1966,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/stan-getz-laurindo-almeida/stan-getz-with-guest-artist-laurindo-almeida",
+    "cover_url": "https://e.snmc.io/i/600/s/b9c176015f185248bfa593ed3de0810d/1344322/Stan%20Getz%20%26%20Laurindo%20Almeida%20-%20Stan%20Getz%20With%20Guest%20Artist%20Laurindo%20Almeida%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-jazz",
+      "Latin Jazz",
+      "West Coast Jazz"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Astrud Gilberto",
+    "title": "The Astrud Gilberto Album",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/astrud-gilberto/the-astrud-gilberto-album",
+    "cover_url": "https://e.snmc.io/i/600/s/85ca8f2b524f2287692353545d9b1cca/2989524/Astrud%20Gilberto%20-%20The%20Astrud%20Gilberto%20Album%2C%20Cover%20art.jpeg",
+    "rating": "3.63",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Vocal Jazz",
+      "Traditional Pop"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Vinicius de Moraes,",
+    "title": "En La Fusa (Mar del Plata)",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vinicius-bethania-toquinho/en-la-fusa-mar-del-plata",
+    "cover_url": "https://e.snmc.io/i/600/s/b99fd43c574e4e8536f94ab1a5274df2/4825700/Vinicius%20%2B%20Bethania%20%2B%20Toquinho%20-%20En%20La%20Fusa%20(Mar%20del%20Plata)%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "MPB",
+      "Samba"
+    ]
+  }
+]

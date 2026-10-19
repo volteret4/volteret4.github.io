@@ -1,0 +1,40 @@
+[
+  {
+    "number": 1,
+    "artist": "Raymunda Lucero",
+    "title": "Ilocana",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/raymunda-lucero/ilocana-1",
+    "cover_url": "https://e.snmc.io/i/600/s/efd4b3008ecdbe6d3c13f49d2321fd6b/11658490/Raymunda%20Lucero%20-%20Ilocana%2C%20Cover%20art.jpeg",
+    "rating": "3.08",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ilocano Music"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Ric Manrique Jr.",
+    "title": "Ric Manrique Jr. Sings Ilocano Songs",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ric-manrique-jr/ric-manrique-jr-sings-ilocano-songs",
+    "cover_url": "https://e.snmc.io/i/600/s/744b5883ee67d06f164d6908c0da4816/11757759/Ric%20Manrique%20Jr_%20-%20Ric%20Manrique%20Jr_%20Sings%20Ilocano%20Songs%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Kundiman",
+      "Ilocano Music",
+      "Easy Listening"
+    ]
+  }
+]

@@ -1,0 +1,805 @@
+[
+  {
+    "number": 1,
+    "artist": "Richard Wagner",
+    "title": "Tristan und Isolde",
+    "year": 1982,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/staatskapelle-dresden-carlos-kleiber-margaret-price-rene-kollo-brigitte-fassbaender-dietrich-fischer-dieskau-kurt-moll/tristan-und-isolde",
+    "cover_url": "https://e.snmc.io/i/600/s/419f41080e97dfc93feac4c7c9082cfa/5917621/Staatskapelle%20Dresden%20%2F%20Carlos%20Kleiber%20%2F%20Margaret%20Price%20%2F%20Ren%C3%A9%20Kollo%20%2F%20Brigitte%20Fassbaender%20%2F%20Dietrich%20Fischer-Dieskau%20%2F%20Kurt%20Moll%20-%20Tristan%20und%20Isolde%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Romanticism",
+      "New German School"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Richard Wagner",
+    "title": "Götterdämmerung",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/multiple/gotterdammerung-1",
+    "cover_url": "https://e.snmc.io/i/600/s/d44929268265491bd6258b56fbc8c458/8374299/Wiener%20Philharmoniker%20%2F%20Wiener%20Staatsopernchor%20%2F%20Georg%20Solti%20%2F%20Birgit%20Nilsson%20%2F%20Wolfgang%20Windgassen%20%2F%20Dietrich%20Fischer-Dieskau%20%2F%20Gustav%20Neidlinger%20%2F%20Christa%20Ludwig%20%2F%20Claire%20Watson%20%2F%20Gwyneth%20Jones%20%2F%20Gottlob%20Frick%20%2F%20Grace%20Hoffman%20%2F%20Helen%20Watts%20%2F%20Lucia%20Popp%20%2F%20Anita%20V%C3%A4lkki%20%2F%20Maureen%20Guy%20-%20G%C3%B6tterd%C3%A4mmerung%2C%20Cover%20art.jpeg",
+    "rating": "3.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Romanticism",
+      "New German School"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Richard Wagner /",
+    "title": "Tannhäuser",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vienna-philharmonic-orchestra-georg-solti/tannhauser",
+    "cover_url": "https://e.snmc.io/i/600/s/1e254e256e4940986aa947b1e27d2143/8374581/Vienna%20Philharmonic%20Orchestra%20%2F%20Georg%20Solti%20-%20Tannh%C3%A4user%2C%20Cover%20art.jpeg",
+    "rating": "3.95",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romantische Oper",
+      "New German School"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Richard Strauss",
+    "title": "Salome",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vienna-philharmonic-solti-nilsson-stolze-wachter/salome",
+    "cover_url": "https://e.snmc.io/i/600/s/9d85d5ed9ac964958efc12c77372777f/11134884/Vienna%20Philharmonic%20%2F%20Solti%20%2F%20Nilsson%20%2F%20Stolze%20%2F%20W%C3%A4chter%20-%20Salome%2C%20Cover%20art.jpeg",
+    "rating": "3.95",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Romanticism",
+      "Modern Classical"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Richard Wagner",
+    "title": "Die Walküre",
+    "year": 1966,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vienna-philharmonic-solti-nilsson-hotter-crespin-king-ludwig/die-walkure",
+    "cover_url": "https://e.snmc.io/i/600/s/17e937dea0c0ce132072be8623d8130f/8374315/Vienna%20Philharmonic%20%2F%20Solti%20%2F%20Nilsson%20%2F%20Hotter%20%2F%20Crespin%20%2F%20King%20%2F%20Ludwig%20-%20Die%20Walk%C3%BCre%2C%20Cover%20art.jpeg",
+    "rating": "3.89",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Romanticism",
+      "New German School"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Philip Glass /",
+    "title": "Einstein on the Beach",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-philip-glass-ensemble-michael-riesman/einstein-on-the-beach",
+    "cover_url": "https://e.snmc.io/i/600/s/d601f3340d99ded99401abfb41afaa3e/2196758/The%20Philip%20Glass%20Ensemble%20%2F%20Michael%20Riesman%20-%20Einstein%20on%20the%20Beach%2C%20Cover%20art.jpeg",
+    "rating": "3.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Minimalism",
+      "Opera",
+      "Choral"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Richard Wagner",
+    "title": "Das Rheingold",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vienna-philharmonic-solti-london-flagstad-svanholm-neidlinger/das-rheingold",
+    "cover_url": "https://e.snmc.io/i/600/s/66cc3dd6df4932806405d0928190a423/2016262/Vienna%20Philharmonic%20%2F%20Solti%20%2F%20London%20%2F%20Flagstad%20%2F%20Svanholm%20%2F%20Neidlinger%20-%20Das%20Rheingold%2C%20Cover%20art.jpeg",
+    "rating": "3.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Romanticism",
+      "New German School"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Philip Glass /",
+    "title": "Einstein on the Beach",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-philip-glass-ensemble/einstein-on-the-beach",
+    "cover_url": "https://e.snmc.io/i/600/s/45785901e2c5c58ef1fa34a19ab78ad7/7934219/The%20Philip%20Glass%20Ensemble%20-%20Einstein%20on%20the%20Beach%2C%20Cover%20art.jpeg",
+    "rating": "3.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Minimalism",
+      "Opera",
+      "Choral",
+      "Spoken Word"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Giuseppe Verdi",
+    "title": "La traviata",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bayerisches-staatsorchester-carlos-kleiber-ileana-cotrubaș-placido-domingo-sherrill-milnes/la-traviata",
+    "cover_url": "https://e.snmc.io/i/600/s/6ca43f3c33533c285b5a17e7bc7ab454/4743873/Bayerisches%20Staatsorchester%20%2F%20Carlos%20Kleiber%20%2F%20Ileana%20Cotruba%C8%99%20%2F%20Pl%C3%A1cido%20Domingo%20%2F%20Sherrill%20Milnes%20-%20La%20traviata%2C%20Cover%20art.jpeg",
+    "rating": "3.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Opera"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Richard Wagner",
+    "title": "Siegfried",
+    "year": 1963,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/wiener-philharmoniker-solti-windgassen-nilsson-hotter-stolze-neidlinger-joan-sutherland/siegfried",
+    "cover_url": "https://e.snmc.io/i/600/s/e090f4f59b36acd02ef5a17b9e402361/8374333/Wiener%20Philharmoniker%20%2F%20Solti%20%2F%20Windgassen%20%2F%20Nilsson%20%2F%20Hotter%20%2F%20Stolze%20%2F%20Neidlinger%20%2F%20Joan%20Sutherland%20-%20Siegfried%2C%20Cover%20art.jpeg",
+    "rating": "3.86",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Romanticism",
+      "New German School"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Richard Wagner",
+    "title": "Tristan und Isolde",
+    "year": 1952,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/wilhelm-furtwangler-kirsten-flagstad-ludwig-suthaus/tristan-und-isolde",
+    "cover_url": "https://e.snmc.io/i/600/s/d3629a654067e606fb44dc06c35de6e2/12356992/Wilhelm%20Furtw%C3%A4ngler%20%2F%20Kirsten%20Flagstad%20%2F%20Ludwig%20Suthaus%20-%20Tristan%20und%20Isolde%2C%20Cover%20art.jpeg",
+    "rating": "3.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Romanticism",
+      "New German School"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Richard Strauss",
+    "title": "Elektra",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/wiener-philharmoniker-sir-georg-solti-birgit-nilsson-regina-resnik-marie-collier-tom-krause/elektra",
+    "cover_url": "https://e.snmc.io/i/600/s/820295f39acc2df8b5190f0c9bccce31/6753676/Wiener%20Philharmoniker%20%2F%20Sir%20Georg%20Solti%20%2F%20Birgit%20Nilsson%20%2F%20Regina%20Resnik%20%2F%20Marie%20Collier%20%2F%20Tom%20Krause%20-%20Elektra%2C%20Cover%20art.jpeg",
+    "rating": "3.91",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Romanticism",
+      "Expressionism"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Giacomo Puccini",
+    "title": "Turandot",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/london-philharmonic-orchestra-john-alldis-choir-zubin-mehta-sutherland-pavarotti-caballe-ghiaurov-krause-peter-pears/turandot",
+    "cover_url": "https://e.snmc.io/i/600/s/90130b189509879377b2913d7d73ead2/4980713/London%20Philharmonic%20Orchestra%20%2F%20John%20Alldis%20Choir%20%2F%20Zubin%20Mehta%20%2F%20Sutherland%20%2F%20Pavarotti%20%2F%20Caballe%20%2F%20Ghiaurov%20%2F%20Krause%20%2F%20Peter%20Pears%20-%20Turandot%2C%20Cover%20art.jpeg",
+    "rating": "3.85",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Romanticism"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Mikel Rouse",
+    "title": "Dennis Cleveland",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mikel-rouse/dennis-cleveland",
+    "cover_url": "https://e.snmc.io/i/600/s/ad4b71b212ed1189875224e48226555b/5778243/Mikel%20Rouse%20-%20Dennis%20Cleveland%2C%20Cover%20art.jpeg",
+    "rating": "3.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Totalism",
+      "Art Pop",
+      "Opera",
+      "New Jack Swing",
+      "Spoken Word"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Le nozze di Figaro",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chor-und-orchester-der-deutschen-oper-berlin-karl-bohm-hermann-prey-edith-mathis-gundula-janowitz-dietrich-fischer-dieskau-tatiana-troyanos/le-nozze-di-figaro",
+    "cover_url": "https://e.snmc.io/i/600/s/e99af18e7fe04d5edfac93521fc1f46f/4530587/Chor%20und%20Orchester%20der%20Deutschen%20Oper%20Berlin%20%2F%20Karl%20B%C3%B6hm%20%2F%20Hermann%20Prey%20%2F%20Edith%20Mathis%20%2F%20Gundula%20Janowitz%20%2F%20Dietrich%20Fischer-Dieskau%20%2F%20Tatiana%20Troyanos%20-%20Le%20nozze%20di%20Figaro%2C%20Cover%20art.jpeg",
+    "rating": "3.85",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera buffa",
+      "Classical Period"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Philip Glass",
+    "title": "Akhnaten",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-stuttgart-state-opera-orchestra-and-chorus-dennis-russel-davies-paul-esswood/akhnaten",
+    "cover_url": "https://e.snmc.io/i/600/s/920288d4b2ce5fab3df97734d88cab6f/1294819/The%20Stuttgart%20State%20Opera%20Orchestra%20%26%20Chorus%20%2F%20Dennis%20Russel%20Davies%20%2F%20Paul%20Esswood%20-%20Akhnaten%2C%20Cover%20art.jpeg",
+    "rating": "3.81",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Post-Minimalism",
+      "Opera",
+      "Spoken Word"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Robert Ashley",
+    "title": "Perfect Lives (An Opera for Television by Robert Ashley)",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/robert-ashley-blue-gene-tyranny-jill-kroesen-david-van-tieghem/perfect-lives-an-opera-for-television-by-robert-ashley",
+    "cover_url": "https://e.snmc.io/i/600/s/8149f1b02564d0aa7c8943513df4bf98/2212011/Robert%20Ashley%20%2F%20%22Blue%22%20Gene%20Tyranny%20%2F%20Jill%20Kroesen%20%2F%20David%20Van%20Tieghem%20-%20Perfect%20Lives%20(An%20Opera%20for%20Television%20by%20Robert%20Ashley)%2C%20Cover%20art.jpeg",
+    "rating": "3.80",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Spoken Word",
+      "Modern Classical",
+      "Lounge",
+      "Minimalism"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Kaija Saariaho",
+    "title": "L'amour de loin",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/deutsches-symphonie-orchester-berlin-rundfunkchor-berlin-kent-nagano-ekaterina-lekhina-marie-ange-todorovitch-daniel-belcher/lamour-de-loin",
+    "cover_url": "https://e.snmc.io/i/600/s/1bdf7cd3cc93821a52c39104f1e34dc8/5622674/Deutsches%20Symphonie-Orchester%20Berlin%20%2F%20Rundfunkchor%20Berlin%20%2F%20Kent%20Nagano%20%2F%20Ekaterina%20Lekhina%20%2F%20Marie-Ange%20Todorovitch%20%2F%20Daniel%20Belcher%20-%20L'amour%20de%20loin%2C%20Cover%20art.jpeg",
+    "rating": "3.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Modern Classical"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Don Giovanni",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/philharmonia-orchestra-and-chorus-carlo-maria-giulini-eberhard-wachter-joan-sutherland-luigi-alva-gottlob-frick-elisabeth-schwarzkopf-giuseppe-taddei-piero-cappuccilli-graziella-sciutti/don-giovanni",
+    "cover_url": "https://e.snmc.io/i/600/s/beef6ae812f8c68ee5843f526c8f5623/1546275/Philharmonia%20Orchestra%20%26%20Chorus%20%2F%20Carlo%20Maria%20Giulini%20%2F%20Eberhard%20W%C3%A4chter%20%2F%20Joan%20Sutherland%20%2F%20Luigi%20Alva%20%2F%20Gottlob%20Frick%20%2F%20Elisabeth%20Schwarzkopf%20%2F%20Giuseppe%20Taddei%20%2F%20Piero%20Cappuccilli%20%2F%20Graziella%20Sciutti%20-%20Don%20Giovanni%2C%20Cover%20art.jpeg",
+    "rating": "3.80",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Opera buffa"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Claudio Monteverdi /",
+    "title": "L'Orfeo",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/john-eliot-gardiner/lorfeo",
+    "cover_url": "https://e.snmc.io/i/600/s/c27c4580b04ac14c5616a29f496ed9a0/4621579/John%20Eliot%20Gardiner%20-%20L'Orfeo%2C%20Cover%20art.jpeg",
+    "rating": "3.80",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Baroque Music",
+      "Renaissance Music"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Die Zauberflöte",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/berliner-philharmoniker-karl-bohm-evelyn-lear-lisa-otto-roberta-peters-franz-crass-dietrich-fischer-dieskau-hans-hotter-fritz-wunderlich/die-zauberflote",
+    "cover_url": "https://e.snmc.io/i/600/s/83d526caa373384dfc7e4fc488f2a5fe/6069574/Berliner%20Philharmoniker%20%2F%20Karl%20B%C3%B6hm%20%2F%20Evelyn%20Lear%20%2F%20Lisa%20Otto%20%2F%20Roberta%20Peters%20%2F%20Franz%20Crass%20%2F%20Dietrich%20Fischer-Dieskau%20%2F%20Hans%20Hotter%20%2F%20Fritz%20Wunderlich%20-%20Die%20Zauberfl%C3%B6te%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Singspiel"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Alban Berg /",
+    "title": "Lulu",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orchestre-de-lopera-de-paris-pierre-boulez-teresa-stratas-yvonne-minton-hanna-schwarz-franz-mazura-kenneth-riegel-toni-blankenheim-robert-tear-helmut-pampuch/lulu",
+    "cover_url": "https://e.snmc.io/i/600/s/3799b5638c8e2f6b7e2227d6cce8edae/5329342/Orchestre%20de%20l'Op%C3%A9ra%20de%20Paris%20%2F%20Pierre%20Boulez%20%2F%20Teresa%20Stratas%20%2F%20Yvonne%20Minton%20%2F%20Hanna%20Schwarz%20%2F%20Franz%20Mazura%20%2F%20Kenneth%20Riegel%20%2F%20Toni%20Blankenheim%20%2F%20Robert%20Tear%20%2F%20Helmut%20Pampuch%20-%20Lulu%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Modern Classical",
+      "Expressionism",
+      "Serialism"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Philip Glass /",
+    "title": "Satyagraha",
+    "year": 1985,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-new-york-city-opera-orchestra-and-chorus/satyagraha",
+    "cover_url": "https://e.snmc.io/i/600/s/8f73709795bdea723d3ef642b3878470/6326714/The%20New%20York%20City%20Opera%20Orchestra%20%26%20Chorus%20-%20Satyagraha%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Minimalism",
+      "Post-Minimalism"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Le nozze di Figaro",
+    "year": 1955,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-vienna-philharmonic-orchestra-cast-and-chorus-of-the-vienna-state-opera-erich-kleiber-hilde-gueden-lisa-della-casa-suzanne-danco-cesare-siepi-alfred-poell-fernando-corena/le-nozze-di-figaro",
+    "cover_url": "https://e.snmc.io/i/600/s/cea23a12de156b0e87a35a5beb30dbb4/7751959/The%20Vienna%20Philharmonic%20Orchestra%20%2F%20Cast%20and%20Chorus%20of%20the%20Vienna%20State%20Opera%20%2F%20Erich%20Kleiber%20%2F%20Hilde%20Gueden%20%2F%20Lisa%20Della%20Casa%20%2F%20Suzanne%20Danco%20%2F%20Cesare%20Siepi%20%2F%20Alfred%20Poell%20%2F%20Fernando%20Corena%20-%20Le%20nozze%20di%20Figaro%2C%20Cover%20art.jpeg",
+    "rating": "3.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera buffa",
+      "Classical Period"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Giacomo Puccini",
+    "title": "Teatro alla Scala: Tosca",
+    "year": 1953,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orchestra-of-la-scala-opera-house-milan-chorus-of-la-scala-opera-house-milan-victor-de-sabata-maria-callas-giuseppe-di-stefano-tito-gobbi/teatro-alla-scala-tosca",
+    "cover_url": "https://e.snmc.io/i/600/s/de307d29df7ae8e74fc0426201a1985d/2898364/Orchestra%20of%20La%20Scala%20Opera%20House%2C%20Milan%20%2F%20Chorus%20of%20La%20Scala%20Opera%20House%2C%20Milan%20%2F%20Victor%20De%20Sabata%20%2F%20Maria%20Callas%20%2F%20Giuseppe%20Di%20Stefano%20%2F%20Tito%20Gobbi%20-%20Teatro%20alla%20Scala%3A%20Tosca%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Opera",
+      "Verismo"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Compagnia il Cerchio,",
+    "title": "La gatta Cenerentola",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/compagnia-il-cerchio-roberto-de-simone-nuova-compagnia-di-canto-popolare/la-gatta-cenerentola",
+    "cover_url": "https://e.snmc.io/i/600/s/681b143ec10bab8af8dca47074b956c8/9024448/Compagnia%20il%20Cerchio%2C%20Roberto%20De%20Simone%20%26%20Nuova%20Compagnia%20di%20Canto%20Popolare%20-%20La%20gatta%20Cenerentola%2C%20Cover%20art.png",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Canzone napoletana",
+      "Operetta",
+      "Spoken Word"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Kurt Weill /",
+    "title": "Die Dreigroschenoper",
+    "year": 1982,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/wilhelm-bruckner-ruggeberg-lotte-lenya/die-dreigroschenoper",
+    "cover_url": "https://e.snmc.io/i/600/s/5609a1620e9bca1c3e212ee5758c577a/2712798/Wilhelm%20Br%C3%BCckner-R%C3%BCggeberg%20%2F%20Lotte%20Lenya%20-%20Die%20Dreigroschenoper%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Operetta",
+      "Zeitoper",
+      "Traditional Pop",
+      "Cabaret"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Fausto Romitelli /",
+    "title": "An Index of Metals",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ictus_f2/an_index_of_metals",
+    "cover_url": "https://e.snmc.io/i/600/s/e9af91875d62a38d3871e884ca40e4c2/2251311/Ictus%20-%20An%20Index%20of%20Metals%2C%20Cover%20art.jpeg",
+    "rating": "3.70",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Modern Classical",
+      "Opera",
+      "Electroacoustic",
+      "Serialism"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Georges Bizet",
+    "title": "Carmen",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orchestre-de-lopera-national-de-paris-choeurs-rene-duclos-georges-pretre-maria-callas-andrea-guiot-nicolai-gedda-robert-massard/carmen",
+    "cover_url": "https://e.snmc.io/i/600/s/801f2d6e4139b96d8e1552fa2a666a83/4112878/Orchestre%20de%20l'Op%C3%A9ra%20National%20de%20Paris%20%2F%20Ch%C5%93urs%20Ren%C3%A9%20Duclos%20%2F%20Georges%20Pr%C3%AAtre%20%2F%20Maria%20Callas%20%2F%20Andr%C3%A9a%20Guiot%20%2F%20Nicolai%20Gedda%20%2F%20Robert%20Massard%20-%20Carmen%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opéra-comique",
+      "Romanticism",
+      "Opera buffa"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Giacomo Puccini",
+    "title": "La bohème",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/berliner-philharmoniker-herbert-von-karajan-freni-pavarotti-harwood-panerai-maffeo-ghiaurov/la-boheme",
+    "cover_url": "https://e.snmc.io/i/600/s/8f592ef9916d77b74e9648d13a0543ec/3986262/Berliner%20Philharmoniker%20%2F%20Herbert%20von%20Karajan%20%2F%20Freni%20%2F%20Pavarotti%20%2F%20Harwood%20%2F%20Panerai%20%2F%20Maffeo%20%2F%20Ghiaurov%20-%20La%20boh%C3%A8me%2C%20Cover%20art.jpeg",
+    "rating": "3.68",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Verismo",
+      "Opera",
+      "Opera",
+      "Western Classical Music"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Richard Wagner",
+    "title": "Lohengrin",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/wiener-philharmoniker-wiener-staatsopernchor-rudolf-kempe-jess-thomas-elisabeth-grummer-dietrich-fischer-dieskau-christa-ludwig-gottlob-frick-otto-wiener/lohengrin",
+    "cover_url": "https://e.snmc.io/i/600/s/4a5b220abe3597501f7009dcbe55862e/4659862/Wiener%20Philharmoniker%20%2F%20Wiener%20Staatsopernchor%20%2F%20Rudolf%20Kempe%20%2F%20Jess%20Thomas%20%2F%20Elisabeth%20Gr%C3%BCmmer%20%2F%20Dietrich%20Fischer-Dieskau%20%2F%20Christa%20Ludwig%20%2F%20Gottlob%20Frick%20%2F%20Otto%20Wiener%20-%20Lohengrin%2C%20Cover%20art.jpeg",
+    "rating": "3.86",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romantische Oper",
+      "New German School"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Richard Wagner",
+    "title": "Die Walküre",
+    "year": 1954,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/wiener-philharmoniker-wilhelm-furtwangler-martha-modl-ludwig-suthaus-leonie-rysanek-ferdinand-frantz-gottlob-frick-margarete-klose/die-walkure",
+    "cover_url": "https://e.snmc.io/i/600/s/5eecce27244f0a0128113768a429373c/2048411/Wiener%20Philharmoniker%20%2F%20Wilhelm%20Furtw%C3%A4ngler%20%2F%20Martha%20M%C3%B6dl%20%2F%20Ludwig%20Suthaus%20%2F%20Leonie%20Rysanek%20%2F%20Ferdinand%20Frantz%20%2F%20Gottlob%20Frick%20%2F%20Margarete%20Klose%20-%20Die%20Walk%C3%BCre%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera",
+      "Romanticism",
+      "New German School"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Keiichiro Shibuya\n渋谷慶一郎 &",
+    "title": "The End",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/keiichiro-shibuya-hatsune-miku/the-end",
+    "cover_url": "https://e.snmc.io/i/600/s/7632ee7ce06fd9ce39f2a40b083e27f1/5077021/Keiichiro%20Shibuya%20%2B%20Hatsune%20Miku%20-%20The%20End%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Glitch Pop",
+      "Glitch",
+      "Art Pop",
+      "Modern Classical",
+      "Electropop"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Dagmar Krause",
+    "title": "Supply & Demand",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dagmar-krause/supply-and-demand",
+    "cover_url": "https://e.snmc.io/i/600/s/9acd3a31eacf4341aae40281497335a9/1471639/Dagmar%20Krause%20-%20Supply%20%26%20Demand%2C%20Cover%20art.jpeg",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cabaret",
+      "Zeitoper",
+      "Art Pop"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Henry Purcell",
+    "title": "Dido & Æneas",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/english-chamber-orchestra-the-st-anthony-singers-anthony-lewis/dido-and-aeneas",
+    "cover_url": "https://e.snmc.io/i/600/s/00e395757d2b3d61254aee5f1cf51266/5802487/English%20Chamber%20Orchestra%20%2F%20The%20St_%20Anthony%20Singers%20%2F%20Anthony%20Lewis%20-%20Dido%20%26%20%C3%86neas%2C%20Cover%20art.jpeg",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baroque Music",
+      "Opera"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Morton Feldman",
+    "title": "Neither: Opera",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/frankfurt-radio-s-o-zoltan-pesko-sarah-leonard/neither-opera",
+    "cover_url": "https://e.snmc.io/i/600/s/9597b607a894b2139d6f2a985c0ef30a/2358677/Frankfurt%20Radio%20S_%20O_%20%2F%20Zolt%C3%A1n%20Pesk%C3%B3%20%2F%20Sarah%20Leonard%20-%20Neither%3A%20Opera%2C%20Cover%20art.jpeg",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Modern Classical",
+      "Monodrama",
+      "Sonorism",
+      "Expressionism"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "John Adams /",
+    "title": "Nixon in China",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orchestra-of-st-lukes-edo-de-waart/nixon-in-china",
+    "cover_url": "https://e.snmc.io/i/600/s/c4d4237a5f3705ab6d64dae28b9f90f5/2227423/Orchestra%20of%20St_%20Luke's%20%2F%20Edo%20de%20Waart%20-%20Nixon%20in%20China%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Post-Minimalism",
+      "Opera",
+      "Neoclassicism"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Gioachino Rossini",
+    "title": "Il barbiere di Siviglia",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/philharmonia-orchestra-philharmonia-chorus-alceo-galliera-maria-callas-luigi-alva-tito-gobbi/il-barbiere-di-siviglia",
+    "cover_url": "https://e.snmc.io/i/600/s/db932d3a59805ec1e8b33a66d471d749/4981604/Philharmonia%20Orchestra%20%2F%20Philharmonia%20Chorus%20%2F%20Alceo%20Galliera%20%2F%20Maria%20Callas%20%2F%20Luigi%20Alva%20%2F%20Tito%20Gobbi%20-%20Il%20barbiere%20di%20Siviglia%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Opera buffa",
+      "Romanticism"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "The Marriage of Figaro",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/philharmonia-orchestra-philharmonia-chorus-carlo-maria-giulini-eberhard-waechter-elisabeth-schwarzkopf-fiorenza-cossotto-giuseppe-taddei-anna-moffo/the-marriage-of-figaro",
+    "cover_url": "https://e.snmc.io/i/600/s/e32991946eb5f20199b7ea6f7a2155e3/6622455/Philharmonia%20Orchestra%20%2F%20Philharmonia%20Chorus%20%2F%20Carlo%20Maria%20Giulini%20%2F%20Eberhard%20Waechter%20%2F%20Elisabeth%20Schwarzkopf%20%2F%20Fiorenza%20Cossotto%20%2F%20Giuseppe%20Taddei%20%2F%20Anna%20Moffo%20-%20The%20Marriage%20of%20Figaro%2C%20Cover%20art.jpeg",
+    "rating": "4.05",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Opera buffa"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Kurt Weill /",
+    "title": "Lotte Lenya singt Kurt Weill",
+    "year": 1955,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lotte-lenya/lotte-lenya-singt-kurt-weill",
+    "cover_url": "https://e.snmc.io/i/600/s/7b20b7ee8ac3137d59e5438628422038/11081996/Lotte%20Lenya%20-%20Lotte%20Lenya%20singt%20Kurt%20Weill%2C%20Cover%20art.jpeg",
+    "rating": "3.52",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cabaret",
+      "Show Tunes",
+      "Zeitoper",
+      "Operetta",
+      "Expressionism"
+    ]
+  }
+]

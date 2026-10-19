@@ -433,7 +433,7 @@ def run_rym_genre_all(args, root_dir: Path) -> None:
     """
     --rym-genre-all PARENT: scrape charts for every subgenre under a parent genre.
     """
-    from tools.must_hear.rym_charts_must_hear import run_rym_chart, _slug_from_chart_url
+    from tools.must_hear.rym_charts_must_hear import run_rym_chart, _slug_from_chart_url, RymBrowser, STATE_DIR
 
     parent_slug = (getattr(args, "rym_genre_all", None) or "").strip()
     if not parent_slug:
@@ -457,28 +457,35 @@ def run_rym_genre_all(args, root_dir: Path) -> None:
     mh_conn = getattr(args, "_rym_chart_mh_conn", None)
     print(f"🎼 {len(targets)} chart(s) bajo '{parent['name']}'…")
 
-    for entry in targets:
-        slug = entry["slug"]
-        name = entry["name"]
-        chart_url = chart_url_from_slug(slug)
-        db_slug   = _slug_from_chart_url(chart_url)
+    # Un solo navegador para todos los charts: se abre al primero que haya que
+    # scrapear (ninguno si ya están todos) y se cierra al terminar o al interrumpir.
+    with RymBrowser(STATE_DIR) as browser:
+        args._rym_browser = browser
+        try:
+            for entry in targets:
+                slug = entry["slug"]
+                name = entry["name"]
+                chart_url = chart_url_from_slug(slug)
+                db_slug   = _slug_from_chart_url(chart_url)
 
-        if entry is parent:
-            derived_name = f"RYM Top — {name}"
-        else:
-            derived_name = f"RYM Top — {parent['name']} — {name}"
+                if entry is parent:
+                    derived_name = f"RYM Top — {name}"
+                else:
+                    derived_name = f"RYM Top — {parent['name']} — {name}"
 
-        print(f"\n── {derived_name} ──")
+                print(f"\n── {derived_name} ──")
 
-        # Skip if already scraped and --force-scrape not requested
-        if not force and mh_conn:
-            count = _collection_album_count(mh_conn, db_slug)
-            if count:
-                print(f"  ⏭  Ya en DB ({count} álbumes), omitiendo")
-                continue
+                # Skip if already scraped and --force-scrape not requested
+                if not force and mh_conn:
+                    count = _collection_album_count(mh_conn, db_slug)
+                    if count:
+                        print(f"  ⏭  Ya en DB ({count} álbumes), omitiendo")
+                        continue
 
-        args.rym_chart_url = chart_url
-        args.name          = derived_name
-        args.slug          = None   # let run_rym_chart derive it
-        args.collection    = getattr(args, "collection", None) or "RYM Charts"
-        run_rym_chart(args, root_dir)
+                args.rym_chart_url = chart_url
+                args.name          = derived_name
+                args.slug          = None   # let run_rym_chart derive it
+                args.collection    = getattr(args, "collection", None) or "RYM Charts"
+                run_rym_chart(args, root_dir)
+        finally:
+            args._rym_browser = None

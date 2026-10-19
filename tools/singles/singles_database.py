@@ -61,7 +61,7 @@ CREATE INDEX IF NOT EXISTS idx_sg_uh_track      ON user_heard(track_id);
 
 
 def open_db(path: str) -> sqlite3.Connection:
-    conn = sqlite3.connect(path)
+    conn = sqlite3.connect(path, timeout=60)   # carátulas y vídeos pueden escribir a la vez
     conn.row_factory = sqlite3.Row
     conn.executescript(SCHEMA)
     return conn

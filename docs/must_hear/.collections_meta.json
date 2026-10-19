@@ -11,18 +11,18 @@
   {
     "slug": "1001_albums_you_must_hear_before_you_die",
     "name": "1001 Albums You Must Hear Before You Die",
-    "users": 12,
+    "users": 13,
     "total": 999,
-    "avg_pct": 0.0,
-    "updated": "2026-04-08 15:49"
+    "avg_pct": 30.9,
+    "updated": "2026-10-19 13:03"
   },
   {
     "slug": "aoty",
     "name": "AOTY Must Hear",
-    "users": 12,
-    "total": 3150,
-    "avg_pct": 26.2,
-    "updated": "2026-04-02 23:48"
+    "users": 13,
+    "total": 3134,
+    "avg_pct": 28.1,
+    "updated": "2026-10-19 13:44"
   },
   {
     "slug": "bandcamp",
@@ -86,10 +86,10 @@
   {
     "slug": "rym_charts",
     "name": "RYM Charts",
-    "users": 12,
-    "total": 258595,
+    "users": 13,
+    "total": 255590,
     "avg_pct": 1.9,
-    "updated": "2026-04-08 20:32",
+    "updated": "2026-10-19 17:05",
     "url": "rym_charts/index.html"
   },
   {
@@ -120,10 +120,10 @@
   {
     "slug": "scaruffi",
     "name": "Scaruffi's Best Rock (by Decade)",
-    "users": 12,
+    "users": 13,
     "total": 4378,
-    "avg_pct": 10.0,
-    "updated": "2026-04-02 23:39",
+    "avg_pct": 11.0,
+    "updated": "2026-10-19 13:36",
     "url": "scaruffi/index.html"
   },
   {
@@ -133,7 +133,7 @@
     "total": 1195,
     "unit": "canciones",
     "avg_pct": 14.0,
-    "updated": "2026-10-19 12:24",
+    "updated": "2026-10-19 15:16",
     "url": "../singles/billboard_number_ones/index.html"
   },
   {
@@ -143,7 +143,7 @@
     "total": 6833,
     "unit": "canciones",
     "avg_pct": 8.2,
-    "updated": "2026-10-19 12:24",
+    "updated": "2026-10-19 15:16",
     "url": "../singles/billboard_year_end/index.html"
   },
   {
@@ -153,7 +153,7 @@
     "total": 74,
     "unit": "canciones",
     "avg_pct": 4.6,
-    "updated": "2026-10-19 12:24",
+    "updated": "2026-10-19 15:16",
     "url": "../singles/eurovision/index.html"
   },
   {
@@ -163,7 +163,7 @@
     "total": 546,
     "unit": "canciones",
     "avg_pct": 16.5,
-    "updated": "2026-10-19 12:24",
+    "updated": "2026-10-19 15:16",
     "url": "../singles/grammy_awards/index.html"
   },
   {
@@ -173,7 +173,7 @@
     "total": 2133,
     "unit": "canciones",
     "avg_pct": 12.3,
-    "updated": "2026-10-19 12:24",
+    "updated": "2026-10-19 15:16",
     "url": "../singles/los40_number_ones/index.html"
   },
   {
@@ -183,7 +183,7 @@
     "total": 355,
     "unit": "canciones",
     "avg_pct": 14.6,
-    "updated": "2026-10-19 12:24",
+    "updated": "2026-10-19 15:16",
     "url": "../singles/promusicae_number_ones/index.html"
   },
   {
@@ -193,7 +193,7 @@
     "total": 3293,
     "unit": "canciones",
     "avg_pct": 11.6,
-    "updated": "2026-10-19 12:24",
+    "updated": "2026-10-19 15:16",
     "url": "../singles/triple_j_hottest_100/index.html"
   },
   {
@@ -203,15 +203,15 @@
     "total": 1456,
     "unit": "canciones",
     "avg_pct": 10.3,
-    "updated": "2026-10-19 12:24",
+    "updated": "2026-10-19 15:16",
     "url": "../singles/uk_number_ones/index.html"
   },
   {
     "slug": "sputnik",
     "name": "Sputnikmusic Best Albums",
-    "users": 12,
+    "users": 13,
     "total": 6672,
-    "avg_pct": 2.5,
-    "updated": "2026-04-02 23:56"
+    "avg_pct": 2.8,
+    "updated": "2026-10-19 13:52"
   }
 ]

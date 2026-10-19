@@ -1,0 +1,803 @@
+[
+  {
+    "number": 1,
+    "artist": "Fernando Pellon",
+    "title": "Cadáver pega fogo durante o velório",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/fernando-pellon/cadaver-pega-fogo-durante-o-velorio",
+    "cover_url": "https://e.snmc.io/i/600/s/10c7594297b17973efd965a2189085c3/8965688/Fernando%20Pellon%20-%20Cad%C3%A1ver%20pega%20fogo%20durante%20o%20vel%C3%B3rio%2C%20Cover%20art.png",
+    "rating": "3.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-choro",
+      "Samba-canção",
+      "Partido alto"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Nelson Cavaquinho,",
+    "title": "Quatro grandes do samba",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nelson-cavaquinho-candeia-guilherme-de-brito-elton-medeiros/quatro-grandes-do-samba",
+    "cover_url": "https://e.snmc.io/i/600/s/01ab830918712a1e47ad5600ab9c00aa/8817474/Nelson%20Cavaquinho%2C%20Candeia%2C%20Guilherme%20de%20Brito%20%26%20Elton%20Medeiros%20-%20Quatro%20grandes%20do%20samba%2C%20Cover%20art.jpeg",
+    "rating": "3.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-choro",
+      "Samba-canção",
+      "Partido alto"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Paulinho da Viola",
+    "title": "A dança da solidão",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/paulinho-da-viola/a-danca-da-solidao",
+    "cover_url": "https://e.snmc.io/i/600/s/8c79d94e06c74440af0b2d86ca5c3106/3601563/Paulinho%20da%20Viola%20-%20A%20dan%C3%A7a%20da%20solid%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Quarteto em Cy",
+    "title": "Antologia do samba canção",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/quarteto-em-cy/antologia-do-samba-cancao",
+    "cover_url": "https://e.snmc.io/i/600/s/92d80cb23ba6d23451138ea34817776a/1708516/Quarteto%20em%20Cy%20-%20Antologia%20do%20samba%20can%C3%A7%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.99",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Vocal Group"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Sérgio Sampaio",
+    "title": "Tem que acontecer",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sergio-sampaio/tem-que-acontecer",
+    "cover_url": "https://e.snmc.io/i/600/s/ff6ee34c81fa4d67e27be1f974a4970f/2251525/S%C3%A9rgio%20Sampaio%20-%20Tem%20que%20acontecer%2C%20Cover%20art.jpeg",
+    "rating": "3.78",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Samba",
+      "Samba-canção",
+      "Samba-choro",
+      "Singer-Songwriter"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Chico Buarque de Hollanda",
+    "title": "Volume 3",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chico-buarque-de-hollanda/volume-3",
+    "cover_url": "https://e.snmc.io/i/600/s/d7524e1a762f85e64153a5db51dd6558/12304681/Chico%20Buarque%20de%20Hollanda%20-%20Volume%203%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "MPB",
+      "Singer-Songwriter",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Dorival Caymmi",
+    "title": "Canções praieiras",
+    "year": 1954,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dorival-caymmi/cancoes-praieiras",
+    "cover_url": "https://e.snmc.io/i/600/s/ce1c6677c9236e1bfd2efff02ea4e2b0/2398294/Dorival%20Caymmi%20-%20Can%C3%A7%C3%B5es%20praieiras%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Singer-Songwriter",
+      "Brazilian Folk Music",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Dorival Caymmi",
+    "title": "Caymmi e o mar",
+    "year": 1957,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dorival-caymmi/caymmi-e-o-mar",
+    "cover_url": "https://e.snmc.io/i/600/s/6f1c559e914f88ab9f2906d2a491a2c9/2434467/Dorival%20Caymmi%20-%20Caymmi%20e%20o%20mar%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Singer-Songwriter",
+      "Samba-canção",
+      "Brazilian Folk Music",
+      "Samba de roda",
+      "Spoken Word"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Elza Soares",
+    "title": "A bossa negra",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elza-soares/a-bossa-negra",
+    "cover_url": "https://e.snmc.io/i/600/s/aab3111da9df764df79e21529ddc4a22/9412894/Elza%20Soares%20-%20A%20bossa%20negra%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Sambalanço",
+      "Vocal Jazz",
+      "Big Band"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Jocy de Oliveira",
+    "title": "A música século XX de Jocy",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jocy_de_oliveira/a_musica_seculo_xx_de_jocy",
+    "cover_url": "https://e.snmc.io/i/600/s/7cc2404fa88397c04ae1cf1488e3a39f/6978270/Jocy%20de%20Oliveira%20-%20A%20m%C3%BAsica%20s%C3%A9culo%20XX%20de%20Jocy%2C%20Cover%20art.jpeg",
+    "rating": "3.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Bossa nova",
+      "Avant-Folk",
+      "Poetry",
+      "Modern Classical"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Dorival Caymmi",
+    "title": "Caymmi",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dorival-caymmi/caymmi-1",
+    "cover_url": "https://e.snmc.io/i/600/s/cd4f1600cfe29dd075dd2bf44fd9bde1/7086809/Dorival%20Caymmi%20-%20Caymmi%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Samba-canção",
+      "Singer-Songwriter",
+      "Candomblé Music"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Alaíde Costa",
+    "title": "O que meus calos dizem sobre mim",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alaide-costa/o-que-meus-calos-dizem-sobre-mim",
+    "cover_url": "https://e.snmc.io/i/600/s/d0922ac716bea6ea7052a372622131d5/9957204/Ala%C3%ADde%20Costa%20-%20O%20que%20meus%20calos%20dizem%20sobre%20mim%2C%20Cover%20art.jpeg",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vocal Jazz",
+      "Samba-canção",
+      "Samba-jazz",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Elizeth Cardoso",
+    "title": "Canção do amor demais",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elizeth-cardoso/cancao-do-amor-demais",
+    "cover_url": "https://e.snmc.io/i/600/s/4884b13b809d832b6f836f494feac50a/3922920/Elizeth%20Cardoso%20-%20Can%C3%A7%C3%A3o%20do%20amor%20demais%2C%20Cover%20art.jpeg",
+    "rating": "3.52",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-canção",
+      "Samba-canção",
+      "Modinha"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Joyce",
+    "title": "Joyce",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joyce/joyce",
+    "cover_url": "https://e.snmc.io/i/600/s/14360fb199c994bb3f9a16f4fba4ba42/4728244/Joyce%20-%20Joyce%2C%20Cover%20art.jpeg",
+    "rating": "3.51",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "MPB",
+      "Samba-canção",
+      "Samba-jazz",
+      "Baroque Pop"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Ana Lúcia",
+    "title": "Canta triste",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ana-lucia/canta-triste",
+    "cover_url": "https://e.snmc.io/i/600/s/078194127b086c268da3520a7dc14478/7433839/Ana%20L%C3%BAcia%20-%20Canta%20triste%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Chico Buarque de Hollanda",
+    "title": "Volume 2",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chico-buarque-de-hollanda/volume-2",
+    "cover_url": "https://e.snmc.io/i/600/s/df41e999b217795d5bab0fd37d422af9/5663920/Chico%20Buarque%20de%20Hollanda%20-%20Volume%202%2C%20Cover%20art.jpeg",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Singer-Songwriter",
+      "Choro",
+      "MPB"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Paulinho da Viola",
+    "title": "Bebadosamba",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/paulinho-da-viola/bebadosamba",
+    "cover_url": "https://e.snmc.io/i/600/s/f55e7c7d894c1872fe53654249fcd0d2/1749867/Paulinho%20da%20Viola%20-%20Bebadosamba%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Samba-exaltação"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Aracy de Almeida",
+    "title": "Noel Rosa",
+    "year": 1950,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/aracy-de-almeida/noel-rosa",
+    "cover_url": "https://e.snmc.io/i/600/s/cb95ea66e3461239461f21fe3ec31ecc/2027809/Aracy%20de%20Almeida%20-%20Noel%20Rosa%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Alaíde Costa",
+    "title": "E o tempo agora quer voar",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alaide-costa/e-o-tempo-agora-quer-voar",
+    "cover_url": "https://e.snmc.io/i/600/s/4b35c8e03ea9fdc27c50e30de37e13a9/12329210/Ala%C3%ADde%20Costa%20-%20E%20o%20tempo%20agora%20quer%20voar%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Vocal Jazz",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Dorival Caymmi",
+    "title": "Sambas",
+    "year": 1955,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dorival-caymmi/sambas",
+    "cover_url": "https://e.snmc.io/i/600/s/533766c6b75053309c9ae680ff7b1aa6/1694984/Dorival%20Caymmi%20-%20Sambas%2C%20Cover%20art.jpeg",
+    "rating": "3.47",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Singer-Songwriter",
+      "Brazilian Classical Music"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Dolores Duran",
+    "title": "Canta para você dançar...",
+    "year": 1957,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dolores-duran/canta-para-voce-dancar",
+    "cover_url": "https://e.snmc.io/i/600/s/b2eddada7fb0ad676d8c289294b85925/2326866/Dolores%20Duran%20-%20Canta%20para%20voc%C3%AA%20dan%C3%A7ar___%2C%20Cover%20art.jpeg",
+    "rating": "3.47",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Maysa",
+    "title": "Convite para ouvir Maysa n.° 2",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/maysa/convite-para-ouvir-maysa-n-2",
+    "cover_url": "https://e.snmc.io/i/600/s/98c069b8ef9b2c6fb368cf6dd7eec09d/14594389/Maysa%20-%20Convite%20para%20ouvir%20Maysa%20n_%C2%B0%202%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Traditional Pop",
+      "Traditional Pop",
+      "Vocal Jazz"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Luiz Bonfá",
+    "title": "A voz e o violão",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luiz-bonfa/a-voz-e-o-violao",
+    "cover_url": "https://e.snmc.io/i/600/s/2c5dc1f6b310cb1c8116b837e8fbfffb/2273397/Luiz%20Bonf%C3%A1%20-%20A%20voz%20e%20o%20viol%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Sylvia Telles",
+    "title": "Amor de gente moça",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sylvia-telles/amor-de-gente-moca",
+    "cover_url": "https://e.snmc.io/i/600/s/af5a038a4b85f631c99e01cdcba07451/3122958/Sylvia%20Telles%20-%20Amor%20de%20gente%20mo%C3%A7a%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Bossa nova",
+      "Vocal Jazz"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Beth Carvalho",
+    "title": "Andança",
+    "year": 1969,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/beth-carvalho/andanca",
+    "cover_url": "https://e.snmc.io/i/600/s/abcaf6a9fa9491bb2adaa7f244c65d95/7508068/Beth%20Carvalho%20-%20Andan%C3%A7a%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "MPB",
+      "Samba-canção",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Alaíde Costa",
+    "title": "Coração",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alaide-costa/coracao",
+    "cover_url": "https://e.snmc.io/i/600/s/149ddc80617b7c06a013130a8889bad0/1731224/Ala%C3%ADde%20Costa%20-%20Cora%C3%A7%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Tuca",
+    "title": "Tuca",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tuca/tuca",
+    "cover_url": "https://e.snmc.io/i/600/s/732269c0c936e2ab307f4f6b9a853084/1760783/Tuca%20-%20Tuca%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Bossa nova",
+      "Baroque Pop",
+      "MPB"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Maysa",
+    "title": "Barquinho",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/maysa/barquinho",
+    "cover_url": "https://e.snmc.io/i/600/s/24a73e6c266ead7530b8fb65c292b421/1846359/Maysa%20-%20Barquinho%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Bossa nova",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Chico Buarque de Hollanda",
+    "title": "Na Itália",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chico-buarque-de-hollanda/na-italia",
+    "cover_url": "https://e.snmc.io/i/600/s/65eeb4b61694e5ee242c678cbd505454/14850590/Chico%20Buarque%20de%20Hollanda%20-%20Na%20It%C3%A1lia%2C%20Cover%20art.jpeg",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "MPB"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Dorival Caymmi",
+    "title": "Eu não tenho onde morar",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dorival-caymmi/eu-nao-tenho-onde-morar",
+    "cover_url": "https://e.snmc.io/i/600/s/e362c7adfa1f9b3f661a8971aef39aea/1695557/Dorival%20Caymmi%20-%20Eu%20n%C3%A3o%20tenho%20onde%20morar%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Singer-Songwriter",
+      "Brazilian Classical Music"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Jards Macalé",
+    "title": "4 batutas & 1 coringa",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jards-macale/4-batutas-and-1-coringa",
+    "cover_url": "https://e.snmc.io/i/600/s/f2cdd2617b38f01eeb964d4e211815cb/1675174/Jards%20Macal%C3%A9%20-%204%20batutas%20%26%201%20coringa%2C%20Cover%20art.jpeg",
+    "rating": "3.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Samba",
+      "Chamber Music"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Nelson Gonçalves",
+    "title": "Passado e presente",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nelson-goncalves/passado-e-presente",
+    "cover_url": "https://e.snmc.io/i/600/s/ed6e91d8eeb3847fd0ff078d96a1e41a/11093556/Nelson%20Gon%C3%A7alves%20-%20Passado%20e%20presente%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "MPB",
+      "Samba-choro"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Chico Buarque",
+    "title": "Chico",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chico-buarque/chico",
+    "cover_url": "https://e.snmc.io/i/600/s/8315d4f50e54dc39fbaac38843d5ca00/3770013/Chico%20Buarque%20-%20Chico%2C%20Cover%20art.jpeg",
+    "rating": "3.11",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Samba-canção",
+      "Singer-Songwriter"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Zélia Duncan",
+    "title": "Eu me transformo em outras",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zelia-duncan/eu-me-transformo-em-outras",
+    "cover_url": "https://e.snmc.io/i/600/s/8c2652ee139f3a1d85869463c3f1683c/1490219/Z%C3%A9lia%20Duncan%20-%20Eu%20me%20transformo%20em%20outras%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Samba de breque",
+      "Choro"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Riachão /",
+    "title": "Sambas da Bahia",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/riachao-batatinha-panela/sambas-da-bahia",
+    "cover_url": "https://e.snmc.io/i/600/s/ba2fb63724c0a1a7cacb2bc7aad11c7c/2713328/Riach%C3%A3o%20%2F%20Batatinha%20%2F%20Panela%20-%20Sambas%20da%20Bahia%2C%20Cover%20art.jpeg",
+    "rating": "3.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "João de Barro",
+    "title": "Série documento",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-de-barro/serie-documento",
+    "cover_url": "https://e.snmc.io/i/600/s/fb11b644e2d25f198a9a985cbcf4963d/4210890/Jo%C3%A3o%20de%20Barro%20-%20S%C3%A9rie%20documento%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Aracy de Almeida",
+    "title": "Noel Rosa: 2ª série",
+    "year": 1951,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/aracy-de-almeida/noel-rosa-2a-serie",
+    "cover_url": "https://e.snmc.io/i/600/s/c68c585357fb6b2d8c89f2a91e9eea09/5436956/Aracy%20de%20Almeida%20-%20Noel%20Rosa%3A%202%C2%AA%20s%C3%A9rie%2C%20Cover%20art.jpeg",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Aracy de Almeida",
+    "title": "Samba é Aracy de Almeida",
+    "year": 1966,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/aracy-de-almeida/samba-e-aracy-de-almeida",
+    "cover_url": "https://e.snmc.io/i/600/s/0abce2b9c44374a961a4b78409585782/1563526/Aracy%20de%20Almeida%20-%20Samba%20%C3%A9%20Aracy%20de%20Almeida%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Samba-jazz",
+      "Sambalanço",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Lúcio Alves",
+    "title": "A noite de meu bem",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lucio-alves/a-noite-de-meu-bem",
+    "cover_url": "https://e.snmc.io/i/600/s/28fbcf804babdcbbde238d2d509dfe02/3862341/L%C3%BAcio%20Alves%20-%20A%20noite%20de%20meu%20bem%2C%20Cover%20art.jpeg",
+    "rating": "3.63",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Aracy de Almeida",
+    "title": "O samba em pessôa",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/aracy-de-almeida/o-samba-em-pessoa-1",
+    "cover_url": "https://e.snmc.io/i/600/s/c75d26a8d99cbc7342aeed5fa49332cd/3605107/Aracy%20de%20Almeida%20-%20O%20samba%20em%20pess%C3%B4a%2C%20Cover%20art.jpeg",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção"
+    ]
+  }
+]

@@ -1,0 +1,735 @@
+[
+  {
+    "number": 1,
+    "artist": "João Gomes",
+    "title": "Eu tenho a senha",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gomes/eu-tenho-a-senha",
+    "cover_url": "https://e.snmc.io/i/600/s/bd530a0fc72c16dbb9652315c675b1d2/9133682/Jo%C3%A3o%20Gomes%20-%20Eu%20tenho%20a%20senha%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Pabllo Vittar",
+    "title": "Batidão tropical",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pabllo-vittar/batidao-tropical",
+    "cover_url": "https://e.snmc.io/i/600/s/7c982125c93356bc1dce00dd016426e2/12058641/Pabllo%20Vittar%20-%20Batid%C3%A3o%20tropical%2C%20Cover%20art.jpeg",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "Brega calypso",
+      "Tecnobrega",
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Pabllo Vittar",
+    "title": "Batidão tropical vol. 2",
+    "year": 2048,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pabllo-vittar/batidao-tropical-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/6aeeeb4e202d26c1aaad8c2bf290d52d/11950468/Pabllo%20Vittar%20-%20Batid%C3%A3o%20tropical%20vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "3.32",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "Tecnobrega",
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Calcinha Preta",
+    "title": "Vol. 12: Mágica",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/calcinha-preta/vol-12-magica",
+    "cover_url": "https://e.snmc.io/i/600/s/27cc3d900c7c6b0a53ec6d323312c1ed/9908519/Calcinha%20Preta%20-%20Vol_%2012%3A%20M%C3%A1gica%2C%20Cover%20art.jpeg",
+    "rating": "3.89",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "AOR",
+      "Brega calypso"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Os Barões da Pisadinha",
+    "title": "Agora eu pego mesmo",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/os-baroes-da-pisadinha/agora-eu-pego-mesmo",
+    "cover_url": "https://e.snmc.io/i/600/s/305907b64ba1c94c910eca20227c83c7/8371929/Os%20Bar%C3%B5es%20da%20Pisadinha%20-%20Agora%20eu%20pego%20mesmo%2C%20Cover%20art.jpeg",
+    "rating": "2.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "João Gomes",
+    "title": "Digo ou não digo",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gomes/digo-ou-nao-digo",
+    "cover_url": "https://e.snmc.io/i/600/s/d0ea8bc813c2f2ac23c1114f3ebd9250/9922246/Jo%C3%A3o%20Gomes%20-%20Digo%20ou%20n%C3%A3o%20digo%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Forro in the Dark",
+    "title": "Forro Zinho",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/forro-in-the-dark/forro-zinho",
+    "cover_url": "https://e.snmc.io/i/600/s/bf8703d276b645f0832e04547a639956/5814724/Forro%20in%20the%20Dark%20-%20Forro%20Zinho%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "Jazz-Rock",
+      "Tropicália"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Getúlio Abelha",
+    "title": "Autópsia+",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/getulio-abelha/autopsia",
+    "cover_url": "https://e.snmc.io/i/600/s/7349deae85243de171dccb14a792c7a3/14382994/Get%C3%BAlio%20Abelha%20-%20Aut%C3%B3psia%2B%2C%20Cover%20art.jpeg",
+    "rating": "3.68",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "Brega",
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Aviões do Forró",
+    "title": "Volume 3 - A diferença está no ar",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/avioes-do-forro/volume-3-a-diferenca-esta-no-ar",
+    "cover_url": "https://e.snmc.io/i/600/s/8aac4bf14999fd4bc58a39a6fa684851/10133858/Avi%C3%B5es%20do%20Forr%C3%B3%20-%20Volume%203%20-%20A%20diferen%C3%A7a%20est%C3%A1%20no%20ar%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Zé Vaqueiro",
+    "title": "O original",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ze-vaqueiro/o-original",
+    "cover_url": "https://e.snmc.io/i/600/s/dab078b2f7a8d33a9e3b99e52e9af943/8775128/Z%C3%A9%20Vaqueiro%20-%20O%20original%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro",
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "João Gomes",
+    "title": "RAIZ",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gomes/raiz",
+    "cover_url": "https://e.snmc.io/i/600/s/4fa6658c78567f5d584ea48f9dbba954/12809183/Jo%C3%A3o%20Gomes%20-%20RAIZ%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "João Gomes",
+    "title": "De norte a sul",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gomes/de-norte-a-sul",
+    "cover_url": "https://e.snmc.io/i/600/s/3d9eeb00b58777c4d2866892e37f5fa7/11555799/Jo%C3%A3o%20Gomes%20-%20De%20norte%20a%20sul%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "João Gomes",
+    "title": "Vaquejada tá na moda",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gomes/vaquejada-ta-na-moda",
+    "cover_url": "https://e.snmc.io/i/600/s/4a86a5e5ddf53477309c7035cf0236fb/12254605/Jo%C3%A3o%20Gomes%20-%20Vaquejada%20t%C3%A1%20na%20moda%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Manoel Gomes",
+    "title": "Caneta azul",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/manoel-gomes/caneta-azul",
+    "cover_url": "https://e.snmc.io/i/600/s/6a243600a5cf1e8c2ed91973da052b71/10093387/Manoel%20Gomes%20-%20Caneta%20azul%2C%20Cover%20art.jpeg",
+    "rating": "2.32",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha",
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Potyguara Bardo",
+    "title": "Comédia Romântica",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/potyguara-bardo/comedia-romantica",
+    "cover_url": "https://e.snmc.io/i/600/s/70932acc08050183859ad0e6dd2179a1/15077687/Potyguara%20Bardo%20-%20Com%C3%A9dia%20Rom%C3%A2ntica%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro",
+      "Brega",
+      "Alt-Pop",
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Tarcísio do Acordeon",
+    "title": "Diferente dos iguais",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tarcisio-do-acordeon/diferente-dos-iguais",
+    "cover_url": "https://e.snmc.io/i/600/s/df82fac088d2aa79950bbc544977a3c3/8670586/Tarc%C3%ADsio%20do%20Acordeon%20-%20Diferente%20dos%20iguais%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Aretuza Lovi",
+    "title": "Borogodó pt.1",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/aretuza-lovi/borogodo-pt_1",
+    "cover_url": "https://e.snmc.io/i/600/s/576b2d9321dc120d5a453430d3ee969d/10162742/Aretuza%20Lovi%20-%20Borogod%C3%B3%20pt_1%2C%20Cover%20art.jpeg",
+    "rating": "3.09",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "Rasteirinha",
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Aviões do Forró",
+    "title": "Volume 4 - A diferença está no ar",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/avioes-do-forro/volume-4-a-diferenca-esta-no-ar",
+    "cover_url": "",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "Forró"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Calcinha Preta",
+    "title": "Vol. 11: Hoje à noite (Inéditas e ao vivo)",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/calcinha-preta/vol-11-hoje-a-noite-ineditas-e-ao-vivo",
+    "cover_url": "https://e.snmc.io/i/600/s/0936a1a00b37bf70d676973e054c037b/9908498/Calcinha%20Preta%20-%20Vol_%2011%3A%20Hoje%20%C3%A0%20noite%20(In%C3%A9ditas%20e%20ao%20vivo)%2C%20Cover%20art.jpeg",
+    "rating": "3.88",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "AOR",
+      "Xote"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Magníficos",
+    "title": "Fonte dos desejos",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/magnificos/fonte-dos-desejos",
+    "cover_url": "https://e.snmc.io/i/600/s/f9491edbb857531d9e9a31b33f56b44a/10906145/Magn%C3%ADficos%20-%20Fonte%20dos%20desejos%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Limão com Mel",
+    "title": "Toma conta de mim",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/limao-com-mel/toma-conta-de-mim",
+    "cover_url": "https://e.snmc.io/i/600/s/273bd32d998230323da679e0b761158f/9728939/Lim%C3%A3o%20com%20Mel%20-%20Toma%20conta%20de%20mim%2C%20Cover%20art.jpeg",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Jáder",
+    "title": "Quem mandou chamar???",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jader/quem-mandou-chamar",
+    "cover_url": "https://e.snmc.io/i/600/s/5d16150c8ea7ae9416c5b92f2c76e245/10038533/J%C3%A1der%20-%20Quem%20mandou%20chamar%3F%3F%3F%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Brega",
+      "Piseiro",
+      "Bregadeira"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Forró Boys",
+    "title": "É nóis na fita!, vol. 4",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/forro-boys/e-nois-na-fita-vol-4",
+    "cover_url": "https://e.snmc.io/i/600/s/b1ea4c5c4a01a1d2c0f14ef7a8fd0f33/9227270/Forr%C3%B3%20Boys%20-%20%C3%89%20n%C3%B3is%20na%20fita!%2C%20vol_%204%2C%20Cover%20art.jpeg",
+    "rating": "3.13",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro",
+      "Tecnobrega"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Desejo de Menina",
+    "title": "Moldura, vol. 3",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/desejo-de-menina/moldura-vol-3",
+    "cover_url": "https://e.snmc.io/i/600/s/c11a50f7481e2c6354f246663a71a009/11658504/Desejo%20de%20Menina%20-%20Moldura%2C%20vol_%203%2C%20Cover%20art.png",
+    "rating": "3.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró de favela",
+      "Forró eletrônico"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Forró Cavalo de Pau",
+    "title": "Cão chupando manga",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/forro-cavalo-de-pau/cao-chupando-manga",
+    "cover_url": "https://e.snmc.io/i/600/s/20b386544e012b6fe4201c239cf15d38/10135348/Forr%C3%B3%20Cavalo%20de%20Pau%20-%20C%C3%A3o%20chupando%20manga%2C%20Cover%20art.png",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Desejo de Menina",
+    "title": "Diga sim, vol. 4",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/desejo-de-menina/diga-sim-vol-4",
+    "cover_url": "https://e.snmc.io/i/600/s/7b1f13a6636abe026e7432b95e2b9230/11658494/Desejo%20de%20Menina%20-%20Diga%20sim%2C%20vol_%204%2C%20Cover%20art.png",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró de favela"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "João Gomes",
+    "title": "Do jeito que o povo gosta",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-gomes/do-jeito-que-o-povo-gosta",
+    "cover_url": "https://e.snmc.io/i/600/s/e1d764247482def9e44fa570a62b8a71/13398519/Jo%C3%A3o%20Gomes%20-%20Do%20jeito%20que%20o%20povo%20gosta%2C%20Cover%20art.jpeg",
+    "rating": "3.06",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Forrozão Tropykália",
+    "title": "Vol. 7 - Planeta de cores",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/forrozao-tropykalia/vol-7-planeta-de-cores",
+    "cover_url": "https://e.snmc.io/i/600/s/226d9c90ecbb8ac6f5ca0c2a852b2ee4/7381030/Forroz%C3%A3o%20Tropyk%C3%A1lia%20-%20Vol_%207%20-%20Planeta%20de%20cores%2C%20Cover%20art.jpeg",
+    "rating": "3.05",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Nelson Nascimento",
+    "title": "O rei da pizadinha",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nelson-nascimento/o-rei-da-pizadinha",
+    "cover_url": "https://e.snmc.io/i/600/s/5fb46fc7b3ef3a5d7544e087fee60646/8956669/Nelson%20Nascimento%20-%20O%20rei%20da%20pizadinha%2C%20Cover%20art.jpeg",
+    "rating": "3.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro",
+      "Forró eletrônico"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Rei da Cacimbinha",
+    "title": "Promocional Verão 2015",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rei-da-cacimbinha/promocional-verao-2015",
+    "cover_url": "https://e.snmc.io/i/600/s/1e41e1c46beb3208240082b906db0390/5569922/Rei%20da%20Cacimbinha%20-%20Promocional%20Ver%C3%A3o%202015%2C%20Cover%20art.jpeg",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Os Barões da Pisadinha",
+    "title": "As melhores 2018",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/os-baroes-da-pisadinha/as-melhores-2018",
+    "cover_url": "https://e.snmc.io/i/600/s/97dbcc91b23f04a76cb4ad953001e333/8995541/Os%20Bar%C3%B5es%20da%20Pisadinha%20-%20As%20melhores%202018%2C%20Cover%20art.jpeg",
+    "rating": "3.02",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro",
+      "Tecnobrega"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Aretuza Lovi",
+    "title": "Borogodó 2",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/aretuza-lovi/borogodo-2",
+    "cover_url": "https://e.snmc.io/i/600/s/1cbd938e55ca32bfa0c20dc6b2421f10/13165365/Aretuza%20Lovi%20-%20Borogod%C3%B3%202%2C%20Cover%20art.jpeg",
+    "rating": "3.06",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Tecnobrega",
+      "Forró eletrônico",
+      "Piseiro",
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Calcinha Preta",
+    "title": "Vol. 01 - A Banda de Forró Mais Gostosa do Brasil",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/calcinha-preta/vol-01-a-banda-de-forro-mais-gostosa-do-brasil",
+    "cover_url": "https://e.snmc.io/i/600/s/74a6f0ae6d5863e75fe7fac0c01fa2e9/4303535/Calcinha%20Preta%20-%20Vol_%2001%20-%20A%20Banda%20de%20Forr%C3%B3%20Mais%20Gostosa%20do%20Brasil%2C%20Cover%20art.jpeg",
+    "rating": "3.05",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Tarcísio do Acordeon",
+    "title": "A nova cara das vaquejadas",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tarcisio-do-acordeon/a-nova-cara-das-vaquejadas",
+    "cover_url": "https://e.snmc.io/i/600/s/d48f9cd143b4caea67294f443bbd6dae/8671851/Tarc%C3%ADsio%20do%20Acordeon%20-%20A%20nova%20cara%20das%20vaquejadas%2C%20Cover%20art.jpeg",
+    "rating": "3.98",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Calcinha Preta",
+    "title": "Vol. 10: A gente se vê lá",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/calcinha-preta/vol-10-a-gente-se-ve-la",
+    "cover_url": "https://e.snmc.io/i/600/s/10433ae564c901bd8f087b208461ead7/9908484/Calcinha%20Preta%20-%20Vol_%2010%3A%20A%20gente%20se%20v%C3%AA%20l%C3%A1%2C%20Cover%20art.png",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Desejo de Menina",
+    "title": "Esperando Você",
+    "year": 2010,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/desejo-de-menina/esperando-voce",
+    "cover_url": "https://e.snmc.io/i/600/s/979228ae6efecfd22e37e6f54dd8b973/7090728/Desejo%20de%20Menina%20-%20Esperando%20Voc%C3%AA%2C%20Cover%20art.jpeg",
+    "rating": "3.68",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró de favela"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Banda Magníficos",
+    "title": "Me usa",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/banda-magnificos/me-usa",
+    "cover_url": "https://e.snmc.io/i/600/s/760f7f09fc853a3fcbc8bfe2bebad7e8/6803387/Banda%20Magn%C3%ADficos%20-%20Me%20usa%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Vitor Fernandes",
+    "title": "Piseiro atualizado",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vitor-fernandes/piseiro-atualizado",
+    "cover_url": "https://e.snmc.io/i/600/s/49cf7a7e76338d1df976a36264ac949b/9159194/Vitor%20Fernandes%20-%20Piseiro%20atualizado%2C%20Cover%20art.jpeg",
+    "rating": "3.12",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Tarcísio do Acordeon",
+    "title": "Só resta beber",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tarcisio-do-acordeon/so-resta-beber",
+    "cover_url": "https://e.snmc.io/i/600/s/3abc4e27b823686a7e882e44bac33fb5/9822026/Tarc%C3%ADsio%20do%20Acordeon%20-%20S%C3%B3%20resta%20beber%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Piseiro"
+    ]
+  }
+]

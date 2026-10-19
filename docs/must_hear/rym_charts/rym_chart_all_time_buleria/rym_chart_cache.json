@@ -1,0 +1,60 @@
+[
+  {
+    "number": 1,
+    "artist": "Camarón de la Isla,",
+    "title": "Como el agua",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/camaron-con-paco-de-lucia-y-tomatito/como-el-agua",
+    "cover_url": "https://e.snmc.io/i/600/s/e3673ed78fc6e3ddcb524e5c043e45ad/14774156/Camar%C3%B3n%20con%20Paco%20de%20Luc%C3%ADa%20y%20%22Tomatito%22%20-%20Como%20el%20agua%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bulería",
+      "Flamenco",
+      "Flamenco nuevo"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Pansequito",
+    "title": "Bulerías",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pansequito/bulerias",
+    "cover_url": "",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bulería"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Joan Peiró Aznar",
+    "title": "Amor Nòmada",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joan-peiro-aznar/amor-nomada",
+    "cover_url": "https://e.snmc.io/i/600/s/0d711b2d41460fceb048c49db6ca3b99/12211369/Joan%20Peir%C3%B3%20Aznar%20-%20Amor%20N%C3%B2mada%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Jazz",
+      "Rumba catalana",
+      "Bulería"
+    ]
+  }
+]

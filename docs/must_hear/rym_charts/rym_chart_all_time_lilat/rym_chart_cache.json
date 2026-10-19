@@ -1,0 +1,58 @@
+[
+  {
+    "number": 1,
+    "artist": "Suntharaphon\nสุนทราภรณ์",
+    "title": "ตลุงพระมะเหลเถไถ",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/สุนทราภรณ์/ตลุงพระมะเหลเถไถ",
+    "cover_url": "https://e.snmc.io/i/600/s/332394789df25d3d3983486de02e2650/5078465/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C%20%5BSuntharaphon%5D%20-%20%E0%B8%95%E0%B8%A5%E0%B8%B8%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%80%E0%B8%96%E0%B9%84%E0%B8%96%2C%20Cover%20art.jpeg",
+    "rating": "3.16",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lilat",
+      "Luk krung"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Phensi Phongsi\nเพ็ญศรี ผ่องศรี",
+    "title": "วิหคเหิรลม",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/เพ็ญศรี_ผ่องศรี/วิหคเหิรลม",
+    "cover_url": "https://e.snmc.io/i/600/s/bc86ad8a0b926dcd9483c0980d040c94/5069102/%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D%E0%B8%A8%E0%B8%A3%E0%B8%B5%20%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5%20%5BPhensi%20Phongsi%5D%20-%20%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%84%E0%B9%80%E0%B8%AB%E0%B8%B4%E0%B8%A3%E0%B8%A5%E0%B8%A1%2C%20Cover%20art.jpeg",
+    "rating": "2.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lilat",
+      "Luk krung"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Suntharaphon\nสุนทราภรณ์",
+    "title": "ลีลาศ ชุดที่ 1",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/สุนทราภรณ์/ลีลาศ-ชุดที่-1",
+    "cover_url": "https://e.snmc.io/i/600/s/4877300aaa4f6593b2951e39c6f73e15/5078482/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C%20%5BSuntharaphon%5D%20-%20%E0%B8%A5%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B8%A8%20%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88%201%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Lilat"
+    ]
+  }
+]

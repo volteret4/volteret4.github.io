@@ -1,0 +1,764 @@
+[
+  {
+    "number": 1,
+    "artist": "Gaye Su Akyol",
+    "title": "Hologram İmparatorluğu",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gaye-su-akyol/hologram-imparatorlugu",
+    "cover_url": "https://e.snmc.io/i/600/s/f2373fe21c933611f9727363838fe31f/6305270/Gaye%20Su%20Akyol%20-%20Hologram%20%C4%B0mparatorlu%C4%9Fu%2C%20Cover%20art.jpeg",
+    "rating": "3.24",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi",
+      "Arabesk",
+      "Anatolian Rock"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Kamuran Akkor",
+    "title": "Kamuran Akkor",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kamuran-akkor/kamuran-akkor-1",
+    "cover_url": "https://e.snmc.io/i/600/s/5a65cd509f6d5c023434c92a1aa72b5b/6334668/Kamuran%20Akkor%20-%20Kamuran%20Akkor%2C%20Cover%20art.jpeg",
+    "rating": "3.36",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi",
+      "Turkish Classical Music"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Yıldız Tilbe",
+    "title": "Delikanlım",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/yildiz-tilbe/delikanlim",
+    "cover_url": "https://e.snmc.io/i/600/s/4f3361575b1111213e99a854c56e89db/1731231/Y%C4%B1ld%C4%B1z%20Tilbe%20-%20Delikanl%C4%B1m%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi",
+      "Turkish Pop"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Ahmet Kaya",
+    "title": "Hoşçakalın Gözüm",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ahmet-kaya/hoscakalin-gozum",
+    "cover_url": "https://e.snmc.io/i/600/s/aff33e301d5e69079c8c647788b743e8/2295317/Ahmet%20Kaya%20-%20Ho%C5%9F%C3%A7akal%C4%B1n%20G%C3%B6z%C3%BCm%2C%20Cover%20art.jpeg",
+    "rating": "3.36",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Özgün Müzik",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Zeki Müren",
+    "title": "Zirvedeki Şarkılar",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zeki-muren/zirvedeki-sarkilar",
+    "cover_url": "https://e.snmc.io/i/600/s/5621104fe3c2dfef7126a9df45ea2141/1954588/Zeki%20M%C3%BCren%20-%20Zirvedeki%20%C5%9Eark%C4%B1lar%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Classical Music",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Bülent Ersoy",
+    "title": "Yüz Karası",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bulent-ersoy/yuz-karasi",
+    "cover_url": "https://e.snmc.io/i/600/s/f948a5d233d72947fd6cf72ee939326c/9200066/B%C3%BClent%20Ersoy%20-%20Y%C3%BCz%20Karas%C4%B1%2C%20Cover%20art.jpeg",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Ferdi Özbeğen",
+    "title": "Mutluluklar",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ferdi-ozbegen/mutluluklar",
+    "cover_url": "https://e.snmc.io/i/600/s/08077ed3470f7881c7d1098b3e978770/13084576/Ferdi%20%C3%96zbe%C4%9Fen%20-%20Mutluluklar%2C%20Cover%20art.jpeg",
+    "rating": "3.12",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Kenan Temiz",
+    "title": "Mahkemeye Versem Seni Asarlar",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kenan-temiz/mahkemeye-versem-seni-asarlar",
+    "cover_url": "https://e.snmc.io/i/600/s/bc5b11e42fe0f3a205ec928e19597fd8/8905949/Kenan%20Temiz%20-%20Mahkemeye%20Versem%20Seni%20Asarlar%2C%20Cover%20art.jpeg",
+    "rating": "2.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Sibel Can",
+    "title": "Özledin mi?",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sibel-can/ozledin-mi",
+    "cover_url": "https://e.snmc.io/i/600/s/28df3f29f58e639c11b4a90bee5e21ee/1653504/Sibel%20Can%20-%20%C3%96zledin%20mi%3F%2C%20Cover%20art.jpeg",
+    "rating": "3.06",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Ebru Gündeş",
+    "title": "13,5",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ebru-gundes/13_5",
+    "cover_url": "https://e.snmc.io/i/600/s/3865b04d1120978732bd21d79a58ee09/4265522/Ebru%20G%C3%BCnde%C5%9F%20-%2013%2C5%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Pop",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Yıldız Tilbe",
+    "title": "Dillere Destan",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/yildiz-tilbe/dillere-destan",
+    "cover_url": "https://e.snmc.io/i/600/s/f4dddc7dd7ec8829b733964383f492ad/2415193/Y%C4%B1ld%C4%B1z%20Tilbe%20-%20Dillere%20Destan%2C%20Cover%20art.jpeg",
+    "rating": "3.07",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Pop",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Gülben Ergen",
+    "title": "Kör Aşık",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gulben-ergen/kor-asik",
+    "cover_url": "https://e.snmc.io/i/600/s/7089be2cc2091215b01fc5ca43df0476/3494657/G%C3%BClben%20Ergen%20-%20K%C3%B6r%20A%C5%9F%C4%B1k%2C%20Cover%20art.jpeg",
+    "rating": "2.85",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Pop",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Ebru Gündeş",
+    "title": "Ahdım Olsun",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ebru-gundes/ahdim-olsun",
+    "cover_url": "https://e.snmc.io/i/600/s/4e0955ca3605aae0b22a74fda59622a3/1798068/Ebru%20G%C3%BCnde%C5%9F%20-%20Ahd%C4%B1m%20Olsun%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Gülben Ergen",
+    "title": "Uçacaksın",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gulben-ergen/ucacaksin",
+    "cover_url": "https://e.snmc.io/i/600/s/15f2854e7915792cfc6643f559814e2e/2417416/G%C3%BClben%20Ergen%20-%20U%C3%A7acaks%C4%B1n%2C%20Cover%20art.jpeg",
+    "rating": "2.63",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Pop",
+      "Dance-Pop",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Sibel Can",
+    "title": "Akşam Sefası",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sibel-can/aksam-sefasi",
+    "cover_url": "https://e.snmc.io/i/600/s/9b24108f0f2f27daca10270c3686b73a/1965334/Sibel%20Can%20-%20Ak%C5%9Fam%20Sefas%C4%B1%2C%20Cover%20art.jpeg",
+    "rating": "2.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Pop",
+      "Arabesk",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Ebru Gündeş",
+    "title": "Kaçak",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ebru-gundes/kacak",
+    "cover_url": "https://e.snmc.io/i/600/s/81ca02be2b99c947e9e468d2d0e07ded/1798053/Ebru%20G%C3%BCnde%C5%9F%20-%20Ka%C3%A7ak%2C%20Cover%20art.jpeg",
+    "rating": "3.01",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Pop",
+      "Fantezi",
+      "Sophisti-Pop",
+      "Dance-Pop"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Ankaralı Turgut &",
+    "title": "Ankaranın Gülleri",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ankarali-turgut-ankarali-yasemin/ankaranin-gulleri",
+    "cover_url": "https://e.snmc.io/i/600/s/582ed4eead1cd41d20e45fe4a34aaeb5/12341337/Ankaral%C4%B1%20Turgut%20%26%20Ankaral%C4%B1%20Yasemin%20-%20Ankaran%C4%B1n%20G%C3%BClleri%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Mine Koşan",
+    "title": "Şaka Yaptım (Gelme)",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mine-kosan/saka-yaptim-gelme",
+    "cover_url": "https://e.snmc.io/i/600/s/d7360b593e81c0028b5f5a052eec39e8/2870507/Mine%20Ko%C5%9Fan%20-%20%C5%9Eaka%20Yapt%C4%B1m%20(Gelme)%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Ümit Besen",
+    "title": "Başka",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/umit_besen/baska",
+    "cover_url": "https://e.snmc.io/i/600/s/5c6d7a7c731c933e6e68daa9b25da054/6180326/%C3%9Cmit%20Besen%20-%20Ba%C5%9Fka%2C%20Cover%20art.jpeg",
+    "rating": "2.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Pop",
+      "Pop Rock",
+      "Fantezi",
+      "Arabesk"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Yıldız Tilbe",
+    "title": "Hastayım Sana",
+    "year": 2010,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/yildiz-tilbe/hastayim-sana",
+    "cover_url": "https://e.snmc.io/i/600/s/698f36e5e732a26db341f48abafcb44a/3164593/Y%C4%B1ld%C4%B1z%20Tilbe%20-%20Hastay%C4%B1m%20Sana%2C%20Cover%20art.jpeg",
+    "rating": "2.40",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi",
+      "Turkish Pop"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Muazzez Ersoy",
+    "title": "Seven Olmazki / Senin İçindi",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/muazzez-ersoy/seven-olmazki-senin-icindi",
+    "cover_url": "https://e.snmc.io/i/600/s/c12792c829936b33443f58f1ac3ec74f/13678773/Muazzez%20Ersoy%20-%20Seven%20Olmazki%20%2F%20Senin%20%C4%B0%C3%A7indi%2C%20Cover%20art.jpeg",
+    "rating": "3.17",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi",
+      "Turkish Pop",
+      "Adult Contemporary"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Gönül Akkor",
+    "title": "Allah",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gonul-akkor/allah",
+    "cover_url": "https://e.snmc.io/i/600/s/432285d96303d5be22b2d973d89035b0/12915957/G%C3%B6n%C3%BCl%20Akkor%20-%20Allah%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Özcan Deniz",
+    "title": "Beyaz Kelebeğim",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ozcan-deniz/beyaz-kelebegim",
+    "cover_url": "https://e.snmc.io/i/600/s/66c799c9eaa599898099bae11d76b966/1904042/%C3%96zcan%20Deniz%20-%20Beyaz%20Kelebe%C4%9Fim%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Sibel Can",
+    "title": "İşte Türk Sanat Müziği",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sibel-can/iste-turk-sanat-muzigi",
+    "cover_url": "https://e.snmc.io/i/600/s/62a83861906868b7ea0dbcbec88f0617/1653497/Sibel%20Can%20-%20%C4%B0%C5%9Fte%20T%C3%BCrk%20Sanat%20M%C3%BCzi%C4%9Fi%2C%20Cover%20art.jpeg",
+    "rating": "2.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi",
+      "Turkish Pop"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Yıldız Tilbe",
+    "title": "Salla Gitsin Dertlerini",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/yildiz-tilbe/salla-gitsin-dertlerini",
+    "cover_url": "https://e.snmc.io/i/600/s/5db119401d9b950f191b77b49867ab44/1483066/Y%C4%B1ld%C4%B1z%20Tilbe%20-%20Salla%20Gitsin%20Dertlerini%2C%20Cover%20art.jpeg",
+    "rating": "2.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Pop",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Ebru Gündeş",
+    "title": "Dön ne Olur",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ebru-gundes/don-ne-olur",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "1.99",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "İlkay",
+    "title": "Kusura Bakma",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ilkay/kusura-bakma",
+    "cover_url": "https://e.snmc.io/i/600/s/dacc1f4d417f0087ff9faf0e5f0a8c47/14995015/%C4%B0lkay%20-%20Kusura%20Bakma%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "İlkay",
+    "title": "Kim Kurtarır Güneşi",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ilkay/kim-kurtarir-gunesi",
+    "cover_url": "https://e.snmc.io/i/600/s/f053343e1bd109d64343f62c11e74497/14998369/%C4%B0lkay%20-%20Kim%20Kurtar%C4%B1r%20G%C3%BCne%C5%9Fi%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Ceylan",
+    "title": "Hayret Nasıl Yaşıyorum",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ceylan/hayret-nasil-yasiyorum",
+    "cover_url": "https://e.snmc.io/i/600/s/76f7454b01d931e315dd08fce035e6a2/11605498/Ceylan%20-%20Hayret%20Nas%C4%B1l%20Ya%C5%9F%C4%B1yorum%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Muazzez Ersoy",
+    "title": "Her Şeyim Sensin",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/muazzez-ersoy/her-seyim-sensin",
+    "cover_url": "https://e.snmc.io/i/600/s/223ef57dffc47394460344173a3fa616/12004607/Muazzez%20Ersoy%20-%20Her%20%C5%9Eeyim%20Sensin%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Kısmet Kandıralı",
+    "title": "Güzelsin yarim",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kismet-kandirali/guzelsin-yarim",
+    "cover_url": "https://e.snmc.io/i/600/s/38961bee6651b64b654fa7986dac3e74/13908741/K%C4%B1smet%20Kand%C4%B1ral%C4%B1%20-%20G%C3%BCzelsin%20yarim%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Bülent Ersoy",
+    "title": "Orkide 2",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bulent-ersoy/orkide-2",
+    "cover_url": "https://e.snmc.io/i/600/s/47b4e94d52d02465b333be2b60600e86/1646547/B%C3%BClent%20Ersoy%20-%20Orkide%202%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Classical Music",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Bülent Ersoy",
+    "title": "Sefam Olsun",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bulent-ersoy/sefam-olsun",
+    "cover_url": "https://e.snmc.io/i/600/s/64137cc436fed97214def885ac5f1fa7/1827998/B%C3%BClent%20Ersoy%20-%20Sefam%20Olsun%2C%20Cover%20art.jpeg",
+    "rating": "3.06",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi",
+      "Arabesk",
+      "Uzun Hava"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Yıldız Tezcan",
+    "title": "Unutulurmu?",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/yildiz-tezcan/unutulurmu",
+    "cover_url": "https://e.snmc.io/i/600/s/5a88d8a76b1a01bbb9d1048c73216a5f/11610170/Y%C4%B1ld%C4%B1z%20Tezcan%20-%20Unutulurmu%3F%2C%20Cover%20art.jpeg",
+    "rating": "2.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Alişan",
+    "title": "Ve kimselere güvenmiyorum",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alisan/ve-kimselere-guvenmiyorum",
+    "cover_url": "https://e.snmc.io/i/600/s/c3b517516d70858746f7036aad049fe1/1970622/Ali%C5%9Fan%20-%20Ve%20kimselere%20g%C3%BCvenmiyorum%2C%20Cover%20art.jpeg",
+    "rating": "2.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Sibel Can",
+    "title": "Bu Devirde",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sibel-can/bu-devirde",
+    "cover_url": "",
+    "rating": "2.11",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Turkish Pop",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Ebru Gündeş",
+    "title": "Sen Allah'ın Bir Lutfusun",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ebru-gundes/sen-allahin-bir-lutfusun",
+    "cover_url": "https://e.snmc.io/i/600/s/60eeacd59452c82762fc7933503fb0a1/1798076/Ebru%20G%C3%BCnde%C5%9F%20-%20Sen%20Allah'%C4%B1n%20Bir%20Lutfusun%2C%20Cover%20art.jpeg",
+    "rating": "2.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "İntizar",
+    "title": "Ömrüm senindir",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/intizar/omrum-senindir",
+    "cover_url": "https://e.snmc.io/i/600/s/dfbb6db753a88bb434367b0662398614/2935735/%C4%B0ntizar%20-%20%C3%96mr%C3%BCm%20senindir%2C%20Cover%20art.jpeg",
+    "rating": "2.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Kamuran Akkor",
+    "title": "Kuşlar Getirir Sesini",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kamuran-akkor/kuslar-getirir-sesini",
+    "cover_url": "https://e.snmc.io/i/600/s/b8e1b47d5a0fe1c29e4932014bdc490a/11631879/Kamuran%20Akkor%20-%20Ku%C5%9Flar%20Getirir%20Sesini%2C%20Cover%20art.jpeg",
+    "rating": "2.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Bülent Ersoy",
+    "title": "Öptüm",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bulent-ersoy/optum",
+    "cover_url": "https://e.snmc.io/i/600/s/82c863bcb182224509312c510bc22750/15059848/B%C3%BClent%20Ersoy%20-%20%C3%96pt%C3%BCm%2C%20Cover%20art.jpeg",
+    "rating": "2.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arabesk",
+      "Fantezi"
+    ]
+  }
+]

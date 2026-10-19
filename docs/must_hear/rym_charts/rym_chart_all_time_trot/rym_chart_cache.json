@@ -1,0 +1,754 @@
+[
+  {
+    "number": 1,
+    "artist": "E Pak Sa\n이박사",
+    "title": "Encyclopedia of Pon-chak\n李博士のポンチャック大百科",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/이박사/李博士のポンチャック大百科",
+    "cover_url": "https://e.snmc.io/i/600/s/acd1c6ecff11268a77e33308729be1fd/13487852/%EC%9D%B4%EB%B0%95%EC%82%AC%20%5BE%20Pak%20Sa%5D%20-%20%E6%9D%8E%E5%8D%9A%E5%A3%AB%E3%81%AE%E3%83%9D%E3%83%B3%E3%83%81%E3%83%A3%E3%83%83%E3%82%AF%E5%A4%A7%E7%99%BE%E7%A7%91%20%5BEncyclopedia%20of%20Pon-chak%5D%2C%20Cover%20art.png",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "趙容弼 [Cho Yong-pil]",
+    "title": "대표곡 모음: 창밖의 여자 / 단발 머리 / 돌아와요 부산항에",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/趙容弼-cho-yong-pil/대표곡-모음-창밖의-여자-단발-머리-돌아와요-부산항에",
+    "cover_url": "https://e.snmc.io/i/600/s/87538247aac9b6de43706fc2965818ea/2079225/%E8%B6%99%E5%AE%B9%E5%BC%BC%20%5BCho%20Yong-pil%5D%20-%20%EB%8C%80%ED%91%9C%EA%B3%A1%20%EB%AA%A8%EC%9D%8C%3A%20%EC%B0%BD%EB%B0%96%EC%9D%98%20%EC%97%AC%EC%9E%90%20%2F%20%EB%8B%A8%EB%B0%9C%20%EB%A8%B8%EB%A6%AC%20%2F%20%EB%8F%8C%EC%95%84%EC%99%80%EC%9A%94%20%EB%B6%80%EC%82%B0%ED%95%AD%EC%97%90%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trot",
+      "Disco",
+      "Korean Ballad"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Hyone\n현애",
+    "title": "폭발1초전",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/현애/폭발1초전",
+    "cover_url": "https://e.snmc.io/i/600/s/d668dbcafd24c1b23ca841bb55f76ab7/4167308/%ED%98%84%EC%95%A0%20%5BHyone%5D%20-%20%ED%8F%AD%EB%B0%9C1%EC%B4%88%EC%A0%84%2C%20Cover%20art.jpeg",
+    "rating": "3.26",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco",
+      "Synthpop",
+      "Electronic"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Cho Yong-pil\n조용필",
+    "title": "3집",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/조용필/3집",
+    "cover_url": "https://e.snmc.io/i/600/s/47b9133431daa353e05ca624035f106e/2079231/%EC%A1%B0%EC%9A%A9%ED%95%84%20%5BCho%20Yong-pil%5D%20-%203%EC%A7%91%2C%20Cover%20art.jpeg",
+    "rating": "3.56",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pop Rock",
+      "Trot",
+      "Psychedelic Rock",
+      "Art Pop"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Tama Himeno\n姫乃たま",
+    "title": "Moshi Moshi, Kyou wa Pongchack\nもしもし、今日はポンチャック",
+    "year": 2017,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/姫乃たま/もしもし、今日はポンチャック",
+    "cover_url": "https://e.snmc.io/i/600/s/e1d83645562d740f3013a70414f77bd6/7253772/%E5%A7%AB%E4%B9%83%E3%81%9F%E3%81%BE%20%5BTama%20Himeno%5D%20-%20%E3%82%82%E3%81%97%E3%82%82%E3%81%97%E3%80%81%E4%BB%8A%E6%97%A5%E3%81%AF%E3%83%9D%E3%83%B3%E3%83%81%E3%83%A3%E3%83%83%E3%82%AF%20%5BMoshi%20Moshi%2C%20Kyou%20wa%20Pongchack%5D%2C%20Cover%20art.png",
+    "rating": "3.26",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Jin Do-hyeon\n진도현",
+    "title": "キャバレー青春スター",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/진도현/キャバレー青春スター",
+    "cover_url": "https://e.snmc.io/i/600/s/5def6894db8194ef2c5ea7fe972070e6/8846957/%EC%A7%84%EB%8F%84%ED%98%84%20%5BJin%20Do-hyeon%5D%20-%20%E3%82%AD%E3%83%A3%E3%83%90%E3%83%AC%E3%83%BC%E9%9D%92%E6%98%A5%E3%82%B9%E3%82%BF%E3%83%BC%2C%20Cover%20art.jpeg",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco",
+      "Trot"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "E Pak Sa\n이박사",
+    "title": "Space Fantasy",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/이박사/space-fantasy",
+    "cover_url": "https://e.snmc.io/i/600/s/4aeda46b7f109dfda5d38995978fdeeb/13487857/%EC%9D%B4%EB%B0%95%EC%82%AC%20%5BE%20Pak%20Sa%5D%20-%20Space%20Fantasy%2C%20Cover%20art.png",
+    "rating": "3.24",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco",
+      "Happy Hardcore"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Hwang Il-je\n황일제 &",
+    "title": "신들린 남녀가수 현장 생음악 디스코 관광 명콤비 1",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/황일제-조아애/신들린-남녀가수-현장-생음악-디스코-관광-명콤비-1",
+    "cover_url": "https://e.snmc.io/i/600/s/5b83f45cdd846952a75f133c8a80f79a/13896146/%ED%99%A9%EC%9D%BC%EC%A0%9C%20%5BHwang%20Il-je%5D%20%26%20%EC%A1%B0%EC%95%84%EC%95%A0%20%5BJo%20A-ae%5D%20-%20%EC%8B%A0%EB%93%A4%EB%A6%B0%20%EB%82%A8%EB%85%80%EA%B0%80%EC%88%98%20%ED%98%84%EC%9E%A5%20%EC%83%9D%EC%9D%8C%EC%95%85%20%EB%94%94%EC%8A%A4%EC%BD%94%20%EA%B4%80%EA%B4%91%20%EB%AA%85%EC%BD%A4%EB%B9%84%201%2C%20Cover%20art.jpeg",
+    "rating": "3.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "The Kim Sisters\n김시스터즈",
+    "title": "The Kim Sisters: Their First Album",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/김시스터즈/the-kim-sisters-their-first-album",
+    "cover_url": "https://e.snmc.io/i/600/s/bef67524e0bbf2ae190ae56052d99de2/4398778/%EA%B9%80%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88%20%5BThe%20Kim%20Sisters%5D%20-%20The%20Kim%20Sisters%3A%20Their%20First%20Album%2C%20Cover%20art.jpeg",
+    "rating": "2.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vocal Group",
+      "Trot"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Jung Hee Ra\n정희라",
+    "title": "Ero Song 1\n애로쏭 1",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/정희라/애로쏭-1",
+    "cover_url": "https://e.snmc.io/i/600/s/68010951755a0ba9b00755a2eebb063d/11760297/%EC%A0%95%ED%9D%AC%EB%9D%BC%20%5BJung%20Hee%20Ra%5D%20-%20%EC%95%A0%EB%A1%9C%EC%8F%AD%201%20%5BEro%20Song%201%5D%2C%20Cover%20art.jpeg",
+    "rating": "3.30",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Lee Jae-min\n이재민",
+    "title": "제 연인의 이름은",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/이재민/제-연인의-이름은",
+    "cover_url": "https://e.snmc.io/i/600/s/744c61a9bee07bdc3e9760e012c6fe24/6637852/%EC%9D%B4%EC%9E%AC%EB%AF%BC%20%5BLee%20Jae-min%5D%20-%20%EC%A0%9C%20%EC%97%B0%EC%9D%B8%EC%9D%98%20%EC%9D%B4%EB%A6%84%EC%9D%80%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Synthpop",
+      "Trot",
+      "Pop",
+      "New Wave",
+      "Pon-chak disco"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Suh Joo Kyung\n서주경",
+    "title": "디스코 (Drive Music)",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/서주경/디스코-drive-music",
+    "cover_url": "https://e.snmc.io/i/600/s/43136470b4a958b55a888bdc95943a76/11587819/%EC%84%9C%EC%A3%BC%EA%B2%BD%20%5BSuh%20Joo%20Kyung%5D%20-%20%EB%94%94%EC%8A%A4%EC%BD%94%20(Drive%20Music)%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Semi-Trot",
+      "Dance-Pop",
+      "Pon-chak disco",
+      "Eurobeat"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Shin Shin-ae\n신신애",
+    "title": "뽕짝네 메들리 1",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/신신애/뽕짝네-메들리-1",
+    "cover_url": "https://e.snmc.io/i/600/s/c93376dba81721c6db43b5ca7977ebbe/12108074/%EC%8B%A0%EC%8B%A0%EC%95%A0%20%5BShin%20Shin-ae%5D%20-%20%EB%BD%95%EC%A7%9D%EB%84%A4%20%EB%A9%94%EB%93%A4%EB%A6%AC%201%2C%20Cover%20art.jpeg",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Chung Hun Hi\n정훈희",
+    "title": "진실 / 빗속의 연인들 / 안개",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/정훈희/진실-빗속의-연인들-안개",
+    "cover_url": "https://e.snmc.io/i/600/s/6ed7dda1313e3c5cb793fa1af51ae15c/6049188/%EC%A0%95%ED%9B%88%ED%9D%AC%20%5BChung%20Hun%20Hi%5D%20-%20%EC%A7%84%EC%8B%A4%20%2F%20%EB%B9%97%EC%86%8D%EC%9D%98%20%EC%97%B0%EC%9D%B8%EB%93%A4%20%2F%20%EC%95%88%EA%B0%9C%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trot",
+      "Vocal Jazz",
+      "Enka"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Cho Yong-pil\n조용필",
+    "title": "조용필 4집",
+    "year": 1982,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/조용필/조용필-4집",
+    "cover_url": "https://e.snmc.io/i/600/s/a0af63af883ec2568d431d19f12c791e/2079210/%EC%A1%B0%EC%9A%A9%ED%95%84%20%5BCho%20Yong-pil%5D%20-%20%EC%A1%B0%EC%9A%A9%ED%95%84%204%EC%A7%91%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trot"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Na Hoon-a\n나훈아",
+    "title": "아홉 이야기",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/나훈아/아홉-이야기",
+    "cover_url": "https://e.snmc.io/i/600/s/06ab66dc6aa335269eb83827cd5b26fd/8480964/%EB%82%98%ED%9B%88%EC%95%84%20%5BNa%20Hoon-a%5D%20-%20%EC%95%84%ED%99%89%20%EC%9D%B4%EC%95%BC%EA%B8%B0%2C%20Cover%20art.jpeg",
+    "rating": "2.93",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trot",
+      "Korean Ballad"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Choi Yang Sook\n최양숙",
+    "title": "꽃 피우는 아이",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/최양숙/꽃-피우는-아이",
+    "cover_url": "https://e.snmc.io/i/600/s/dba1cc3622c2e32e7c88012cc8a9e909/10189943/%EC%B5%9C%EC%96%91%EC%88%99%20%5BChoi%20Yang%20Sook%5D%20-%20%EA%BD%83%20%ED%94%BC%EC%9A%B0%EB%8A%94%20%EC%95%84%EC%9D%B4%2C%20Cover%20art.jpeg",
+    "rating": "2.88",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Folk Pop",
+      "Trot"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Shin Soo Mi\n신수미",
+    "title": "메들리",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/신수미/메들리",
+    "cover_url": "https://e.snmc.io/i/600/s/b5812bcec283ccca697914cf6b2ae6e0/13904056/%EC%8B%A0%EC%88%98%EB%AF%B8%20%5BShin%20Soo%20Mi%5D%20-%20%EB%A9%94%EB%93%A4%EB%A6%AC%2C%20Cover%20art.jpeg",
+    "rating": "3.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Dance-Pop",
+      "Semi-Trot"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Yoon Si-nae\n윤시내",
+    "title": "새노래모음 (난 모르겠네/공연히)",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/윤시내/새노래모음-난-모르겠네_공연히",
+    "cover_url": "https://e.snmc.io/i/600/s/430a72035e279537cce64609dbf95fce/6923033/%EC%9C%A4%EC%8B%9C%EB%82%B4%20%5BYoon%20Si-nae%5D%20-%20%EC%83%88%EB%85%B8%EB%9E%98%EB%AA%A8%EC%9D%8C%20(%EB%82%9C%20%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%84%A4%2F%EA%B3%B5%EC%97%B0%ED%9E%88)%2C%20Cover%20art.jpeg",
+    "rating": "4.01",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk",
+      "Trot",
+      "Disco",
+      "Pop Soul"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Cho Yong-pil\n조용필",
+    "title": "The Empty Sky",
+    "year": 1985,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/조용필/the_empty_sky",
+    "cover_url": "https://e.snmc.io/i/600/s/34bcd1d0c92a06a0e4178a64a0ba1fc8/2079209/%EC%A1%B0%EC%9A%A9%ED%95%84%20%5BCho%20Yong-pil%5D%20-%20The%20Empty%20Sky%2C%20Cover%20art.jpeg",
+    "rating": "3.27",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trot",
+      "Korean Ballad",
+      "Pop Rock"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "E Pak Sa\n이박사",
+    "title": "그것도 모르냐 / 뛰어라 뛰어",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/이박사/그것도-모르냐-뛰어라-뛰어",
+    "cover_url": "https://e.snmc.io/i/600/s/151ae192e8ccbc154615f4aacaf67717/8714393/%EC%9D%B4%EB%B0%95%EC%82%AC%20%5BE%20Pak%20Sa%5D%20-%20%EA%B7%B8%EA%B2%83%EB%8F%84%20%EB%AA%A8%EB%A5%B4%EB%83%90%20%2F%20%EB%9B%B0%EC%96%B4%EB%9D%BC%20%EB%9B%B0%EC%96%B4%2C%20Cover%20art.jpeg",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Bolbbalgan\n볼빨간",
+    "title": "지루박리믹스쑈! (Jitterbug Remix Show!)",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/볼빨간/지루박리믹스쑈-jitterbug-remix-show",
+    "cover_url": "https://e.snmc.io/i/600/s/fc4488ffdda456e3ccc01ca0bddd5434/8747574/%EB%B3%BC%EB%B9%A8%EA%B0%84%20%5BBolbbalgan%5D%20-%20%EC%A7%80%EB%A3%A8%EB%B0%95%EB%A6%AC%EB%AF%B9%EC%8A%A4%EC%91%88!%20(Jitterbug%20Remix%20Show!)%2C%20Cover%20art.png",
+    "rating": "3.19",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Novelty",
+      "Pon-chak disco",
+      "Ambient Techno",
+      "Indietronica"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Nam In-su\n남인수 /",
+    "title": "왕년의 가수 신곡 발표 (무너진 사랑탑)",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/南仁樹-nam-in-su-白蘭兒-baek-nan-a-黄琴心-hwang-keum-sim-金貞九-kim-jeong-gu/왕년의-가수-신곡-발표-무너진-사랑탑",
+    "cover_url": "https://e.snmc.io/i/600/s/8196b4b229e68d83fef6156fbf07fac1/9107358/%E5%8D%97%E4%BB%81%E6%A8%B9%20%5BNam%20In-su%5D%20%2F%20%E7%99%BD%E8%98%AD%E5%85%92%20%5BBaek%20Nan-A%5D%20%2F%20%E9%BB%84%E7%90%B4%E5%BF%83%20%5BHwang%20Keum-Sim%5D%20%2F%20%E9%87%91%E8%B2%9E%E4%B9%9D%20%5BKim%20Jeong-Gu%5D%20-%20%EC%99%95%EB%85%84%EC%9D%98%20%EA%B0%80%EC%88%98%20%EC%8B%A0%EA%B3%A1%20%EB%B0%9C%ED%91%9C%20(%EB%AC%B4%EB%84%88%EC%A7%84%20%EC%82%AC%EB%9E%91%ED%83%91)%2C%20Cover%20art.jpeg",
+    "rating": "2.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trot"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Cho Yong-pil\n조용필",
+    "title": "11집 제10집 Part.II",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/조용필/11집-제10집-part_ii",
+    "cover_url": "https://e.snmc.io/i/600/s/8b34629d4fc5f5f8722838633d655743/8935249/%EC%A1%B0%EC%9A%A9%ED%95%84%20%5BCho%20Yong-pil%5D%20-%2011%EC%A7%91%20%EC%A0%9C10%EC%A7%91%20Part_II%2C%20Cover%20art.png",
+    "rating": "3.28",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Adult Contemporary",
+      "Pop Rock",
+      "Trot",
+      "Art Rock",
+      "Progressive Rock"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Choi Jang Bong\n최장봉",
+    "title": "최장봉 왕타령",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/최장봉/최장봉-왕타령",
+    "cover_url": "https://e.snmc.io/i/600/s/f3bc717bc8d9dddf5364a11f74bbb550/12133899/%EC%B5%9C%EC%9E%A5%EB%B4%89%20%5BChoi%20Jang%20Bong%5D%20-%20%EC%B5%9C%EC%9E%A5%EB%B4%89%20%EC%99%95%ED%83%80%EB%A0%B9%2C%20Cover%20art.jpeg",
+    "rating": "3.24",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Na Hoon-a\n나훈아",
+    "title": "나훈아 제7집",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/나훈아/나훈아-제7집",
+    "cover_url": "",
+    "rating": "4.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trot"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Cho Yong-pil\n조용필",
+    "title": "조용필 5",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/조용필/조용필-5",
+    "cover_url": "https://e.snmc.io/i/600/s/402b8e88843918b07dfd93b4f57696c9/10396311/%EC%A1%B0%EC%9A%A9%ED%95%84%20%5BCho%20Yong-pil%5D%20-%20%EC%A1%B0%EC%9A%A9%ED%95%84%205%2C%20Cover%20art.jpeg",
+    "rating": "3.09",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pop",
+      "Trot",
+      "Pop Rock"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Jang Yoon Jeong\n장윤정",
+    "title": "짠짜라",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/장윤정/짠짜라",
+    "cover_url": "https://e.snmc.io/i/600/s/9daab81b92bc432081659a7db5f082be/10749984/%EC%9E%A5%EC%9C%A4%EC%A0%95%20%5BJang%20Yoon%20Jeong%5D%20-%20%EC%A7%A0%EC%A7%9C%EB%9D%BC%2C%20Cover%20art.jpeg",
+    "rating": "3.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Semi-Trot",
+      "Adult Contemporary",
+      "Dance-Pop"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Jung Hee Ra\n정희라",
+    "title": "Ero Song 2\n애로쏭 2",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/정희라/애로쏭-2",
+    "cover_url": "https://e.snmc.io/i/600/s/9aabbbfb1d4fc688f90bde852ff353c1/11760299/%EC%A0%95%ED%9D%AC%EB%9D%BC%20%5BJung%20Hee%20Ra%5D%20-%20%EC%95%A0%EB%A1%9C%EC%8F%AD%202%20%5BEro%20Song%202%5D%2C%20Cover%20art.jpeg",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Bolbbalgan\n볼빨간",
+    "title": "야매(Yamae)",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/볼빨간/야매_yamae",
+    "cover_url": "",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Synthpop",
+      "Trot",
+      "Indietronica",
+      "Pon-chak disco"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Cho Yong-pil\n조용필",
+    "title": "Blessing",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/조용필/blessing",
+    "cover_url": "https://e.snmc.io/i/600/s/0475e3c477cfc7af551b94523b652be8/2078912/%EC%A1%B0%EC%9A%A9%ED%95%84%20%5BCho%20Yong-pil%5D%20-%20Blessing%2C%20Cover%20art.jpeg",
+    "rating": "2.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pop Rock",
+      "Trot",
+      "Korean Ballad",
+      "Psychedelic Rock"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Kim Hae Jung\n김혜정",
+    "title": "못잊어",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/김혜정/못잊어",
+    "cover_url": "https://e.snmc.io/i/600/s/7420cee1247d3e1b96232aafcce4cdd6/12851731/%EA%B9%80%ED%98%9C%EC%A0%95%20%5BKim%20Hae%20Jung%5D%20-%20%EB%AA%BB%EC%9E%8A%EC%96%B4%2C%20Cover%20art.jpeg",
+    "rating": "3.56",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trot"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Na Yeong-i\n나영이",
+    "title": "스피드 디스코 2",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/나영이/스피드-디스코-2",
+    "cover_url": "https://e.snmc.io/i/600/s/cff4224f50e57242b27dac8e64206947/13375503/%EB%82%98%EC%98%81%EC%9D%B4%20%5BNa%20Yeong-i%5D%20-%20%EC%8A%A4%ED%94%BC%EB%93%9C%20%EB%94%94%EC%8A%A4%EC%BD%94%202%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco",
+      "Trot"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Kim Joonkyu\n김준규 /",
+    "title": "쌍쌍파티 제1집",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/김준규-주현미/쌍쌍파티-제1집",
+    "cover_url": "",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco",
+      "Trot"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Kim Hye Yeon\n김혜연",
+    "title": "앗싸 초특급 2",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/김혜연/앗싸-초특급-2",
+    "cover_url": "https://e.snmc.io/i/600/s/383f4aa044f1b74683c55df6fd4aedf4/12423235/%EA%B9%80%ED%98%9C%EC%97%B0%20%5BKim%20Hye%20Yeon%5D%20-%20%EC%95%97%EC%8B%B8%20%EC%B4%88%ED%8A%B9%EA%B8%89%202%2C%20Cover%20art.jpeg",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Yoon Si-nae\n윤시내",
+    "title": "熱愛",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/윤시내/熱愛",
+    "cover_url": "https://e.snmc.io/i/600/s/bbe6c4a65463ea3ca73e4bb483622d84/10919235/%EC%9C%A4%EC%8B%9C%EB%82%B4%20%5BYoon%20Si-nae%5D%20-%20%E7%86%B1%E6%84%9B%2C%20Cover%20art.jpeg",
+    "rating": "2.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trot",
+      "Funk",
+      "Disco"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Jung Nan Yi\n정난이",
+    "title": "정난이의 새노래",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/정난이/정난이의-새노래",
+    "cover_url": "https://e.snmc.io/i/600/s/7760001fbc55d2f3b73f6939d3eccad4/6927507/%EC%A0%95%EB%82%9C%EC%9D%B4%20%5BJung%20Nan%20Yi%5D%20-%20%EC%A0%95%EB%82%9C%EC%9D%B4%EC%9D%98%20%EC%83%88%EB%85%B8%EB%9E%98%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk",
+      "Disco",
+      "Trot"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Lee Minsook\n이민숙 &",
+    "title": "뽕짝아가씨 제4집",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/이민숙-김용만/뽕짝아가씨-제4집",
+    "cover_url": "https://e.snmc.io/i/600/s/ba7dc80d65e4c91839c88b28c83601fd/9574334/%EC%9D%B4%EB%AF%BC%EC%88%99%20%5BLee%20Minsook%5D%20%26%20%EA%B9%80%EC%9A%A9%EB%A7%8C%20%5BKim%20Yong-man%5D%20-%20%EB%BD%95%EC%A7%9D%EC%95%84%EA%B0%80%EC%94%A8%20%EC%A0%9C4%EC%A7%91%2C%20Cover%20art.png",
+    "rating": "3.51",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pon-chak disco"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Han Yeo-reum\n한여름",
+    "title": "Retro Hot",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/한여름/retro-hot",
+    "cover_url": "https://e.snmc.io/i/600/s/4572c988ee60add910c784b6ead3469a/8044443/%ED%95%9C%EC%97%AC%EB%A6%84%20%5BHan%20Yeo-reum%5D%20-%20Retro%20Hot%2C%20Cover%20art.jpeg",
+    "rating": "2.88",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Semi-Trot"
+    ]
+  }
+]

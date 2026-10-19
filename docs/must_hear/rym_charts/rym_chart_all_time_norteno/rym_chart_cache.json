@@ -1,0 +1,776 @@
+[
+  {
+    "number": 1,
+    "artist": "Junior H",
+    "title": "$ad Boyz 4 Life II",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/junior-h/_ad-boyz-4-life-ii",
+    "cover_url": "https://e.snmc.io/i/600/s/5a066c15bfeab9f15eee5bfb6a867948/14278498/Junior%20H%20-%20%24ad%20Boyz%204%20Life%20II%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Banda sinaloense"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Junior H",
+    "title": "Cruisin' With Junior H",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/junior-h/cruisin-with-junior-h",
+    "cover_url": "https://e.snmc.io/i/600/s/2f8aa9682fd2e11cfd01b5419ffe1170/14278501/Junior%20H%20-%20Cruisin'%20With%20Junior%20H%2C%20Cover%20art.jpeg",
+    "rating": "3.70",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Junior H",
+    "title": "Atrapado en un sueño",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/junior-h/atrapado-en-un-sueno",
+    "cover_url": "https://e.snmc.io/i/600/s/55a9037584e17db5617ac47d20fbb4a3/12806533/Junior%20H%20-%20Atrapado%20en%20un%20sue%C3%B1o%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Chalino Sánchez",
+    "title": "Alma enamorada",
+    "year": 2012,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chalino-sanchez/alma-enamorada",
+    "cover_url": "https://e.snmc.io/i/600/s/01a279b1853717b63ce6562cc54fe766/4501830/Chalino%20S%C3%A1nchez%20-%20Alma%20enamorada%2C%20Cover%20art.jpeg",
+    "rating": "3.70",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido",
+      "Norteño"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Ariel Camacho y Los Plebes del Rancho",
+    "title": "El karma",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ariel-camacho-y-los-plebes-del-rancho/el-karma",
+    "cover_url": "https://e.snmc.io/i/600/s/b632245eeddf44e15e2b052326b875ad/6196576/Ariel%20Camacho%20y%20Los%20Plebes%20del%20Rancho%20-%20El%20karma%2C%20Cover%20art.jpeg",
+    "rating": "3.81",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sierreño",
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Chalino Sánchez",
+    "title": "Nieves de Enero",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chalino-sanchez/nieves-de-enero",
+    "cover_url": "https://e.snmc.io/i/600/s/1d73434ed014dd1f14ae722c94d2ae5d/12388093/Chalino%20S%C3%A1nchez%20-%20Nieves%20de%20Enero%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido",
+      "Norteño"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Ivan Cornejo",
+    "title": "Dañado",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ivan-cornejo/danado",
+    "cover_url": "https://e.snmc.io/i/600/s/e9e2947e6458d714120c0169419019e5/10008372/Ivan%20Cornejo%20-%20Da%C3%B1ado%2C%20Cover%20art.jpeg",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Singer-Songwriter",
+      "Indie Folk",
+      "Dream Pop"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Natanael Cano",
+    "title": "A mis 20",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/natanael-cano/a-mis-20",
+    "cover_url": "https://e.snmc.io/i/600/s/c10dff20e0a4e5f0ebed74fdcffb8a9e/14290263/Natanael%20Cano%20-%20A%20mis%2020%2C%20Cover%20art.jpeg",
+    "rating": "3.47",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Junior H",
+    "title": "Música <3",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/junior-h/musica-3",
+    "cover_url": "https://e.snmc.io/i/600/s/d03405158803d591f7f3020f5a55190f/14278511/Junior%20H%20-%20M%C3%BAsica%20%3C3%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Lila Downs",
+    "title": "La cantina: \"Entre copa y copa...\"",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lila-downs/la-cantina-entre-copa-y-copa",
+    "cover_url": "https://e.snmc.io/i/600/s/8c07906a231e72e83f0c578588fc07df/13074378/Lila%20Downs%20-%20La%20cantina%3A%20%22Entre%20copa%20y%20copa___%22%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ranchera",
+      "Norteño",
+      "Cumbia mexicana",
+      "Latin Alternative"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Junior H",
+    "title": "Mi vida en un cigarro 2",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/junior-h/mi-vida-en-un-cigarro-2",
+    "cover_url": "https://e.snmc.io/i/600/s/25bf60e2b5a8c44e937c179b31bcd116/9708907/Junior%20H%20-%20Mi%20vida%20en%20un%20cigarro%202%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Natanael Cano",
+    "title": "Nata Montana",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/natanael-cano/nata-montana",
+    "cover_url": "https://e.snmc.io/i/600/s/85d6a04b1ff3f1e92ac4157045eb5e7f/14290205/Natanael%20Cano%20-%20Nata%20Montana%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Banda sinaloense",
+      "Sierreño"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Peso Pluma",
+    "title": "Génesis",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/peso-pluma/genesis",
+    "cover_url": "https://e.snmc.io/i/600/s/94692e35df8163a71ac80c459143f893/11056610/Peso%20Pluma%20-%20G%C3%A9nesis%2C%20Cover%20art.jpeg",
+    "rating": "3.30",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Movimiento alterado",
+      "Banda sinaloense"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Grupo Frontera",
+    "title": "El Comienzo",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-frontera/el-comienzo",
+    "cover_url": "https://e.snmc.io/i/600/s/c457f84d2d3f0c97685cbe9a55afd03e/14823148/Grupo%20Frontera%20-%20El%20Comienzo%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña mexicana",
+      "Cumbia mexicana",
+      "Latin Pop"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Eslabón Armado",
+    "title": "Corta venas",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/eslabon-armado/corta-venas",
+    "cover_url": "https://e.snmc.io/i/600/s/17b071ba96a9a8043aa1717b209142fb/9329980/Eslab%C3%B3n%20Armado%20-%20Corta%20venas%2C%20Cover%20art.png",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Singer-Songwriter",
+      "Slowcore"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Junior H",
+    "title": "$ad Boyz 4 Life",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/junior-h/_ad-boyz-4-life",
+    "cover_url": "https://e.snmc.io/i/600/s/9459bcaeb6187af28140e0b95e973b90/14540113/Junior%20H%20-%20%24ad%20Boyz%204%20Life%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Psychedelic Folk",
+      "Slowcore"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Fuerza Regida",
+    "title": "Pa que hablen",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/fuerza-regida/pa-que-hablen",
+    "cover_url": "https://e.snmc.io/i/600/s/13cd73cd917695196095569ae9747a04/14386232/Fuerza%20Regida%20-%20Pa%20que%20hablen%2C%20Cover%20art.jpeg",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Banda sinaloense"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Natanael Cano",
+    "title": "Mi nuevo yo",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/natanael-cano/mi-nuevo-yo",
+    "cover_url": "https://e.snmc.io/i/600/s/112256fac146aa8bd637ca0f960d6173/8357090/Natanael%20Cano%20-%20Mi%20nuevo%20yo%2C%20Cover%20art.jpeg",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Ivan Cornejo",
+    "title": "MIRADA",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ivan-cornejo/mirada",
+    "cover_url": "https://e.snmc.io/i/600/s/da41d312af59f2d7a78e85c91d29c776/12329410/Ivan%20Cornejo%20-%20MIRADA%2C%20Cover%20art.jpeg",
+    "rating": "3.56",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Slowcore",
+      "Indie Folk"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Peso Pluma &",
+    "title": "Dinastía",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/peso-pluma-tito-double-p/dinastia",
+    "cover_url": "https://e.snmc.io/i/600/s/3a70dfa781e1b2aedbe8b5e303bf946b/14270834/Peso%20Pluma%20%26%20Tito%20Double%20P%20-%20Dinast%C3%ADa%2C%20Cover%20art.jpeg",
+    "rating": "3.15",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Banda sinaloense",
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Natanael Cano /",
+    "title": "Corridos tumbados",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/natanael-cano-junior-h-dan-sanchez/corridos-tumbados",
+    "cover_url": "https://e.snmc.io/i/600/s/231a46175dc04b23da9dcfd3bfcd7bfc/11217681/Natanael%20Cano%20%2F%20Junior%20H%20%2F%20Dan%20S%C3%A1nchez%20-%20Corridos%20tumbados%2C%20Cover%20art.jpeg",
+    "rating": "3.14",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Los Tigres del Norte",
+    "title": "Corridos prohibidos",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-tigres-del-norte/corridos-prohibidos",
+    "cover_url": "https://e.snmc.io/i/600/s/2599627ee0426f0f298fa76bfc369274/1933686/Los%20Tigres%20del%20Norte%20-%20Corridos%20prohibidos%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido",
+      "Norteño"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Eslabón Armado",
+    "title": "Desvelado",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/eslabon-armado/desvelado",
+    "cover_url": "https://e.snmc.io/i/600/s/e2ca02f5502ebf6f2534aa9e48f612b4/10947928/Eslab%C3%B3n%20Armado%20-%20Desvelado%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Los Tigres del Norte",
+    "title": "Contrabando y traición",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-tigres-del-norte/contrabando-y-traicion",
+    "cover_url": "https://e.snmc.io/i/600/s/576d7feaa5e5a1674bea5571f613eb34/8501898/Los%20Tigres%20del%20Norte%20-%20Contrabando%20y%20traici%C3%B3n%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Norteño",
+      "Cumbia mexicana",
+      "Corrido"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Chalino Sánchez",
+    "title": "El gallo de Sinaloa",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chalino-sanchez/el-gallo-de-sinaloa",
+    "cover_url": "https://e.snmc.io/i/600/s/5640c4bebfc478f4da3768621d916bfe/6999930/Chalino%20S%C3%A1nchez%20-%20El%20gallo%20de%20Sinaloa%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido",
+      "Norteño"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Xavi",
+    "title": "Next",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/xavi/next",
+    "cover_url": "https://e.snmc.io/i/600/s/668a9f0d9884a47f43c3179b9cb23210/12532512/Xavi%20-%20Next%2C%20Cover%20art.jpeg",
+    "rating": "3.28",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Julieta Venegas",
+    "title": "Norteña",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/julieta-venegas/nortena",
+    "cover_url": "https://e.snmc.io/i/600/s/ad74c8c31a1e051fd95a8acad30bda8c/14613518/Julieta%20Venegas%20-%20Norte%C3%B1a%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Norteño",
+      "Ranchera",
+      "Sierreño"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Gallo Armado",
+    "title": "La ciudad es nuestra",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gallo-armado/la-ciudad-es-nuestra",
+    "cover_url": "https://e.snmc.io/i/600/s/84c5a1846b56ed1f4d5f0e0b4c97d2be/14290511/Gallo%20Armado%20-%20La%20ciudad%20es%20nuestra%2C%20Cover%20art.jpeg",
+    "rating": "3.80",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Corrido",
+      "Norteño"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Eslabón Armado",
+    "title": "NOSTALGIA",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/eslabon-armado/nostalgia",
+    "cover_url": "https://e.snmc.io/i/600/s/c21bee2094da66567dc66edc4817364c/9937931/Eslab%C3%B3n%20Armado%20-%20NOSTALGIA%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Fuerza Regida",
+    "title": "111XPANTIA",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/fuerza-regida/111xpantia",
+    "cover_url": "https://e.snmc.io/i/600/s/c168107eefa5ab47e79ff1684986438f/13177692/Fuerza%20Regida%20-%20111XPANTIA%2C%20Cover%20art.jpeg",
+    "rating": "2.99",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Banda sinaloense"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Peso Pluma",
+    "title": "Éxodo",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/peso-pluma/exodo",
+    "cover_url": "https://e.snmc.io/i/600/s/72e4ff56fc7f02b1ce72f95ba1aa7799/12159769/Peso%20Pluma%20-%20%C3%89xodo%2C%20Cover%20art.jpeg",
+    "rating": "2.89",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Reggaetón",
+      "Trap"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Fuerza Regida",
+    "title": "Del barrio hasta aquí, vol. 2",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/fuerza-regida/del-barrio-hasta-aqui-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/69ae782c9a12907b796bc69fc31155ac/14538522/Fuerza%20Regida%20-%20Del%20barrio%20hasta%20aqu%C3%AD%2C%20vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "3.28",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Sierreño",
+      "Corrido tumbado"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Los Tigres del Norte",
+    "title": "Gracias!... América... Sin fronteras",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-tigres-del-norte/gracias-america-sin-fronteras",
+    "cover_url": "https://e.snmc.io/i/600/s/365fbfb67e15d5d9215d79fef6456769/5418113/Los%20Tigres%20del%20Norte%20-%20Gracias!___%20Am%C3%A9rica___%20Sin%20fronteras%2C%20Cover%20art.jpeg",
+    "rating": "3.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Norteño",
+      "Corrido"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Becky G",
+    "title": "Esquinas",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/becky-g/esquinas",
+    "cover_url": "https://e.snmc.io/i/600/s/9a73d73ce14ce12a28cb9a17307db90e/11341850/Becky%20G%20-%20Esquinas%2C%20Cover%20art.jpeg",
+    "rating": "3.11",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Ranchera",
+      "Corrido tumbado",
+      "Canción melódica",
+      "Mariachi"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Tito Double P",
+    "title": "Incómodo",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tito-double-p/incomodo",
+    "cover_url": "https://e.snmc.io/i/600/s/f04391bdce26652aa58b1819f37c5bab/14290208/Tito%20Double%20P%20-%20Inc%C3%B3modo%2C%20Cover%20art.jpeg",
+    "rating": "2.88",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Natanael Cano",
+    "title": "Natanael Cano, Vol.1",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/natanael-cano/natanael-cano-vol_1",
+    "cover_url": "https://e.snmc.io/i/600/s/4e253d47263544154368a62e41b35673/14980351/Natanael%20Cano%20-%20Natanael%20Cano%2C%20Vol_1%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sierreño",
+      "Corrido tumbado",
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Grupo Marrano",
+    "title": "Episodio I: Pornocorridos y más",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-marrano/episodio-i-pornocorridos-y-mas",
+    "cover_url": "https://e.snmc.io/i/600/s/7b5fe59758bfd89e3aa77fe713a50191/2979602/Grupo%20Marrano%20-%20Episodio%20I%3A%20Pornocorridos%20y%20m%C3%A1s%2C%20Cover%20art.jpeg",
+    "rating": "2.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Norteño",
+      "Musical Comedy",
+      "Novelty",
+      "Novelty",
+      "Ranchera"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Eslabón Armado",
+    "title": "Vibras de noche",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/eslabon-armado/vibras-de-noche",
+    "cover_url": "https://e.snmc.io/i/600/s/09db1686b2c43ce8913c1b66e4ee08c9/9392825/Eslab%C3%B3n%20Armado%20-%20Vibras%20de%20noche%2C%20Cover%20art.jpeg",
+    "rating": "3.52",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Ladrones",
+    "title": "Mexican Pesado",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ladrones/mexican-pesado",
+    "cover_url": "https://e.snmc.io/i/600/s/f7a33d7858d7e976652cbb710374f561/13414820/Ladrones%20-%20Mexican%20Pesado%2C%20Cover%20art.png",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido tumbado",
+      "Djent",
+      "Alternative Metal",
+      "Melodic Metalcore"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Intocable",
+    "title": "Contigo",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/intocable/contigo",
+    "cover_url": "https://e.snmc.io/i/600/s/bfe858113e355b2d102cf1e20f790a4c/1625994/Intocable%20-%20Contigo%2C%20Cover%20art.jpeg",
+    "rating": "3.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Tejano Music",
+      "Norteño",
+      "Cumbia norteña mexicana"
+    ]
+  }
+]

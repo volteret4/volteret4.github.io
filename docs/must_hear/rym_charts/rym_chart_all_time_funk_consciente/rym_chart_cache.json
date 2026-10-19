@@ -1,0 +1,477 @@
+[
+  {
+    "number": 1,
+    "artist": "MC Poze do Rodo",
+    "title": "O sábio",
+    "year": 2048,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-poze-do-rodo/o-sabio",
+    "cover_url": "https://e.snmc.io/i/600/s/9855b6c8d8806cbe001ebc627798b074/10392006/MC%20Poze%20do%20Rodo%20-%20O%20s%C3%A1bio%2C%20Cover%20art.jpeg",
+    "rating": "2.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trapfunk",
+      "Funk consciente",
+      "Rasteirinha",
+      "Funk carioca"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "MC Cabelinho",
+    "title": "Ainda",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-cabelinho/ainda",
+    "cover_url": "https://e.snmc.io/i/600/s/175d266b32a34dc1147292a30a3f84b7/8375166/MC%20Cabelinho%20-%20Ainda%2C%20Cover%20art.jpeg",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trapfunk",
+      "Funk consciente"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Kyan",
+    "title": "Dias antes de mandrake",
+    "year": 2048,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kyan/dias-antes-de-mandrake",
+    "cover_url": "https://e.snmc.io/i/600/s/94b9bad7e72e47d48093018fe3bc3748/10334092/Kyan%20-%20Dias%20antes%20de%20mandrake%2C%20Cover%20art.jpeg",
+    "rating": "2.92",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pop Rap",
+      "Trap",
+      "Trapfunk",
+      "Conscious Hip Hop",
+      "Funk ostentação"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "MC Cabelinho",
+    "title": "Little Hair",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-cabelinho/little-hair",
+    "cover_url": "https://e.snmc.io/i/600/s/d522e817885fa92e0cc422c517b9057e/9586100/MC%20Cabelinho%20-%20Little%20Hair%2C%20Cover%20art.jpeg",
+    "rating": "2.91",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trapfunk",
+      "Pop Rap",
+      "Trap",
+      "Conscious Hip Hop",
+      "Trap Soul"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Cidinho e Doca",
+    "title": "Eu só quero é ser feliz",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cidinho-e-doca/eu-so-quero-e-ser-feliz",
+    "cover_url": "https://e.snmc.io/i/600/s/7388bdc21af78d1c5035f7c0a65f8b4f/5050000/Cidinho%20e%20Doca%20-%20Eu%20s%C3%B3%20quero%20%C3%A9%20ser%20feliz%2C%20Cover%20art.jpeg",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk carioca",
+      "Funk consciente",
+      "Conscious Hip Hop",
+      "G-Funk"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Mr. Catra",
+    "title": "Bonde do justo",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mr-catra/bonde-do-justo",
+    "cover_url": "https://e.snmc.io/i/600/s/57f15bdb09fb37d69d90bbb5f2b401f9/5048153/Mr_%20Catra%20-%20Bonde%20do%20justo%2C%20Cover%20art.jpeg",
+    "rating": "2.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk carioca",
+      "Funk consciente",
+      "Conscious Hip Hop",
+      "G-Funk"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "MC Hariel",
+    "title": "Eh noiz ki tá",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-hariel/eh-noiz-ki-ta",
+    "cover_url": "https://e.snmc.io/i/600/s/42c7026d59999422cef3eec369cdc919/13698564/MC%20Hariel%20-%20Eh%20noiz%20ki%20t%C3%A1%2C%20Cover%20art.jpeg",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk consciente",
+      "Trapfunk"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "MC IG",
+    "title": "Todo mundo odeia o IG",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-ig/todo-mundo-odeia-o-ig",
+    "cover_url": "https://e.snmc.io/i/600/s/7dadee84e2a737288f85e32ce9f7cd43/11953945/MC%20IG%20-%20Todo%20mundo%20odeia%20o%20IG%2C%20Cover%20art.jpeg",
+    "rating": "2.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Trapfunk",
+      "Funk consciente",
+      "Cloud Rap"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Cidinho e Doca",
+    "title": "Rap das armas",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cidinho-e-doca/rap-das-armas",
+    "cover_url": "https://e.snmc.io/i/600/s/909f9e6aaf65be48ee41b442eba04abc/2335637/Cidinho%20e%20Doca%20-%20Rap%20das%20armas%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk carioca",
+      "Funk consciente"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "MC Hariel",
+    "title": "Chora agora, ri depois",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-hariel/chora-agora-ri-depois",
+    "cover_url": "https://e.snmc.io/i/600/s/34047473bc5b26803c83132f1e20eb9d/8160454/MC%20Hariel%20-%20Chora%20agora%2C%20ri%20depois%2C%20Cover%20art.jpeg",
+    "rating": "2.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pop Rap",
+      "Trap",
+      "Funk ostentação"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "MC Cabelinho",
+    "title": "Minha raiz",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-cabelinho/minha-raiz",
+    "cover_url": "https://e.snmc.io/i/600/s/128d92654ae1d401735a82bf5130fb41/7851572/MC%20Cabelinho%20-%20Minha%20raiz%2C%20Cover%20art.jpeg",
+    "rating": "3.05",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk proibidão",
+      "Funk consciente",
+      "Funk ostentação"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "MC Hariel",
+    "title": "1 beat 1 letra",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-hariel/1-beat-1-letra",
+    "cover_url": "https://e.snmc.io/i/600/s/90d30d21095e4398d7161ae3d9d6604e/10515540/MC%20Hariel%20-%201%20beat%201%20letra%2C%20Cover%20art.jpeg",
+    "rating": "3.06",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk consciente",
+      "Funk ostentação"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "MC Hariel",
+    "title": "Alma imortal",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-hariel/alma-imortal",
+    "cover_url": "https://e.snmc.io/i/600/s/1ddb86c6fd19d944c605006b903cc71b/11537173/MC%20Hariel%20-%20Alma%20imortal%2C%20Cover%20art.jpeg",
+    "rating": "3.18",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk ostentação",
+      "Funk consciente"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Mr. Catra",
+    "title": "No esconderijo do altíssimo",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mr-catra/no-esconderijo-do-altissimo",
+    "cover_url": "https://e.snmc.io/i/600/s/e0b5e577bc5c0e511ab382c0cbba6768/8185705/Mr_%20Catra%20-%20No%20esconderijo%20do%20alt%C3%ADssimo%2C%20Cover%20art.png",
+    "rating": "2.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk carioca",
+      "Funk consciente",
+      "Funk melody",
+      "Miami Bass"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "MC Cebezinho",
+    "title": "A favela não venceu",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-cebezinho/a-favela-nao-venceu",
+    "cover_url": "https://e.snmc.io/i/600/s/acc50a8b0089494584704c2999f569b6/14212420/MC%20Cebezinho%20-%20A%20favela%20n%C3%A3o%20venceu%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk consciente",
+      "Conscious Hip Hop",
+      "Trapfunk"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "MCs Junior & Leonardo",
+    "title": "De baile em baile",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mcs_junior_and_leonardo/de_baile_em_baile",
+    "cover_url": "https://e.snmc.io/i/600/s/e16e137a4b97c7ed102e9bdd26ed6081/5625897/MCs%20Junior%20%26%20Leonardo%20-%20De%20baile%20em%20baile%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk carioca",
+      "Miami Bass",
+      "Funk consciente",
+      "G-Funk",
+      "Electro"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "MC Marks",
+    "title": "Menino de fé",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-marks/menino-de-fe",
+    "cover_url": "https://e.snmc.io/i/600/s/c8088bfdb8835fb2e453797cda0346b2/12051602/MC%20Marks%20-%20Menino%20de%20f%C3%A9%2C%20Cover%20art.jpeg",
+    "rating": "2.70",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode",
+      "Funk brasileiro",
+      "Funk consciente"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "MC Garden",
+    "title": "Isso é Brasil",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc_garden/isso_e_brasil",
+    "cover_url": "https://e.snmc.io/i/600/s/d258e70fba059d5a6dd83c458da2c146/6055260/MC%20Garden%20-%20Isso%20%C3%A9%20Brasil%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk consciente"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Menor do Chapa",
+    "title": "Invejoso não tenta não",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/menor_do_chapa/invejoso_nao_tenta_nao",
+    "cover_url": "https://e.snmc.io/i/600/s/be9c6008d86fa92dcda555039fd759bc/5609521/Menor%20do%20Chapa%20-%20Invejoso%20n%C3%A3o%20tenta%20n%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk ostentação",
+      "Funk consciente"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "MC Garden",
+    "title": "Admirável mundo novo",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-garden/admiravel-mundo-novo",
+    "cover_url": "https://e.snmc.io/i/600/s/9cec90c3e736e8f71749acf883d073f6/10565122/MC%20Garden%20-%20Admir%C3%A1vel%20mundo%20novo%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk consciente"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "MC Garden",
+    "title": "Destrancando o quarto",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-garden/destrancando-o-quarto",
+    "cover_url": "https://e.snmc.io/i/600/s/be0dd5674e63d3b3b7266447e94dbd99/7008079/MC%20Garden%20-%20Destrancando%20o%20quarto%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk brasileiro",
+      "Funk consciente"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Amilcka & Chocolate",
+    "title": "Amilcka & Chocolate",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/amilcka_and_chocolate/amilcka_and_chocolate",
+    "cover_url": "https://e.snmc.io/i/600/s/e088b78e7e6eb5d846f3f565d8976277/5626871/Amilcka%20%26%20Chocolate%20-%20Amilcka%20%26%20Chocolate%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk carioca",
+      "Funk consciente"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "MC Davi",
+    "title": "MC Davi",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-davi/mc-davi",
+    "cover_url": "https://e.snmc.io/i/600/s/87536fe6e5507ffe15298c686cc83c23/6327082/MC%20Davi%20-%20MC%20Davi%2C%20Cover%20art.jpeg",
+    "rating": "2.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk consciente",
+      "Funk ostentação"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "MC Rodolfinho",
+    "title": "Contrariando as estatísticas",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-rodolfinho/contrariando-as-estatisticas",
+    "cover_url": "https://e.snmc.io/i/600/s/d392e10e035fa72efab5e007f44859ca/9634015/MC%20Rodolfinho%20-%20Contrariando%20as%20estat%C3%ADsticas%2C%20Cover%20art.jpeg",
+    "rating": "2.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk consciente"
+    ]
+  }
+]

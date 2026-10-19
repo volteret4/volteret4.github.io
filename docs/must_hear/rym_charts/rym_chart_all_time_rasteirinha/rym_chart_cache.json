@@ -1,0 +1,81 @@
+[
+  {
+    "number": 1,
+    "artist": "MC Tha",
+    "title": "Rito de passá",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-tha/rito-de-passa",
+    "cover_url": "https://e.snmc.io/i/600/s/2fd4ac08d144afb0c26798590eb36555/7592728/MC%20Tha%20-%20Rito%20de%20pass%C3%A1%2C%20Cover%20art.jpeg",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rasteirinha",
+      "Tecnobrega",
+      "Art Pop"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Rachel Reis",
+    "title": "Meu esquema",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rachel-reis/meu-esquema",
+    "cover_url": "https://e.snmc.io/i/600/s/888d0df43ab84e8d05e2465548884b4e/10292935/Rachel%20Reis%20-%20Meu%20esquema%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Rasteirinha",
+      "Samba-reggae",
+      "Bregadeira"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "VHOOR",
+    "title": "Ritmo",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vhoor/ritmo",
+    "cover_url": "https://e.snmc.io/i/600/s/36d62c7f92359091947646da2643dc79/8848357/VHOOR%20-%20Ritmo%2C%20Cover%20art.jpeg",
+    "rating": "3.22",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rasteirinha",
+      "Downtempo",
+      "Organic House"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "MC Menor da VG",
+    "title": "VG Sessions - Vibe em Ilhabela",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-menor-da-vg/vg-sessions-vibe-em-ilhabela",
+    "cover_url": "https://e.snmc.io/i/600/s/7420c323e2f3de08a6c5addc48ecaa0e/11916038/MC%20Menor%20da%20VG%20-%20VG%20Sessions%20-%20Vibe%20em%20Ilhabela%2C%20Cover%20art.jpeg",
+    "rating": "2.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rasteirinha"
+    ]
+  }
+]

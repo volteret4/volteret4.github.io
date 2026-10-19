@@ -1,0 +1,749 @@
+[
+  {
+    "number": 1,
+    "artist": "Pablo",
+    "title": "É só dizer que sim",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pablo/e-so-dizer-que-sim",
+    "cover_url": "https://e.snmc.io/i/600/s/eb343e85c32886c92e5f4904ea122142/10128250/Pablo%20-%20%C3%89%20s%C3%B3%20dizer%20que%20sim%2C%20Cover%20art.jpeg",
+    "rating": "3.13",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha",
+      "Brega"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Totô de Babalong",
+    "title": "Pescoço salgado",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/toto-de-babalong/pescoco-salgado",
+    "cover_url": "https://e.snmc.io/i/600/s/c5fefc05e6a8ca4dba31e4e58947fb7b/11685410/Tot%C3%B4%20de%20Babalong%20-%20Pesco%C3%A7o%20salgado%2C%20Cover%20art.jpeg",
+    "rating": "2.95",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha",
+      "Bregadeira",
+      "Bachata"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Manoel Gomes",
+    "title": "Caneta azul",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/manoel-gomes/caneta-azul",
+    "cover_url": "https://e.snmc.io/i/600/s/6a243600a5cf1e8c2ed91973da052b71/10093387/Manoel%20Gomes%20-%20Caneta%20azul%2C%20Cover%20art.jpeg",
+    "rating": "2.32",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha",
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Lairton e Seus Teclados",
+    "title": "Morango do Nordeste",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lairton-e-seus-teclados/morango-do-nordeste",
+    "cover_url": "https://e.snmc.io/i/600/s/f40a353cefba6f8def72069648747470/7148279/Lairton%20e%20Seus%20Teclados%20-%20Morango%20do%20Nordeste%2C%20Cover%20art.jpeg",
+    "rating": "3.63",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha",
+      "Brega",
+      "Xote"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Grelo",
+    "title": "É o Grelo",
+    "year": 1900,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grelo/e-o-grelo",
+    "cover_url": "https://e.snmc.io/i/600/s/a03017e7bc58d95f1a89edebb6b63b60/12381677/Grelo%20-%20%C3%89%20o%20Grelo%2C%20Cover%20art.jpeg",
+    "rating": "2.47",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Pablo",
+    "title": "Vol. 3 - Êee... Paixão!",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pablo/vol-3-eee-paixao",
+    "cover_url": "https://e.snmc.io/i/600/s/b3e90e83a68c974d7e3d08a9128430fa/5422708/Pablo%20-%20Vol_%203%20-%20%C3%8Aee___%20Paix%C3%A3o!%2C%20Cover%20art.jpeg",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Totô de Babalong",
+    "title": "Contém1drama",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/toto-de-babalong/contem1drama",
+    "cover_url": "https://e.snmc.io/i/600/s/fae31fd337157fc75322dd7dd1d1e029/10436069/Tot%C3%B4%20de%20Babalong%20-%20Cont%C3%A9m1drama%2C%20Cover%20art.jpeg",
+    "rating": "3.03",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bregadeira",
+      "Alt-Pop",
+      "Bregadeira",
+      "Pagodão"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Nadson o Ferinha",
+    "title": "Seresta Pra Paredão 3.0",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nadson-o-ferinha/seresta-pra-paredao-3_0",
+    "cover_url": "https://e.snmc.io/i/600/s/bdf6569deb8ea9b76ddc6cc8637b6bc3/11583838/Nadson%20o%20Ferinha%20-%20Seresta%20Pra%20Pared%C3%A3o%203_0%2C%20Cover%20art.jpeg",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Juliette",
+    "title": "Risca faca",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/juliette/risca-faca",
+    "cover_url": "https://e.snmc.io/i/600/s/ec85ef44d6cc534f20c4ced6bef33199/13256434/Juliette%20-%20Risca%20faca%2C%20Cover%20art.jpeg",
+    "rating": "2.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bregadeira",
+      "Pop",
+      "Arrochadeira",
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "J. Eskine",
+    "title": "Nem só de maluquice vive o homem",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/j-eskine/nem-so-de-maluquice-vive-o-homem",
+    "cover_url": "https://e.snmc.io/i/600/s/8cbaa44e9ab72f764f4fa285cfc5c353/13513663/J_%20Eskine%20-%20Nem%20s%C3%B3%20de%20maluquice%20vive%20o%20homem%2C%20Cover%20art.jpeg",
+    "rating": "3.03",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrochadeira"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Pablo",
+    "title": "Desculpe aí",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pablo/desculpe-ai",
+    "cover_url": "https://e.snmc.io/i/600/s/11c3f1ce7c1c151fb8d7deea5851e437/7120948/Pablo%20-%20Desculpe%20a%C3%AD%2C%20Cover%20art.jpeg",
+    "rating": "3.12",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Tierry",
+    "title": "Acertou na mosca",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tierry/acertou-na-mosca",
+    "cover_url": "https://e.snmc.io/i/600/s/97f43b3c2ef2d8e0c86174e04f183e0e/8503637/Tierry%20-%20Acertou%20na%20mosca%2C%20Cover%20art.jpeg",
+    "rating": "3.23",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Nadson o Ferinha",
+    "title": "Seresta de verão",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nadson-o-ferinha/seresta-de-verao",
+    "cover_url": "https://e.snmc.io/i/600/s/ba4e6b9d818c21882f29786791bf4946/10942819/Nadson%20o%20Ferinha%20-%20Seresta%20de%20ver%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha",
+      "Piseiro"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Silvanno Salles",
+    "title": "Volume 10",
+    "year": 2010,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/silvanno-salles/volume-10",
+    "cover_url": "https://e.snmc.io/i/600/s/0d78aed3f94ddc419cb74afdfc25b01b/12635552/Silvanno%20Salles%20-%20Volume%2010%2C%20Cover%20art.jpeg",
+    "rating": "4.27",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Anginho dos Teclados",
+    "title": "Seresta: Vol. 13",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/anginho-dos-teclados/seresta-vol-13",
+    "cover_url": "https://e.snmc.io/i/600/s/b5be7c8588d7bdc389a5dd2f5f178368/9803357/Anginho%20dos%20Teclados%20-%20Seresta%3A%20Vol_%2013%2C%20Cover%20art.jpeg",
+    "rating": "2.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Vingadora",
+    "title": "Vem ne mim",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vingadora/vem-ne-mim",
+    "cover_url": "https://e.snmc.io/i/600/s/d036c61de29057cdb5a008c88a723af5/7145145/Vingadora%20-%20Vem%20ne%20mim%2C%20Cover%20art.jpeg",
+    "rating": "2.51",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrochadeira"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Nadson o Ferinha",
+    "title": "Serestão do Ferinha",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nadson-o-ferinha/serestao-do-ferinha",
+    "cover_url": "https://e.snmc.io/i/600/s/76e689d6bbae64669f142c2ab6e2a462/11586530/Nadson%20o%20Ferinha%20-%20Serest%C3%A3o%20do%20Ferinha%2C%20Cover%20art.jpeg",
+    "rating": "2.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Klessinha",
+    "title": "Seresta da Klessinha - Pra curar ressaca",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/klessinha/seresta-da-klessinha-pra-curar-ressaca",
+    "cover_url": "https://e.snmc.io/i/600/s/d1f882becc5e25b0e68dc2162d296202/13169158/Klessinha%20-%20Seresta%20da%20Klessinha%20-%20Pra%20curar%20ressaca%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Tierry",
+    "title": "O pai das crianças (Part. 1)",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tierry/o-pai-das-criancas-part-1",
+    "cover_url": "https://e.snmc.io/i/600/s/e70586c3cabdcce7dc2cc7fc760b8044/9265635/Tierry%20-%20O%20pai%20das%20crian%C3%A7as%20(Part_%201)%2C%20Cover%20art.jpeg",
+    "rating": "2.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Turma da Bregadeira",
+    "title": "Esquenta pro verão 2.0",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/turma-da-bregadeira/esquenta-pro-verao-2_0",
+    "cover_url": "https://e.snmc.io/i/600/s/0384d0c7beefedf70fd64a2d46122653/12398832/Turma%20da%20Bregadeira%20-%20Esquenta%20pro%20ver%C3%A3o%202_0%2C%20Cover%20art.jpeg",
+    "rating": "3.47",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bregadeira"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Wenny",
+    "title": "Doce Veneno",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/wenny/doce-veneno",
+    "cover_url": "https://e.snmc.io/i/600/s/b07e5e40eae9d4cfa47df1d8931d5768/14877768/Wenny%20-%20Doce%20Veneno%2C%20Cover%20art.jpeg",
+    "rating": "2.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Dance-Pop",
+      "Bregadeira",
+      "Funk 150 bpm",
+      "Arrochadeira"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Sofia Pitta",
+    "title": "Pureza selvagem",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sofia-pitta/pureza-selvagem",
+    "cover_url": "https://e.snmc.io/i/600/s/f7c4ae4b0734a94c4b95bd87a1a9a8d1/15021474/Sofia%20Pitta%20-%20Pureza%20selvagem%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pop",
+      "Bregadeira",
+      "Contemporary R&B",
+      "MPB"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Silvanno Salles",
+    "title": "Volume 05",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/silvanno-salles/volume-05",
+    "cover_url": "https://e.snmc.io/i/600/s/04fcd7a101473197efc47363824682ec/12635597/Silvanno%20Salles%20-%20Volume%2005%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "MC Rogerinho",
+    "title": "Na pressão",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-rogerinho/na-pressao",
+    "cover_url": "https://e.snmc.io/i/600/s/1f948f9bcd4ab19f40b03ab4a5f60ab6/8503707/MC%20Rogerinho%20-%20Na%20press%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "4.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha",
+      "Bregadeira",
+      "Brega funk"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Rogerinho",
+    "title": "85 Graus",
+    "year": 2085,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rogerinho/85-graus",
+    "cover_url": "https://e.snmc.io/i/600/s/a645a3be505036391dec08294fe1fac0/12299806/Rogerinho%20-%2085%20Graus%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bregadeira",
+      "Contemporary R&B"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Tierry",
+    "title": "Mais uma do Tiehit",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tierry/mais-uma-do-tiehit",
+    "cover_url": "https://e.snmc.io/i/600/s/cf724acb7a5542342ec294a988640e8d/12241459/Tierry%20-%20Mais%20uma%20do%20Tiehit%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Pablo",
+    "title": "Um novo passo",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pablo/um-novo-passo",
+    "cover_url": "https://e.snmc.io/i/600/s/0b874ae054f610262cb68c074beafe64/6704540/Pablo%20-%20Um%20novo%20passo%2C%20Cover%20art.jpeg",
+    "rating": "2.12",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Furacão Hit",
+    "title": "Se liga no beat",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/furacao-hit/se-liga-no-beat",
+    "cover_url": "https://e.snmc.io/i/600/s/1b38417dc32b42c39b2edccd42755d03/9742707/Furac%C3%A3o%20Hit%20-%20Se%20liga%20no%20beat%2C%20Cover%20art.jpeg",
+    "rating": "2.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bregadeira"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Júlio Nascimento",
+    "title": "Leidiane: Volume 1",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/julio-nascimento/leidiane-volume-1",
+    "cover_url": "https://e.snmc.io/i/600/s/2ab9496e0595ab889f50ac59b1e30be2/6725314/J%C3%BAlio%20Nascimento%20-%20Leidiane%3A%20Volume%201%2C%20Cover%20art.jpeg",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha",
+      "Lambada",
+      "Pop Rock"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Bregão do Gato Preto",
+    "title": "Serestão arretado",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bregao-do-gato-preto/serestao-arretado",
+    "cover_url": "https://e.snmc.io/i/600/s/3c417d2f1fb54852fa191ab8757bbc22/10945321/Breg%C3%A3o%20do%20Gato%20Preto%20-%20Serest%C3%A3o%20arretado%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Felipe Amorim",
+    "title": "Ao after e além",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/felipe-amorim/ao-after-e-alem",
+    "cover_url": "https://e.snmc.io/i/600/s/9d5ebd9d0ed3994c4eaf70a1df624967/12501771/Felipe%20Amorim%20-%20Ao%20after%20e%20al%C3%A9m%2C%20Cover%20art.jpeg",
+    "rating": "2.17",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bregadeira",
+      "Arrochadeira"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Felipe Amorim",
+    "title": "Ao after e além, pt.2",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/felipe-amorim/ao-after-e-alem-pt_2",
+    "cover_url": "https://e.snmc.io/i/600/s/05d918e9894665f39ba3dec4f8669f35/12501774/Felipe%20Amorim%20-%20Ao%20after%20e%20al%C3%A9m%2C%20pt_2%2C%20Cover%20art.jpeg",
+    "rating": "2.17",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bregadeira",
+      "Arrochadeira"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "O Tubarão",
+    "title": "Carnaval do Tubarão",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/o-tubarao/carnaval-do-tubarao",
+    "cover_url": "https://e.snmc.io/i/600/s/84a98f6472e0cda9f1ebdbdfad757f85/11694756/O%20Tubar%C3%A3o%20-%20Carnaval%20do%20Tubar%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrochadeira"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Klessinha",
+    "title": "Resenha sem tirar de dentro - Onboard / Seresta da Klessinha",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/klessinha/resenha-sem-tirar-de-dentro-onboard-seresta-da-klessinha",
+    "cover_url": "https://e.snmc.io/i/600/s/0bafbc2172aa9679b0898a4e31209711/12801156/Klessinha%20-%20Resenha%20sem%20tirar%20de%20dentro%20-%20Onboard%20%2F%20Seresta%20da%20Klessinha%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "MC GW &",
+    "title": "Arrochadeira magica",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-gw-cjnobeat/arrochadeira-magica",
+    "cover_url": "https://e.snmc.io/i/600/s/9b95a4d271196780e9d04b3a276b7686/14092734/MC%20GW%20%26%20cjnobeat%20-%20Arrochadeira%20magica%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrochadeira"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Felipe Amorim",
+    "title": "RomantiDog",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/felipe-amorim/romantidog",
+    "cover_url": "https://e.snmc.io/i/600/s/fff4cc4e2018ea7abf21e3437478a01c/13633228/Felipe%20Amorim%20-%20RomantiDog%2C%20Cover%20art.jpeg",
+    "rating": "2.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bregadeira",
+      "Arrochadeira"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Silvanno Salles",
+    "title": "O cantor apaixonado vol. 7",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/silvanno-salles/o-cantor-apaixonado-vol-7",
+    "cover_url": "https://e.snmc.io/i/600/s/e66d17f78b3c9dd87d696dd662e8cfb2/12745765/Silvanno%20Salles%20-%20O%20cantor%20apaixonado%20vol_%207%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Nira Guerreira a Rainha do Arrocha",
+    "title": "Volume 9",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nira-guerreira-a-rainha-do-arrocha/volume-9",
+    "cover_url": "https://e.snmc.io/i/600/s/933f1af683aea89da28e602cc9d54902/14178557/Nira%20Guerreira%20a%20Rainha%20do%20Arrocha%20-%20Volume%209%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Pablo",
+    "title": "Êee...Paixão!",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pablo/eee_paixao",
+    "cover_url": "https://e.snmc.io/i/600/s/307cba1f12607795a91e6dec1541a396/14176913/Pablo%20-%20%C3%8Aee___Paix%C3%A3o!%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Nadson o Ferinha",
+    "title": "Seresta pra paredão 1.0",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nadson-o-ferinha/seresta-pra-paredao-1_0",
+    "cover_url": "https://e.snmc.io/i/600/s/df87152f8844712fe2ecb2f1564e76ee/11801731/Nadson%20o%20Ferinha%20-%20Seresta%20pra%20pared%C3%A3o%201_0%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Arrocha"
+    ]
+  }
+]

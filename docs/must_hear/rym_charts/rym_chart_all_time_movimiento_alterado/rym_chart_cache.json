@@ -1,0 +1,759 @@
+[
+  {
+    "number": 1,
+    "artist": "Fuerza Regida",
+    "title": "Del barrio hasta aquí, vol. 2",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/fuerza-regida/del-barrio-hasta-aqui-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/69ae782c9a12907b796bc69fc31155ac/14538522/Fuerza%20Regida%20-%20Del%20barrio%20hasta%20aqu%C3%AD%2C%20vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "3.28",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Sierreño",
+      "Corrido tumbado"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Gerardo Ortiz",
+    "title": "Ni hoy ni mañana",
+    "year": 2010,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gerardo-ortiz/ni-hoy-ni-manana",
+    "cover_url": "https://e.snmc.io/i/600/s/61d8a83a4a943345100a3ab32f04179e/4009393/Gerardo%20Ortiz%20-%20Ni%20hoy%20ni%20ma%C3%B1ana%2C%20Cover%20art.jpeg",
+    "rating": "3.07",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Corrido"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Régulo Caro",
+    "title": "Amor en tiempos de guerra",
+    "year": 2012,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/regulo-caro/amor-en-tiempos-de-guerra",
+    "cover_url": "https://e.snmc.io/i/600/s/6a143ca66554f879390984ee445eb6fe/7736470/R%C3%A9gulo%20Caro%20-%20Amor%20en%20tiempos%20de%20guerra%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Luis R Conriquez",
+    "title": "Corridos bélicos, vol. IV",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luis-r-conriquez/corridos-belicos-vol-iv",
+    "cover_url": "https://e.snmc.io/i/600/s/e92394c2e2005a9f9186bcb4157a8cd1/11664578/Luis%20R%20Conriquez%20-%20Corridos%20b%C3%A9licos%2C%20vol_%20IV%2C%20Cover%20art.jpeg",
+    "rating": "2.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Corrido tumbado",
+      "Sierreño"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "El Komander",
+    "title": "Bélico",
+    "year": 2012,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/el-komander/belico",
+    "cover_url": "https://e.snmc.io/i/600/s/d6c32f803a1fd407cdca53acb5476e05/5416964/El%20Komander%20-%20B%C3%A9lico%2C%20Cover%20art.jpeg",
+    "rating": "3.28",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Banda sinaloense"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Gerardo Ortiz",
+    "title": "Hoy Más Fuerte",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gerardo-ortiz/hoy-mas-fuerte",
+    "cover_url": "https://e.snmc.io/i/600/s/2b10f39fc5090a8473218358e4f1aada/5944513/Gerardo%20Ortiz%20-%20Hoy%20M%C3%A1s%20Fuerte%2C%20Cover%20art.jpeg",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Banda sinaloense",
+      "Norteño",
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "El De Las R's",
+    "title": "Estilo R'S",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/el-de-las-rs/estilo-rs",
+    "cover_url": "https://e.snmc.io/i/600/s/6d9c4bb79ace91268bae639c8fa5f004/14654626/El%20De%20Las%20R's%20-%20Estilo%20R'S%2C%20Cover%20art.jpeg",
+    "rating": "3.40",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido",
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Luis R Conriquez",
+    "title": "Corridos bélicos, vol. 3",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luis-r-conriquez/corridos-belicos-vol-3",
+    "cover_url": "https://e.snmc.io/i/600/s/49e002b3825d21176d4ffe838692637c/10630556/Luis%20R%20Conriquez%20-%20Corridos%20b%C3%A9licos%2C%20vol_%203%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Sierreño"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Gerardo Ortiz",
+    "title": "Entre Dios y El Diablo",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gerardo-ortiz/entre-dios-y-el-diablo",
+    "cover_url": "https://e.snmc.io/i/600/s/9ad05d1c7e20f59084aabd4519022685/4009397/Gerardo%20Ortiz%20-%20Entre%20Dios%20y%20El%20Diablo%2C%20Cover%20art.jpeg",
+    "rating": "3.03",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Gerardo Ortiz",
+    "title": "El Primer Ministro",
+    "year": 2012,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gerardo-ortiz/el-primer-ministro",
+    "cover_url": "https://e.snmc.io/i/600/s/f33baf7088c85ce5c69455851595517d/4383125/Gerardo%20Ortiz%20-%20El%20Primer%20Ministro%2C%20Cover%20art.jpeg",
+    "rating": "3.32",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Régulo Caro",
+    "title": "Música, pólvora y sangre",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/regulo-caro/musica-polvora-y-sangre",
+    "cover_url": "https://e.snmc.io/i/600/s/89798a26eaaf90b39173df62ad7f5707/12836706/R%C3%A9gulo%20Caro%20-%20M%C3%BAsica%2C%20p%C3%B3lvora%20y%20sangre%2C%20Cover%20art.png",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Noel Torres",
+    "title": "La estructura",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/noel-torres/la-estructura",
+    "cover_url": "https://e.snmc.io/i/600/s/7652951e8270c37468ed34e0abf2b9e2/4634388/Noel%20Torres%20-%20La%20estructura%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Régulo Caro",
+    "title": "Senzu-Rah",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/regulo-caro/senzu-rah",
+    "cover_url": "https://e.snmc.io/i/600/s/3b9fea0c7ec2a85c2d27e569af7c3518/9044842/R%C3%A9gulo%20Caro%20-%20Senzu-Rah%2C%20Cover%20art.jpeg",
+    "rating": "3.74",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Pop Rock"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Noel Torres",
+    "title": "La Balanza",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/noel_torres/la_balanza",
+    "cover_url": "https://e.snmc.io/i/600/s/fdddbfe6f7b1956728f981b7c6deef3c/5946910/Noel%20Torres%20-%20La%20Balanza%2C%20Cover%20art.jpeg",
+    "rating": "3.68",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Norteño",
+      "Latin Pop"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Régulo Caro",
+    "title": "Especialista",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/regulo-caro/especialista",
+    "cover_url": "https://e.snmc.io/i/600/s/0900fae0baebd61459a7728fcb58d624/9044791/R%C3%A9gulo%20Caro%20-%20Especialista%2C%20Cover%20art.jpeg",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Los Buitres de Culiacan",
+    "title": "Los Buitres Con Tololoche",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-buitres-de-culiacan/los-buitres-con-tololoche",
+    "cover_url": "https://e.snmc.io/i/600/s/fa488627201cb84144bcfb0b47f153e5/8276625/Los%20Buitres%20de%20Culiacan%20-%20Los%20Buitres%20Con%20Tololoche%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Régulo Caro",
+    "title": "Emilio Garra",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/regulo-caro/emilio-garra",
+    "cover_url": "https://e.snmc.io/i/600/s/9f0f62738a14c14db8f1aafa15abcbfb/9084918/R%C3%A9gulo%20Caro%20-%20Emilio%20Garra%2C%20Cover%20art.jpeg",
+    "rating": "3.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "El Komander",
+    "title": "Cazador",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/el-komander/cazador",
+    "cover_url": "https://e.snmc.io/i/600/s/49f9949c6f997e24a0f74de0a82bcc89/5416963/El%20Komander%20-%20Cazador%2C%20Cover%20art.jpeg",
+    "rating": "2.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Banda sinaloense",
+      "Norteño"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Luis R Conriquez",
+    "title": "Corridos bélicos, vol. 2",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luis-r-conriquez/corridos-belicos-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/4b411c5154fda3ffd9c648208260f892/9672282/Luis%20R%20Conriquez%20-%20Corridos%20b%C3%A9licos%2C%20vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "2.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Sierreño"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "El Komander",
+    "title": "El Katch",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/el-komander/el-katch",
+    "cover_url": "https://e.snmc.io/i/600/s/64f983cff3f88ce9b941c6f837fdcb0e/5416958/El%20Komander%20-%20El%20Katch%2C%20Cover%20art.jpeg",
+    "rating": "2.47",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Grupo Firme",
+    "title": "Pasado, Presente, Futuro",
+    "year": 2017,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-firme/pasado-presente-futuro",
+    "cover_url": "https://e.snmc.io/i/600/s/8671405be44a4318e56f14434802f313/9874182/Grupo%20Firme%20-%20Pasado%2C%20Presente%2C%20Futuro%2C%20Cover%20art.jpeg",
+    "rating": "2.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Régulo Caro",
+    "title": "En estos dias",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/regulo-caro/en-estos-dias",
+    "cover_url": "https://e.snmc.io/i/600/s/8012fff555d6a7898e21b8c57017d370/7199419/R%C3%A9gulo%20Caro%20-%20En%20estos%20dias%2C%20Cover%20art.jpeg",
+    "rating": "2.93",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Julión Alvarez",
+    "title": "Ni Lo Intentes",
+    "year": 2010,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/julion-alvarez/ni-lo-intentes",
+    "cover_url": "https://e.snmc.io/i/600/s/0c73e28f6a4c78131981e5f4e43665c5/4856260/Juli%C3%B3n%20Alvarez%20-%20Ni%20Lo%20Intentes%2C%20Cover%20art.jpeg",
+    "rating": "2.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Norteño",
+      "Banda sinaloense",
+      "Movimiento alterado",
+      "Danzón",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Revolver Cannabis",
+    "title": "Seremos eternos... Pero por ahora somos los que estamos",
+    "year": 2012,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/revolver-cannabis/seremos-eternos-pero-por-ahora-somos-los-que-estamos",
+    "cover_url": "https://e.snmc.io/i/600/s/68d14f5724da4ff2ba600f21d7c3ce04/8744356/Revolver%20Cannabis%20-%20Seremos%20eternos___%20Pero%20por%20ahora%20somos%20los%20que%20estamos%2C%20Cover%20art.jpeg",
+    "rating": "4.19",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Fuerza Regida",
+    "title": "Adicto",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/fuerza-regida/adicto",
+    "cover_url": "https://e.snmc.io/i/600/s/bae3d59c62d723f6d287f2606376f77d/9770641/Fuerza%20Regida%20-%20Adicto%2C%20Cover%20art.jpeg",
+    "rating": "2.40",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Los Buitres",
+    "title": "No Tengas Miedo",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-buitres/no-tengas-miedo",
+    "cover_url": "https://e.snmc.io/i/600/s/dab4037273fe7ab41d71bb96b486a1b7/13987656/Los%20Buitres%20-%20No%20Tengas%20Miedo%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Calibre 50",
+    "title": "Corridos de Alto Calibre",
+    "year": 2050,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/calibre-50/corridos-de-alto-calibre",
+    "cover_url": "https://e.snmc.io/i/600/s/164299e026fa17fe4d7e472402b148ab/5143735/Calibre%2050%20-%20Corridos%20de%20Alto%20Calibre%2C%20Cover%20art.jpeg",
+    "rating": "3.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido",
+      "Movimiento alterado",
+      "Norteño",
+      "Banda sinaloense"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Régulo Caro • Emilio Garra",
+    "title": "Régulo Caro vs. Emilio Garra",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/regulo-caro-•-emilio-garra/regulo-caro-vs-emilio-garra",
+    "cover_url": "https://e.snmc.io/i/600/s/0974eac84fcc11e484d3d925d77011bc/9672539/R%C3%A9gulo%20Caro%20%E2%80%A2%20Emilio%20Garra%20-%20R%C3%A9gulo%20Caro%20vs_%20Emilio%20Garra%2C%20Cover%20art.jpeg",
+    "rating": "3.01",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Pop Rock",
+      "Norteño"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Larry Hernández",
+    "title": "16 Narco Corridos",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/larry-hernandez/16-narco-corridos",
+    "cover_url": "https://e.snmc.io/i/600/s/77e2e08a212cfd36850362669f836fc9/3451800/Larry%20Hern%C3%A1ndez%20-%2016%20Narco%20Corridos%2C%20Cover%20art.jpeg",
+    "rating": "2.86",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Corrido"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Noel Torres",
+    "title": "Llegamos, Estamos y Seguimos",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/noel-torres/llegamos-estamos-y-seguimos",
+    "cover_url": "https://e.snmc.io/i/600/s/8a93d79aedf26850605ed368c367a657/8957279/Noel%20Torres%20-%20Llegamos%2C%20Estamos%20y%20Seguimos%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Banda sinaloense",
+      "Norteño"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Calibre 50",
+    "title": "El Buen Ejemplo",
+    "year": 2050,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/calibre-50/el-buen-ejemplo",
+    "cover_url": "https://e.snmc.io/i/600/s/e946f8da5b9e7894c31b3a30b06beaf8/4382950/Calibre%2050%20-%20El%20Buen%20Ejemplo%2C%20Cover%20art.jpeg",
+    "rating": "2.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Norteño",
+      "Banda sinaloense"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Inquietos del Norte",
+    "title": "Locos desde ayer",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/inquietos-del-norte/locos-desde-ayer",
+    "cover_url": "https://e.snmc.io/i/600/s/5ce78c7f717b23f89674aa0aaffa0635/10872352/Inquietos%20del%20Norte%20-%20Locos%20desde%20ayer%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Norteño",
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Calibre 50",
+    "title": "De Sinaloa para el Mundo",
+    "year": 2050,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/calibre-50/de-sinaloa-para-el-mundo",
+    "cover_url": "https://e.snmc.io/i/600/s/62c79ca15971ff1efd4db03ea59006bd/4382942/Calibre%2050%20-%20De%20Sinaloa%20para%20el%20Mundo%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Banda sinaloense",
+      "Norteño",
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "El De Las R's",
+    "title": "Enfocado's",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/el-de-las-rs/enfocados",
+    "cover_url": "https://e.snmc.io/i/600/s/d294916b629a0bfcc82c660900935961/15107528/El%20De%20Las%20R's%20-%20Enfocado's%2C%20Cover%20art.jpeg",
+    "rating": "3.06",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado",
+      "Corrido"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "El Compa Chuy",
+    "title": "Con Estilo",
+    "year": 2010,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/el-compa-chuy/con-estilo",
+    "cover_url": "https://e.snmc.io/i/600/s/d8f035a8e4aa48f364dd6a95ae8ae442/3897517/El%20Compa%20Chuy%20-%20Con%20Estilo%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Corrido",
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Grupo Firme",
+    "title": "Evolución",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-firme/evolucion",
+    "cover_url": "https://e.snmc.io/i/600/s/b6cc0c803e690ff51718a04212267bed/14630680/Grupo%20Firme%20-%20Evoluci%C3%B3n%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Banda sinaloense",
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Los Cuates de Sinaloa",
+    "title": "Nací pa' matar",
+    "year": 2012,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-cuates-de-sinaloa/naci-pa-matar",
+    "cover_url": "https://e.snmc.io/i/600/s/507ac135ca8b32cfdbb26bc76fa72342/8142647/Los%20Cuates%20de%20Sinaloa%20-%20Nac%C3%AD%20pa'%20matar%2C%20Cover%20art.jpeg",
+    "rating": "2.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "BuKnas de Culiacan",
+    "title": "Los Reyes del Movimiento Alterado",
+    "year": 2010,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/buknas-de-culiacan/los-reyes-del-movimiento-alterado",
+    "cover_url": "",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Calibre 50",
+    "title": "Contigo",
+    "year": 2050,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/calibre-50/contigo",
+    "cover_url": "https://e.snmc.io/i/600/s/817889154ca26aaf41ef1ec4eb1d60dc/8371694/Calibre%2050%20-%20Contigo%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Norteño",
+      "Movimiento alterado"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Gerardo Ortiz",
+    "title": "No Tengo Rival",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gerardo-ortiz/no-tengo-rival",
+    "cover_url": "https://e.snmc.io/i/600/s/d458cdc4273c8568f3fa20c2d897ea7d/12579922/Gerardo%20Ortiz%20-%20No%20Tengo%20Rival%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Movimiento alterado"
+    ]
+  }
+]

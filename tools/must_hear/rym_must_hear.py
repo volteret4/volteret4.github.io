@@ -51,7 +51,7 @@ def _norm(s: str) -> str:
 
 def _cover_hd(url: str) -> str:
     """Upgrade 150px RYM cover to 600px."""
-    if not url:
+    if not url or url.startswith("data:"):
         return ""
     url = url.lstrip("/")
     if not url.startswith("http"):

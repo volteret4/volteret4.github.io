@@ -1,0 +1,60 @@
+[
+  {
+    "number": 1,
+    "artist": "Taoist Music Orchestra of the Shanghaï City God Temple",
+    "title": "Chinese Taoist Music",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/taoist-music-orchestra-of-the-shanghai-city-god-temple/chinese-taoist-music",
+    "cover_url": "https://e.snmc.io/i/600/s/6805ee45df5ebf0b9e6a2841d03182d0/2158461/Taoist%20Music%20Orchestra%20of%20the%20Shangha%C3%AF%20City%20God%20Temple%20-%20Chinese%20Taoist%20Music%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Taoist Ritual Music",
+      "Ancient Chinese Music",
+      "Hymn"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "The Dayan Ancient Music Association",
+    "title": "纳西古乐 (Naxi Ancient Music)",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-dayan-ancient-music-association/纳西古乐-naxi-ancient-music",
+    "cover_url": "https://e.snmc.io/i/600/s/bc56cfafa2a504ecf49a135815ca555f/4400670/The%20Dayan%20Ancient%20Music%20Association%20-%20%E7%BA%B3%E8%A5%BF%E5%8F%A4%E4%B9%90%20(Naxi%20Ancient%20Music)%2C%20Cover%20art.png",
+    "rating": "3.36",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Dongjing",
+      "Baisha xiyue",
+      "Taoist Ritual Music"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "China Film Folk Orchestra",
+    "title": "中國道教音樂 (Chinese Taoist Music)",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/china-film-folk-orchestra/中國道教音樂-chinese-taoist-music",
+    "cover_url": "https://e.snmc.io/i/600/s/1e86af634186c03b6cb2400de1be893c/7916378/China%20Film%20Folk%20Orchestra%20-%20%E4%B8%AD%E5%9C%8B%E9%81%93%E6%95%99%E9%9F%B3%E6%A8%82%20(Chinese%20Taoist%20Music)%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Taoist Ritual Music"
+    ]
+  }
+]

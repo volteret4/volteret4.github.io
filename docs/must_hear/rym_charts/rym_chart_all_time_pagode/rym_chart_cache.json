@@ -1,0 +1,771 @@
+[
+  {
+    "number": 1,
+    "artist": "Arlindo Cruz",
+    "title": "Sambista perfeito",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/arlindo-cruz/sambista-perfeito",
+    "cover_url": "https://e.snmc.io/i/600/s/9581c798418747632c901fb1349a7872/11520384/Arlindo%20Cruz%20-%20Sambista%20perfeito%2C%20Cover%20art.jpeg",
+    "rating": "3.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode",
+      "Partido alto"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Zeca Pagodinho",
+    "title": "Zeca Pagodinho",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zeca-pagodinho/zeca-pagodinho",
+    "cover_url": "https://e.snmc.io/i/600/s/6f5cdc6f04bb69b268e02b1c5ad31b51/13655833/Zeca%20Pagodinho%20-%20Zeca%20Pagodinho%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Pagode",
+      "Partido alto"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Beth Carvalho",
+    "title": "No pagode",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/beth-carvalho/no-pagode",
+    "cover_url": "https://e.snmc.io/i/600/s/b17a3e90110f5d4162a530d931a36fa3/4686771/Beth%20Carvalho%20-%20No%20pagode%2C%20Cover%20art.jpeg",
+    "rating": "3.85",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Pagode",
+      "Partido alto"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Beth Carvalho",
+    "title": "Na fonte",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/beth-carvalho/na-fonte",
+    "cover_url": "https://e.snmc.io/i/600/s/f05002172785476e4ceabf9c812a24f3/13647277/Beth%20Carvalho%20-%20Na%20fonte%2C%20Cover%20art.png",
+    "rating": "3.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Pagode",
+      "Samba de roda"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Grupo Fundo de Quintal",
+    "title": "Samba é no Fundo de Quintal",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-fundo-de-quintal/samba-e-no-fundo-de-quintal",
+    "cover_url": "https://e.snmc.io/i/600/s/4e63f143457d080cde7832c40a47ff7d/11451232/Grupo%20Fundo%20de%20Quintal%20-%20Samba%20%C3%A9%20no%20Fundo%20de%20Quintal%2C%20Cover%20art.png",
+    "rating": "3.74",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode",
+      "Partido alto"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Índio da Cuíca",
+    "title": "Zing zing",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/indio-da-cuica/zing-zing",
+    "cover_url": "https://e.snmc.io/i/600/s/9a7d039d30991387656425641565ec55/14954032/%C3%8Dndio%20da%20Cu%C3%ADca%20-%20Zing%20zing%2C%20Cover%20art.png",
+    "rating": "3.56",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Afoxé",
+      "Pagode"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Jorge Aragão",
+    "title": "Coisa de pele",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jorge-aragao/coisa-de-pele",
+    "cover_url": "https://e.snmc.io/i/600/s/ca4dce67d0bb12dc43ed8ef7b2425035/5136548/Jorge%20Arag%C3%A3o%20-%20Coisa%20de%20pele%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Lencinho",
+    "title": "Só as melhores",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lencinho/so-as-melhores",
+    "cover_url": "https://e.snmc.io/i/600/s/883e1cd41e4e30d9ac652334e66b1982/11712783/Lencinho%20-%20S%C3%B3%20as%20melhores%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Samba-rock",
+      "Noise Pop",
+      "Alternative Rock"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Alcione",
+    "title": "A paixão tem memória",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/a-paixao-tem-memoria",
+    "cover_url": "https://e.snmc.io/i/600/s/2e0f3d24aabaabc55850149cf5653a22/8149976/Alcione%20-%20A%20paix%C3%A3o%20tem%20mem%C3%B3ria%2C%20Cover%20art.png",
+    "rating": "3.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Xote",
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Ludmilla",
+    "title": "Numanice #2",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ludmilla/numanice-2",
+    "cover_url": "https://e.snmc.io/i/600/s/3d83a686c56259f3205fb939f95574a8/9662222/Ludmilla%20-%20Numanice%20%232%2C%20Cover%20art.jpeg",
+    "rating": "3.09",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Contemporary R&B"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Grupo Fundo de Quintal",
+    "title": "Nos pagodes da vida",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-fundo-de-quintal/nos-pagodes-da-vida-3",
+    "cover_url": "https://e.snmc.io/i/600/s/fa88915fb4f8a1b303ed49931a582864/4078937/Grupo%20Fundo%20de%20Quintal%20-%20Nos%20pagodes%20da%20vida%2C%20Cover%20art.jpeg",
+    "rating": "3.85",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Zeca Pagodinho",
+    "title": "Patota de Cosme",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zeca-pagodinho/patota-de-cosme",
+    "cover_url": "https://e.snmc.io/i/600/s/fbee475d08c587e7e8f8bb0a1a797bb3/4377893/Zeca%20Pagodinho%20-%20Patota%20de%20Cosme%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode",
+      "Partido alto"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Zeca Pagodinho",
+    "title": "Zeca Pagodinho",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zeca-pagodinho/zeca-pagodinho-2",
+    "cover_url": "https://e.snmc.io/i/600/s/1fc7a2eebfce11bfb25f71b6682d70d2/3558022/Zeca%20Pagodinho%20-%20Zeca%20Pagodinho%2C%20Cover%20art.jpeg",
+    "rating": "3.93",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode",
+      "Partido alto",
+      "Samba"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Grupo Fundo de Quintal",
+    "title": "Samba é no Fundo de Quintal Vol. 2",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-fundo-de-quintal/samba-e-no-fundo-de-quintal-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/4ade01771d224df5999e431723872a95/4078935/Grupo%20Fundo%20de%20Quintal%20-%20Samba%20%C3%A9%20no%20Fundo%20de%20Quintal%20Vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "3.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Grupo Fundo de Quintal",
+    "title": "Seja sambista também",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-fundo-de-quintal/seja-sambista-tambem",
+    "cover_url": "https://e.snmc.io/i/600/s/431c961dea36ab957f672b160adabff3/4078938/Grupo%20Fundo%20de%20Quintal%20-%20Seja%20sambista%20tamb%C3%A9m%2C%20Cover%20art.jpeg",
+    "rating": "3.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode",
+      "Samba-choro",
+      "Partido alto"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Almir Guineto",
+    "title": "Almir Guineto",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/almir-guineto/almir-guineto",
+    "cover_url": "https://e.snmc.io/i/600/s/a636e9c5af01ac15969da2afcef97666/3241613/Almir%20Guineto%20-%20Almir%20Guineto%2C%20Cover%20art.jpeg",
+    "rating": "3.74",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode",
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Soweto",
+    "title": "Farol das estrelas",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/soweto/farol-das-estrelas",
+    "cover_url": "https://e.snmc.io/i/600/s/d98713539c57a25b72c7ee3b4b9a458e/10503741/Soweto%20-%20Farol%20das%20estrelas%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Zeca Pagodinho",
+    "title": "Água da minha sede",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zeca-pagodinho/agua-da-minha-sede",
+    "cover_url": "https://e.snmc.io/i/600/s/48b0c0e7b234c84ffb504056d2368b07/3558025/Zeca%20Pagodinho%20-%20%C3%81gua%20da%20minha%20sede%2C%20Cover%20art.jpeg",
+    "rating": "3.97",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Pagode",
+      "Samba de roda",
+      "Samba-choro"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Belo",
+    "title": "Desafio",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/belo/desafio",
+    "cover_url": "https://e.snmc.io/i/600/s/778c051748a5a289cf5f6174212b640c/3590793/Belo%20-%20Desafio%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Contemporary R&B",
+      "Adult Contemporary"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Raça Negra",
+    "title": "Raça Negra Vol. 3",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/raca-negra/raca-negra-vol-3",
+    "cover_url": "https://e.snmc.io/i/600/s/46e147ee81695868b5e473dbc124c1d2/5868873/Ra%C3%A7a%20Negra%20-%20Ra%C3%A7a%20Negra%20Vol_%203%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Beth Carvalho",
+    "title": "Sentimento brasileiro",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/beth-carvalho/sentimento-brasileiro",
+    "cover_url": "https://e.snmc.io/i/600/s/bfa0a9d6cd1843cb9087973d8a0607f5/4687481/Beth%20Carvalho%20-%20Sentimento%20brasileiro%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Pagode"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "A Travestis",
+    "title": "Respeita as travestis",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/a-travestis/respeita-as-travestis",
+    "cover_url": "https://e.snmc.io/i/600/s/741ed14076d43f1703d979aeb3ce5b23/8831656/A%20Travestis%20-%20Respeita%20as%20travestis%2C%20Cover%20art.jpeg",
+    "rating": "2.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagodão",
+      "Electropop"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Zeca Pagodinho",
+    "title": "Jeito Moleque",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zeca-pagodinho/jeito-moleque",
+    "cover_url": "https://e.snmc.io/i/600/s/e89c945ff8104386655083a6761d945c/3558033/Zeca%20Pagodinho%20-%20Jeito%20Moleque%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Elza Soares",
+    "title": "Trajetória",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elza-soares/trajetoria",
+    "cover_url": "https://e.snmc.io/i/600/s/9454c4e9bac25e05d34db60206949099/4223503/Elza%20Soares%20-%20Trajet%C3%B3ria%2C%20Cover%20art.jpeg",
+    "rating": "3.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Pagode",
+      "Samba-jazz",
+      "Samba Soul"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Zeca Pagodinho",
+    "title": "Deixa a vida me levar",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zeca-pagodinho/deixa-a-vida-me-levar",
+    "cover_url": "https://e.snmc.io/i/600/s/2c004e77918f0858a7c6d74fdf54534d/13751369/Zeca%20Pagodinho%20-%20Deixa%20a%20vida%20me%20levar%2C%20Cover%20art.jpeg",
+    "rating": "3.63",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Almir Guineto",
+    "title": "Sorriso Novo",
+    "year": 1985,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/almir-guineto/sorriso-novo",
+    "cover_url": "https://e.snmc.io/i/600/s/319d808a91c12980132d906cc6b7d496/3535864/Almir%20Guineto%20-%20Sorriso%20Novo%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Pagode"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Exaltasamba",
+    "title": "Luz do desejo",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/exaltasamba/luz-do-desejo",
+    "cover_url": "https://e.snmc.io/i/600/s/a568629b4a88d603a1d06277858b0d93/3590028/Exaltasamba%20-%20Luz%20do%20desejo%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "SPC",
+    "title": "Só pra Contrariar",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/spc/so-pra-contrariar",
+    "cover_url": "https://e.snmc.io/i/600/s/1bd756f350bb25fdbc4aab739e9b093b/2682669/SPC%20-%20S%C3%B3%20pra%20Contrariar%2C%20Cover%20art.jpeg",
+    "rating": "3.09",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Salsa romántica",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Almir Guineto",
+    "title": "O suburbano",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/almir-guineto/o-suburbano",
+    "cover_url": "https://e.snmc.io/i/600/s/d5cec417bedc5943d76d46166d67e7c9/3560993/Almir%20Guineto%20-%20O%20suburbano%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Partido alto",
+      "Pagode"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Beth Carvalho",
+    "title": "Traço de união",
+    "year": 1982,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/beth-carvalho/traco-de-uniao",
+    "cover_url": "https://e.snmc.io/i/600/s/2737ecb2c0a0008c3d6a30db7183e628/4687499/Beth%20Carvalho%20-%20Tra%C3%A7o%20de%20uni%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Pagode"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Jorge Aragão",
+    "title": "Jorge Aragão",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jorge-aragao/jorge-aragao",
+    "cover_url": "https://e.snmc.io/i/600/s/716eb01091f9ef07dfcdd763ca49fb3c/7656731/Jorge%20Arag%C3%A3o%20-%20Jorge%20Arag%C3%A3o%2C%20Cover%20art.png",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Pisrico com Marcio Victor",
+    "title": "MPB: Makumba popular brasileira",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pisrico-com-marcio-victor/mpb-makumba-popular-brasileira",
+    "cover_url": "https://e.snmc.io/i/600/s/91ea76337c39845cc9be9251b45d6e82/7583447/Pisrico%20com%20Marcio%20Victor%20-%20MPB%3A%20Makumba%20popular%20brasileira%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagodão",
+      "Candomblé Music",
+      "Arrochadeira"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "João Nogueira",
+    "title": "Clube do Samba",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-nogueira/clube-do-samba",
+    "cover_url": "https://e.snmc.io/i/600/s/823ac2ea54f11ba03615f57f2e7f5f9d/3379659/Jo%C3%A3o%20Nogueira%20-%20Clube%20do%20Samba%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Pagode"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Zeca Pagodinho",
+    "title": "Deixa clarear",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zeca-pagodinho/deixa-clarear",
+    "cover_url": "https://e.snmc.io/i/600/s/cd8cc3e6d30d69f7d726ceef6966bab6/3558020/Zeca%20Pagodinho%20-%20Deixa%20clarear%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Soweto",
+    "title": "Refém do coração",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/soweto/refem-do-coracao",
+    "cover_url": "https://e.snmc.io/i/600/s/7c0312dd081fed486ee9f554623edd3a/6042979/Soweto%20-%20Ref%C3%A9m%20do%20cora%C3%A7%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Fantasmão",
+    "title": "Pluralidade",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/fantasmao/pluralidade",
+    "cover_url": "https://e.snmc.io/i/600/s/8a0c83c3f2ed9df55346f575e0a7ad6d/8296830/Fantasm%C3%A3o%20-%20Pluralidade%2C%20Cover%20art.jpeg",
+    "rating": "3.81",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagodão",
+      "Axé"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Dicró",
+    "title": "Dicró",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dicro/dicro",
+    "cover_url": "https://e.snmc.io/i/600/s/372c6c17208e4ff1fcdfb93c908230d2/2522436/Dicr%C3%B3%20-%20Dicr%C3%B3%2C%20Cover%20art.jpeg",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Partido alto",
+      "Pagode"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "É o Tchan",
+    "title": "É o Tchan do Brasil",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/e-o-tchan/e-o-tchan-do-brasil",
+    "cover_url": "https://e.snmc.io/i/600/s/7eaee80d46b9796a67a85a50b81fb0ef/3844381/%C3%89%20o%20Tchan%20-%20%C3%89%20o%20Tchan%20do%20Brasil%2C%20Cover%20art.jpeg",
+    "rating": "2.80",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagodão",
+      "Samba de roda",
+      "Calypso"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Grupo Fundo de Quintal",
+    "title": "O mapa da mina",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-fundo-de-quintal/o-mapa-da-mina",
+    "cover_url": "https://e.snmc.io/i/600/s/287f507ab04326c6aa3de6124d36225e/7096967/Grupo%20Fundo%20de%20Quintal%20-%20O%20mapa%20da%20mina%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode",
+      "Afoxé",
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Zeca Pagodinho",
+    "title": "Hoje é Dia de Festa",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zeca-pagodinho/hoje-e-dia-de-festa",
+    "cover_url": "https://e.snmc.io/i/600/s/a01cd0e6cb9a2aaade61c34158ce052c/3558042/Zeca%20Pagodinho%20-%20Hoje%20%C3%A9%20Dia%20de%20Festa%2C%20Cover%20art.jpeg",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode"
+    ]
+  }
+]

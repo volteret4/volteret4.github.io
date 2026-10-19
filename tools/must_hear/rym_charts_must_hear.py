@@ -221,9 +221,12 @@ def _parse_rym_chart_page(html: str, base_rank: int = 1, limit: int = 0) -> list
         )
         if img_block_m:
             img_attrs = img_block_m.group(1)
-            src_m = re.search(r'src="([^"]+)"', img_attrs)
-            if src_m and "blank" not in src_m.group(1):
-                cover = _cover_hd(src_m.group(1))
+            # RYM lazy-loads: src is a 1x1 data: placeholder, the real URL lives in data-src/srcset
+            for attr in ("data-src", "data-srcset", "srcset", "src"):
+                src_m = re.search(rf'\s{attr}="([^"\s]+)', " " + img_attrs)
+                if src_m and not src_m.group(1).startswith("data:") and "blank" not in src_m.group(1):
+                    cover = _cover_hd(src_m.group(1))
+                    break
 
         # ── Genres ────────────────────────────────────────────────────────
         genres = re.findall(r'<a\s+class="genre[^"]*"[^>]*>([^<]+)<', block)
@@ -275,21 +278,65 @@ def _get_chart_page_count(html: str) -> int:
 
 # ── SCRAPER ───────────────────────────────────────────────────────────────────
 
+class RymBrowser:
+    """
+    Sesión de Playwright reutilizable entre charts: el navegador se abre la primera
+    vez que se pide .page y se cierra al salir del with. Así --rym-genre-all abre un
+    solo navegador para cientos de charts en vez de uno por chart.
+    """
+
+    def __init__(self, state_dir: Path):
+        self.state_dir = Path(state_dir)
+        self._pw = self._ctx = self._page = None
+
+    @property
+    def page(self):
+        if self._page is None:
+            try:
+                from playwright.sync_api import sync_playwright
+            except ImportError:
+                raise RuntimeError(
+                    "playwright not installed. Run: pip install playwright && playwright install chromium"
+                )
+            self.state_dir.mkdir(parents=True, exist_ok=True)
+            chromium = _find_chromium()
+            extra_kwargs = {"executable_path": chromium} if chromium else {}
+            if chromium:
+                print(f"  🔍 Chromium: {chromium}")
+            self._pw = sync_playwright().start()
+            self._ctx = self._pw.chromium.launch_persistent_context(
+                str(self.state_dir),
+                headless=False,
+                args=["--disable-blink-features=AutomationControlled"],
+                **extra_kwargs,
+            )
+            self._page = self._ctx.pages[0] if self._ctx.pages else self._ctx.new_page()
+        return self._page
+
+    def close(self):
+        if self._ctx:
+            self._ctx.close()
+        if self._pw:
+            self._pw.stop()
+        self._pw = self._ctx = self._page = None
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, *exc):
+        self.close()
+
+
 def rym_fetch_chart(url: str, state_dir: Path,
                     cache_path: Path | None = None,
                     force: bool = False,
-                    limit: int = 0) -> list[dict]:
+                    limit: int = 0,
+                    browser: "RymBrowser | None" = None) -> list[dict]:
     """
     Fetch a RYM chart (all pages up to limit) using a single Playwright session.
-    Results are cached as JSON at cache_path.
+    With `browser`, reuses that session (and leaves it open); otherwise opens and
+    closes its own. Results are cached as JSON at cache_path.
     """
-    try:
-        from playwright.sync_api import sync_playwright
-    except ImportError:
-        raise RuntimeError(
-            "playwright not installed. Run: pip install playwright && playwright install chromium"
-        )
-
     url = url.rstrip("/") + "/"
 
     if cache_path and cache_path.exists() and not force:
@@ -300,79 +347,72 @@ def rym_fetch_chart(url: str, state_dir: Path,
             return result
         print("  ⚠  Caché vacío, re-scrapeando...")
 
-    state_dir = Path(state_dir)
-    state_dir.mkdir(parents=True, exist_ok=True)
-    chromium = _find_chromium()
-    extra_kwargs = {"executable_path": chromium} if chromium else {}
-    if chromium:
-        print(f"  🔍 Chromium: {chromium}")
-
-    albums: list[dict] = []
-    with sync_playwright() as p:
-        ctx = p.chromium.launch_persistent_context(
-            str(state_dir),
-            headless=False,
-            args=["--disable-blink-features=AutomationControlled"],
-            **extra_kwargs,
-        )
-        page = ctx.pages[0] if ctx.pages else ctx.new_page()
-
-        # ── Page 1 ──
-        page1_url = f"{url}1/"
-        html1 = _wait_for_page(page, page1_url)
-        if not html1:
-            ctx.close()
-            return []
-
-        albums      = _parse_rym_chart_page(html1, base_rank=1, limit=limit)
-        total_pages = _get_chart_page_count(html1)
-
-        if len(albums) == 0:
-            print(
-                "  ⚠  Parser encontró 0 álbumes en la página 1.\n"
-                "     Guarda el HTML manualmente en /tmp/rym_chart_debug.html para depurar."
-            )
-            # Dump for debugging
-            try:
-                Path("/tmp/rym_chart_debug.html").write_text(html1, encoding="utf-8")
-                print("  💡 HTML guardado en /tmp/rym_chart_debug.html")
-            except Exception:
-                pass
-            ctx.close()
-            return []
-
-        if total_pages > 1:
-            print(f"  📄 {total_pages} páginas detectadas")
-
-        # ── Remaining pages ──
-        page_n = 2
-        while page_n <= total_pages:
-            if limit and len(albums) >= limit:
-                break
-            time.sleep(1.5)
-            remaining = (limit - len(albums)) if limit else 0
-            page_url  = f"{url}{page_n}/"
-            html_n    = _wait_for_page(page, page_url)
-            if not html_n:
-                print(f"  ⚠  Página {page_n} vacía, deteniendo")
-                break
-            base = len(albums) + 1
-            more = _parse_rym_chart_page(html_n, base_rank=base, limit=remaining)
-            if not more:
-                print(f"  ⚠  Página {page_n}: sin álbumes, deteniendo")
-                break
-            albums.extend(more)
-            page_n += 1
-
-        ctx.close()
+    own = browser is None
+    if own:
+        browser = RymBrowser(state_dir)
+    try:
+        albums = _fetch_chart_pages(browser.page, url, limit)
+    finally:
+        if own:
+            browser.close()
 
     if limit:
         albums = albums[:limit]
     print(f"  🎵 {len(albums)} álbumes totales")
 
-    if cache_path:
+    if cache_path and albums:
         cache_path.write_text(json.dumps(albums, ensure_ascii=False, indent=2))
         print(f"  💾 Caché guardado: {cache_path}")
+
+    return albums
+
+
+def _fetch_chart_pages(page, url: str, limit: int) -> list[dict]:
+    """Recorre las páginas de un chart con una página de Playwright ya abierta."""
+    # ── Page 1 ──
+    page1_url = f"{url}1/"
+    html1 = _wait_for_page(page, page1_url)
+    if not html1:
+        return []
+
+    albums      = _parse_rym_chart_page(html1, base_rank=1, limit=limit)
+    total_pages = _get_chart_page_count(html1)
+
+    if len(albums) == 0:
+        print(
+            "  ⚠  Parser encontró 0 álbumes en la página 1.\n"
+            "     Guarda el HTML manualmente en /tmp/rym_chart_debug.html para depurar."
+        )
+        # Dump for debugging
+        try:
+            Path("/tmp/rym_chart_debug.html").write_text(html1, encoding="utf-8")
+            print("  💡 HTML guardado en /tmp/rym_chart_debug.html")
+        except Exception:
+            pass
+        return []
+
+    if total_pages > 1:
+        print(f"  📄 {total_pages} páginas detectadas")
+
+    # ── Remaining pages ──
+    page_n = 2
+    while page_n <= total_pages:
+        if limit and len(albums) >= limit:
+            break
+        time.sleep(1.5)
+        remaining = (limit - len(albums)) if limit else 0
+        page_url  = f"{url}{page_n}/"
+        html_n    = _wait_for_page(page, page_url)
+        if not html_n:
+            print(f"  ⚠  Página {page_n} vacía, deteniendo")
+            break
+        base = len(albums) + 1
+        more = _parse_rym_chart_page(html_n, base_rank=base, limit=remaining)
+        if not more:
+            print(f"  ⚠  Página {page_n}: sin álbumes, deteniendo")
+            break
+        albums.extend(more)
+        page_n += 1
 
     return albums
 
@@ -502,7 +542,8 @@ def run_rym_chart(args, root_dir: Path) -> None:
                 return
         else:
             albums = rym_fetch_chart(chart_url, STATE_DIR, cache_path,
-                                     force=force, limit=limit)
+                                     force=force, limit=limit,
+                                     browser=getattr(args, "_rym_browser", None))
             if not albums:
                 print("  ❌ No se obtuvieron álbumes")
                 return

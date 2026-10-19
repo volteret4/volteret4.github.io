@@ -1,0 +1,538 @@
+[
+  {
+    "number": 1,
+    "artist": "João de Barro",
+    "title": "Série documento",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joao-de-barro/serie-documento",
+    "cover_url": "https://e.snmc.io/i/600/s/fb11b644e2d25f198a9a985cbcf4963d/4210890/Jo%C3%A3o%20de%20Barro%20-%20S%C3%A9rie%20documento%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Carmen Miranda",
+    "title": "The South American Way",
+    "year": 1940,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/carmen-miranda/the-south-american-way",
+    "cover_url": "https://e.snmc.io/i/600/s/1fc10c8a41036de2d4528900fd8a63d3/7396839/Carmen%20Miranda%20-%20The%20South%20American%20Way%2C%20Cover%20art.jpeg",
+    "rating": "2.97",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha",
+      "Film Soundtrack"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Orquestra Imperial",
+    "title": "Carnaval só ano que vem",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orquestra-imperial/carnaval-so-ano-que-vem",
+    "cover_url": "https://e.snmc.io/i/600/s/765decf95ec6830afb0673cca6fb63a5/5048600/Orquestra%20Imperial%20-%20Carnaval%20s%C3%B3%20ano%20que%20vem%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-jazz",
+      "Marchinha",
+      "Samba"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "A Espetacular Charanga do França",
+    "title": "O último carnaval de nossas vidas",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/a_espetacular_charanga_do_franca/o_ultimo_carnaval_de_nossas_vidas",
+    "cover_url": "https://e.snmc.io/i/600/s/255bbc3c0dc9c578f57b6e48fb2a6bca/5961793/A%20Espetacular%20Charanga%20do%20Fran%C3%A7a%20-%20O%20%C3%BAltimo%20carnaval%20de%20nossas%20vidas%2C%20Cover%20art.png",
+    "rating": "3.18",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha",
+      "Samba-choro"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Espetacular Charanga do França",
+    "title": "Nunca não é carnaval",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/espetacular-charanga-do-franca/nunca-nao-e-carnaval",
+    "cover_url": "https://e.snmc.io/i/600/s/cd99643555976610ba4e22099327a08e/8794517/Espetacular%20Charanga%20do%20Fran%C3%A7a%20-%20Nunca%20n%C3%A3o%20%C3%A9%20carnaval%2C%20Cover%20art.jpeg",
+    "rating": "3.35",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Orquestra Frevo do Mundo",
+    "title": "Orquestra Frevo do Mundo, Vol. 1",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orquestra-frevo-do-mundo/orquestra-frevo-do-mundo-vol-1",
+    "cover_url": "https://e.snmc.io/i/600/s/e3b4632cbc90b4f124b633d7ea362630/8059061/Orquestra%20Frevo%20do%20Mundo%20-%20Orquestra%20Frevo%20do%20Mundo%2C%20Vol_%201%2C%20Cover%20art.jpeg",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "A Espetacular Charanga do França",
+    "title": "Baile Espetacular",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/a-espetacular-charanga-do-franca/baile-espetacular",
+    "cover_url": "https://e.snmc.io/i/600/s/13d1877437fb4e1cf2aa791e510be845/11543059/A%20Espetacular%20Charanga%20do%20Fran%C3%A7a%20-%20Baile%20Espetacular%2C%20Cover%20art.jpeg",
+    "rating": "3.32",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha",
+      "Afoxé"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Dorival Caymmi",
+    "title": "Caymmi também é de rancho",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dorival-caymmi/caymmi-tambem-e-de-rancho",
+    "cover_url": "https://e.snmc.io/i/600/s/784dec00d08f48a81069862cbdf9f606/1695002/Dorival%20Caymmi%20-%20Caymmi%20tamb%C3%A9m%20%C3%A9%20de%20rancho%2C%20Cover%20art.jpeg",
+    "rating": "3.23",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Chico Buarque",
+    "title": "Chico Buarque de Mangueira",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chico-buarque/chico-buarque-de-mangueira",
+    "cover_url": "https://e.snmc.io/i/600/s/cc9ab88aeee10b79492755f1b831b5a2/3367031/Chico%20Buarque%20-%20Chico%20Buarque%20de%20Mangueira%2C%20Cover%20art.jpeg",
+    "rating": "2.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Marchinha",
+      "Samba-canção",
+      "Samba-exaltação"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Carmen Miranda",
+    "title": "A Night in Rio",
+    "year": 1941,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/carmen-miranda/a-night-in-rio",
+    "cover_url": "https://e.snmc.io/i/600/s/feb2dff5bf5d5ecd30e8945a0d74fe84/6839012/Carmen%20Miranda%20-%20A%20Night%20in%20Rio%2C%20Cover%20art.jpeg",
+    "rating": "2.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Francisco Alves &",
+    "title": "Os duetos de Francisco Alves e Mário Reis",
+    "year": 1955,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/francisco-alves-mario-reis/os-duetos-de-francisco-alves-e-mario-reis",
+    "cover_url": "https://e.snmc.io/i/600/s/4c4b2479fc6755756bdcad30de7f9470/2109607/Francisco%20Alves%20%26%20M%C3%A1rio%20Reis%20-%20Os%20duetos%20de%20Francisco%20Alves%20e%20M%C3%A1rio%20Reis%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Dominguinhos",
+    "title": "Fim de festa",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dominguinhos/fim-de-festa",
+    "cover_url": "https://e.snmc.io/i/600/s/f5f5b9b84b853b75a00183824895cb4f/4869069/Dominguinhos%20-%20Fim%20de%20festa%2C%20Cover%20art.jpeg",
+    "rating": "3.35",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baião",
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Lamartine Babo",
+    "title": "Carnaval de Lamartine Babo",
+    "year": 1955,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lamartine-babo/carnaval-de-lamartine-babo",
+    "cover_url": "https://e.snmc.io/i/600/s/6dbec36313b1a1614435a580deae69b5/4207281/Lamartine%20Babo%20-%20Carnaval%20de%20Lamartine%20Babo%2C%20Cover%20art.jpeg",
+    "rating": "3.02",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Dalva de Oliveira",
+    "title": "Bandeira branca",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dalva-de-oliveira/bandeira-branca",
+    "cover_url": "https://e.snmc.io/i/600/s/07f268e177f464cfecb6f34532e392fb/5154615/Dalva%20de%20Oliveira%20-%20Bandeira%20branca%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Marchinha",
+      "Samba-exaltação",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Carmen Miranda",
+    "title": "A Week-End in Havana",
+    "year": 1941,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/carmen-miranda/a-week-end-in-havana",
+    "cover_url": "https://e.snmc.io/i/600/s/ee0c509947e42f46d978bb07cc0b7ebe/8284618/Carmen%20Miranda%20-%20A%20Week-End%20in%20Havana%2C%20Cover%20art.jpeg",
+    "rating": "3.01",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Film Soundtrack",
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Os Dragões do Rei",
+    "title": "Antigas marchas carnavalescas",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/os_dragoes_do_rei/antigas_marchas_carnavalescas",
+    "cover_url": "https://e.snmc.io/i/600/s/90daf89222e0eaf6412b7f4c868e6600/4744983/Os%20Drag%C3%B5es%20do%20Rei%20-%20Antigas%20marchas%20carnavalescas%2C%20Cover%20art.jpeg",
+    "rating": "3.14",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha",
+      "Dobrado"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Pixinguinha e Sua Banda",
+    "title": "Marchinhas Carnavalescas de João de Barro e Alberto Ribeiro",
+    "year": 1957,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pixinguinha-e-sua-banda/marchinhas-carnavalescas-de-joao-de-barro-e-alberto-ribeiro",
+    "cover_url": "https://e.snmc.io/i/600/s/a4bbe7c2befe458595cb91df1d66b0a9/8137379/Pixinguinha%20e%20Sua%20Banda%20-%20Marchinhas%20Carnavalescas%20de%20Jo%C3%A3o%20de%20Barro%20e%20Alberto%20Ribeiro%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Trio Surdina",
+    "title": "Trio Surdina",
+    "year": 1954,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/trio-surdina/trio-surdina-2",
+    "cover_url": "https://e.snmc.io/i/600/s/186edc554ce2b794ac487547a98ea69d/4485918/Trio%20Surdina%20-%20Trio%20Surdina%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Marchinha",
+      "Choro"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Bangalafumenga",
+    "title": "Barraco Dourado",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bangalafumenga/barraco_dourado",
+    "cover_url": "https://e.snmc.io/i/600/s/d84710e03d814beedc4f82e1ca8c34b6/2610624/Bangalafumenga%20-%20Barraco%20Dourado%2C%20Cover%20art.jpeg",
+    "rating": "2.88",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Silvio Santos",
+    "title": "Silvio Santos",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/silvio-santos/silvio-santos",
+    "cover_url": "https://e.snmc.io/i/600/s/955ac46bb6de8d949a9d80ab88e44b68/7552896/Silvio%20Santos%20-%20Silvio%20Santos%2C%20Cover%20art.jpeg",
+    "rating": "1.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha",
+      "Synthpop",
+      "Eurodance"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Banda do Corpo de Bombeiros do Distrito Federal ‎",
+    "title": "Marchas de Rancho",
+    "year": 1957,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/banda-do-corpo-de-bombeiros-do-distrito-federal/marchas-de-rancho",
+    "cover_url": "https://e.snmc.io/i/600/s/d67f4ca2bd557037981227b4c83d45d3/6762199/Banda%20do%20Corpo%20de%20Bombeiros%20do%20Distrito%20Federal%20%E2%80%8E%20-%20Marchas%20de%20Rancho%2C%20Cover%20art.jpeg",
+    "rating": "2.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Hermes e Renato",
+    "title": "O carnaval do Hermes e Renato",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/hermes-e-renato/o-carnaval-do-hermes-e-renato",
+    "cover_url": "https://e.snmc.io/i/600/s/8630147c6e727bc40821aeea68757c94/6925095/Hermes%20e%20Renato%20-%20O%20carnaval%20do%20Hermes%20e%20Renato%2C%20Cover%20art.jpeg",
+    "rating": "2.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Satire",
+      "Musical Comedy",
+      "Marchinha",
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Silvio Santos e suas colegas de trabalho",
+    "title": "Silvio Santos e suas colegas de trabalho",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/silvio-santos-e-suas-colegas-de-trabalho/silvio-santos-e-suas-colegas-de-trabalho",
+    "cover_url": "https://e.snmc.io/i/600/s/a21b376176b2bf80eccaba71ace2300f/6448697/Silvio%20Santos%20e%20suas%20colegas%20de%20trabalho%20-%20Silvio%20Santos%20e%20suas%20colegas%20de%20trabalho%2C%20Cover%20art.png",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Violeta Cavalcanti",
+    "title": "Os Olhos Mais Lindos",
+    "year": 1956,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/violeta_cavalcanti/os_olhos_mais_lindos",
+    "cover_url": "https://e.snmc.io/i/600/s/255e1e0e0a4fb17a7ec13700bbda3eb7/4461698/Violeta%20Cavalcanti%20-%20Os%20Olhos%20Mais%20Lindos%2C%20Cover%20art.jpeg",
+    "rating": "2.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Marchinha",
+      "Tango"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Estrambelhados",
+    "title": "Folias",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/estrambelhados/folias",
+    "cover_url": "https://e.snmc.io/i/600/s/cce21ca921b52e02c41a82180db555d8/14967481/Estrambelhados%20-%20Folias%2C%20Cover%20art.jpeg",
+    "rating": "4.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha",
+      "Ska"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Josué Barbosa Lira",
+    "title": "Capa de Batimeu",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/josue-barbosa-lira/capa-de-batimeu",
+    "cover_url": "https://e.snmc.io/i/600/s/621c0c97244defd0f11b0122686baa52/14402610/Josu%C3%A9%20Barbosa%20Lira%20-%20Capa%20de%20Batimeu%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha",
+      "Funk"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Joel e Gaúcho",
+    "title": "Joel & Gaúcho",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/joel-e-gaucho/joel-and-gaucho",
+    "cover_url": "https://e.snmc.io/i/600/s/2e65e2fb4001fd114b8f0f89a58e2495/3810791/Joel%20e%20Ga%C3%BAcho%20-%20Joel%20%26%20Ga%C3%BAcho%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Chacrinha",
+    "title": "Chacrinha & Chacretes cantam para todas as festas",
+    "year": 1985,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chacrinha/chacrinha-and-chacretes-cantam-para-todas-as-festas",
+    "cover_url": "https://e.snmc.io/i/600/s/658944914058322a16060079fe267a56/7943553/Chacrinha%20-%20Chacrinha%20%26%20Chacretes%20cantam%20para%20todas%20as%20festas%2C%20Cover%20art.png",
+    "rating": "1.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marchinha"
+    ]
+  }
+]

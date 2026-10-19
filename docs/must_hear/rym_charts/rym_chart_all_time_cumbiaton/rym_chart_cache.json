@@ -1,0 +1,143 @@
+[
+  {
+    "number": 1,
+    "artist": "Amandititita",
+    "title": "Pinche amor",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/amandititita/pinche-amor",
+    "cover_url": "https://e.snmc.io/i/600/s/f651491abd7fc80c6a62e6fdedc3cd03/7688487/Amandititita%20-%20Pinche%20amor%2C%20Cover%20art.jpeg",
+    "rating": "3.12",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia mexicana",
+      "Cumbiatón",
+      "Neoperreo",
+      "Digital Cumbia",
+      "Cumbia pop"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Cachirula &",
+    "title": "SEXOLANDIA",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cachirula-loojan/sexolandia",
+    "cover_url": "https://e.snmc.io/i/600/s/c9584afc36700d34197adffd21ad5f95/14355646/Cachirula%20%26%20LOOJAN%20-%20SEXOLANDIA%2C%20Cover%20art.jpeg",
+    "rating": "3.14",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Reggaetón",
+      "Cumbiatón",
+      "Neoperreo",
+      "Electro latino"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Amandititita",
+    "title": "La descarada",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/amandititita/la_descarada",
+    "cover_url": "https://e.snmc.io/i/600/s/a49c9aa01f2a5552c111ed305da1a935/4971249/Amandititita%20-%20La%20descarada%2C%20Cover%20art.jpeg",
+    "rating": "3.04",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia mexicana",
+      "Cumbiatón",
+      "Latin Alternative"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "El Malilla",
+    "title": "ÑEROSTARS",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/el-malilla/nerostars",
+    "cover_url": "https://e.snmc.io/i/600/s/3083d0201778d00c565a7488adfbf3f2/12478287/El%20Malilla%20-%20%C3%91EROSTARS%2C%20Cover%20art.jpeg",
+    "rating": "2.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Reggaetón",
+      "Cumbiatón",
+      "Pop Rap",
+      "Neoperreo"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "DJ Bekman",
+    "title": "The King of the Cumbiaton",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-bekman/the-king-of-the-cumbiaton",
+    "cover_url": "https://e.snmc.io/i/600/s/2d13ae9d6608245c328ebcafe7031107/10963579/DJ%20Bekman%20-%20The%20King%20of%20the%20Cumbiaton%2C%20Cover%20art.jpeg",
+    "rating": "3.30",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbiatón"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Rosa Pistola &",
+    "title": "Mi cordillera",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rosa-pistola-dj-chekesito/mi-cordillera",
+    "cover_url": "https://e.snmc.io/i/600/s/f3ed085446225d9e918be646ab5b886e/12439387/Rosa%20Pistola%20%26%20DJ%20Chekesito%20-%20Mi%20cordillera%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbiatón",
+      "Cumbia sonidera"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Dani Flow",
+    "title": "El rey del morbo",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dani-flow/el-rey-del-morbo",
+    "cover_url": "https://e.snmc.io/i/600/s/776ca9aebc0233d4cf9f98ec2fae7e3d/12956215/Dani%20Flow%20-%20El%20rey%20del%20morbo%2C%20Cover%20art.png",
+    "rating": "1.46",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbiatón",
+      "Reggaetón",
+      "Latin Rap"
+    ]
+  }
+]

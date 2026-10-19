@@ -1,0 +1,496 @@
+[
+  {
+    "number": 1,
+    "artist": "DJ Ramon Sucesso",
+    "title": "Sexta dos crias",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-ramon-sucesso/sexta-dos-crias",
+    "cover_url": "https://e.snmc.io/i/600/s/00ea0bfb7e1919cb21a96bdec09635e2/11503542/DJ%20Ramon%20Sucesso%20-%20Sexta%20dos%20crias%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm",
+      "Beat bolha",
+      "Plunderphonics"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "DJ RaMeMes",
+    "title": "Sem limites",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-ramemes/sem-limites",
+    "cover_url": "https://e.snmc.io/i/600/s/2e4af568690c6c5e1c5d803619cff8ee/11007904/DJ%20RaMeMes%20-%20Sem%20limites%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm",
+      "Funk mandelão",
+      "Funk proibidão"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "DJ Ramon Sucesso",
+    "title": "Sexta dos crias 2.0",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-ramon-sucesso/sexta-dos-crias-2_0",
+    "cover_url": "https://e.snmc.io/i/600/s/334dabc41b5e44bd5c36aa21e1a2c8b4/14176861/DJ%20Ramon%20Sucesso%20-%20Sexta%20dos%20crias%202_0%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm",
+      "Beat bolha",
+      "Funk proibidão"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "DJ RaMeMes",
+    "title": "Fuguetagem",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-ramemes/fuguetagem",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "DJ DENGUE",
+    "title": "Estilo duro",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-dengue/estilo-duro",
+    "cover_url": "https://e.snmc.io/i/600/s/5f46f7aebc60c7204616ccf4136a5d7c/14303695/DJ%20DENGUE%20-%20Estilo%20duro%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Hardcore [EDM]",
+      "Funk 150 bpm",
+      "Nu Style Gabber",
+      "Hardcore Breaks"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Lia Clark",
+    "title": "LIA (Pt. 1)",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lia-clark/lia-pt-1",
+    "cover_url": "https://e.snmc.io/i/600/s/d776bd16b00e027049ab6fcf039778fc/10101967/Lia%20Clark%20-%20LIA%20(Pt_%201)%2C%20Cover%20art.jpeg",
+    "rating": "3.15",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm",
+      "Funk mandelão",
+      "Funk proibidão"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Lia Clark",
+    "title": "Lia Clark: The Album",
+    "year": 2048,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lia-clark/lia-clark-the-album",
+    "cover_url": "https://e.snmc.io/i/600/s/6497626bb611de9546491412ae4e1fde/11439735/Lia%20Clark%20-%20Lia%20Clark%3A%20The%20Album%2C%20Cover%20art.jpeg",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm",
+      "Funk mandelão",
+      "Funk proibidão"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Kaya Conky",
+    "title": "Sextape",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kaya-conky/sextape",
+    "cover_url": "https://e.snmc.io/i/600/s/cf96d0ac6cf445219eaad34c72f01103/10810045/Kaya%20Conky%20-%20Sextape%2C%20Cover%20art.jpeg",
+    "rating": "3.16",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm",
+      "Trap",
+      "Funk proibidão"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "TTraumer",
+    "title": "006// 10 Passos pro Moksha",
+    "year": 2010,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ttraumer/006-10-passos-pro-moksha",
+    "cover_url": "https://e.snmc.io/i/600/s/155b28f2521b1aa14bb3fe07ceb58de4/14354252/TTraumer%20-%20006%2F%2F%2010%20Passos%20pro%20Moksha%2C%20Cover%20art.png",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Deconstructed Club",
+      "Funk 150 bpm",
+      "Beat bruxaria",
+      "Sound Collage",
+      "Plunderphonics"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "DJ Ramon Sucesso",
+    "title": "Sexta dos crias, vol. 1",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-ramon-sucesso/sexta-dos-crias-vol-1",
+    "cover_url": "https://e.snmc.io/i/600/s/3491e9290243b6476c7d27271efc78a8/12990912/DJ%20Ramon%20Sucesso%20-%20Sexta%20dos%20crias%2C%20vol_%201%2C%20Cover%20art.jpeg",
+    "rating": "2.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm",
+      "Funk carioca",
+      "Beat bolha",
+      "Beat bolha"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Dell Soda",
+    "title": "Toxic Rave 2027",
+    "year": 2027,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dell-soda/toxic-rave-2027",
+    "cover_url": "https://e.snmc.io/i/600/s/b2525a4ca863888037ff651e340a94e4/12113794/Dell%20Soda%20-%20Toxic%20Rave%202027%2C%20Cover%20art.jpeg",
+    "rating": "3.02",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm",
+      "Hardcore [EDM]"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "DJ RaMeMes &",
+    "title": "Sexo sombrio",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-ramemes-dj-silas-do-juramento/sexo-sombrio",
+    "cover_url": "https://e.snmc.io/i/600/s/490a102df25e7521c795e49295ad17b6/13952636/DJ%20RaMeMes%20%26%20DJ%20SILAS%20DO%20JURAMENTO%20-%20Sexo%20sombrio%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Beat fino",
+      "Funk 150 bpm",
+      "Funk mandelão"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Lexa",
+    "title": "Lexa",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lexa/lexa",
+    "cover_url": "https://e.snmc.io/i/600/s/98f43572d6b7fe1f13ee185070f2bf70/10101969/Lexa%20-%20Lexa%2C%20Cover%20art.jpeg",
+    "rating": "2.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm",
+      "Pop",
+      "Contemporary R&B",
+      "Pagodão"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Kika Boom",
+    "title": "Kikadão, Vol. 1",
+    "year": 2048,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kika-boom/kikadao-vol-1",
+    "cover_url": "https://e.snmc.io/i/600/s/1ed5e980e530bba618edc1846ece5440/9030414/Kika%20Boom%20-%20Kikad%C3%A3o%2C%20Vol_%201%2C%20Cover%20art.jpeg",
+    "rating": "2.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Dance-Pop",
+      "Funk 150 bpm",
+      "Brega funk",
+      "Rasteirinha"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Pedro Sampaio",
+    "title": "Chama meu nome",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pedro-sampaio/chama-meu-nome",
+    "cover_url": "https://e.snmc.io/i/600/s/2008d0def812d33014091f5c187700dd/9680853/Pedro%20Sampaio%20-%20Chama%20meu%20nome%2C%20Cover%20art.jpeg",
+    "rating": "1.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "DJ GB Faixa Preta",
+    "title": "Fininha",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-gb-faixa-preta/fininha-1",
+    "cover_url": "https://e.snmc.io/i/600/s/0a92bb315545a251ec6767dd332ebd90/10423916/DJ%20GB%20Faixa%20Preta%20-%20Fininha%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm",
+      "Beat fino"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "DJ RaMeMes (O Destruidor do Funk)",
+    "title": "Funk 150BPM 1ª Temporada",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-ramemes-o-destruidor-do-funk/funk-150bpm-1a-temporada",
+    "cover_url": "",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "DJ DENGUE",
+    "title": "Foco de putaria",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-dengue/foco-de-putaria",
+    "cover_url": "https://e.snmc.io/i/600/s/d5799dfa097bf719c9f04d6a468e1e4c/11902791/DJ%20DENGUE%20-%20Foco%20de%20putaria%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk brasileiro",
+      "Funk 150 bpm",
+      "Beat bolha"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Iasmin Turbininha",
+    "title": "Putaria acelerada (Vol 1)",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/iasmin-turbininha/putaria-acelerada-vol-1",
+    "cover_url": "https://e.snmc.io/i/600/s/808fd426cfb71bcea7baf8ffc83564db/7359349/Iasmin%20Turbininha%20-%20Putaria%20acelerada%20(Vol%201)%2C%20Cover%20art.jpeg",
+    "rating": "2.47",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Jaca Beats",
+    "title": "Unreal Bailes",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jaca-beats/unreal-bailes",
+    "cover_url": "https://e.snmc.io/i/600/s/04f0cb9efda70d279657c741c51ed5e5/9569069/Jaca%20Beats%20-%20Unreal%20Bailes%2C%20Cover%20art.png",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Latin House",
+      "Latin Electronic",
+      "Funk 150 bpm",
+      "Funk brasileiro"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "DJ RaMeMes",
+    "title": "Reduto das piranha",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-ramemes/reduto-das-piranha",
+    "cover_url": "https://e.snmc.io/i/600/s/df3d867db64a5e6ae68d96d48f1c58b3/9286767/DJ%20RaMeMes%20-%20Reduto%20das%20piranha%2C%20Cover%20art.jpeg",
+    "rating": "4.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm",
+      "Funk mandelão",
+      "Funk proibidão"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Jerry Smith",
+    "title": "Essência",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jerry-smith/essencia",
+    "cover_url": "https://e.snmc.io/i/600/s/f217728f6bca0c9c4291094f7945301e/8940404/Jerry%20Smith%20-%20Ess%C3%AAncia%2C%20Cover%20art.jpeg",
+    "rating": "2.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "DJ Davi da Espanha",
+    "title": "Ritminho do Baile de Espanha",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-davi-da-espanha/ritminho-do-baile-de-espanha",
+    "cover_url": "https://e.snmc.io/i/600/s/6af38dc07aca61dcd044908e84d5dd97/11280527/DJ%20Davi%20da%20Espanha%20-%20Ritminho%20do%20Baile%20de%20Espanha%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "DENNIS &",
+    "title": "São JUão com DENNIS",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dennis-juliette/sao-juao-com-dennis",
+    "cover_url": "https://e.snmc.io/i/600/s/86ccdae3c63b349338355691dbf8c4c8/13431299/DENNIS%20%26%20Juliette%20-%20S%C3%A3o%20JU%C3%A3o%20com%20DENNIS%2C%20Cover%20art.jpeg",
+    "rating": "1.17",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró eletrônico",
+      "Funk 150 bpm",
+      "Funk mandelão"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Escarião",
+    "title": "7",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/escariao/7",
+    "cover_url": "https://e.snmc.io/i/600/s/420d83600a572dc4c9a7339e8ce00bee/8065368/Escari%C3%A3o%20-%207%2C%20Cover%20art.jpeg",
+    "rating": "0.97",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk ostentação",
+      "Funk 150 bpm",
+      "Dance-Pop",
+      "Trap"
+    ]
+  }
+]

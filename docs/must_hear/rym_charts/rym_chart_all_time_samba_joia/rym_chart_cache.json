@@ -1,0 +1,766 @@
+[
+  {
+    "number": 1,
+    "artist": "Alcione",
+    "title": "Morte de um poeta",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/morte-de-um-poeta",
+    "cover_url": "https://e.snmc.io/i/600/s/e2b0b45b9e34cba9597278bf1a391bc2/4775032/Alcione%20-%20Morte%20de%20um%20poeta%2C%20Cover%20art.jpeg",
+    "rating": "3.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia",
+      "Samba-choro",
+      "Samba de roda"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Alcione",
+    "title": "Alerta geral",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/alerta-geral",
+    "cover_url": "https://e.snmc.io/i/600/s/2919cb9d95f9d8a0f2efbb1db78a70f0/3564485/Alcione%20-%20Alerta%20geral%2C%20Cover%20art.jpeg",
+    "rating": "3.81",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia",
+      "Baião",
+      "Samba de roda"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Antonio Carlos & Jocafi",
+    "title": "Antonio Carlos e Jocafi",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/antonio_carlos_and_jocafi/antonio_carlos_e_jocafi",
+    "cover_url": "https://e.snmc.io/i/600/s/0da7e49646897e651c06394179510785/3509892/Antonio%20Carlos%20%26%20Jocafi%20-%20Antonio%20Carlos%20e%20Jocafi%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Samba-joia",
+      "Samba Soul",
+      "Samba-rock"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Benito di Paula",
+    "title": "Um novo samba",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/benito-di-paula/um-novo-samba",
+    "cover_url": "https://e.snmc.io/i/600/s/4fe65525ceb167af26abd8e642463d41/10267335/Benito%20di%20Paula%20-%20Um%20novo%20samba%2C%20Cover%20art.jpeg",
+    "rating": "3.92",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Alcione",
+    "title": "Pra que chorar",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/pra-que-chorar",
+    "cover_url": "https://e.snmc.io/i/600/s/e5d502c2539e722b457d0791bf4a2754/3564483/Alcione%20-%20Pra%20que%20chorar%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Samba-joia",
+      "Samba de roda",
+      "Baião"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Alcione",
+    "title": "Nosso nome: Resistência",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/nosso-nome-resistencia",
+    "cover_url": "https://e.snmc.io/i/600/s/6046c215e8e9b9b2fa4aee96e04d3b31/2041624/Alcione%20-%20Nosso%20nome%3A%20Resist%C3%AAncia%2C%20Cover%20art.jpeg",
+    "rating": "3.88",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Samba-joia",
+      "Adult Contemporary",
+      "Samba de roda"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Wando",
+    "title": "Glória a Deus no céu e samba na terra",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/wando/gloria-a-deus-no-ceu-e-samba-na-terra",
+    "cover_url": "https://e.snmc.io/i/600/s/4d1688dea67e0d73d042df79b1290f87/9466432/Wando%20-%20Gl%C3%B3ria%20a%20Deus%20no%20c%C3%A9u%20e%20samba%20na%20terra%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba Soul",
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Alcione",
+    "title": "Vamos arrepiar!",
+    "year": 1982,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/vamos-arrepiar",
+    "cover_url": "https://e.snmc.io/i/600/s/3a4fe5308374590b4d700ae1a6849bc5/2424808/Alcione%20-%20Vamos%20arrepiar!%2C%20Cover%20art.jpeg",
+    "rating": "3.68",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Antonio Carlos & Jocafi",
+    "title": "Ossos do oficio",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/antonio-carlos-and-jocafi/ossos-do-oficio",
+    "cover_url": "https://e.snmc.io/i/600/s/79f508e4f2af548c0d068db14fc3c14a/6297456/Antonio%20Carlos%20%26%20Jocafi%20-%20Ossos%20do%20oficio%2C%20Cover%20art.jpeg",
+    "rating": "3.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia",
+      "MPB"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Agepê",
+    "title": "Moro onde não mora ninguém",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agepe/moro-onde-nao-mora-ninguem",
+    "cover_url": "https://e.snmc.io/i/600/s/bc2880a53723dc71b6087c5b43ed26fd/4992303/Agep%C3%AA%20-%20Moro%20onde%20n%C3%A3o%20mora%20ningu%C3%A9m%2C%20Cover%20art.jpeg",
+    "rating": "3.63",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Jorge Aragão",
+    "title": "Chorando estrelas",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jorge-aragao/chorando-estrelas",
+    "cover_url": "https://e.snmc.io/i/600/s/2b5942889a59e6ba2df0e155c0b78cf8/1529738/Jorge%20Arag%C3%A3o%20-%20Chorando%20estrelas%2C%20Cover%20art.jpeg",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia",
+      "Samba",
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Antonio Carlos & Jocafi",
+    "title": "Cada segundo",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/antonio-carlos-and-jocafi/cada-segundo",
+    "cover_url": "https://e.snmc.io/i/600/s/eff1279d15ceda281689cfde19e3614b/2210969/Antonio%20Carlos%20%26%20Jocafi%20-%20Cada%20segundo%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Samba-joia",
+      "Samba-rock",
+      "Samba Soul"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Wando",
+    "title": "Wando",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/wando/wando",
+    "cover_url": "https://e.snmc.io/i/600/s/a42029c9afc18c9d746466e3de9dc66a/2393048/Wando%20-%20Wando%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba Soul",
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Alcione",
+    "title": "Fruto e raíz",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/fruto-e-raiz",
+    "cover_url": "https://e.snmc.io/i/600/s/1398b5a022d3548be3171c7de865cc2f/1497151/Alcione%20-%20Fruto%20e%20ra%C3%ADz%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Samba-joia",
+      "MPB",
+      "Northeastern Brazilian Music"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Martinho da Vila",
+    "title": "Tá Delícia, Tá Gostoso",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/martinho-da-vila/ta-delicia-ta-gostoso",
+    "cover_url": "https://e.snmc.io/i/600/s/0f9011a1a5d45681bfa1f77f7a9a6bb6/13883172/Martinho%20da%20Vila%20-%20T%C3%A1%20Del%C3%ADcia%2C%20T%C3%A1%20Gostoso%2C%20Cover%20art.jpeg",
+    "rating": "3.40",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Gilson de Souza",
+    "title": "Pôxa",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gilson-de-souza/poxa",
+    "cover_url": "https://e.snmc.io/i/600/s/c7e05a9506e38bc9975522da412a2122/4350783/Gilson%20de%20Souza%20-%20P%C3%B4xa%2C%20Cover%20art.jpeg",
+    "rating": "3.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Benito di Paula",
+    "title": "Gravado ao vivo",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/benito_di_paula/gravado_ao_vivo",
+    "cover_url": "https://e.snmc.io/i/600/s/2b463091b1fd24101607e3d16681ce60/5343100/Benito%20di%20Paula%20-%20Gravado%20ao%20vivo%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia",
+      "Samba-exaltação"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Benito di Paula",
+    "title": "Benito di Paula",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/benito-di-paula/benito-di-paula-2",
+    "cover_url": "https://e.snmc.io/i/600/s/3096b91f8bc3f573d5a8dee7e3a89907/7740974/Benito%20di%20Paula%20-%20Benito%20di%20Paula%2C%20Cover%20art.png",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Agepê",
+    "title": "Agepê",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agepe/agepe",
+    "cover_url": "https://e.snmc.io/i/600/s/ee03adcbefef63052b66db5e6e2e20c2/1881658/Agep%C3%AA%20-%20Agep%C3%AA%2C%20Cover%20art.jpeg",
+    "rating": "3.46",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia",
+      "Samba de terreiro"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Alcione",
+    "title": "Da cor do Brasil",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/da-cor-do-brasil",
+    "cover_url": "https://e.snmc.io/i/600/s/d88e6b9e6be3336253b9f8fba81bc9d7/3565146/Alcione%20-%20Da%20cor%20do%20Brasil%2C%20Cover%20art.jpeg",
+    "rating": "3.47",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia",
+      "Ciranda"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Jorge Aragão",
+    "title": "A seu favor",
+    "year": 1990,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jorge-aragao/a-seu-favor",
+    "cover_url": "https://e.snmc.io/i/600/s/dab65416e218d7fbab41489977298787/7656749/Jorge%20Arag%C3%A3o%20-%20A%20seu%20favor%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia",
+      "Pagode"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Alcione",
+    "title": "Fogo da vida",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/fogo-da-vida",
+    "cover_url": "https://e.snmc.io/i/600/s/471ea9c08a2ca5bb1f8d756941266018/2041597/Alcione%20-%20Fogo%20da%20vida%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Samba-joia",
+      "Forró",
+      "Samba Soul"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Agepê",
+    "title": "Mistura Brasileira",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agepe/mistura_brasileira",
+    "cover_url": "https://e.snmc.io/i/600/s/f9a749784fb90915fbf14a1801ee371b/5817308/Agep%C3%AA%20-%20Mistura%20Brasileira%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Agepê",
+    "title": "Agepê",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agepe/agepe-4",
+    "cover_url": "https://e.snmc.io/i/600/s/2643a256183eea608bd57848008bcd5e/2651822/Agep%C3%AA%20-%20Agep%C3%AA%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Benito di Paula",
+    "title": "Benito di Paula",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/benito-di-paula/benito-di-paula",
+    "cover_url": "https://e.snmc.io/i/600/s/887c1e63840a7b99723937f083ad79cf/2388334/Benito%20di%20Paula%20-%20Benito%20di%20Paula%2C%20Cover%20art.jpeg",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Benito di Paula",
+    "title": "Benito di Paula",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/benito-di-paula/benito-di-paula-3",
+    "cover_url": "https://e.snmc.io/i/600/s/3fc6ad49232ba48fd0b8fe1be89e928e/3139644/Benito%20di%20Paula%20-%20Benito%20di%20Paula%2C%20Cover%20art.jpeg",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Benito di Paula",
+    "title": "Benito di Paula",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/benito-di-paula/benito-di-paula-8",
+    "cover_url": "https://e.snmc.io/i/600/s/3288391037276cf52ac97272fb0091c9/2388322/Benito%20di%20Paula%20-%20Benito%20di%20Paula%2C%20Cover%20art.jpeg",
+    "rating": "3.04",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba Soul",
+      "Samba-joia",
+      "Pop Soul"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Benito di Paula",
+    "title": "Brasil som 75",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/benito-di-paula/brasil-som-75",
+    "cover_url": "https://e.snmc.io/i/600/s/e10da48965a8722c4c43691318d2033b/4815811/Benito%20di%20Paula%20-%20Brasil%20som%2075%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Benito di Paula",
+    "title": "Benito di Paula",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/benito-di-paula/benito-di-paula-5",
+    "cover_url": "https://e.snmc.io/i/600/s/9ad6545b8bc276e1f3d678267213d055/9411294/Benito%20di%20Paula%20-%20Benito%20di%20Paula%2C%20Cover%20art.jpeg",
+    "rating": "3.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Alcione",
+    "title": "Faz uma loucura por mim",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/faz-uma-loucura-por-mim",
+    "cover_url": "https://e.snmc.io/i/600/s/6133ff6c92f830a27440b4f6acf0d865/13921247/Alcione%20-%20Faz%20uma%20loucura%20por%20mim%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Samba-joia",
+      "Xote",
+      "Adult Contemporary"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Alcione",
+    "title": "Ouro & cobre",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/ouro-and-cobre",
+    "cover_url": "https://e.snmc.io/i/600/s/95ada302e1e0902aa7a0305adb15b425/3564479/Alcione%20-%20Ouro%20%26%20cobre%2C%20Cover%20art.jpeg",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Samba-joia",
+      "Samba de roda",
+      "Pagode"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Noite Ilustrada",
+    "title": "Cada vez melhor",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/noite_ilustrada/cada_vez_melhor",
+    "cover_url": "https://e.snmc.io/i/600/s/aab76b86125bf4c44b38989027c169f1/5828995/Noite%20Ilustrada%20-%20Cada%20vez%20melhor%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Luiz Ayrão",
+    "title": "Luiz Ayrão",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luiz-ayrao/luiz-ayrao",
+    "cover_url": "https://e.snmc.io/i/600/s/3c6673a6346b173e2ca8a0da985cc730/5864672/Luiz%20Ayr%C3%A3o%20-%20Luiz%20Ayr%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Alcione",
+    "title": "Almas & corações",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/almas-and-coracoes",
+    "cover_url": "https://e.snmc.io/i/600/s/1295158789274d3b4e45edce6a924255/1497152/Alcione%20-%20Almas%20%26%20cora%C3%A7%C3%B5es%2C%20Cover%20art.jpeg",
+    "rating": "3.28",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Wando",
+    "title": "Gosto de Maçã",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/wando/gosto-de-maca",
+    "cover_url": "https://e.snmc.io/i/600/s/ed67b63743fa19cafaf1891ab5655b0d/3597656/Wando%20-%20Gosto%20de%20Ma%C3%A7%C3%A3%2C%20Cover%20art.jpeg",
+    "rating": "3.22",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Brega",
+      "Samba-joia",
+      "Singer-Songwriter"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Benito di Paula",
+    "title": "Benito di Paula",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/benito-di-paula/benito-di-paula-1",
+    "cover_url": "https://e.snmc.io/i/600/s/980833d1e107b2e4e7b03e627e34b5d0/6300634/Benito%20di%20Paula%20-%20Benito%20di%20Paula%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Antonio Carlos & Jocafi",
+    "title": "Elas por Elas",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/antonio-carlos-and-jocafi/elas-por-elas",
+    "cover_url": "https://e.snmc.io/i/600/s/9cb092ff260429228f6934c10bcd91e9/10728605/Antonio%20Carlos%20%26%20Jocafi%20-%20Elas%20por%20Elas%2C%20Cover%20art.jpeg",
+    "rating": "4.19",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Agepê",
+    "title": "Agepê",
+    "year": 1985,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agepe/agepe-3",
+    "cover_url": "https://e.snmc.io/i/600/s/9cc8afacc1c02fc840ef80d0fe7d4bcb/5137590/Agep%C3%AA%20-%20Agep%C3%AA%2C%20Cover%20art.jpeg",
+    "rating": "2.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Agepê",
+    "title": "Agepê",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agepe/agepe-1",
+    "cover_url": "https://e.snmc.io/i/600/s/f4924abf0af00fe5d7641357d5f32ac5/7985837/Agep%C3%AA%20-%20Agep%C3%AA%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Benito di Paula",
+    "title": "Bom mesmo é o brasil",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/benito-di-paula/bom-mesmo-e-o-brasil",
+    "cover_url": "https://e.snmc.io/i/600/s/114d50b6264914900da53b29c09c4183/9612710/Benito%20di%20Paula%20-%20Bom%20mesmo%20%C3%A9%20o%20brasil%2C%20Cover%20art.png",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-joia"
+    ]
+  }
+]

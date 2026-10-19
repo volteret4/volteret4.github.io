@@ -1,0 +1,703 @@
+[
+  {
+    "number": 1,
+    "artist": "Clementina de Jesus",
+    "title": "Marinheiro só",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/clementina-de-jesus/marinheiro-so",
+    "cover_url": "https://e.snmc.io/i/600/s/514b2049ca549d31f804a90a37f9b269/11341686/Clementina%20de%20Jesus%20-%20Marinheiro%20s%C3%B3%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Partido alto",
+      "Batucada",
+      "Afoxé",
+      "Samba de roda"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Tribo Massáhi",
+    "title": "Estrelando embaixador",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tribo-massahi/estrelando-embaixador",
+    "cover_url": "https://e.snmc.io/i/600/s/e601e104759ff03ea9515d082bc683cc/1653559/Tribo%20Mass%C3%A1hi%20-%20Estrelando%20embaixador%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada",
+      "Afoxé",
+      "Afro-Funk",
+      "Afoxé"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Orquestra Afro-Brasileira",
+    "title": "Obaluayê!",
+    "year": 1957,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orquestra-afro-brasileira/obaluaye",
+    "cover_url": "https://e.snmc.io/i/600/s/883a1b8e6095702eb0cb2786b17fcf50/11341642/Orquestra%20Afro-Brasileira%20-%20Obaluay%C3%AA!%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Afoxé",
+      "Batucada",
+      "Candomblé Music",
+      "Jongo",
+      "Maracatu"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Olodum",
+    "title": "Egito Madagáscar",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/olodum/egito-madagascar",
+    "cover_url": "https://e.snmc.io/i/600/s/ad25e108d672e1dbb4b482482e35b307/8050880/Olodum%20-%20Egito%20Madag%C3%A1scar%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Afoxé",
+      "Samba-reggae",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Ninos du Brasil",
+    "title": "Novos mistérios",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ninos-du-brasil/novos-misterios",
+    "cover_url": "https://e.snmc.io/i/600/s/9a66a1430b3576ae6b2c5c5c1fd6511d/5209615/Ninos%20du%20Brasil%20-%20Novos%20mist%C3%A9rios%2C%20Cover%20art.jpeg",
+    "rating": "3.35",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Techno",
+      "Batucada",
+      "Hard Drum",
+      "Tribal House"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "CAVS",
+    "title": "CAVS",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cavs/cavs",
+    "cover_url": "https://e.snmc.io/i/600/s/c2ab6a86f3697627cc2bd31f9bd33738/9162992/CAVS%20-%20CAVS%2C%20Cover%20art.jpeg",
+    "rating": "3.35",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada",
+      "Afrobeat",
+      "Krautrock"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Ninos du Brasil",
+    "title": "Antro Pop",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ninos-du-brasil/antro-pop",
+    "cover_url": "https://e.snmc.io/i/600/s/2786d2df959bd65b7291af018e9e09f0/9247922/Ninos%20du%20Brasil%20-%20Antro%20Pop%2C%20Cover%20art.jpeg",
+    "rating": "3.36",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada",
+      "Industrial Techno",
+      "Hardgroove Techno"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Clementina de Jesus",
+    "title": "Clementina, cadê você?",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/clementina-de-jesus/clementina-cade-voce",
+    "cover_url": "https://e.snmc.io/i/600/s/e3c08bdf74b1cc755a3c2c9df689779b/6776528/Clementina%20de%20Jesus%20-%20Clementina%2C%20cad%C3%AA%20voc%C3%AA%3F%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Partido alto",
+      "Batucada",
+      "Afoxé",
+      "Samba de roda",
+      "Sertanejo de raiz"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Monsueto",
+    "title": "Mora na filosofia dos sambas de Monsueto",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/monsueto/mora-na-filosofia-dos-sambas-de-monsueto",
+    "cover_url": "https://e.snmc.io/i/600/s/68e58c95b747e86c3c4e6fcc86bbe631/4965838/Monsueto%20-%20Mora%20na%20filosofia%20dos%20sambas%20de%20Monsueto%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Ninos du Brasil",
+    "title": "Muito N.D.B",
+    "year": 2012,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ninos-du-brasil/muito-n_d_b",
+    "cover_url": "https://e.snmc.io/i/600/s/ad918f8ea6748434705afd0d001a8409/4502259/Ninos%20du%20Brasil%20-%20Muito%20N_D_B%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada",
+      "Techno",
+      "Hardgroove Techno",
+      "Tribal House",
+      "Industrial Techno"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Luciano Perrone",
+    "title": "Batucada Fantastica, Vol. 3",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luciano-perrone/batucada-fantastica-vol-3",
+    "cover_url": "https://e.snmc.io/i/600/s/c85c33c4a979f193815203aa390e06bb/1836904/Luciano%20Perrone%20-%20Batucada%20Fantastica%2C%20Vol_%203%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Mestre Geraldo e Sua Bateria",
+    "title": "Batucada genial",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mestre-geraldo-e-sua-bateria/batucada-genial",
+    "cover_url": "https://e.snmc.io/i/600/s/a780798dc3f1c9b7103a6c8bc84e515c/3128587/Mestre%20Geraldo%20e%20Sua%20Bateria%20-%20Batucada%20genial%2C%20Cover%20art.jpeg",
+    "rating": "3.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Luciano Perrone &",
+    "title": "Batucada fantastica",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luciano-perrone-os-ritmistas-brasileiros/batucada-fantastica",
+    "cover_url": "https://e.snmc.io/i/600/s/50c0d861056f479f8efdedb5a1b39649/1695501/Luciano%20Perrone%20%26%20Os%20Ritmistas%20Brasileiros%20-%20Batucada%20fantastica%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Olodum",
+    "title": "Núbia Axum Etiópia",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/olodum/nubia-axum-etiopia",
+    "cover_url": "https://e.snmc.io/i/600/s/8a1aeaa6ab0114b28f8aee998b4003a9/8127214/Olodum%20-%20N%C3%BAbia%20Axum%20Eti%C3%B3pia%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-reggae",
+      "Afoxé",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "GRES Mocidade Independente de Padre Miguel",
+    "title": "Mocidade Independente de Padre Miguel - Bateria Nota 10",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gres-mocidade-independente-de-padre-miguel/mocidade-independente-de-padre-miguel-bateria-nota-10",
+    "cover_url": "https://e.snmc.io/i/600/s/98a581aa3b7fa8b13df26004ae842b71/1764619/GRES%20Mocidade%20Independente%20de%20Padre%20Miguel%20-%20Mocidade%20Independente%20de%20Padre%20Miguel%20-%20Bateria%20Nota%2010%2C%20Cover%20art.jpeg",
+    "rating": "3.93",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Naná Vasconcelos",
+    "title": "Zumbi",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nana-vasconcelos/zumbi",
+    "cover_url": "https://e.snmc.io/i/600/s/162a76e5a9183d779d22064e8b3f5f1e/3278404/Nan%C3%A1%20Vasconcelos%20-%20Zumbi%2C%20Cover%20art.jpeg",
+    "rating": "3.47",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Avant-Folk",
+      "Capoeira Music",
+      "Batucada",
+      "Avant-Folk"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Escola de Samba da Cidade &",
+    "title": "Batucada",
+    "year": 1966,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/escola-de-samba-da-cidade-paulinho-e-sua-bateria/batucada",
+    "cover_url": "https://e.snmc.io/i/600/s/3cb1b773f804306caf15b134fc1a581e/6872180/Escola%20de%20Samba%20da%20Cidade%20%26%20Paulinho%20e%20sua%20bateria%20-%20Batucada%2C%20Cover%20art.jpeg",
+    "rating": "3.89",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Bongar &",
+    "title": "Macumbadaboa",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-bongar-maga-bo/macumbadaboa",
+    "cover_url": "https://e.snmc.io/i/600/s/ea8fd56a8da69d04b19f7f2302830a7b/9049143/Grupo%20Bongar%20%2B%20Maga%20Bo%20-%20Macumbadaboa%2C%20Cover%20art.jpeg",
+    "rating": "3.28",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "The Mirza Men",
+    "title": "Latin Beatles",
+    "year": 1969,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-mirza-men/latin-beatles",
+    "cover_url": "https://e.snmc.io/i/600/s/ab35a2e898ededb1fcb7f644f1e02dcd/6766255/The%20Mirza%20Men%20-%20Latin%20Beatles%2C%20Cover%20art.jpeg",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Salsa",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Escola de Samba Portela",
+    "title": "Escola de samba Portela",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/escola-de-samba-portela/escola-de-samba-portela",
+    "cover_url": "https://e.snmc.io/i/600/s/c4eab8ac414489c9ab34c7638cd95049/6493668/Escola%20de%20Samba%20Portela%20-%20Escola%20de%20samba%20Portela%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Batucada",
+      "Samba de terreiro",
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Olodum",
+    "title": "Do nordeste do Saara ao nordeste brasileiro",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/olodum/do-nordeste-do-saara-ao-nordeste-brasileiro",
+    "cover_url": "https://e.snmc.io/i/600/s/7ef71e250c4cc7f64ee51aa0db7fcbd4/8127224/Olodum%20-%20Do%20nordeste%20do%20Saara%20ao%20nordeste%20brasileiro%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-reggae",
+      "Afoxé",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Escola de Samba da Cidade",
+    "title": "Batucada no. 3: The Exciting Rhythm of the Wild Brazilian Carnival",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/escola_de_samba_da_cidade/batucada_no__3__the_exciting_rhythm_of_the_wild_brazilian_carnival",
+    "cover_url": "https://e.snmc.io/i/600/s/0eae0ef1e6ab186b0d9c74803e24aa17/4710255/Escola%20de%20Samba%20da%20Cidade%20-%20Batucada%20no_%203%3A%20The%20Exciting%20Rhythm%20of%20the%20Wild%20Brazilian%20Carnival%2C%20Cover%20art.jpeg",
+    "rating": "3.08",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada",
+      "Samba de roda",
+      "Partido alto"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Cipó and His Authentic Rhythm Group",
+    "title": "Brazilian Beat",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cipo-and-his-authentic-rhythm-group/brazilian-beat",
+    "cover_url": "https://e.snmc.io/i/600/s/7c2e5a56128613b9f8b91685183b6ac3/2426483/Cip%C3%B3%20and%20His%20Authentic%20Rhythm%20Group%20-%20Brazilian%20Beat%2C%20Cover%20art.jpeg",
+    "rating": "3.36",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Fernando dos Santos (Ilê de Egunajara)",
+    "title": "Samba de caboclo",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/fernando-dos-santos-ile-de-egunajara/samba-de-caboclo",
+    "cover_url": "https://e.snmc.io/i/600/s/147668c4e1693bd5d36184242e23d620/7378853/Fernando%20dos%20Santos%20(Il%C3%AA%20de%20Egunajara)%20-%20Samba%20de%20caboclo%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada",
+      "Samba de roda"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Marçal",
+    "title": "A Incrível Bateria do Mestre Marçal",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/marcal/a_incrivel_bateria_do_mestre_marcal",
+    "cover_url": "https://e.snmc.io/i/600/s/bedb452df85991d5e4469cb1d5ff5b29/2638463/Mar%C3%A7al%20-%20A%20Incr%C3%ADvel%20Bateria%20do%20Mestre%20Mar%C3%A7al%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Albannach",
+    "title": "Eye of the Storm",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/albannach/eye-of-the-storm",
+    "cover_url": "https://e.snmc.io/i/600/s/56a61ffb8ce204dbc947c4ca6ec704f1/6268593/Albannach%20-%20Eye%20of%20the%20Storm%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Scottish Folk Music",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Hartmut Geerken",
+    "title": "Brasilia in Waitawhile",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/hartmut-geerken/brasilia-in-waitawhile",
+    "cover_url": "https://e.snmc.io/i/600/s/15006d3f2af8e28994e9b2558fdd9fd2/7126082/Hartmut%20Geerken%20-%20Brasilia%20in%20Waitawhile%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "GRES Mocidade Independente de Padre Miguel",
+    "title": "Bateria Nota 10 Vol. III",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gres-mocidade-independente-de-padre-miguel/bateria-nota-10-vol-iii",
+    "cover_url": "https://e.snmc.io/i/600/s/ab012f313e2c4a7773e4ab1ab0fcd521/8736672/GRES%20Mocidade%20Independente%20de%20Padre%20Miguel%20-%20Bateria%20Nota%2010%20Vol_%20III%2C%20Cover%20art.jpeg",
+    "rating": "3.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Dudu Tucci",
+    "title": "Obatimale",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dudu-tucci/obatimale",
+    "cover_url": "https://e.snmc.io/i/600/s/5aad241241e7ee6a4c9ee823e2162994/2259730/Dudu%20Tucci%20-%20Obatimale%2C%20Cover%20art.jpeg",
+    "rating": "2.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Escola de Samba Portela",
+    "title": "Bateria fantástica da Portela",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/escola-de-samba-portela/bateria-fantastica-da-portela",
+    "cover_url": "https://e.snmc.io/i/600/s/3b48ce1c6bd508d2f02561946bbdcd16/10258833/Escola%20de%20Samba%20Portela%20-%20Bateria%20fant%C3%A1stica%20da%20Portela%2C%20Cover%20art.jpeg",
+    "rating": "3.17",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Osvaldinho da Cuíca e Grupo Vai-Vai",
+    "title": "Vamos sambar",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/osvaldinho-da-cuica-e-grupo-vai-vai/vamos-sambar",
+    "cover_url": "https://e.snmc.io/i/600/s/529c6decd368189c641c709c118fb763/6128006/Osvaldinho%20da%20Cu%C3%ADca%20e%20Grupo%20Vai-Vai%20-%20Vamos%20sambar%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Albannach",
+    "title": "Albannach",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/albannach/albannach",
+    "cover_url": "https://e.snmc.io/i/600/s/a06559d5126d3dd6970c2e0b0f49f20a/2728311/Albannach%20-%20Albannach%2C%20Cover%20art.jpeg",
+    "rating": "2.96",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Scottish Folk Music",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "La Banda de Norte 9",
+    "title": "La alegria popular || Los dueños de la fiesta",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/la-banda-de-norte-9/la-alegria-popular-los-duenos-de-la-fiesta",
+    "cover_url": "",
+    "rating": "5.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Murga",
+      "Batucada",
+      "Football Chant"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "La Banda Ⓤ Oriente",
+    "title": "Si quieren ver fiesta",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/la-banda-ⓤ-oriente/si-quieren-ver-fiesta",
+    "cover_url": "https://e.snmc.io/i/600/s/1856ff0d38e8ea2264478f9b21376062/13819686/La%20Banda%20%E2%93%8A%20Oriente%20-%20Si%20quieren%20ver%20fiesta%2C%20Cover%20art.jpeg",
+    "rating": "5.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Murga",
+      "Batucada",
+      "Football Chant",
+      "Third Wave Ska",
+      "Cumbia argentina"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Miltinho c/ Escolas de Samba",
+    "title": "O diploma do astro",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/miltinho-c-escolas-de-samba/o-diploma-do-astro",
+    "cover_url": "https://e.snmc.io/i/600/s/0be4fb9d0c946a669ca4885db0fe65cf/6768076/Miltinho%20c%2F%20Escolas%20de%20Samba%20-%20O%20diploma%20do%20astro%2C%20Cover%20art.jpeg",
+    "rating": "2.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada",
+      "Samba de terreiro"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Escola de Samba Mocidade Alegre",
+    "title": "Fantastica Batucada",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/escola-de-samba-mocidade-alegre/fantastica-batucada",
+    "cover_url": "https://e.snmc.io/i/600/s/f4d646c2331cbecf9f100dd21c9965b2/1443573/Escola%20de%20Samba%20Mocidade%20Alegre%20-%20Fantastica%20Batucada%2C%20Cover%20art.jpeg",
+    "rating": "2.91",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada"
+    ]
+  }
+]

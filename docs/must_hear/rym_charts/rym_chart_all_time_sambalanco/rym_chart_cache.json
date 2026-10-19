@@ -1,0 +1,789 @@
+[
+  {
+    "number": 1,
+    "artist": "Jorge Ben",
+    "title": "Samba esquema novo",
+    "year": 1963,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jorge-ben/samba-esquema-novo",
+    "cover_url": "https://e.snmc.io/i/600/s/8cbf245ec43abe5008b0f0e610ba093d/12319633/Jorge%20Ben%20-%20Samba%20esquema%20novo%2C%20Cover%20art.jpeg",
+    "rating": "3.89",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Sambalanço",
+      "Bossa nova",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Elza Soares",
+    "title": "A bossa negra",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elza-soares/a-bossa-negra",
+    "cover_url": "https://e.snmc.io/i/600/s/aab3111da9df764df79e21529ddc4a22/9412894/Elza%20Soares%20-%20A%20bossa%20negra%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Sambalanço",
+      "Vocal Jazz",
+      "Big Band"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Orlandivo",
+    "title": "Orlandivo",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orlandivo/orlandivo",
+    "cover_url": "https://e.snmc.io/i/600/s/aea157c9ade5d84ca335a4207fe1e03a/14401000/Orlandivo%20-%20Orlandivo%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço",
+      "MPB",
+      "Samba-rock",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Elza Soares",
+    "title": "Se acaso você chegasse",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elza-soares/se-acaso-voce-chegasse",
+    "cover_url": "https://e.snmc.io/i/600/s/c2dc3349e39b9208bf79f3de5b4ea1cf/14839068/Elza%20Soares%20-%20Se%20acaso%20voc%C3%AA%20chegasse%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço",
+      "Samba de gafieira",
+      "Big Band"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Elza Soares &",
+    "title": "Elza Soares & Wilson das Neves",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elza-soares-wilson-das-neves/elza-soares-and-wilson-das-neves",
+    "cover_url": "https://e.snmc.io/i/600/s/d13c5662de91dbac29fe77198a17f882/3097117/Elza%20Soares%20%26%20Wilson%20das%20Neves%20-%20Elza%20Soares%20%26%20Wilson%20das%20Neves%2C%20Cover%20art.jpeg",
+    "rating": "3.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-jazz",
+      "Sambalanço",
+      "Big Band",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Jorge Ben",
+    "title": "Ben é samba bom",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jorge-ben/ben-e-samba-bom",
+    "cover_url": "https://e.snmc.io/i/600/s/955517ecfedd60d099e41d36aab59d77/1334890/Jorge%20Ben%20-%20Ben%20%C3%A9%20samba%20bom%2C%20Cover%20art.jpeg",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Sambalanço",
+      "Bossa nova",
+      "Big Band"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Jorge Ben",
+    "title": "Sacundin Ben samba",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jorge-ben/sacundin-ben-samba",
+    "cover_url": "https://e.snmc.io/i/600/s/a6df41b613d57c8ed8a38593d11cf24d/1334869/Jorge%20Ben%20-%20Sacundin%20Ben%20samba%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Samba-jazz",
+      "Sambalanço",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Elza Soares",
+    "title": "Um show de Elza",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elza-soares/um-show-de-elza",
+    "cover_url": "https://e.snmc.io/i/600/s/232f92ac9cad294c6b6b68a5f3b8c45b/1962677/Elza%20Soares%20-%20Um%20show%20de%20Elza%2C%20Cover%20art.jpeg",
+    "rating": "3.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Elza Soares",
+    "title": "Elza pede passagem",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elza-soares/elza-pede-passagem",
+    "cover_url": "https://e.snmc.io/i/600/s/90781833af19cebac6dd25f5747b9eb6/10980701/Elza%20Soares%20-%20Elza%20pede%20passagem%2C%20Cover%20art.jpeg",
+    "rating": "3.63",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba Soul",
+      "Sambalanço",
+      "Samba-rock",
+      "Samba Soul"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Os Gatos",
+    "title": "Os Gatos",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/os-gatos/os-gatos",
+    "cover_url": "https://e.snmc.io/i/600/s/647a5297cd5c9b3b7b1c26c4fd8afae6/1709441/Os%20Gatos%20-%20Os%20Gatos%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Sambalanço",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Doris Monteiro",
+    "title": "Doris Monteiro",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/doris-monteiro/doris-monteiro-6",
+    "cover_url": "https://e.snmc.io/i/600/s/aa6d4cb987bb1e9ea7b465d4faadd0ac/1320246/Doris%20Monteiro%20-%20Doris%20Monteiro%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Sambalanço",
+      "Big Band"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Ed Lincoln",
+    "title": "Ed Lincoln",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ed-lincoln/ed-lincoln",
+    "cover_url": "https://e.snmc.io/i/600/s/df38b66e2a6c50dd545315ad957bf5b6/9407427/Ed%20Lincoln%20-%20Ed%20Lincoln%2C%20Cover%20art.png",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço",
+      "Samba Soul",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Elza Soares",
+    "title": "Sambossa",
+    "year": 1963,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elza-soares/sambossa",
+    "cover_url": "https://e.snmc.io/i/600/s/84b5a21809e4edab2c51d41f7ba21684/14839081/Elza%20Soares%20-%20Sambossa%2C%20Cover%20art.jpeg",
+    "rating": "3.59",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Bossa nova",
+      "Sambalanço",
+      "Samba Soul"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Elza Soares & Miltinho",
+    "title": "Elza, Miltinho e samba",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elza-soares-and-miltinho/elza-miltinho-e-samba",
+    "cover_url": "https://e.snmc.io/i/600/s/bf8814ba5ee88d61155e57f3d8824cee/1661472/Elza%20Soares%20%26%20Miltinho%20-%20Elza%2C%20Miltinho%20e%20samba%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Elza Soares",
+    "title": "O máximo em samba",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elza-soares/o-maximo-em-samba",
+    "cover_url": "https://e.snmc.io/i/600/s/91185a0139ff1ca6a1926a654fec5098/1682193/Elza%20Soares%20-%20O%20m%C3%A1ximo%20em%20samba%2C%20Cover%20art.jpeg",
+    "rating": "3.78",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Ed Lincoln",
+    "title": "Ed Lincoln",
+    "year": 1966,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ed-lincoln/ed-lincoln-3",
+    "cover_url": "https://e.snmc.io/i/600/s/69ffc0b79a5b503338007b10bb0fba96/1887229/Ed%20Lincoln%20-%20Ed%20Lincoln%2C%20Cover%20art.jpeg",
+    "rating": "3.35",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço",
+      "Bossa nova",
+      "Easy Listening",
+      "Lounge"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Paulinho Nogueira",
+    "title": "Isto é sambalanço",
+    "year": 1969,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/paulinho-nogueira/isto-e-sambalanco",
+    "cover_url": "https://e.snmc.io/i/600/s/afa731e359e5f9e677e5704c09a15624/12239606/Paulinho%20Nogueira%20-%20Isto%20%C3%A9%20sambalan%C3%A7o%2C%20Cover%20art.png",
+    "rating": "3.28",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Elza Soares & Miltinho",
+    "title": "Elza, Miltinho e samba, vol. 2",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elza-soares-and-miltinho/elza-miltinho-e-samba-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/bee694314abda9827c306000e4cfeeb4/1695283/Elza%20Soares%20%26%20Miltinho%20-%20Elza%2C%20Miltinho%20e%20samba%2C%20vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Paulinho Nogueira e seu violão",
+    "title": "Brasil, violão e sambalanço",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/paulinho-nogueira-e-seu-violao/brasil-violao-e-sambalanco",
+    "cover_url": "https://e.snmc.io/i/600/s/0dd95df922c18f8cc710defc6555b304/1814153/Paulinho%20Nogueira%20e%20seu%20viol%C3%A3o%20-%20Brasil%2C%20viol%C3%A3o%20e%20sambalan%C3%A7o%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Sambalanço",
+      "Samba",
+      "Brazilian Classical Music"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Orlann Divo",
+    "title": "A Chave do Sucesso",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orlann-divo/a-chave-do-sucesso",
+    "cover_url": "https://e.snmc.io/i/600/s/88099b8507bd5fd8d3fc8a08cc0f5a0c/6152053/Orlann%20Divo%20-%20A%20Chave%20do%20Sucesso%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Claudette Soares",
+    "title": "Feitinha pro sucesso ou Quem não é a maior tem que ser a melhor",
+    "year": 1969,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/claudette-soares/feitinha-pro-sucesso-ou-quem-nao-e-a-maior-tem-que-ser-a-melhor",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "3.55",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Sambalanço",
+      "Pop Soul",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Doris Monteiro",
+    "title": "Gostoso é sambar",
+    "year": 1963,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/doris-monteiro/gostoso-e-sambar",
+    "cover_url": "https://e.snmc.io/i/600/s/8e5754c2a98e65ff54e30c1979380e68/1661987/Doris%20Monteiro%20-%20Gostoso%20%C3%A9%20sambar%2C%20Cover%20art.jpeg",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-jazz",
+      "Bossa nova",
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Miltinho com o Sexteto Sideral",
+    "title": "Um novo astro",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/miltinho-com-o-sexteto-sideral/um-novo-astro",
+    "cover_url": "https://e.snmc.io/i/600/s/e17f07068d8102a417482dcd35c2e668/8358332/Miltinho%20com%20o%20Sexteto%20Sideral%20-%20Um%20novo%20astro%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Sambalanço",
+      "Samba-jazz"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Ed Lincoln",
+    "title": "Seu Piano e seu Órgão Espetacular",
+    "year": 1963,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ed-lincoln/seu-piano-e-seu-orgao-espetacular",
+    "cover_url": "https://e.snmc.io/i/600/s/f16ec1c64ee6276cb274fa655d15bbf5/3089646/Ed%20Lincoln%20-%20Seu%20Piano%20e%20seu%20%C3%93rg%C3%A3o%20Espetacular%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Orlann Divo",
+    "title": "Samba Em Paralelo",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orlann-divo/samba-em-paralelo",
+    "cover_url": "https://e.snmc.io/i/600/s/8cf82a378ae852218cf609b2dfede3f3/1698394/Orlann%20Divo%20-%20Samba%20Em%20Paralelo%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço",
+      "Samba-jazz",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Ed Lincoln",
+    "title": "Ed Lincoln, seu piano e seu órgão espetacular",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ed-lincoln/ed-lincoln-seu-piano-e-seu-orgao-espetacular",
+    "cover_url": "https://e.snmc.io/i/600/s/7ba1ba225bf7aa318971914bde403817/2698337/Ed%20Lincoln%20-%20Ed%20Lincoln%2C%20seu%20piano%20e%20seu%20%C3%B3rg%C3%A3o%20espetacular%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Doris Monteiro & Miltinho",
+    "title": "Doris, Miltinho e charme",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/doris-monteiro-and-miltinho/doris-miltinho-e-charme",
+    "cover_url": "https://e.snmc.io/i/600/s/53bc88eee195836b50f7ac57cf5e0764/2320742/Doris%20Monteiro%20%26%20Miltinho%20-%20Doris%2C%20Miltinho%20e%20charme%2C%20Cover%20art.jpeg",
+    "rating": "3.26",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Sambalanço",
+      "Samba-canção",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Ed Lincoln",
+    "title": "A Volta",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ed-lincoln/a-volta",
+    "cover_url": "https://e.snmc.io/i/600/s/4def1acb42b0ed188158bb4a87ad0579/1720907/Ed%20Lincoln%20-%20A%20Volta%2C%20Cover%20art.jpeg",
+    "rating": "3.36",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Erlon Chaves e Sua Orquestra",
+    "title": "Sabadabada",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/erlon-chaves-e-sua-orquestra/sabadabada",
+    "cover_url": "https://e.snmc.io/i/600/s/2ea9451329ae11d50e1b1d1351b5cb87/1695329/Erlon%20Chaves%20e%20Sua%20Orquestra%20-%20Sabadabada%2C%20Cover%20art.jpeg",
+    "rating": "3.28",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-jazz",
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Orlandivo",
+    "title": "Sambaflex",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orlandivo/sambaflex",
+    "cover_url": "https://e.snmc.io/i/600/s/59ffc20c58dad2da38576e7386fc4b1c/2199894/Orlandivo%20-%20Sambaflex%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-rock",
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Celso Murilo",
+    "title": "Mr Ritmo",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/celso-murilo/mr-ritmo",
+    "cover_url": "https://e.snmc.io/i/600/s/13a81081eee31346181d215ec44d5599/1603925/Celso%20Murilo%20-%20Mr%20Ritmo%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Balanço Trio",
+    "title": "Ritmo... Bossa... Balanço",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/balanco_trio/ritmo____bossa____balanco",
+    "cover_url": "https://e.snmc.io/i/600/s/0006ac6e6ccc8c9ee7a3d2cf801d6be7/1738799/Balan%C3%A7o%20Trio%20-%20Ritmo___%20Bossa___%20Balan%C3%A7o%2C%20Cover%20art.jpeg",
+    "rating": "3.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Samba-jazz",
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Eliana Pittman",
+    "title": "É Preciso Cantar",
+    "year": 1966,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/eliana-pittman/e-preciso-cantar",
+    "cover_url": "https://e.snmc.io/i/600/s/b8c03ca90bb2e0aecdaaa4a6fabcfa33/1697698/Eliana%20Pittman%20-%20%C3%89%20Preciso%20Cantar%2C%20Cover%20art.jpeg",
+    "rating": "3.80",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Jadir de Castro",
+    "title": "Jadir no samba",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jadir-de-castro/jadir-no-samba",
+    "cover_url": "https://e.snmc.io/i/600/s/142c5c7cc79f6b8c8ee990b633fca830/1806564/Jadir%20de%20Castro%20-%20Jadir%20no%20samba%2C%20Cover%20art.jpeg",
+    "rating": "3.22",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Miltinho",
+    "title": "Miltinho",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/miltinho/miltinho",
+    "cover_url": "https://e.snmc.io/i/600/s/69fb2bd73b5fe95d11968e9e358a4888/1664493/Miltinho%20-%20Miltinho%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Ed Lincoln",
+    "title": "Album Nº 2",
+    "year": 1962,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ed-lincoln/album-n-2",
+    "cover_url": "https://e.snmc.io/i/600/s/c9684192d083da31ca96d0ddf1523904/9137487/Ed%20Lincoln%20-%20Album%20N%C2%BA%202%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Ed Lincoln",
+    "title": "Orgão Espetacular",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ed-lincoln/orgao-espetacular",
+    "cover_url": "https://e.snmc.io/i/600/s/104d31eaa1db01a45e18bcd86b10931e/2170047/Ed%20Lincoln%20-%20Org%C3%A3o%20Espetacular%2C%20Cover%20art.jpeg",
+    "rating": "3.27",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Waldir Calmon",
+    "title": "Waldir Calmon e Seus Multisons",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/waldir-calmon/waldir-calmon-e-seus-multisons",
+    "cover_url": "https://e.snmc.io/i/600/s/9f6e1ad8171844aaaab41099b9370122/9095114/Waldir%20Calmon%20-%20Waldir%20Calmon%20e%20Seus%20Multisons%2C%20Cover%20art.jpeg",
+    "rating": "3.14",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Easy Listening",
+      "Sambalanço",
+      "Latin Jazz"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Orlann Divo",
+    "title": "Orlann Divo",
+    "year": 1963,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orlann-divo/orlann-divo",
+    "cover_url": "https://e.snmc.io/i/600/s/8baa93010f4b08bce764406efdf76833/1698397/Orlann%20Divo%20-%20Orlann%20Divo%2C%20Cover%20art.jpeg",
+    "rating": "3.16",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sambalanço"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Noelita",
+    "title": "Quando me sinto só",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/noelita/quando-me-sinto-so",
+    "cover_url": "https://e.snmc.io/i/600/s/6d15c974b58bbfad911896d30f219936/12794554/Noelita%20-%20Quando%20me%20sinto%20s%C3%B3%2C%20Cover%20art.jpeg",
+    "rating": "3.63",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bossa nova",
+      "Sambalanço",
+      "Samba-canção"
+    ]
+  }
+]

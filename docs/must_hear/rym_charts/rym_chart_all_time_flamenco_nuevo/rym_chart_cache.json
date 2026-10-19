@@ -1,0 +1,801 @@
+[
+  {
+    "number": 1,
+    "artist": "Pedro Iturralde",
+    "title": "¡Jazz Flamenco!",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pedro-iturralde/_jazz-flamenco",
+    "cover_url": "https://e.snmc.io/i/600/s/53a369c06e3ea8c9bf01160fe59f8017/2030009/Pedro%20Iturralde%20-%20%C2%A1Jazz%20Flamenco!%2C%20Cover%20art.jpeg",
+    "rating": "3.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco Jazz"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Camarón",
+    "title": "La leyenda del tiempo",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/camaron/la-leyenda-del-tiempo",
+    "cover_url": "https://e.snmc.io/i/600/s/fcf3fd038075b5b45fe967b81aa20ed2/5442058/Camar%C3%B3n%20-%20La%20leyenda%20del%20tiempo%2C%20Cover%20art.jpeg",
+    "rating": "3.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Rumba flamenca",
+      "Bulería"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Ray Heredia",
+    "title": "Quien no corre, vuela",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ray-heredia/quien-no-corre-vuela",
+    "cover_url": "https://e.snmc.io/i/600/s/215c6f18f3f7c58754a4c075808a949f/9522699/Ray%20Heredia%20-%20Quien%20no%20corre%2C%20vuela%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Flamenco Pop",
+      "Sophisti-Pop",
+      "Rumba flamenca"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Lole y Manuel",
+    "title": "Nuevo día",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lole-y-manuel/nuevo-dia",
+    "cover_url": "https://e.snmc.io/i/600/s/d10db0b2d621fc45a0354d892f9c94ec/1922936/Lole%20y%20Manuel%20-%20Nuevo%20d%C3%ADa%2C%20Cover%20art.jpeg",
+    "rating": "3.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Bulería"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Enrique Morente &",
+    "title": "Omega",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/morente-and-lagartija-nick/omega",
+    "cover_url": "https://e.snmc.io/i/600/s/a57325effa794fa587d8e8aa88f8b5f9/6241859/Morente%20%26%20Lagartija%20Nick%20-%20Omega%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Art Rock",
+      "Experimental Rock",
+      "Post-Rock"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Pedro Iturralde",
+    "title": "Jazz Flamenco Vol. 2",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pedro-iturralde/jazz-flamenco-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/d2d86a23da4b17c2a9a8c23c995f3644/2029992/Pedro%20Iturralde%20-%20Jazz%20Flamenco%20Vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "3.78",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco Jazz"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Rosalía",
+    "title": "El mal querer",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rosalia/el-mal-querer",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco Pop",
+      "Flamenco nuevo",
+      "Art Pop",
+      "Alternative R&B",
+      "Bulería"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Estrella Morente",
+    "title": "Mi cante y un poema",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/estrella-morente/mi-cante-y-un-poema",
+    "cover_url": "https://e.snmc.io/i/600/s/8633afba2204777239d48ffe1d80fb73/1371290/Estrella%20Morente%20-%20Mi%20cante%20y%20un%20poema%2C%20Cover%20art.jpeg",
+    "rating": "3.74",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Al Di Meola, John McLaughlin & Paco de Lucía",
+    "title": "The Guitar Trio",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/paco-de-lucia-al-di-meola-and-john-mclaughlin/the-guitar-trio",
+    "cover_url": "https://e.snmc.io/i/600/s/7952e9696f42feabdd19047b8e104ab2/1209033/Paco%20de%20Lucia%2C%20Al%20Di%20Meola%20%26%20John%20McLaughlin%20-%20The%20Guitar%20Trio%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco Jazz"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Rodrigo y Gabriela",
+    "title": "Rodrigo y Gabriela",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rodrigo-y-gabriela/rodrigo-y-gabriela",
+    "cover_url": "https://e.snmc.io/i/600/s/d7f409829a2d30c1c2a647a1aeab537d/6775476/Rodrigo%20y%20Gabriela%20-%20Rodrigo%20y%20Gabriela%2C%20Cover%20art.png",
+    "rating": "3.70",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Acoustic Rock",
+      "Flamenco nuevo"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Paco de Lucía",
+    "title": "Sólo quiero caminar",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/paco-de-lucia/solo-quiero-caminar",
+    "cover_url": "https://e.snmc.io/i/600/s/cb12f685763db321d3954d875a2efb3b/1369470/Paco%20de%20Luc%C3%ADa%20-%20S%C3%B3lo%20quiero%20caminar%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco",
+      "Flamenco nuevo",
+      "Flamenco Jazz"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Rocío Márquez &",
+    "title": "Tercer cielo",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rocio-marquez-bronquio/tercer-cielo",
+    "cover_url": "https://e.snmc.io/i/600/s/cff52cdb291e7cd15fc94099be161dd4/9994992/Roc%C3%ADo%20M%C3%A1rquez%20%26%20Bronquio%20-%20Tercer%20cielo%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Electronic",
+      "Rumba flamenca"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Sabicas &",
+    "title": "Encuentro con el Rock",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sabicas-con-joe-beck/encuentro-con-el-rock",
+    "cover_url": "https://e.snmc.io/i/600/s/23f674e51107c03eca63252a3d58b6af/2300611/Sabicas%20con%20Joe%20Beck%20-%20Encuentro%20con%20el%20Rock%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Rock andaluz",
+      "Psychedelic Rock",
+      "Flamenco"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Veneno",
+    "title": "Veneno",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/veneno/veneno",
+    "cover_url": "https://e.snmc.io/i/600/s/573a51311d11e2a1cde69949064b423e/1267966/Veneno%20-%20Veneno%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rock andaluz",
+      "Flamenco nuevo",
+      "Rumba flamenca"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Gipsy Kings",
+    "title": "Gipsy Kings",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gipsy-kings/gipsy-kings",
+    "cover_url": "https://e.snmc.io/i/600/s/7ddee5c960682602f7c11f031a70ca13/2392478/Gipsy%20Kings%20-%20Gipsy%20Kings%2C%20Cover%20art.jpeg",
+    "rating": "3.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rumba catalana",
+      "Rumba flamenca",
+      "Flamenco nuevo"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Rosalía",
+    "title": "Los ángeles",
+    "year": 2017,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rosalia/los-angeles",
+    "cover_url": "https://e.snmc.io/i/600/s/cab594577dfdc22641a3dd9e8690753b/11469595/Rosal%C3%ADa%20-%20Los%20%C3%A1ngeles%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Contemporary Folk",
+      "Avant-Folk",
+      "Saeta"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Lole y Manuel",
+    "title": "Pasaje del agua",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lole-y-manuel/pasaje-del-agua",
+    "cover_url": "https://e.snmc.io/i/600/s/8de9548d27a9610bfc7f4fbc65687d7d/1922913/Lole%20y%20Manuel%20-%20Pasaje%20del%20agua%2C%20Cover%20art.jpeg",
+    "rating": "3.78",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Progressive Folk"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Rodrigo y Gabriela",
+    "title": "11:11",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rodrigo-y-gabriela/11_11",
+    "cover_url": "https://e.snmc.io/i/600/s/3f083f7af8928148831376a211cd0d90/2763303/Rodrigo%20y%20Gabriela%20-%2011%3A11%2C%20Cover%20art.jpeg",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Acoustic Rock",
+      "Flamenco nuevo",
+      "Latin Rock",
+      "Flamenco"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Niño de Elche",
+    "title": "Antología del cante flamenco heterodoxo",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nino-de-elche/antologia-del-cante-flamenco-heterodoxo",
+    "cover_url": "https://e.snmc.io/i/600/s/1191b314be5c417168ec9d2684b1c7ab/6884518/Ni%C3%B1o%20de%20Elche%20-%20Antolog%C3%ADa%20del%20cante%20flamenco%20heterodoxo%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Avant-Folk",
+      "Flamenco nuevo",
+      "Saeta",
+      "Tape Music"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Bebo Valdés &",
+    "title": "Lágrimas negras",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bebo-and-cigala/lagrimas-negras",
+    "cover_url": "https://e.snmc.io/i/600/s/39903360ec88f34d55d139e647bca14e/1979429/Bebo%20%26%20Cigala%20-%20L%C3%A1grimas%20negras%2C%20Cover%20art.jpeg",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Afro-Cuban Jazz",
+      "Flamenco Jazz",
+      "Bolero son",
+      "Flamenco nuevo"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Camarón de la Isla,",
+    "title": "Calle Real",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/camaron-paco-de-lucia-y-tomatito/calle-real",
+    "cover_url": "https://e.snmc.io/i/600/s/72b959d803fcb0aad6b6e1a0d0e3ae69/12637828/Camar%C3%B3n%2C%20Paco%20de%20Luc%C3%ADa%20y%20Tomatito%20-%20Calle%20Real%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Al Di Meola, John McLaughlin & Paco de Lucía",
+    "title": "Passion Grace & Fire",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/john-mclaughlin-al-di-meola-and-paco-de-lucia/passion-grace-and-fire",
+    "cover_url": "https://e.snmc.io/i/600/s/e5df19a860982bd2ccf4f34f331fd40e/14774006/John%20McLaughlin%2C%20Al%20Di%20Meola%20%26%20Paco%20de%20Luc%C3%ADa%20-%20Passion%20Grace%20%26%20Fire%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco Jazz",
+      "Flamenco"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Ketama,",
+    "title": "Songhai 2",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ketama-toumani-diabate-jose-soto/songhai-2",
+    "cover_url": "https://e.snmc.io/i/600/s/bf26843931514bf69622cdea1614b845/4693220/Ketama%2C%20Toumani%20Diabat%C3%A9%20%26%20Jos%C3%A9%20Soto%20-%20Songhai%202%2C%20Cover%20art.jpeg",
+    "rating": "3.63",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Songhai Music",
+      "Mande Music"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Pata Negra",
+    "title": "Blues de la frontera",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pata-negra/blues-de-la-frontera",
+    "cover_url": "https://e.snmc.io/i/600/s/3c2cf1d23ef461d3492bb5385d8fc37d/1267201/Pata%20Negra%20-%20Blues%20de%20la%20frontera%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Blues Rock"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Pata Negra",
+    "title": "Guitarras callejeras",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pata-negra/guitarras-callejeras",
+    "cover_url": "https://e.snmc.io/i/600/s/d73b7a798e340e2b8948e69c39d93d43/1267200/Pata%20Negra%20-%20Guitarras%20callejeras%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Rock andaluz",
+      "Acoustic Rock"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Ojos de Brujo",
+    "title": "Barí",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ojos-de-brujo/bari",
+    "cover_url": "https://e.snmc.io/i/600/s/8cc7f282dd3f753adab30eb80ac33584/4188573/Ojos%20de%20Brujo%20-%20Bar%C3%AD%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rumba flamenca",
+      "Rumba catalana",
+      "Flamenco nuevo",
+      "Hip Hop",
+      "Flamenco Jazz"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Ketama,",
+    "title": "Songhai",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ketama-toumani-diabate-danny-thompson/songhai",
+    "cover_url": "https://e.snmc.io/i/600/s/7d38fdc96d2709e806ab762aea67eb82/1512372/Ketama%2C%20Toumani%20Diabat%C3%A9%20%26%20Danny%20Thompson%20-%20Songhai%2C%20Cover%20art.jpeg",
+    "rating": "3.56",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Songhai Music",
+      "Rumba flamenca",
+      "Mande Music"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Califato ¾",
+    "title": "Puerta de la Cânne",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/califato-/puerta-de-la-cânne",
+    "cover_url": "https://e.snmc.io/i/600/s/b6e0cf52863fcdeab612a71642a86182/7860738/Califato%20%C2%BE%20-%20Puerta%20de%20la%20Ca%CC%82nne%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Folktronica",
+      "Spoken Word",
+      "Neo-Psychedelia"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Pedro Iturralde &",
+    "title": "Flamenco-Jazz",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pedro-iturralde-quintet-and-paco-de-lucia/flamenco-jazz",
+    "cover_url": "https://e.snmc.io/i/600/s/05feec6353e4f3d56c617720fe222fc1/11293981/Pedro%20Iturralde%20Quintet%20%26%20Paco%20de%20Luc%C3%ADa%20-%20Flamenco-Jazz%2C%20Cover%20art.png",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco Jazz",
+      "Modal Jazz"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Rita Payés &",
+    "title": "Imagina",
+    "year": 2019,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rita-payes-elisabeth-roma/imagina",
+    "cover_url": "https://e.snmc.io/i/600/s/aa49d80de80f9d2e2fdc4e5872544f77/7635884/Rita%20Pay%C3%A9s%20%26%20Elisabeth%20Roma%20-%20Imagina%2C%20Cover%20art.jpeg",
+    "rating": "3.78",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vocal Jazz",
+      "Bossa nova",
+      "Catalan Folk Music",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Soleá Morente",
+    "title": "Aurora y Enrique",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/solea-morente/aurora-y-enrique",
+    "cover_url": "https://e.snmc.io/i/600/s/fef46dfcd884ad3058c1838c04174cc6/9493784/Sole%C3%A1%20Morente%20-%20Aurora%20y%20Enrique%2C%20Cover%20art.png",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Dream Pop",
+      "Ambient Pop",
+      "Flamenco Pop"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Ron Carter",
+    "title": "Spanish Blue",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ron-carter/spanish-blue",
+    "cover_url": "https://e.snmc.io/i/600/s/55c2003758675b0340861e5e6635c9fe/2014847/Ron%20Carter%20-%20Spanish%20Blue%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Jazz Fusion",
+      "Flamenco Jazz",
+      "Flamenco"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Rodrigo y Gabriela",
+    "title": "Re-foc",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rodrigo-y-gabriela/re-foc",
+    "cover_url": "https://e.snmc.io/i/600/s/f5ad1f8aec7a70f10b3d3b8daf507e29/3502689/Rodrigo%20y%20Gabriela%20-%20Re-foc%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Acoustic Rock",
+      "Flamenco nuevo",
+      "Flamenco Jazz"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Rodrigo y Gabriela &",
+    "title": "Area 52",
+    "year": 2052,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rodrigo-y-gabriela-c_u_b_a/area-52",
+    "cover_url": "https://e.snmc.io/i/600/s/2776264b443f3588fdc31de4fb4d970d/4282853/Rodrigo%20y%20Gabriela%20%26%20C_U_B_A_%20-%20Area%2052%2C%20Cover%20art.jpeg",
+    "rating": "3.40",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Hispanic American Music",
+      "Flamenco nuevo",
+      "Afro-Cuban Jazz",
+      "Latin Rock"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "María José Llergo",
+    "title": "Sanación",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/maria-jose-llergo/sanacion",
+    "cover_url": "https://e.snmc.io/i/600/s/9a5bc2e91471008a3fe7b7cd4bb4d01b/7949633/Mar%C3%ADa%20Jos%C3%A9%20Llergo%20-%20Sanaci%C3%B3n%2C%20Cover%20art.jpeg",
+    "rating": "3.36",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Ambient Pop",
+      "Copla"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Pedro Soler &",
+    "title": "Barlande",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pedro-soler-gaspar-claus/barlande",
+    "cover_url": "https://e.snmc.io/i/600/s/1017adcc9f94ed4ea48035aa19e630fc/3744317/Pedro%20Soler%20%26%20Gaspar%20Claus%20-%20Barlande%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Chamber Music",
+      "Saeta"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Guitarricadelafuente",
+    "title": "La cantera",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/guitarricadelafuente/la-cantera",
+    "cover_url": "https://e.snmc.io/i/600/s/ea7c57eed75a5ea1287adbc2c30c5486/9921841/Guitarricadelafuente%20-%20La%20cantera%2C%20Cover%20art.jpeg",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Alt-Pop",
+      "Flamenco nuevo",
+      "Flamenco Pop",
+      "Singer-Songwriter",
+      "Folktronica"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Camarón de la Isla",
+    "title": "Potro de rabia y miel",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/camaron-de-la-isla/potro-de-rabia-y-miel",
+    "cover_url": "https://e.snmc.io/i/600/s/4b88cb006575c7014896dd3fd23421fa/1329397/Camar%C3%B3n%20de%20la%20Isla%20-%20Potro%20de%20rabia%20y%20miel%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Rodrigo y Gabriela",
+    "title": "9 Dead Alive",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rodrigo-y-gabriela/9-dead-alive",
+    "cover_url": "https://e.snmc.io/i/600/s/001025f6071bdd5aea4af792268a94dd/5084191/Rodrigo%20y%20Gabriela%20-%209%20Dead%20Alive%2C%20Cover%20art.jpeg",
+    "rating": "3.35",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Rumba flamenca"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Vicente Amigo",
+    "title": "Ciudad de las Ideas",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vicente-amigo/ciudad-de-las-ideas",
+    "cover_url": "https://e.snmc.io/i/600/s/e4c732da644b595a83ccd366a7cf2b4e/1827634/Vicente%20Amigo%20-%20Ciudad%20de%20las%20Ideas%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Flamenco nuevo",
+      "Latin Jazz",
+      "Tango"
+    ]
+  }
+]

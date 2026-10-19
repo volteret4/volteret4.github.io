@@ -1,0 +1,38 @@
+[
+  {
+    "number": 1,
+    "artist": "Kheng Sonam Dorji",
+    "title": "Music From the Mountains of Bhutan",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kheng-sonam-dorji/music-from-the-mountains-of-bhutan",
+    "cover_url": "https://e.snmc.io/i/600/s/aa637fc251e72789fd545cac8c447cfc/6193560/Kheng%20Sonam%20Dorji%20-%20Music%20From%20the%20Mountains%20of%20Bhutan%2C%20Cover%20art.jpeg",
+    "rating": "3.16",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zhabdro gorgom"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Chorten",
+    "title": "Meditative Music From Nepal",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chorten/meditative_music_from_nepal",
+    "cover_url": "https://e.snmc.io/i/600/s/f6c546ef637b884871f37d6bcccff830/4482704/Chorten%20-%20Meditative%20Music%20From%20Nepal%2C%20Cover%20art.jpeg",
+    "rating": "3.12",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zhabdro gorgom"
+    ]
+  }
+]

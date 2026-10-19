@@ -1,0 +1,44 @@
+[
+  {
+    "number": 1,
+    "artist": "Miki González",
+    "title": "Landó por Bulerías",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/miki-gonzalez/lando-por-bulerias",
+    "cover_url": "https://e.snmc.io/i/600/s/19d86112b184e51cdb5570ba448ee3ce/13559513/Miki%20Gonz%C3%A1lez%20-%20Land%C3%B3%20por%20Buler%C3%ADas%2C%20Cover%20art.jpeg",
+    "rating": "2.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Landó",
+      "Spanish Folk Music",
+      "Bulería",
+      "Flamenco"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "La Guarida del Dragón",
+    "title": "TrashCRIOLLO",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/la-guarida-del-dragon/trashcriollo",
+    "cover_url": "https://e.snmc.io/i/600/s/7bfc2aec9ef6b724d8332194871482f8/13165643/La%20Guarida%20del%20Drag%C3%B3n%20-%20TrashCRIOLLO%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Festejo",
+      "Landó",
+      "Pop Rap",
+      "Alt-Pop"
+    ]
+  }
+]

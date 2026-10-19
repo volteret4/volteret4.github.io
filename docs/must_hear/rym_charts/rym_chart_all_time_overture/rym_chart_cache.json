@@ -1,0 +1,794 @@
+[
+  {
+    "number": 1,
+    "artist": "Felix Mendelssohn /",
+    "title": "Ouvertüren",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/london-symphony-orchestra-claudio-abbado/ouverturen",
+    "cover_url": "https://e.snmc.io/i/600/s/9a0c0e6afe9357a3cd869bd6602b4e36/2022305/London%20Symphony%20Orchestra%20%2F%20Claudio%20Abbado%20-%20Ouvert%C3%BCren%2C%20Cover%20art.jpeg",
+    "rating": "3.81",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Richard Wagner /",
+    "title": "Orchestral Favourites",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/wiener-philharmoniker-georg-solti/orchestral-favourites",
+    "cover_url": "https://e.snmc.io/i/600/s/7903d91139616af15b61aeabbc6ba8f1/2340120/Wiener%20Philharmoniker%20%2F%20Georg%20Solti%20-%20Orchestral%20Favourites%2C%20Cover%20art.jpeg",
+    "rating": "4.12",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Orchestral Music",
+      "Romanticism",
+      "Overture"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Pyotr Tchaikovsky\nПётр Чайковский /",
+    "title": "Tchaikovsky: 1812 Overture; Marche Slave; Romeo & Juliet Overture",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/new-york-philharmonic-leonard-bernstein/tchaikovsky-1812-overture-marche-slave-romeo-and-juliet-overture",
+    "cover_url": "https://e.snmc.io/i/600/s/90efd7983e277f20b879e21db70464d2/2302524/New%20York%20Philharmonic%20%2F%20Leonard%20Bernstein%20-%20Tchaikovsky%3A%201812%20Overture%3B%20Marche%20Slave%3B%20Romeo%20%26%20Juliet%20Overture%2C%20Cover%20art.jpeg",
+    "rating": "4.10",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture",
+      "Tone Poem"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Richard Wagner /",
+    "title": "Tristan und Isolde; Tannhäuser; Die Meistersinger von Nürnberg",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/berliner-philharmoniker-herbert-von-karajan/tristan-und-isolde-tannhauser-die-meistersinger-von-nurnberg",
+    "cover_url": "https://e.snmc.io/i/600/s/5210971fb69df5c3cd6d0d885f5feea8/1860539/Berliner%20Philharmoniker%20%2F%20Herbert%20von%20Karajan%20-%20Tristan%20und%20Isolde%3B%20Tannh%C3%A4user%3B%20Die%20Meistersinger%20von%20N%C3%BCrnberg%2C%20Cover%20art.jpeg",
+    "rating": "3.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Gioachino Rossini /",
+    "title": "Overtures",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chicago-symphony-orchestra-fritz-reiner/overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/767963f46f74e4fa20b54bd4f0a4f32e/4417970/Chicago%20Symphony%20Orchestra%20%2F%20Fritz%20Reiner%20-%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Gioachino Rossini /",
+    "title": "Overtures",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chamber-orchestra-of-europe-claudio-abbado/overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/949410c85f1cd5c0dc2a236be2eb1fb1/5683524/Chamber%20Orchestra%20of%20Europe%20%2F%20Claudio%20Abbado%20-%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Antonio Salieri /",
+    "title": "Overtures",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/czecho-slovak-radio-symphony-orchestra-bratislava-michael-dittrich/overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/17e5afbc7711365c1d785affbe9c8c38/4175318/Czecho-Slovak%20Radio%20Symphony%20Orchestra%20(Bratislava)%20%2F%20Michael%20Dittrich%20-%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Overture"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Gioachino Rossini /",
+    "title": "Ouvertüren",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/berliner-philharmoniker-herbert-von-karajan/ouverturen",
+    "cover_url": "https://e.snmc.io/i/600/s/c6ce77c175d1b5f94f5ddc486e9c9842/3429492/Berliner%20Philharmoniker%20%2F%20Herbert%20von%20Karajan%20-%20Ouvert%C3%BCren%2C%20Cover%20art.jpeg",
+    "rating": "3.85",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Overture"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Pyotr Tchaikovsky\nПётр Чайковский /",
+    "title": "A Tchaikovsky Spectacular: The Overture 1812; Romeo and Juliet; Marche slave",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/london-symphony-orchestra-andre-previn/a-tchaikovsky-spectacular-the-overture-1812-romeo-and-juliet-marche-slave",
+    "cover_url": "https://e.snmc.io/i/600/s/37cdc129acd958cbfef39455b165a851/2009420/London%20Symphony%20Orchestra%20%2F%20Andr%C3%A9%20Previn%20-%20A%20Tchaikovsky%20Spectacular%3A%20The%20Overture%201812%3B%20Romeo%20and%20Juliet%3B%20Marche%20slave%2C%20Cover%20art.jpeg",
+    "rating": "3.87",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture",
+      "Tone Poem"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Pyotr Tchaikovsky\nПётр Чайковский",
+    "title": "Ouverture 1812; Marche Slave; Romeo und Julia",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/berliner-philharmoniker-don-kosaken-chor-serge-jaroff-herbert-von-karajan/ouverture-1812-marche-slave-romeo-und-julia",
+    "cover_url": "https://e.snmc.io/i/600/s/d8746e9b2676ef6ffbc445953f2823f3/3996399/Berliner%20Philharmoniker%20%2F%20Don%20Kosaken%20Chor%20Serge%20Jaroff%20%2F%20Herbert%20von%20Karajan%20-%20Ouverture%201812%3B%20Marche%20Slave%3B%20Romeo%20und%20Julia%2C%20Cover%20art.jpeg",
+    "rating": "3.63",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture",
+      "Tone Poem"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Richard Wagner /",
+    "title": "Overtures and Preludes",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chicago-symphony-orchestra-daniel-barenboim/overtures-and-preludes-1",
+    "cover_url": "https://e.snmc.io/i/600/s/9990ae9f7b48454515692ba8cb7977e8/1549048/Chicago%20Symphony%20Orchestra%20%2F%20Daniel%20Barenboim%20-%20Overtures%20and%20Preludes%2C%20Cover%20art.jpeg",
+    "rating": "3.99",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Gioachino Rossini /",
+    "title": "Overtures",
+    "year": 1989,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zagreb-festival-orchestra-michael-halasz/overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/1f8cd2db0be778434033a853fa008a6b/3975728/Zagreb%20Festival%20Orchestra%20%2F%20Michael%20Hal%C3%A1sz%20-%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "3.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Overture",
+      "Orchestral Music"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Franz von Suppé /",
+    "title": "William Tell & Other Favorite Overtures",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cincinnati-pops-orchestra-erich-kunzel/william-tell-and-other-favorite-overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/c1cb503fe4638580cc0ba0e431f56443/2546090/Cincinnati%20Pops%20Orchestra%20%2F%20Erich%20Kunzel%20-%20William%20Tell%20%26%20Other%20Favorite%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "3.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Overture",
+      "Romanticism",
+      "Orchestral Music"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Hector Berlioz /",
+    "title": "Overtures",
+    "year": 1966,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/london-symphony-orchestra-colin-davis/overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/a4cec9c4894e11e66b3f49ef2b8e2ba1/4277987/London%20Symphony%20Orchestra%20%2F%20Colin%20Davis%20-%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Pyotr Tchaikovsky\nПётр Чайковский",
+    "title": "1812 Overture; Serenade for Strings",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/philadelphia-orchestra-mormon-tabernacle-choir-valley-forge-military-academy-band-eugene-ormandy/1812-overture-serenade-for-strings-1",
+    "cover_url": "https://e.snmc.io/i/600/s/991985932390102ba0013c760d778dfa/12582169/Philadelphia%20Orchestra%20%2F%20Mormon%20Tabernacle%20Choir%20%2F%20Valley%20Forge%20Military%20Academy%20Band%20%2F%20Eugene%20Ormandy%20-%201812%20Overture%3B%20Serenade%20for%20Strings%2C%20Cover%20art.jpeg",
+    "rating": "4.10",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Overture",
+      "Serenade"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Gioachino Rossini /",
+    "title": "William Tell: Great Rossini Overtures",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/london-symphony-orchestra-pierino-gamba/william-tell-great-rossini-overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/89b30e69a8dd0396361e45670f7e8577/1608396/London%20Symphony%20Orchestra%20%2F%20Pierino%20Gamba%20-%20William%20Tell%3A%20Great%20Rossini%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Richard Wagner /",
+    "title": "Tannhauser: Ouverture / Lohengrin",
+    "year": 1933,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orchestre-philharmonique-de-berlin-sous-la-direction-de-eugen-jochum/tannhauser-ouverture-lohengrin",
+    "cover_url": "https://e.snmc.io/i/600/s/27ac117c039d478bb322baf31416c8cd/8818217/Orchestre%20Philharmonique%20de%20Berlin%20sous%20la%20direction%20de%20Eugen%20Jochum%20-%20Tannhauser%3A%20Ouverture%20%2F%20Lohengrin%2C%20Cover%20art.jpeg",
+    "rating": "3.10",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Overture"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Ludwig van Beethoven /",
+    "title": "Ouvertüren",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/berliner-philharmoniker-herbert-von-karajan/ouverturen-6",
+    "cover_url": "https://e.snmc.io/i/600/s/20f110f4f2774dcf51f715640b632f2b/4111902/Berliner%20Philharmoniker%20%2F%20Herbert%20von%20Karajan%20-%20Ouvert%C3%BCren%2C%20Cover%20art.jpeg",
+    "rating": "3.89",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Richard Wagner /",
+    "title": "Sir Adrian Conducts Wagner",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/new-philharmonia-orchestra-adrian-boult/sir-adrian-conducts-wagner",
+    "cover_url": "https://e.snmc.io/i/600/s/ea987f31738733af86d0946dfdf73464/10537883/New%20Philharmonia%20Orchestra%20%2F%20Adrian%20Boult%20-%20Sir%20Adrian%20Conducts%20Wagner%2C%20Cover%20art.jpeg",
+    "rating": "4.03",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Francesco Maria Veracini /",
+    "title": "5 Ouvertures",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/musica-antiqua-koln-reinhard-goebel/5-ouvertures",
+    "cover_url": "https://e.snmc.io/i/600/s/1447b5c69f44188c0a8242305132be6b/1827956/Musica%20Antiqua%20K%C3%B6ln%20%2F%20Reinhard%20Goebel%20-%205%20Ouvertures%2C%20Cover%20art.jpeg",
+    "rating": "3.36",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baroque Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Richard Wagner /",
+    "title": "Ouvertüren & Orchestermusik",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/staatskapelle-dresden-giuseppe-sinopoli/ouverturen-and-orchestermusik-1",
+    "cover_url": "https://e.snmc.io/i/600/s/9f611bb489a063d0c30913731773f485/12650175/Staatskapelle%20Dresden%20%2F%20Giuseppe%20Sinopoli%20-%20Ouvert%C3%BCren%20%26%20Orchestermusik%2C%20Cover%20art.jpeg",
+    "rating": "4.14",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Overture"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Gioachino Rossini /",
+    "title": "Ouvertüren",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/london-symphony-orchestra-claudio-abbado/ouverturen-2",
+    "cover_url": "https://e.snmc.io/i/600/s/d93e069eed56f85b9cb7fc5474fc45c2/2878335/London%20Symphony%20Orchestra%20%2F%20Claudio%20Abbado%20-%20Ouvert%C3%BCren%2C%20Cover%20art.jpeg",
+    "rating": "3.65",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Richard Wagner /",
+    "title": "Preludes & Orchestral Music",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-philadelphia-orchestra-christian-thielemann/preludes-and-orchestral-music",
+    "cover_url": "https://e.snmc.io/i/600/s/d9c84266f9167259cf15db563e88e7d1/3981622/The%20Philadelphia%20Orchestra%20%2F%20Christian%20Thielemann%20-%20Preludes%20%26%20Orchestral%20Music%2C%20Cover%20art.jpeg",
+    "rating": "3.99",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Gioachino Rossini /",
+    "title": "Overtures",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/philharmonia-orchestra-carlo-maria-giulini/overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/7f3e66371690641dae50536ad6442853/3448751/Philharmonia%20Orchestra%20%2F%20Carlo%20Maria%20Giulini%20-%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "4.02",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Gioachino Rossini /",
+    "title": "Overtures: William Tell and the Famous Five",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/philharmonia-orchestra-herbert-von-karajan/overtures-william-tell-and-the-famous-five",
+    "cover_url": "https://e.snmc.io/i/600/s/922af6fc0f43eba8e83a944a344fe7a1/3182377/Philharmonia%20Orchestra%20%2F%20Herbert%20von%20Karajan%20-%20Overtures%3A%20William%20Tell%20and%20the%20Famous%20Five%2C%20Cover%20art.jpeg",
+    "rating": "3.81",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Richard Wagner /",
+    "title": "Overtures",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chicago-symphony-orchestra-georg-solti/overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/4f284c6fad4e13b34c3037594119e348/2137995/Chicago%20Symphony%20Orchestra%20%2F%20Georg%20Solti%20-%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "3.52",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Franz von Suppé /",
+    "title": "Suppé Overtures",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vienna-philharmonic-orchestra-georg-solti/suppe-overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/aaf94094700bec5ea8247bbdc7abd3bb/5053774/Vienna%20Philharmonic%20Orchestra%20%2F%20Georg%20Solti%20-%20Supp%C3%A9%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "3.15",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Overture"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Antonio Salieri /",
+    "title": "Symphonies, Overtures & Variations",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/london-mozart-players-matthias-bamert/symphonies-overtures-and-variations",
+    "cover_url": "https://e.snmc.io/i/600/s/15d1cba261afc877f94337f298cdb2f3/2176725/London%20Mozart%20Players%20%2F%20Matthias%20Bamert%20-%20Symphonies%2C%20Overtures%20%26%20Variations%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Classical Period",
+      "Symphony",
+      "Orchestral Music"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Ferruccio Busoni",
+    "title": "Orchestral Works, Vol. 2",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/bbc-philharmonic-neeme-jarvi-nelson-goerner/orchestral-works-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/ff40d3847e45d35d67013ff1a098b047/3721664/BBC%20Philharmonic%20%2F%20Neeme%20J%C3%A4rvi%20%2F%20Nelson%20Goerner%20-%20Orchestral%20Works%2C%20Vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "3.27",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Jean-Philippe Rameau /",
+    "title": "Ouvertures",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/les-talens-lyriques-christophe-rousset/ouvertures",
+    "cover_url": "https://e.snmc.io/i/600/s/87b24556ff5258f654a25cdb18240a22/13553615/Les%20Talens%20Lyriques%20%2F%20Christophe%20Rousset%20-%20Ouvertures%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baroque Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Gioachino Rossini /",
+    "title": "Overtures",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-london-classical-players-roger-norrington/overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/e1e63616075a29630dcf415fa247fb89/1815997/The%20London%20Classical%20Players%20%2F%20Roger%20Norrington%20-%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "4.28",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Gioachino Rossini /",
+    "title": "Overtures",
+    "year": 1985,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orpheus-chamber-orchestra/overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/0de2d115f78d484ba33a9242f601a8ad/2030441/Orpheus%20Chamber%20Orchestra%20-%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "3.96",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Gioachino Rossini /",
+    "title": "Overtures",
+    "year": 1957,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-philadelphia-orchestra-eugene-ormandy/overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/cf9549a112b0a622b260d04049a99632/4960486/The%20Philadelphia%20Orchestra%20%2F%20Eugene%20Ormandy%20-%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "3.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Overture"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Franz von Suppé /",
+    "title": "Ouvertüren",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/berliner-philharmoniker-herbert-von-karajan/ouverturen-3",
+    "cover_url": "https://e.snmc.io/i/600/s/bd50ebd30621c4cab82c41105f2e5581/12074280/Berliner%20Philharmoniker%20%2F%20Herbert%20von%20Karajan%20-%20Ouvert%C3%BCren%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Gioachino Rossini /",
+    "title": "Famous Overtures",
+    "year": 1952,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-concertgebouw-orchestra-of-amsterdam-eduard-van-beinum/famous-overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/8c6f89a1da499b4e37756660e33307c5/3856192/The%20Concertgebouw%20Orchestra%20of%20Amsterdam%20%2F%20Eduard%20van%20Beinum%20-%20Famous%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "3.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Richard Wagner /",
+    "title": "Karajan Conducts Wagner: Album I",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/berliner-philharmoniker-herbert-von-karajan/karajan-conducts-wagner-album-i",
+    "cover_url": "https://e.snmc.io/i/600/s/869f27be4a7f4fab495b815bb33bd832/10555213/Berliner%20Philharmoniker%20%2F%20Herbert%20von%20Karajan%20-%20Karajan%20Conducts%20Wagner%3A%20Album%20I%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Orchestral Music",
+      "Overture",
+      "Romanticism"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Georg Friedrich Händel /",
+    "title": "Overtures: Agrippina; Alceste; Il Pastor Fido; Samson; Saul; Teseo",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the-english-concert-trevor-pinnock/overtures-agrippina-alceste-il-pastor-fido-samson-saul-teseo",
+    "cover_url": "https://e.snmc.io/i/600/s/7080d16b0b5fe7471551c5b45e2ba301/1520877/The%20English%20Concert%20%2F%20Trevor%20Pinnock%20-%20Overtures%3A%20Agrippina%3B%20Alceste%3B%20Il%20Pastor%20Fido%3B%20Samson%3B%20Saul%3B%20Teseo%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baroque Music",
+      "Overture"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Jacques Offenbach /",
+    "title": "Ouvertüren",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/berliner-philharmoniker-herbert-von-karajan/ouverturen-2",
+    "cover_url": "https://e.snmc.io/i/600/s/7a15fdbe1f0460b92f3d4ae20c7f042a/10254934/Berliner%20Philharmoniker%20%2F%20Herbert%20von%20Karajan%20-%20Ouvert%C3%BCren%2C%20Cover%20art.jpeg",
+    "rating": "4.09",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Overture",
+      "Orchestral Music"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Pyotr Tchaikovsky\nПётр Чайковский /",
+    "title": "1812 Overture / Fingal's Cave Overture / Mephisto Waltz / Tragic Overture",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chicago-symphony-orchestra-fritz-reiner/1812-overture-fingals-cave-overture-mephisto-waltz-tragic-overture",
+    "cover_url": "https://e.snmc.io/i/600/s/710fd9c479867823581263b86146b59d/6098617/Chicago%20Symphony%20Orchestra%20%2F%20Fritz%20Reiner%20-%201812%20Overture%20%2F%20Fingal's%20Cave%20Overture%20%2F%20Mephisto%20Waltz%20%2F%20Tragic%20Overture%2C%20Cover%20art.jpeg",
+    "rating": "3.52",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Romanticism",
+      "Orchestral Music",
+      "Overture",
+      "Tone Poem"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Thomas Arne /",
+    "title": "Eight Overtures",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/christopher-hogwood-academy-of-ancient-music/eight-overtures",
+    "cover_url": "https://e.snmc.io/i/600/s/8ef0bb0885f00c8a26922dddf2a487e5/2098241/Christopher%20Hogwood%20%2F%20Academy%20of%20Ancient%20Music%20-%20Eight%20Overtures%2C%20Cover%20art.jpeg",
+    "rating": "3.19",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Baroque Music",
+      "Overture"
+    ]
+  }
+]

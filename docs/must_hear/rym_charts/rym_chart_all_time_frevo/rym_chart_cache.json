@@ -1,0 +1,728 @@
+[
+  {
+    "number": 1,
+    "artist": "Moraes Moreira",
+    "title": "Lá vem o Brasil descendo a ladeira",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/moraes-moreira/la-vem-o-brasil-descendo-a-ladeira",
+    "cover_url": "https://e.snmc.io/i/600/s/ecdb1865131876dd27a70263424bd8d3/3089183/Moraes%20Moreira%20-%20L%C3%A1%20vem%20o%20Brasil%20descendo%20a%20ladeira%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Frevo",
+      "MPB",
+      "Samba-reggae",
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Jacaré",
+    "title": "Choro frevado",
+    "year": 1985,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/jacare/choro-frevado",
+    "cover_url": "https://e.snmc.io/i/600/s/967f75570906fd5b67d71f47608cec5d/5169385/Jacar%C3%A9%20-%20Choro%20frevado%2C%20Cover%20art.jpeg",
+    "rating": "3.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Choro",
+      "Frevo",
+      "Samba-choro"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Novos Baianos",
+    "title": "Praga de Baiano",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/novos-baianos/praga-de-baiano",
+    "cover_url": "https://e.snmc.io/i/600/s/2c349fcb714bd7421e67798690019a87/3089413/Novos%20Baianos%20-%20Praga%20de%20Baiano%2C%20Cover%20art.jpeg",
+    "rating": "3.13",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "Samba-rock"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Comadre Fulozinha",
+    "title": "Tocar na banda",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/comadre-fulozinha/tocar-na-banda",
+    "cover_url": "https://e.snmc.io/i/600/s/eb4de2ba23e2ac13849457fc84a85c93/1949881/Comadre%20Fulozinha%20-%20Tocar%20na%20banda%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Maracatu",
+      "Frevo",
+      "Coco"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Elba Ramalho",
+    "title": "Alegria",
+    "year": 1982,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elba-ramalho/alegria",
+    "cover_url": "https://e.snmc.io/i/600/s/b5b3a5fb0689a7e52372472913981a3c/5802562/Elba%20Ramalho%20-%20Alegria%2C%20Cover%20art.jpeg",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "MPB",
+      "Frevo",
+      "MPB",
+      "Sophisti-Pop"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Chico César",
+    "title": "Francisco, forró y frevo",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chico-cesar/francisco-forro-y-frevo",
+    "cover_url": "https://e.snmc.io/i/600/s/6aca7a3314469b527a29903f8772bb5b/2331105/Chico%20C%C3%A9sar%20-%20Francisco%2C%20forr%C3%B3%20y%20frevo%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Frevo",
+      "MPB",
+      "MPB"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Orquestra Frevo do Mundo",
+    "title": "Orquestra Frevo do Mundo, Vol. 1",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orquestra-frevo-do-mundo/orquestra-frevo-do-mundo-vol-1",
+    "cover_url": "https://e.snmc.io/i/600/s/e3b4632cbc90b4f124b633d7ea362630/8059061/Orquestra%20Frevo%20do%20Mundo%20-%20Orquestra%20Frevo%20do%20Mundo%2C%20Vol_%201%2C%20Cover%20art.jpeg",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Sivuca",
+    "title": "Pau Doido",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sivuca/pau-doido",
+    "cover_url": "https://e.snmc.io/i/600/s/73418015a389e8a45a43d002b9ffa070/3483712/Sivuca%20-%20Pau%20Doido%2C%20Cover%20art.jpeg",
+    "rating": "3.46",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Frevo",
+      "Baião"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Amilcare Ponchielli /",
+    "title": "Jubileu de prata",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/trio-eletrico-dodo-e-osmar/jubileu-de-prata",
+    "cover_url": "https://e.snmc.io/i/600/s/d699d7d174d8fad06c6dfd9e4bc16bc5/10481858/Trio%20El%C3%A9trico%20Dod%C3%B4%20e%20Osmar%20-%20Jubileu%20de%20prata%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo elétrico",
+      "Romanticism"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Eddie,",
+    "title": "Carnaval chanson",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/eddie-buhr-isaar/carnaval-chanson",
+    "cover_url": "https://e.snmc.io/i/600/s/c93f9e0224bcc5aa2e2cbbd9544d5a4c/11142086/Eddie%2C%20Buhr%20%26%20Isaar%20-%20Carnaval%20chanson%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "Manguebeat",
+      "Dub",
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Alceu Valença",
+    "title": "Bicho maluco beleza - É carnaval",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alceu-valenca/bicho-maluco-beleza-e-carnaval",
+    "cover_url": "https://e.snmc.io/i/600/s/a41a3e2085fa65d9a492447e6241bfe7/11753093/Alceu%20Valen%C3%A7a%20-%20Bicho%20maluco%20beleza%20-%20%C3%89%20carnaval%2C%20Cover%20art.jpeg",
+    "rating": "3.30",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Shigeharu Sasago\n笹子重治 &",
+    "title": "DUO",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/笹子重治-秋岡欧/duo",
+    "cover_url": "https://e.snmc.io/i/600/s/64d4ec6114d463f85f8d65df4405b774/13805042/%E7%AC%B9%E5%AD%90%E9%87%8D%E6%B2%BB%20%5BShigeharu%20Sasago%5D%20%26%20%E7%A7%8B%E5%B2%A1%E6%AC%A7%20%5BOh%20Akioka%5D%20-%20DUO%2C%20Cover%20art.jpeg",
+    "rating": "3.93",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Choro",
+      "Frevo",
+      "Samba-choro",
+      "Maracatu"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Alceu Valença",
+    "title": "Amigo da arte",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alceu-valenca/amigo-da-arte",
+    "cover_url": "https://e.snmc.io/i/600/s/b949bd3413dccc60a4a557304bbab819/5119413/Alceu%20Valen%C3%A7a%20-%20Amigo%20da%20arte%2C%20Cover%20art.jpeg",
+    "rating": "3.10",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Frevo",
+      "Maracatu",
+      "Ciranda"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Robertinho de Recife",
+    "title": "Robertinho no passo",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/robertinho-de-recife/robertinho-no-passo",
+    "cover_url": "https://e.snmc.io/i/600/s/24d91bad95abd554395d628f6839fc4b/1797426/Robertinho%20de%20Recife%20-%20Robertinho%20no%20passo%2C%20Cover%20art.jpeg",
+    "rating": "2.95",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Jazz Fusion",
+      "Frevo elétrico",
+      "Udigrudi"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Armandinho &",
+    "title": "A banda da Carmen Miranda",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/armandinho-trio-eletrico-dodo-e-osmar/a-banda-da-carmen-miranda",
+    "cover_url": "https://e.snmc.io/i/600/s/7b4042cd0586fdbadd1334089a6d0d4e/6699198/Armandinho%20%26%20Trio%20El%C3%A9trico%20Dod%C3%B4%20e%20Osmar%20-%20A%20banda%20da%20Carmen%20Miranda%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "Frevo elétrico",
+      "Samba",
+      "Disco"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Claudionor Germano",
+    "title": "Capiba: 25 anos de frevo",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/claudionor-germano/capiba-25-anos-de-frevo",
+    "cover_url": "https://e.snmc.io/i/600/s/4745f2be31b195874ad42c4d918886bd/4320355/Claudionor%20Germano%20-%20Capiba%3A%2025%20anos%20de%20frevo%2C%20Cover%20art.jpeg",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "Frevo-canção"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Zaccarias e Sua Orquestra",
+    "title": "Na onda do frevo",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zaccarias-e-sua-orquestra/na-onda-do-frevo",
+    "cover_url": "https://e.snmc.io/i/600/s/e509da16c3b4766f0620a6690c120a2c/6766896/Zaccarias%20e%20Sua%20Orquestra%20-%20Na%20onda%20do%20frevo%2C%20Cover%20art.jpeg",
+    "rating": "4.10",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Silvério Pessoa",
+    "title": "Batidas urbanas / Projeto micróbio do frevo",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/silverio-pessoa/batidas-urbanas-projeto-microbio-do-frevo",
+    "cover_url": "https://e.snmc.io/i/600/s/2527c1257d7e6037f6a4469791750f78/2248934/Silv%C3%A9rio%20Pessoa%20-%20Batidas%20urbanas%20%2F%20Projeto%20micr%C3%B3bio%20do%20frevo%2C%20Cover%20art.jpeg",
+    "rating": "3.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "Folk Punk",
+      "Sambass"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Tiné",
+    "title": "Segura o cordão",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tine/segura-o-cordao",
+    "cover_url": "https://e.snmc.io/i/600/s/575e29038875f4b0e3b42646fb45210f/12102375/Tin%C3%A9%20-%20Segura%20o%20cord%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.64",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Coco",
+      "Frevo",
+      "Choro",
+      "Northeastern Brazilian Music"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Orquestra Popular da Bomba do Hemetério",
+    "title": "Jorrando cultura",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orquestra-popular-da-bomba-do-hemeterio/jorrando-cultura",
+    "cover_url": "https://e.snmc.io/i/600/s/e5df04a139a12bd9463bb7668ee27990/5137941/Orquestra%20Popular%20da%20Bomba%20do%20Hemet%C3%A9rio%20-%20Jorrando%20cultura%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "Frevo de rua",
+      "Maracatu"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Banda de Pau e Corda",
+    "title": "Pelas Ruas do Recife",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/banda_de_pau_e_corda/pelas_ruas_do_recife",
+    "cover_url": "https://e.snmc.io/i/600/s/84f1f2b9d25f8128cab44f80bf7d1e24/4366423/Banda%20de%20Pau%20e%20Corda%20-%20Pelas%20Ruas%20do%20Recife%2C%20Cover%20art.jpeg",
+    "rating": "3.24",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "MPB"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Sivuca",
+    "title": "Forró e frevo",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sivuca/forro-e-frevo",
+    "cover_url": "https://e.snmc.io/i/600/s/b38c01606287394007d339edc6be4ed8/6299149/Sivuca%20-%20Forr%C3%B3%20e%20frevo%2C%20Cover%20art.jpeg",
+    "rating": "3.18",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Frevo"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Oficina de Cordas de Pernambuco",
+    "title": "Pernambuco's Music, Brazil",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/oficina-de-cordas-de-pernambuco/pernambucos-music-brazil",
+    "cover_url": "https://e.snmc.io/i/600/s/de73c6885f3769ed5565de0644f87c06/2280353/Oficina%20de%20Cordas%20de%20Pernambuco%20-%20Pernambuco's%20Music%2C%20Brazil%2C%20Cover%20art.jpeg",
+    "rating": "4.16",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Choro",
+      "Frevo"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "SpokFrevo Orquestra",
+    "title": "Passo de Anjo",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/spokfrevo-orquestra/passo-de-anjo-1",
+    "cover_url": "https://e.snmc.io/i/600/s/05eca02b61c92509fb85763c208d1f0a/8414527/SpokFrevo%20Orquestra%20-%20Passo%20de%20Anjo%2C%20Cover%20art.jpeg",
+    "rating": "3.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "Big Band",
+      "Choro"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Elba Ramalho",
+    "title": "Do jeito que a gente gosta",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/elba-ramalho/do-jeito-que-a-gente-gosta",
+    "cover_url": "https://e.snmc.io/i/600/s/be8a2b5ba776b9a5f6462870cb2ec46f/5802567/Elba%20Ramalho%20-%20Do%20jeito%20que%20a%20gente%20gosta%2C%20Cover%20art.jpeg",
+    "rating": "3.11",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Forró",
+      "Frevo",
+      "MPB"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "SpokFrevo Orquestra",
+    "title": "Ninho de vespa",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/spokfrevo-orquestra/ninho-de-vespa",
+    "cover_url": "",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "Big Band"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Antonio Nóbrega",
+    "title": "Pernambuco Falando Para o Mundo",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/antonio-nobrega/pernambuco-falando-para-o-mundo",
+    "cover_url": "https://e.snmc.io/i/600/s/2be5bc5bf55dce2ccc50563f4fc51b19/3829133/Antonio%20N%C3%B3brega%20-%20Pernambuco%20Falando%20Para%20o%20Mundo%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Maracatu",
+      "Frevo",
+      "Dobrado"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Sivuca",
+    "title": "Onça Caetana",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sivuca/onca-caetana",
+    "cover_url": "https://e.snmc.io/i/600/s/6fe7298fd797e659a289fc6ad6fa6b8d/4816257/Sivuca%20-%20On%C3%A7a%20Caetana%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Frevo",
+      "Forró"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Orquestra Contemporânea de Olinda",
+    "title": "Bonfim",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orquestra-contemporanea-de-olinda/bonfim",
+    "cover_url": "https://e.snmc.io/i/600/s/9fae1ca1b3e55347add67715297b09e0/6866790/Orquestra%20Contempor%C3%A2nea%20de%20Olinda%20-%20Bonfim%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Maracatu",
+      "Manguebeat",
+      "Frevo"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Romero Ferro",
+    "title": "Frevália",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/romero-ferro/frevalia",
+    "cover_url": "https://e.snmc.io/i/600/s/c4a20255503acfa0063f7dcad2f2ae73/12176933/Romero%20Ferro%20-%20Frev%C3%A1lia%2C%20Cover%20art.jpeg",
+    "rating": "3.26",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "Marchinha",
+      "Axé"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "DJ Dolores",
+    "title": "O enigma do frevo",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-dolores/o-enigma-do-frevo",
+    "cover_url": "https://e.snmc.io/i/600/s/79e4a91d133fe76bfc1b67fdc30bc8f5/14064309/DJ%20Dolores%20-%20O%20enigma%20do%20frevo%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "MPB",
+      "Frevo"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "SpokFrevo Orquestra",
+    "title": "Frevo Sanfonado",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/spokfrevo-orquestra/frevo-sanfonado",
+    "cover_url": "https://e.snmc.io/i/600/s/f212cd1c41855107febd7a9fcc424a4b/6967980/SpokFrevo%20Orquestra%20-%20Frevo%20Sanfonado%2C%20Cover%20art.jpeg",
+    "rating": "3.51",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Orquestra Frevo do Mundo &",
+    "title": "Moraes é Frevo",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orquestra-frevo-do-mundo-davi-moraes/moraes-e-frevo",
+    "cover_url": "https://e.snmc.io/i/600/s/0231b387f153e8afcdc6b9cf177bd943/11719314/Orquestra%20Frevo%20do%20Mundo%20%26%20Davi%20Moraes%20-%20Moraes%20%C3%A9%20Frevo%2C%20Cover%20art.jpeg",
+    "rating": "3.17",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Super OARA",
+    "title": "Capiba: Cidadão frevo",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/super-oara/capiba-cidadao-frevo",
+    "cover_url": "https://e.snmc.io/i/600/s/06dee4c63a9d95e3d330b00a28048087/12667242/Super%20OARA%20-%20Capiba%3A%20Cidad%C3%A3o%20frevo%2C%20Cover%20art.jpeg",
+    "rating": "3.26",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo-canção"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Orquestra de Frevo do Babá",
+    "title": "Traditio Frevo Olinda",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/orquestra-de-frevo-do-baba/traditio-frevo-olinda",
+    "cover_url": "https://e.snmc.io/i/600/s/29a3dcb87ae44b302c12b06e4b0d7b3a/9877694/Orquestra%20de%20Frevo%20do%20Bab%C3%A1%20-%20Traditio%20Frevo%20Olinda%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "Marchinha"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Nelson Ferreira",
+    "title": "Frevo de Rua, Frevo de Bloco, Frevo Canção",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/nelson-ferreira/frevo-de-rua-frevo-de-bloco-frevo-cancao",
+    "cover_url": "https://e.snmc.io/i/600/s/759553074e65350d16a003bdfb033607/2710921/Nelson%20Ferreira%20-%20Frevo%20de%20Rua%2C%20Frevo%20de%20Bloco%2C%20Frevo%20Can%C3%A7%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.95",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Trio Elétrico Tapajós",
+    "title": "Trio Elétrico Tapajós",
+    "year": 1969,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/trio-eletrico-tapajos/trio-eletrico-tapajos",
+    "cover_url": "https://e.snmc.io/i/600/s/c59566eee5c7005dce2b7a25eec19847/6369649/Trio%20El%C3%A9trico%20Tapaj%C3%B3s%20-%20Trio%20El%C3%A9trico%20Tapaj%C3%B3s%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo elétrico"
+    ]
+  }
+]

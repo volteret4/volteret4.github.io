@@ -53,50 +53,130 @@
     main, footer { padding-left:16px; padding-right:16px; }
   }
 
-  .toolbar { display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center; margin-bottom:18px; }
-  .progress { flex:1 1 260px; min-width:0; }
-  .progress-txt { font-family:'DM Mono',monospace; font-size:.7rem; color:var(--muted); margin-bottom:6px; }
-  .progress-txt b { color:var(--text); font-weight:500; }
-  .progress-bar { height:4px; background:var(--border); border-radius:2px; overflow:hidden; }
-  .progress-bar div { height:100%; background:var(--accent); transition:width .4s; }
-  .seg { display:flex; border:1px solid var(--border); border-radius:4px; overflow:hidden; }
+  :root { --heard:#e8ff47; --pending:#ff4747; --panel:390px; --header-h:88px; --gap:6px; }
+  header { right:var(--panel); height:var(--header-h); flex-direction:column; align-items:stretch;
+    gap:0; padding:0; border-right:1px solid var(--border); }
+  .hdr-r1, .hdr-r2 { display:flex; align-items:center; gap:12px; padding:0 16px; height:44px; min-width:0; }
+  .hdr-r1 { padding-right:120px; }
+  .hdr-r2 { border-top:1px solid var(--border); }
+  header .mh-usr-btn { position:absolute; top:10px; right:16px; }
+  .progress { width:170px; flex-shrink:0; }
+  .progress-txt { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); margin-bottom:4px;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .progress-txt b { color:var(--heard); font-weight:500; }
+  .progress-bar { height:3px; background:var(--border); border-radius:2px; overflow:hidden; }
+  .progress-bar div { height:100%; background:var(--heard); transition:width .4s; }
+  .controls { display:flex; align-items:center; gap:8px; margin-left:auto; min-width:0; }
+  .seg { display:flex; border:1px solid var(--border); border-radius:3px; overflow:hidden; flex-shrink:0; }
   .seg button { background:none; border:none; color:var(--muted); font-family:'DM Mono',monospace;
-    font-size:.62rem; letter-spacing:.06em; padding:6px 10px; cursor:pointer; text-transform:uppercase; }
+    font-size:.6rem; letter-spacing:.08em; padding:5px 10px; cursor:pointer; text-transform:uppercase; }
   .seg button + button { border-left:1px solid var(--border); }
-  .seg button.on { background:var(--surface2); color:var(--accent); }
-  .ctl { background:var(--surface); border:1px solid var(--border); color:var(--text); border-radius:4px;
-    font-family:'DM Mono',monospace; font-size:.68rem; padding:6px 9px; }
-  input.ctl { width:200px; max-width:100%; }
-  .ctl:focus { outline:none; border-color:var(--accent); }
-  .tracks { border-top:1px solid var(--border); }
-  .trk { display:grid; grid-template-columns:52px minmax(0,1fr) 110px 150px 64px 60px;
-    align-items:center; gap:12px; padding:9px 10px; border-bottom:1px solid var(--border);
-    border-left:2px solid transparent; }
-  .trk:hover { background:var(--surface); }
-  .trk.mine { border-left-color:var(--ok); }
-  .trk.dim .t-main { opacity:.55; }
-  .t-rank { font-family:'DM Mono',monospace; font-size:.75rem; color:var(--muted); text-align:right; }
-  .t-title { font-size:.95rem; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
-  .t-artist { font-size:.8rem; color:var(--muted); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
-  .t-meta { font-family:'DM Mono',monospace; font-size:.62rem; color:var(--muted); line-height:1.5; }
+  .seg button.on { background:rgba(232,255,71,.06); color:var(--heard); }
+  .ctl { background:var(--surface); border:1px solid var(--border); color:var(--text); border-radius:3px;
+    font-family:'DM Mono',monospace; font-size:.64rem; padding:5px 8px; flex-shrink:0; }
+  input.ctl { width:160px; }
+  .ctl:focus { outline:none; border-color:var(--heard); }
+  .grid-sizer { display:flex; align-items:center; gap:6px; flex-shrink:0; }
+  .grid-sizer span { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); min-width:24px; text-align:right; }
+  #gridSlider { -webkit-appearance:none; appearance:none; width:70px; height:3px; background:var(--border);
+    border-radius:2px; outline:none; cursor:pointer; }
+  #gridSlider::-webkit-slider-thumb { -webkit-appearance:none; width:11px; height:11px; border-radius:50%; background:var(--heard); }
+  #gridSlider::-moz-range-thumb { width:11px; height:11px; border-radius:50%; background:var(--heard); border:none; }
+
+  main { margin-right:var(--panel); padding:16px 20px 60px; }
+  #grid { display:grid; grid-template-columns:repeat(var(--cols,8),1fr); gap:var(--gap); }
+  .year-sep { grid-column:1/-1; font-family:'Bebas Neue',sans-serif; font-size:1.4rem; letter-spacing:.06em;
+    color:var(--accent); padding:14px 2px 2px; border-bottom:1px solid var(--border); margin-bottom:4px; }
+  .year-sep:first-child { padding-top:0; }
+  .card { position:relative; aspect-ratio:1; border-radius:3px; overflow:hidden; cursor:pointer;
+    background:var(--surface); transition:transform .15s; content-visibility:auto; contain-intrinsic-size:150px; }
+  .card:hover { transform:scale(1.05); z-index:10; }
+  .card.active { outline:2px solid var(--heard); outline-offset:2px; z-index:11; }
+  .card img { width:100%; height:100%; object-fit:cover; display:block; opacity:0; transition:opacity .25s; }
+  .card img.ok { opacity:1; }
+  .card.dim img.ok { opacity:.35; }
+  .card::before { content:''; position:absolute; top:5px; right:5px; width:7px; height:7px; border-radius:50%; z-index:3; }
+  .card.heard::before   { background:var(--heard);   box-shadow:0 0 5px var(--heard); }
+  .card.pending::before { background:var(--pending); box-shadow:0 0 5px var(--pending); }
+  .card-ph { position:absolute; inset:0; display:flex; flex-direction:column; justify-content:center;
+    padding:10px; background:repeating-linear-gradient(135deg,#121212 0 8px,#151515 8px 16px); }
+  .card-ph b { font-family:'Bebas Neue',sans-serif; font-size:1rem; letter-spacing:.03em; line-height:1.05;
+    color:#bbb; overflow:hidden; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; }
+  .card-ph i { font-style:normal; font-size:.6rem; color:var(--muted); margin-top:4px;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .card.has-img .card-ph { display:none; }
+  .card-overlay { position:absolute; inset:0; z-index:2; display:flex; flex-direction:column; justify-content:flex-end;
+    padding:7px; background:linear-gradient(0deg,rgba(0,0,0,.92) 0%,rgba(0,0,0,0) 60%); opacity:0; transition:opacity .18s; }
+  .card:hover .card-overlay { opacity:1; }
+  .card-num { font-family:'Bebas Neue',sans-serif; font-size:.85rem; color:var(--heard); line-height:1; }
+  .card-title { font-size:.62rem; font-weight:500; color:#fff; line-height:1.3; overflow:hidden;
+    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
+  .card-artist { font-size:.56rem; color:#999; margin-top:2px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .card-rank { position:absolute; top:4px; left:5px; z-index:3; font-family:'Bebas Neue',sans-serif; font-size:.8rem;
+    color:#fff; text-shadow:0 0 4px #000, 0 0 2px #000; }
+  .empty { grid-column:1/-1; padding:40px 4px; color:var(--muted); font-family:'DM Mono',monospace; font-size:.75rem; }
+
+  #panel { position:fixed; top:0; right:0; bottom:0; width:var(--panel); background:#0c0c0c;
+    border-left:1px solid var(--border); z-index:200; display:flex; flex-direction:column; overflow:hidden; }
+  .panel-topbar { height:var(--header-h); border-bottom:1px solid var(--border); display:flex; align-items:center;
+    padding:0 16px; flex-shrink:0; font-family:'DM Mono',monospace; font-size:.6rem; letter-spacing:.18em;
+    text-transform:uppercase; color:var(--muted); }
+  .panel-cover { position:relative; aspect-ratio:1; max-height:300px; flex-shrink:0; background:var(--surface); overflow:hidden; }
+  .panel-cover img { width:100%; height:100%; object-fit:cover; display:block; }
+  .panel-cover .card-ph b { font-size:2rem; -webkit-line-clamp:4; }
+  .panel-cover .card-ph i { font-size:.8rem; }
+  .panel-status { position:absolute; bottom:8px; left:8px; font-family:'DM Mono',monospace; font-size:.6rem;
+    letter-spacing:.12em; text-transform:uppercase; padding:2px 7px; border-radius:2px; z-index:3; }
+  .panel-status.heard { background:var(--heard); color:#000; }
+  .panel-status.pending { background:var(--pending); color:#fff; }
+  .panel-body { flex:1; overflow-y:auto; padding:16px; scrollbar-width:thin; scrollbar-color:var(--border) transparent; }
+  .panel-empty { height:100%; display:flex; align-items:center; justify-content:center; text-align:center;
+    font-family:'DM Mono',monospace; font-size:.75rem; color:var(--muted); }
+  .p-num { font-family:'DM Mono',monospace; font-size:.62rem; color:var(--heard); letter-spacing:.15em; margin-bottom:4px; }
+  .p-title { font-family:'Bebas Neue',sans-serif; font-size:1.6rem; letter-spacing:.04em; line-height:1.05; margin-bottom:3px; }
+  .p-artist { font-size:.85rem; color:#999; margin-bottom:2px; }
+  .p-meta { font-family:'DM Mono',monospace; font-size:.66rem; color:var(--muted); margin-bottom:12px; line-height:1.6; }
   .badge { display:inline-block; padding:1px 6px; border-radius:3px; border:1px solid var(--border); }
   .badge.win { border-color:var(--accent); color:var(--accent); }
-  .dots { display:flex; flex-wrap:wrap; gap:3px; }
-  .dot { width:8px; height:8px; border-radius:50%; background:var(--border); }
-  .dot.on { background:var(--accent); }
-  .dot.me { outline:1px solid var(--text); outline-offset:1px; }
-  .t-plays { font-family:'DM Mono',monospace; font-size:.7rem; text-align:right; color:var(--ok); }
-  .t-links { display:flex; gap:8px; justify-content:flex-end; }
-  .t-links a { font-family:'DM Mono',monospace; font-size:.6rem; color:var(--muted); text-decoration:none;
-    border:1px solid var(--border); border-radius:3px; padding:2px 5px; }
-  .t-links a:hover { color:var(--accent); border-color:var(--accent); }
-  .year-sep { font-family:'Bebas Neue',sans-serif; font-size:1.3rem; letter-spacing:.06em;
-    color:var(--accent); padding:16px 10px 6px; border-bottom:1px solid var(--border); }
-  .empty { padding:40px 10px; color:var(--muted); font-size:.9rem; }
+  .p-label { font-family:'DM Mono',monospace; font-size:.58rem; letter-spacing:.18em; text-transform:uppercase;
+    color:var(--muted); margin:14px 0 6px; }
+  .p-users { display:flex; flex-wrap:wrap; gap:5px; }
+  .p-user { font-family:'DM Mono',monospace; font-size:.6rem; padding:2px 8px; border-radius:2px;
+    border:1px solid var(--border); color:var(--muted); }
+  .p-user.on { background:rgba(232,255,71,.08); border-color:rgba(232,255,71,.25); color:rgba(232,255,71,.85); }
+  .p-user.me { outline:1px solid var(--text); outline-offset:1px; }
+  .p-links { display:flex; gap:7px; flex-wrap:wrap; margin-top:14px; }
+  .p-links a { font-family:'DM Mono',monospace; font-size:.62rem; letter-spacing:.08em; text-transform:uppercase;
+    padding:4px 10px; border-radius:3px; border:1px solid var(--border); color:var(--muted); text-decoration:none; }
+  .p-links a:hover { color:var(--heard); border-color:var(--heard); }
+  #pAudio { width:100%; height:32px; margin-top:12px; display:none; }
+  .p-links button { font-family:'DM Mono',monospace; font-size:.62rem; letter-spacing:.08em; text-transform:uppercase;
+    padding:4px 10px; border-radius:3px; cursor:pointer; background:rgba(255,0,0,.08);
+    border:1px solid rgba(255,70,70,.45); color:#ff6b6b; }
+  .p-links button:hover { background:rgba(255,0,0,.16); }
+  .p-yt { margin-top:14px; border-radius:4px; overflow:hidden; background:var(--surface);
+    border:1px solid var(--border); aspect-ratio:16/9; display:none; }
+  .p-yt.on { display:block; }
+  .p-yt iframe { display:block; width:100%; height:100%; border:0; }
+  .panel-close { display:none; position:absolute; top:12px; right:12px; width:34px; height:34px; border-radius:50%;
+    background:rgba(255,255,255,.07); border:1px solid var(--border); color:var(--text); font-size:1rem;
+    cursor:pointer; align-items:center; justify-content:center; z-index:10; }
+  footer { margin-right:var(--panel); }
+
   @media (max-width:800px) {
-    .trk { grid-template-columns:28px minmax(0,1fr) auto auto; gap:8px; padding:9px 4px; }
-    .t-meta, .dots { display:none; }
-    input.ctl { width:100%; }
+    header { right:0; height:auto; }
+    .hdr-r1 { padding-right:110px; }
+    .hdr-r2 { height:auto; flex-wrap:wrap; padding:8px 12px; gap:8px; }
+    .progress { width:100%; }
+    .controls { margin-left:0; width:100%; overflow-x:auto; scrollbar-width:none; }
+    input.ctl { width:120px; }
+    main { margin-right:0; padding:12px 10px 60px; }
+    footer { margin-right:0; }
+    #panel { inset:0; width:100%; border-left:none; transform:translateY(105%);
+      transition:transform .28s cubic-bezier(.4,0,.2,1); }
+    #panel.open { transform:translateY(0); }
+    .panel-topbar { height:52px; }
+    .panel-close { display:flex; }
   }
 
   /* ── MH user modal ── */
@@ -152,28 +232,37 @@
   </div>
 </div>
 <header>
-  <div class="site-label"><a href="index.html">← Triple J Hottest 100</a></div>
-  <h1>Triple J Hottest 100 · 2001</h1>
-  <div class="header-meta">100 canciones</div>
-  <a class="header-nav-link" href="https://en.wikipedia.org/wiki/Triple_J%27s_Hottest_100_of_2001" target="_blank" rel="noopener">Wikipedia ↗</a>
+  <div class="hdr-r1">
+    <div class="site-label"><a href="index.html">← Triple J Hottest 100</a></div>
+    <h1>Triple J Hottest 100 · 2001</h1>
+    <div class="header-meta">100 canciones</div>
+    <a class="header-nav-link" href="https://en.wikipedia.org/wiki/Triple_J%27s_Hottest_100_of_2001" target="_blank" rel="noopener">Wikipedia ↗</a>
+  </div>
+  <div class="hdr-r2">
+    <div class="progress"><div class="progress-txt" id="progTxt"></div><div class="progress-bar"><div id="progBar"></div></div></div>
+    <div class="controls">
+      <div class="seg" id="filters">
+        <button data-f="all" class="on">Todas</button><button data-f="heard" id="fHeard">Escuchadas</button><button data-f="pending" id="fPending">Pendientes</button>
+      </div>
+      <select class="ctl" id="sort" aria-label="Ordenar">
+        <option value="rank">Orden de la lista</option>
+        <option value="pop">Más escuchadas</option>
+        <option value="year">Año</option>
+      </select>
+      <input class="ctl" id="search" type="search" placeholder="Buscar…">
+      <div class="grid-sizer"><input type="range" id="gridSlider" min="3" max="16" aria-label="Columnas"><span id="gridLbl"></span></div>
+    </div>
+  </div>
   <button class="mh-usr-btn" id="mhUserBtn" title="Seleccionar usuario">👤 <span id="mhULbl">—</span></button>
 </header>
-<main>
-  <div class="toolbar">
-    <div class="progress"><div class="progress-txt" id="progTxt"></div><div class="progress-bar"><div id="progBar"></div></div></div>
-    <div class="seg" id="filters">
-      <button data-f="all" class="on">Todas</button><button data-f="heard" id="fHeard">Escuchadas</button><button data-f="pending" id="fPending">Pendientes</button>
-    </div>
-    <select class="ctl" id="sort" aria-label="Ordenar">
-      <option value="rank">Orden de la lista</option>
-      <option value="pop">Más escuchadas en el grupo</option>
-      <option value="year">Año</option>
-    </select>
-    <input class="ctl" id="search" type="search" placeholder="Buscar canción o artista…">
-  </div>
-  <div class="tracks" id="tracks"></div>
-</main>
-<footer>Generado 2026-10-19 12:24 · Listas de Wikipedia · Escuchas de Last.fm</footer>
+<main><div id="grid"></div></main>
+<aside id="panel">
+  <div class="panel-topbar">Canción</div>
+  <button class="panel-close" id="pClose" aria-label="Cerrar">✕</button>
+  <div class="panel-cover" id="pCover"></div>
+  <div class="panel-body" id="pBody"><div class="panel-empty">Pulsa una carátula</div></div>
+</aside>
+<footer>Generado 2026-10-19 15:16 · Listas de Wikipedia · Escuchas de Last.fm</footer>
 
 <script>
 (function() {
@@ -226,86 +315,165 @@
   updateBtn();
 })();
 </script>
-<script>const DATA = {"users":["alberto_gu","armandwave","BipolarMuzik","EliasJ72","Frikomid","GabredMared","Lonsonxd","MaxtorUwU","Nubis84","paqueradejere","Rocky_stereo","sdecandelario","verygooood"],"showYear":false,"yearSeparators":false,"tracks":[{"r":1,"t":"Amazing","a":"Alex Lloyd","y":2001,"w":null,"n":"Australia","h":{}},{"r":2,"t":"Monsters","a":"Something for Kate","y":2001,"w":null,"n":"Australia","h":{}},{"r":3,"t":"Chop Suey!","a":"System of a Down","y":2001,"w":null,"n":"United States","h":{"armandwave":8,"BipolarMuzik":2,"Frikomid":1,"GabredMared":11,"Lonsonxd":1,"MaxtorUwU":3,"Nubis84":3}},{"r":4,"t":"Where's Your Head At","a":"Basement Jaxx","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":13,"armandwave":1,"EliasJ72":2,"sdecandelario":19,"verygooood":1}},{"r":5,"t":"Betterman","a":"John Butler Trio","y":2001,"w":null,"n":"Australia","h":{}},{"r":6,"t":"Smooth Criminal","a":"Alien Ant Farm","y":2001,"w":null,"n":"United States","h":{"alberto_gu":5,"armandwave":6,"BipolarMuzik":1,"Nubis84":7,"sdecandelario":3}},{"r":7,"t":"Island in the Sun","a":"Weezer","y":2001,"w":null,"n":"United States","h":{"armandwave":1,"Frikomid":1,"MaxtorUwU":1,"Nubis84":3,"Rocky_stereo":1,"sdecandelario":4}},{"r":8,"t":"Since I Left You","a":"The Avalanches","y":2001,"w":null,"n":"Australia","h":{"alberto_gu":1,"armandwave":2,"EliasJ72":13,"Frikomid":12,"GabredMared":5,"Nubis84":11,"paqueradejere":10,"Rocky_stereo":1,"sdecandelario":4,"verygooood":219}},{"r":9,"t":"Clint Eastwood","a":"Gorillaz","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":13,"armandwave":7,"EliasJ72":3,"GabredMared":1,"Lonsonxd":1,"Nubis84":18,"Rocky_stereo":1,"sdecandelario":15,"verygooood":1}},{"r":10,"t":"Short Skirt/Long Jacket","a":"Cake","y":2001,"w":null,"n":"United States","h":{"Nubis84":3}},{"r":11,"t":"Cherry Lips (Go Baby Go!)","a":"Garbage","y":2001,"w":null,"n":"United States","h":{"alberto_gu":6}},{"r":12,"t":"Last Nite","a":"The Strokes","y":2001,"w":null,"n":"United States","h":{"alberto_gu":11,"armandwave":1,"Frikomid":6,"GabredMared":2,"Lonsonxd":4,"Nubis84":8,"Rocky_stereo":15,"sdecandelario":27,"verygooood":66}},{"r":13,"t":"Three Dimensions","a":"Something for Kate","y":2001,"w":null,"n":"Australia","h":{}},{"r":14,"t":"Schism","a":"Tool","y":2001,"w":null,"n":"United States","h":{"alberto_gu":1,"BipolarMuzik":38,"EliasJ72":6,"Frikomid":22,"Lonsonxd":44,"Nubis84":28,"paqueradejere":2,"sdecandelario":2}},{"r":15,"t":"19-2000","a":"Gorillaz","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":6,"armandwave":3,"EliasJ72":13,"Nubis84":1,"paqueradejere":1,"sdecandelario":7,"verygooood":1}},{"r":16,"t":"Say What?","a":"28 Days and Apollo 440","y":2001,"w":null,"n":"Australia/United Kingdom","h":{}},{"r":17,"t":"Rockin' the Suburbs","a":"Ben Folds","y":2001,"w":null,"n":"United States","h":{"alberto_gu":1}},{"r":18,"t":"Renegades of Funk","a":"Rage Against the Machine","y":2001,"w":null,"n":"United States","h":{"MaxtorUwU":5,"Nubis84":1,"sdecandelario":2}},{"r":19,"t":"Special Ones","a":"George","y":2001,"w":null,"n":"Australia","h":{}},{"r":20,"t":"Hash Pipe","a":"Weezer","y":2001,"w":null,"n":"United States","h":{"alberto_gu":3,"MaxtorUwU":1,"Nubis84":5,"sdecandelario":2}},{"r":21,"t":"Weapon of Choice","a":"Fatboy Slim featuring Bootsy Collins","y":2001,"w":null,"n":"United Kingdom/United States","h":{"alberto_gu":4,"armandwave":3,"EliasJ72":2,"sdecandelario":28}},{"r":22,"t":"The Drugs Don't Work","a":"Ben Harper & the Innocent Criminals","y":2001,"w":null,"n":"United States","h":{}},{"r":23,"t":"This Mess We're In","a":"PJ Harvey","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":1,"armandwave":6,"Frikomid":12,"Lonsonxd":14,"MaxtorUwU":2,"Nubis84":10,"paqueradejere":2,"Rocky_stereo":1,"sdecandelario":3}},{"r":24,"t":"Dust Me Selecta","a":"Gerling","y":2001,"w":null,"n":"Australia","h":{}},{"r":25,"t":"Wake Up","a":"Eskimo Joe","y":2001,"w":null,"n":"Australia","h":{}},{"r":26,"t":"Little L","a":"Jamiroquai","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":1,"MaxtorUwU":2,"Nubis84":2,"sdecandelario":1}},{"r":27,"t":"Fat Cop","a":"Regurgitator","y":2001,"w":null,"n":"Australia","h":{}},{"r":28,"t":"Fall Down","a":"Jebediah","y":2001,"w":null,"n":"Australia","h":{}},{"r":29,"t":"Take","a":"John Butler Trio","y":2001,"w":null,"n":"Australia","h":{}},{"r":30,"t":"The Girl of My Dreams is Giving Me Nightmares","a":"Machine Gun Fellatio","y":2001,"w":null,"n":"Australia","h":{}},{"r":31,"t":"Planet Earth","a":"Eskimo Joe","y":2001,"w":null,"n":"Australia","h":{}},{"r":32,"t":"Special K","a":"Placebo","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":7,"armandwave":2,"Frikomid":40,"MaxtorUwU":1,"Nubis84":2,"sdecandelario":1}},{"r":33,"t":"Getting Away with It (All Messed Up)","a":"James","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":3,"Frikomid":276,"Lonsonxd":6}},{"r":34,"t":"Who Sold Her Out","a":"Eskimo Joe","y":2001,"w":null,"n":"Australia","h":{}},{"r":35,"t":"Thank You","a":"Dido","y":2001,"w":null,"n":"United Kingdom","h":{"BipolarMuzik":3,"Frikomid":1,"MaxtorUwU":1,"Nubis84":9}},{"r":36,"t":"Pyramid Song","a":"Radiohead","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":45,"Frikomid":7,"GabredMared":1,"Nubis84":1}},{"r":37,"t":"Twenty Years","a":"Something for Kate","y":2001,"w":null,"n":"Australia","h":{}},{"r":38,"t":"Crystal","a":"New Order","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":49,"armandwave":1,"Frikomid":5,"sdecandelario":52}},{"r":39,"t":"Cocaine","a":"The Cruel Sea","y":2001,"w":null,"n":"Australia","h":{}},{"r":40,"t":"Elevation (Tomb Raider Mix)","a":"U2","y":2001,"w":null,"n":"Ireland","h":{"Nubis84":3}},{"r":41,"t":"Super Straight","a":"Regurgitator","y":2001,"w":null,"n":"Australia","h":{}},{"r":42,"t":"I Will Not Go Quietly (Duffy's Song)","a":"The Whitlams","y":2001,"w":null,"n":"Australia","h":{}},{"r":43,"t":"Souljacker Part I","a":"Eels","y":2001,"w":null,"n":"United States","h":{"armandwave":4,"sdecandelario":8}},{"r":44,"t":"Androgyny","a":"Garbage","y":2001,"w":null,"n":"United States","h":{"alberto_gu":44}},{"r":45,"t":"Strange Little Girl","a":"Tori Amos","y":2001,"w":null,"n":"United States","h":{}},{"r":46,"t":"Untitled","a":"The Smashing Pumpkins","y":2001,"w":null,"n":"United States","h":{}},{"r":47,"t":"There Is No Such Place","a":"Augie March","y":2001,"w":null,"n":"Australia","h":{}},{"r":48,"t":"Superstylin'","a":"Groove Armada","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":5,"armandwave":1,"Frikomid":4,"Nubis84":1,"paqueradejere":1,"sdecandelario":25}},{"r":49,"t":"Parabola","a":"Tool","y":2001,"w":null,"n":"United States","h":{"alberto_gu":1,"BipolarMuzik":26,"EliasJ72":2,"Frikomid":5,"Lonsonxd":65,"MaxtorUwU":2,"Nubis84":25,"paqueradejere":2,"sdecandelario":4}},{"r":50,"t":"Just the Thing","a":"Paul Mac featuring Peta Morris","y":2001,"w":null,"n":"Australia","h":{}},{"r":51,"t":"Fifteen Feet of Pure White Snow","a":"Nick Cave & the Bad Seeds","y":2001,"w":null,"n":"Australia","h":{"armandwave":1}},{"r":52,"t":"Man, It's So Loud in Here","a":"They Might Be Giants","y":2001,"w":null,"n":"United States","h":{}},{"r":53,"t":"Hey Driver","a":"Motor Ace","y":2001,"w":null,"n":"Australia","h":{}},{"r":54,"t":"The Rock Show","a":"Blink-182","y":2001,"w":null,"n":"United States","h":{"alberto_gu":12,"BipolarMuzik":1,"Nubis84":1,"sdecandelario":11}},{"r":55,"t":"One Step Closer","a":"Linkin Park","y":2001,"w":null,"n":"United States","h":{"alberto_gu":22,"BipolarMuzik":10,"EliasJ72":4,"Lonsonxd":30,"MaxtorUwU":3,"Nubis84":2,"sdecandelario":10}},{"r":56,"t":"Kick a Hole in the Sky","a":"You Am I","y":2001,"w":null,"n":"Australia","h":{}},{"r":57,"t":"Get Up","a":"You Am I","y":2001,"w":null,"n":"Australia","h":{}},{"r":58,"t":"Bleed American","a":"Jimmy Eat World","y":2001,"w":null,"n":"United States","h":{"sdecandelario":44}},{"r":59,"t":"Hard to Explain","a":"The Strokes","y":2001,"w":null,"n":"United States","h":{"alberto_gu":16,"Frikomid":3,"GabredMared":2,"Lonsonxd":3,"Nubis84":2,"Rocky_stereo":8,"sdecandelario":51,"verygooood":3}},{"r":60,"t":"Pattern Against User","a":"At the Drive-In","y":2001,"w":null,"n":"United States","h":{"alberto_gu":9,"MaxtorUwU":1,"sdecandelario":1}},{"r":61,"t":"One More Time","a":"Daft Punk","y":2001,"w":null,"n":"France","h":{"alberto_gu":1,"armandwave":3,"EliasJ72":1,"GabredMared":17,"Lonsonxd":1,"Nubis84":4,"paqueradejere":1,"sdecandelario":3,"verygooood":47}},{"r":62,"t":"You Give Me Something","a":"Jamiroquai","y":2001,"w":null,"n":"United Kingdom","h":{"Frikomid":1,"MaxtorUwU":1,"Nubis84":1,"sdecandelario":2}},{"r":63,"t":"Downtown","a":"Alex Lloyd","y":2001,"w":null,"n":"Australia","h":{}},{"r":64,"t":"Hotel Yorba","a":"The White Stripes","y":2001,"w":null,"n":"United States","h":{"armandwave":1,"Nubis84":1,"sdecandelario":3}},{"r":65,"t":"Burn Baby Burn","a":"Ash","y":2001,"w":null,"n":"United Kingdom","h":{"MaxtorUwU":1}},{"r":66,"t":"New York City Cops","a":"The Strokes","y":2001,"w":null,"n":"United States","h":{"alberto_gu":7,"Frikomid":2,"GabredMared":3,"Nubis84":2,"sdecandelario":34,"verygooood":2}},{"r":67,"t":"Not the Same","a":"Ben Folds","y":2001,"w":null,"n":"United States","h":{}},{"r":68,"t":"Making the Nouveau Riche","a":"Blueline Medic","y":2001,"w":null,"n":"Australia","h":{}},{"r":69,"t":"Up All Night","a":"Unwritten Law","y":2001,"w":null,"n":"United States","h":{}},{"r":70,"t":"Links 2-3-4","a":"Rammstein","y":2001,"w":null,"n":"Germany","h":{"BipolarMuzik":1,"Lonsonxd":34,"MaxtorUwU":4,"Nubis84":2,"sdecandelario":13}},{"r":71,"t":"Outta My Head","a":"Spiderbait","y":2001,"w":null,"n":"Australia","h":{}},{"r":72,"t":"Roll On","a":"The Living End","y":2001,"w":null,"n":"Australia","h":{}},{"r":73,"t":"Plug In Baby","a":"Muse","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":6,"BipolarMuzik":3,"Frikomid":7,"GabredMared":7,"Lonsonxd":5,"Nubis84":13,"sdecandelario":19}},{"r":74,"t":"Knives Out","a":"Radiohead","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":34,"Frikomid":2,"GabredMared":1,"paqueradejere":1,"verygooood":1}},{"r":75,"t":"My Friend","a":"Groove Armada","y":2001,"w":null,"n":"United Kingdom","h":{"Frikomid":2,"Nubis84":10,"sdecandelario":6}},{"r":76,"t":"Radio","a":"The Avalanches","y":2001,"w":null,"n":"Australia","h":{"alberto_gu":1,"EliasJ72":1,"Frikomid":2,"GabredMared":3,"Nubis84":2,"paqueradejere":3,"sdecandelario":2,"verygooood":168}},{"r":77,"t":"Hibernate","a":"Big Heavy Stuff","y":2001,"w":null,"n":"Australia","h":{}},{"r":78,"t":"A Simple Goodbye","a":"The Cruel Sea","y":2001,"w":null,"n":"Australia","h":{}},{"r":79,"t":"Imitation of Life","a":"R.E.M.","y":2001,"w":null,"n":"United States","h":{"alberto_gu":17,"Frikomid":9,"MaxtorUwU":1,"Nubis84":1}},{"r":80,"t":"Bliss","a":"Muse","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":32,"BipolarMuzik":3,"Frikomid":6,"GabredMared":15,"Lonsonxd":10,"MaxtorUwU":1,"Nubis84":5,"sdecandelario":6}},{"r":81,"t":"Butterfly","a":"Crazy Town","y":2001,"w":null,"n":"United States","h":{"alberto_gu":1,"armandwave":5,"EliasJ72":1,"Nubis84":2,"sdecandelario":4,"verygooood":1}},{"r":82,"t":"Home Entertainment System","a":"Lazaro's Dog","y":2001,"w":null,"n":"Australia","h":{}},{"r":83,"t":"Shining Light","a":"Ash","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":2,"MaxtorUwU":1}},{"r":84,"t":"Starlight","a":"The Supermen Lovers featuring Mani Hoffman","y":2001,"w":null,"n":"France","h":{"armandwave":1,"Nubis84":3,"verygooood":1}},{"r":85,"t":"Invalid Litter Dept.","a":"At the Drive-In","y":2001,"w":null,"n":"United States","h":{"alberto_gu":4,"MaxtorUwU":2}},{"r":86,"t":"Light on Your Shoulder","a":"Rhubarb","y":2001,"w":null,"n":"Australia","h":{}},{"r":87,"t":"Rock the Nation","a":"Michael Franti & Spearhead","y":2001,"w":null,"n":"United States","h":{}},{"r":88,"t":"Four on the Floor","a":"Spiderbait","y":2001,"w":null,"n":"Australia","h":{}},{"r":89,"t":"New Born","a":"Muse","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":12,"armandwave":2,"BipolarMuzik":4,"Frikomid":37,"GabredMared":15,"Lonsonxd":12,"Nubis84":6,"sdecandelario":6}},{"r":90,"t":"60 Miles an Hour","a":"New Order","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":2,"Frikomid":1,"sdecandelario":11}},{"r":91,"t":"Fat Lip","a":"Sum 41","y":2001,"w":null,"n":"Canada","h":{"alberto_gu":2,"BipolarMuzik":2,"Lonsonxd":1,"Nubis84":2,"sdecandelario":9}},{"r":92,"t":"Run","a":"George","y":2001,"w":null,"n":"Australia","h":{}},{"r":93,"t":"The Shame of Life","a":"Butthole Surfers","y":2001,"w":null,"n":"United States","h":{}},{"r":94,"t":"I Feel Loved","a":"Depeche Mode","y":2001,"w":null,"n":"United Kingdom","h":{"BipolarMuzik":9}},{"r":95,"t":"Little Things","a":"Good Charlotte","y":2001,"w":null,"n":"United States","h":{}},{"r":96,"t":"Fuck Authority","a":"Pennywise","y":2001,"w":null,"n":"United States","h":{"sdecandelario":11}},{"r":97,"t":"Step Back","a":"Superheist","y":2001,"w":null,"n":"Australia","h":{}},{"r":98,"t":"We Come 1","a":"Faithless","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":3,"armandwave":3,"Nubis84":1,"sdecandelario":3}},{"r":99,"t":"It Began in Afrika","a":"The Chemical Brothers","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":2,"BipolarMuzik":1,"Frikomid":1,"sdecandelario":60}},{"r":100,"t":"Sex and Violence","a":"Endorphin","y":2001,"w":null,"n":"Australia","h":{}}]};</script>
+<script>const DATA = {"users":["alberto_gu","armandwave","BipolarMuzik","EliasJ72","Frikomid","GabredMared","Lonsonxd","MaxtorUwU","Nubis84","paqueradejere","Rocky_stereo","sdecandelario","verygooood"],"showYear":false,"yearSeparators":false,"tracks":[{"r":1,"t":"Amazing","a":"Alex Lloyd","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/33cdb97d1237b3f1e26d315748281204/250x250-000000-80-0-0.jpg","dz":3092087,"yt":"mJPDJRLxHek"},{"r":2,"t":"Monsters","a":"Something for Kate","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/8889eac01543542d6a27c91190c90018/250x250-000000-80-0-0.jpg","dz":70997346,"yt":"j9fTc5dxUdk"},{"r":3,"t":"Chop Suey!","a":"System of a Down","y":2001,"w":null,"n":"United States","h":{"armandwave":8,"BipolarMuzik":2,"Frikomid":1,"GabredMared":11,"Lonsonxd":1,"MaxtorUwU":3,"Nubis84":3},"c":"https://cdn-images.dzcdn.net/images/cover/9a26018a2c9bf0eed86e6c5ae6b3decb/250x250-000000-80-0-0.jpg","dz":859699,"yt":"CSvFpBOe8eY"},{"r":4,"t":"Where's Your Head At","a":"Basement Jaxx","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":13,"armandwave":1,"EliasJ72":2,"sdecandelario":19,"verygooood":1},"c":"https://cdn-images.dzcdn.net/images/cover/7d0d77a69e653093eab73ca3261372b9/250x250-000000-80-0-0.jpg","dz":945754,"yt":"5rAOyh7YmEc"},{"r":5,"t":"Betterman","a":"John Butler Trio","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/78f866c8c2800d98dc18c4942927e45b/250x250-000000-80-0-0.jpg","dz":4219767122,"yt":"1LRxVbIeEpA"},{"r":6,"t":"Smooth Criminal","a":"Alien Ant Farm","y":2001,"w":null,"n":"United States","h":{"alberto_gu":5,"armandwave":6,"BipolarMuzik":1,"Nubis84":7,"sdecandelario":3},"c":"https://cdn-images.dzcdn.net/images/cover/3f02cc465151cf9cd005498de7ac138a/250x250-000000-80-0-0.jpg","dz":7780233,"yt":"CDl9ZMfj6aE"},{"r":7,"t":"Island in the Sun","a":"Weezer","y":2001,"w":null,"n":"United States","h":{"armandwave":1,"Frikomid":1,"MaxtorUwU":1,"Nubis84":3,"Rocky_stereo":1,"sdecandelario":4},"c":"https://cdn-images.dzcdn.net/images/cover/a67a3dc5916907b9d5679c068d874451/250x250-000000-80-0-0.jpg","dz":2544628,"yt":"erG5rgNYSdk"},{"r":8,"t":"Since I Left You","a":"The Avalanches","y":2001,"w":null,"n":"Australia","h":{"alberto_gu":1,"armandwave":2,"EliasJ72":13,"Frikomid":12,"GabredMared":5,"Nubis84":11,"paqueradejere":10,"Rocky_stereo":1,"sdecandelario":4,"verygooood":219},"c":"https://cdn-images.dzcdn.net/images/cover/1f5dd760cb176bc8edd318ad5aa21545/250x250-000000-80-0-0.jpg","dz":1280128692,"yt":"wpqm-05R2Jk"},{"r":9,"t":"Clint Eastwood","a":"Gorillaz","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":13,"armandwave":7,"EliasJ72":3,"GabredMared":1,"Lonsonxd":1,"Nubis84":18,"Rocky_stereo":1,"sdecandelario":15,"verygooood":1},"c":"https://cdn-images.dzcdn.net/images/cover/cb1bf9d29878e0541b92e516ca79f06d/250x250-000000-80-0-0.jpg","dz":3157553,"yt":"1V_xRb0x9aw"},{"r":10,"t":"Short Skirt/Long Jacket","a":"Cake","y":2001,"w":null,"n":"United States","h":{"Nubis84":3},"c":"https://cdn-images.dzcdn.net/images/cover/9135fcecad21a436a0f1c76d482ec8e4/250x250-000000-80-0-0.jpg","dz":1244212662,"yt":"X5KmB8Laemg"},{"r":11,"t":"Cherry Lips (Go Baby Go!)","a":"Garbage","y":2001,"w":null,"n":"United States","h":{"alberto_gu":6},"c":"https://cdn-images.dzcdn.net/images/cover/8496b86daa8dcbf7f979e7a7eaac9081/250x250-000000-80-0-0.jpg","dz":3794141282,"yt":"Cy1LdAaGASw"},{"r":12,"t":"Last Nite","a":"The Strokes","y":2001,"w":null,"n":"United States","h":{"alberto_gu":11,"armandwave":1,"Frikomid":6,"GabredMared":2,"Lonsonxd":4,"Nubis84":8,"Rocky_stereo":15,"sdecandelario":27,"verygooood":66},"c":"https://cdn-images.dzcdn.net/images/cover/700f0375d5ac8570f16a2c7eb128303f/250x250-000000-80-0-0.jpg","dz":958109,"yt":"TOypSnKFHrE"},{"r":13,"t":"Three Dimensions","a":"Something for Kate","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/2a9bdb40d616f82a76994bf85579ab6e/250x250-000000-80-0-0.jpg","dz":79876056,"yt":"Ci4_I0vieRM"},{"r":14,"t":"Schism","a":"Tool","y":2001,"w":null,"n":"United States","h":{"alberto_gu":1,"BipolarMuzik":38,"EliasJ72":6,"Frikomid":22,"Lonsonxd":44,"Nubis84":28,"paqueradejere":2,"sdecandelario":2},"c":"https://cdn-images.dzcdn.net/images/cover/1645f3b192206dc412353b06491290d4/250x250-000000-80-0-0.jpg","dz":722078532,"yt":"MM62wjLrgmA"},{"r":15,"t":"19-2000","a":"Gorillaz","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":6,"armandwave":3,"EliasJ72":13,"Nubis84":1,"paqueradejere":1,"sdecandelario":7,"verygooood":1},"c":"https://cdn-images.dzcdn.net/images/cover/f4d581f4b86c869547704d7db9aa2c43/250x250-000000-80-0-0.jpg","dz":3100450,"yt":"WXR-bCF5dbM"},{"r":16,"t":"Say What?","a":"28 Days and Apollo 440","y":2001,"w":null,"n":"Australia/United Kingdom","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/ff39bf9f291d4b621ce1260fd54a15e5/250x250-000000-80-0-0.jpg","dz":3927450,"yt":"hy2F3vQJAqc"},{"r":17,"t":"Rockin' the Suburbs","a":"Ben Folds","y":2001,"w":null,"n":"United States","h":{"alberto_gu":1},"c":"https://cdn-images.dzcdn.net/images/cover/02cbbef0d9b49958500033226f238e6e/250x250-000000-80-0-0.jpg","dz":623589,"yt":"34u_3Z9_LUw"},{"r":18,"t":"Renegades of Funk","a":"Rage Against the Machine","y":2001,"w":null,"n":"United States","h":{"MaxtorUwU":5,"Nubis84":1,"sdecandelario":2},"c":"https://cdn-images.dzcdn.net/images/cover/725a0dcdd59a884d415fd6a31ec98756/250x250-000000-80-0-0.jpg","dz":15217246,"yt":"4KXdU3cZbNQ"},{"r":19,"t":"Special Ones","a":"George","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/1557a846af7ed8ca7290434e03c34a54/250x250-000000-80-0-0.jpg","dz":5708703,"yt":"pvtK54UeFq0"},{"r":20,"t":"Hash Pipe","a":"Weezer","y":2001,"w":null,"n":"United States","h":{"alberto_gu":3,"MaxtorUwU":1,"Nubis84":5,"sdecandelario":2},"c":"https://cdn-images.dzcdn.net/images/cover/b0288a88a3964cce96b39d011f787193/250x250-000000-80-0-0.jpg","dz":2301417,"yt":"_9BGLtqqkVI"},{"r":21,"t":"Weapon of Choice","a":"Fatboy Slim featuring Bootsy Collins","y":2001,"w":null,"n":"United Kingdom/United States","h":{"alberto_gu":4,"armandwave":3,"EliasJ72":2,"sdecandelario":28},"c":"https://cdn-images.dzcdn.net/images/cover/024867c68b87f1e228223139b635cb36/250x250-000000-80-0-0.jpg","dz":3801319552,"yt":"wCDIYvFmgW8"},{"r":22,"t":"The Drugs Don't Work","a":"Ben Harper & the Innocent Criminals","y":2001,"w":null,"n":"United States","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/994813d9c0e7adf6f679083c732fd8bb/250x250-000000-80-0-0.jpg","dz":3130064,"yt":"ggIudEPBrtY"},{"r":23,"t":"This Mess We're In","a":"PJ Harvey","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":1,"armandwave":6,"Frikomid":12,"Lonsonxd":14,"MaxtorUwU":2,"Nubis84":10,"paqueradejere":2,"Rocky_stereo":1,"sdecandelario":3},"c":"https://cdn-images.dzcdn.net/images/cover/2acafc30a5555be1661abe5181bdb73b/250x250-000000-80-0-0.jpg","dz":1172883,"yt":"JqEVESq9eX8"},{"r":24,"t":"Dust Me Selecta","a":"Gerling","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/7e84a39cc3ba8c533e156e22be83ecdb/250x250-000000-80-0-0.jpg","dz":3927442,"yt":"-xZ-Ll_1Buw"},{"r":25,"t":"Wake Up","a":"Eskimo Joe","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/78fc44cfcef362d64017d5266ec3f3eb/250x250-000000-80-0-0.jpg","dz":770676,"yt":"xBpGtrrVHBw"},{"r":26,"t":"Little L","a":"Jamiroquai","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":1,"MaxtorUwU":2,"Nubis84":2,"sdecandelario":1},"c":"https://cdn-images.dzcdn.net/images/cover/1f2daa3a33fe4dabf4f72e54b6d3a995/250x250-000000-80-0-0.jpg","dz":2550732132,"yt":"1hHSH9sJUEo"},{"r":27,"t":"Fat Cop","a":"Regurgitator","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/0cd87cf2e9cd7ef37be772944857967e/250x250-000000-80-0-0.jpg","dz":14684166,"yt":"-LxBPjijfHI"},{"r":28,"t":"Fall Down","a":"Jebediah","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/1090167dfe0c8237f51a38200ca74151/250x250-000000-80-0-0.jpg","dz":70751450,"yt":"HI5U3xZzvus"},{"r":29,"t":"Take","a":"John Butler Trio","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/6e99e7d77a700a63eb6f2290c3598791/250x250-000000-80-0-0.jpg","dz":7341079,"yt":"BNF9EbaThV8"},{"r":30,"t":"The Girl of My Dreams is Giving Me Nightmares","a":"Machine Gun Fellatio","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/352743889219d70b6d4638a3cdec686c/250x250-000000-80-0-0.jpg","dz":5596916},{"r":31,"t":"Planet Earth","a":"Eskimo Joe","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/78fc44cfcef362d64017d5266ec3f3eb/250x250-000000-80-0-0.jpg","dz":770684,"yt":"hMLXi496OXE"},{"r":32,"t":"Special K","a":"Placebo","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":7,"armandwave":2,"Frikomid":40,"MaxtorUwU":1,"Nubis84":2,"sdecandelario":1},"c":"https://cdn-images.dzcdn.net/images/cover/dc88f8dcfcdec049a854a65fbdd9f4fc/250x250-000000-80-0-0.jpg","dz":1895381717,"yt":"-6FvsKo162U"},{"r":33,"t":"Getting Away with It (All Messed Up)","a":"James","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":3,"Frikomid":276,"Lonsonxd":6},"c":"https://cdn-images.dzcdn.net/images/cover/5a4209469746b592974d42e76dc3448e/250x250-000000-80-0-0.jpg","dz":114045074,"yt":"CETTzv3fTG0"},{"r":34,"t":"Who Sold Her Out","a":"Eskimo Joe","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/78fc44cfcef362d64017d5266ec3f3eb/250x250-000000-80-0-0.jpg","dz":770692,"yt":"gPiYvFYFjtc"},{"r":35,"t":"Thank You","a":"Dido","y":2001,"w":null,"n":"United Kingdom","h":{"BipolarMuzik":3,"Frikomid":1,"MaxtorUwU":1,"Nubis84":9},"c":"https://cdn-images.dzcdn.net/images/cover/3eaae15d23993db3cd9c69ae113c4333/250x250-000000-80-0-0.jpg","dz":962173},{"r":36,"t":"Pyramid Song","a":"Radiohead","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":45,"Frikomid":7,"GabredMared":1,"Nubis84":1},"c":"https://cdn-images.dzcdn.net/images/cover/d611b9ef9d7ce87a74c697d74be5ae15/250x250-000000-80-0-0.jpg","dz":138540337,"yt":"3M_Gg1xAHE4"},{"r":37,"t":"Twenty Years","a":"Something for Kate","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/2a9bdb40d616f82a76994bf85579ab6e/250x250-000000-80-0-0.jpg","dz":79876068,"yt":"BXUEP_doUJM"},{"r":38,"t":"Crystal","a":"New Order","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":49,"armandwave":1,"Frikomid":5,"sdecandelario":52},"c":"https://cdn-images.dzcdn.net/images/cover/182d054e118037725868ca2830dbe0b2/250x250-000000-80-0-0.jpg","dz":697318,"yt":"KVMyXDsadLQ"},{"r":39,"t":"Cocaine","a":"The Cruel Sea","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/bcb909bed7fb6452e91309adf4e57292/250x250-000000-80-0-0.jpg","dz":757413532,"yt":"PwZiBXErqf8"},{"r":40,"t":"Elevation (Tomb Raider Mix)","a":"U2","y":2001,"w":null,"n":"Ireland","h":{"Nubis84":3},"c":"https://cdn-images.dzcdn.net/images/cover/db6469354421aa05842897dfef3d0249/250x250-000000-80-0-0.jpg","dz":2929727911,"yt":"qhDt9LSuG08"},{"r":41,"t":"Super Straight","a":"Regurgitator","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/0cd87cf2e9cd7ef37be772944857967e/250x250-000000-80-0-0.jpg","dz":14684167,"yt":"I2t4tEOqido"},{"r":42,"t":"I Will Not Go Quietly (Duffy's Song)","a":"The Whitlams","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/8e4fe0d0bc1ca3b11f88f4b7aaf372a8/250x250-000000-80-0-0.jpg","dz":428216442,"yt":"5j4rnb-jZcY"},{"r":43,"t":"Souljacker Part I","a":"Eels","y":2001,"w":null,"n":"United States","h":{"armandwave":4,"sdecandelario":8},"c":"https://cdn-images.dzcdn.net/images/cover/b175170829c0398ab4a7ba8f8fb3b2f6/250x250-000000-80-0-0.jpg","dz":2076571747,"yt":"PNEVbhqkKhY"},{"r":44,"t":"Androgyny","a":"Garbage","y":2001,"w":null,"n":"United States","h":{"alberto_gu":44},"c":"https://cdn-images.dzcdn.net/images/cover/8496b86daa8dcbf7f979e7a7eaac9081/250x250-000000-80-0-0.jpg","dz":3794140712,"yt":"kvHKzdaIwtc"},{"r":45,"t":"Strange Little Girl","a":"Tori Amos","y":2001,"w":null,"n":"United States","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/5fa033a4a76958b7e9a16b64543a4370/250x250-000000-80-0-0.jpg","dz":6623631,"yt":"5TRZDjsFbb8"},{"r":46,"t":"Untitled","a":"The Smashing Pumpkins","y":2001,"w":null,"n":"United States","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/a3ca7ccf760c1466f8e338c3ff5c952c/250x250-000000-80-0-0.jpg","dz":7753505,"yt":"OLeW2EYfTrg"},{"r":47,"t":"There Is No Such Place","a":"Augie March","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/1553d26511f09570dddb06f79e87cc27/250x250-000000-80-0-0.jpg","dz":5496130,"yt":"_BJTRSWXMRA"},{"r":48,"t":"Superstylin'","a":"Groove Armada","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":5,"armandwave":1,"Frikomid":4,"Nubis84":1,"paqueradejere":1,"sdecandelario":25},"c":"https://cdn-images.dzcdn.net/images/cover/ced9be950d342f7a3efe1d79397e55e8/250x250-000000-80-0-0.jpg","dz":4305004242,"yt":"_kE0pxRkMtQ"},{"r":49,"t":"Parabola","a":"Tool","y":2001,"w":null,"n":"United States","h":{"alberto_gu":1,"BipolarMuzik":26,"EliasJ72":2,"Frikomid":5,"Lonsonxd":65,"MaxtorUwU":2,"Nubis84":25,"paqueradejere":2,"sdecandelario":4},"c":"https://cdn-images.dzcdn.net/images/cover/1645f3b192206dc412353b06491290d4/250x250-000000-80-0-0.jpg","dz":722078552,"yt":"-_nQhGR0K8M"},{"r":50,"t":"Just the Thing","a":"Paul Mac featuring Peta Morris","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/62b5307e83751e10c84e4ab318d73548/250x250-000000-80-0-0.jpg","dz":1558454752,"yt":"w6r8VXAsguE"},{"r":51,"t":"Fifteen Feet of Pure White Snow","a":"Nick Cave & the Bad Seeds","y":2001,"w":null,"n":"Australia","h":{"armandwave":1},"c":"https://cdn-images.dzcdn.net/images/cover/09ac8a45ede9323d51bf13fbbd38f88a/250x250-000000-80-0-0.jpg","dz":3782900882,"yt":"4sfhvxTZ0wo"},{"r":52,"t":"Man, It's So Loud in Here","a":"They Might Be Giants","y":2001,"w":null,"n":"United States","h":{},"yt":"KtaLKvini4k"},{"r":53,"t":"Hey Driver","a":"Motor Ace","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/e3f59e6b146c1a2c46f79bd99167c912/250x250-000000-80-0-0.jpg","dz":3927436,"yt":"J3x3aAXwrd4"},{"r":54,"t":"The Rock Show","a":"Blink-182","y":2001,"w":null,"n":"United States","h":{"alberto_gu":12,"BipolarMuzik":1,"Nubis84":1,"sdecandelario":11},"c":"https://cdn-images.dzcdn.net/images/cover/4f57b6d9f1e1d3a063b3beb0b3577eb5/250x250-000000-80-0-0.jpg","dz":125173836,"yt":"z7hhDINyBP0"},{"r":55,"t":"One Step Closer","a":"Linkin Park","y":2001,"w":null,"n":"United States","h":{"alberto_gu":22,"BipolarMuzik":10,"EliasJ72":4,"Lonsonxd":30,"MaxtorUwU":3,"Nubis84":2,"sdecandelario":10},"c":"https://cdn-images.dzcdn.net/images/cover/dde2ec974ff3a5ae9221a027afdbfe70/250x250-000000-80-0-0.jpg","dz":1196645382,"yt":"4qlCC1GOwFw"},{"r":56,"t":"Kick a Hole in the Sky","a":"You Am I","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/4c402d32ce066f9fe17e2643df4a574e/250x250-000000-80-0-0.jpg","dz":7398441,"yt":"2DtQnX23CkU"},{"r":57,"t":"Get Up","a":"You Am I","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/4c402d32ce066f9fe17e2643df4a574e/250x250-000000-80-0-0.jpg","dz":7398432,"yt":"34w6dnFohAU"},{"r":58,"t":"Bleed American","a":"Jimmy Eat World","y":2001,"w":null,"n":"United States","h":{"sdecandelario":44},"c":"https://cdn-images.dzcdn.net/images/cover/2686d323375a5c8996b2833719955e7d/250x250-000000-80-0-0.jpg","dz":623714192,"yt":"DnTQkKd8Wx0"},{"r":59,"t":"Hard to Explain","a":"The Strokes","y":2001,"w":null,"n":"United States","h":{"alberto_gu":16,"Frikomid":3,"GabredMared":2,"Lonsonxd":3,"Nubis84":2,"Rocky_stereo":8,"sdecandelario":51,"verygooood":3},"c":"https://cdn-images.dzcdn.net/images/cover/700f0375d5ac8570f16a2c7eb128303f/250x250-000000-80-0-0.jpg","dz":958111,"yt":"BXkm6h6uq0k"},{"r":60,"t":"Pattern Against User","a":"At the Drive-In","y":2001,"w":null,"n":"United States","h":{"alberto_gu":9,"MaxtorUwU":1,"sdecandelario":1},"c":"https://cdn-images.dzcdn.net/images/cover/b0892516361122a4a153e96f78681b4c/250x250-000000-80-0-0.jpg","dz":2202119237,"yt":"LY9pNLkN_c8"},{"r":61,"t":"One More Time","a":"Daft Punk","y":2001,"w":null,"n":"France","h":{"alberto_gu":1,"armandwave":3,"EliasJ72":1,"GabredMared":17,"Lonsonxd":1,"Nubis84":4,"paqueradejere":1,"sdecandelario":3,"verygooood":47},"c":"https://cdn-images.dzcdn.net/images/cover/07d17f7608a4cbcb60d701faa3c257c8/250x250-000000-80-0-0.jpg","dz":3157685,"yt":"FGBhQbmPwH8"},{"r":62,"t":"You Give Me Something","a":"Jamiroquai","y":2001,"w":null,"n":"United Kingdom","h":{"Frikomid":1,"MaxtorUwU":1,"Nubis84":1,"sdecandelario":2},"c":"https://cdn-images.dzcdn.net/images/cover/319f277944236a916b8fcb472421b809/250x250-000000-80-0-0.jpg","dz":1481977422,"yt":"OEcBz6VtyDg"},{"r":63,"t":"Downtown","a":"Alex Lloyd","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/33cdb97d1237b3f1e26d315748281204/250x250-000000-80-0-0.jpg","dz":3092088,"yt":"NKb4cDm8OhU"},{"r":64,"t":"Hotel Yorba","a":"The White Stripes","y":2001,"w":null,"n":"United States","h":{"armandwave":1,"Nubis84":1,"sdecandelario":3},"c":"https://cdn-images.dzcdn.net/images/cover/ae649b58a5e143f8e699c2e061e6fc0b/250x250-000000-80-0-0.jpg","dz":1164723142,"yt":"DZPEUyiNcjA"},{"r":65,"t":"Burn Baby Burn","a":"Ash","y":2001,"w":null,"n":"United Kingdom","h":{"MaxtorUwU":1},"c":"https://cdn-images.dzcdn.net/images/cover/2543f0add13f318fbc0d80c50306954e/250x250-000000-80-0-0.jpg","dz":3816547252,"yt":"t5ZtotlZ0ug"},{"r":66,"t":"New York City Cops","a":"The Strokes","y":2001,"w":null,"n":"United States","h":{"alberto_gu":7,"Frikomid":2,"GabredMared":3,"Nubis84":2,"sdecandelario":34,"verygooood":2},"c":"https://cdn-images.dzcdn.net/images/cover/acd80532ef066b726fce23477ddab9a4/250x250-000000-80-0-0.jpg","dz":619935,"yt":"OkLxi4Tsm2E"},{"r":67,"t":"Not the Same","a":"Ben Folds","y":2001,"w":null,"n":"United States","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/02cbbef0d9b49958500033226f238e6e/250x250-000000-80-0-0.jpg","dz":624201,"yt":"fEkC3M7PVrQ"},{"r":68,"t":"Making the Nouveau Riche","a":"Blueline Medic","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/60623a48c76abee9f81872dacbba3f69/250x250-000000-80-0-0.jpg","dz":1053063482,"yt":"TPm9YAcyWBY"},{"r":69,"t":"Up All Night","a":"Unwritten Law","y":2001,"w":null,"n":"United States","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/abbc4304b18e75d26721fb07326288bc/250x250-000000-80-0-0.jpg","dz":7542008,"yt":"azbzkeTHXKQ"},{"r":70,"t":"Links 2-3-4","a":"Rammstein","y":2001,"w":null,"n":"Germany","h":{"BipolarMuzik":1,"Lonsonxd":34,"MaxtorUwU":4,"Nubis84":2,"sdecandelario":13},"c":"https://cdn-images.dzcdn.net/images/cover/a15b4cabd0c75cdfc12d04536f87e15d/250x250-000000-80-0-0.jpg","dz":3813301312,"yt":"Ph-CA_tu5KA"},{"r":71,"t":"Outta My Head","a":"Spiderbait","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/b8586a342a0b99b29d487ee437b9834a/250x250-000000-80-0-0.jpg","dz":2122141,"yt":"OtJFBnx1l1U"},{"r":72,"t":"Roll On","a":"The Living End","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/1622d967a2e44dc9814ae53ed27cb6e9/250x250-000000-80-0-0.jpg","dz":6639372,"yt":"c_-q-KodhAI"},{"r":73,"t":"Plug In Baby","a":"Muse","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":6,"BipolarMuzik":3,"Frikomid":7,"GabredMared":7,"Lonsonxd":5,"Nubis84":13,"sdecandelario":19},"c":"https://cdn-images.dzcdn.net/images/cover/d51fca27f4e6f891e64eaab425264fce/250x250-000000-80-0-0.jpg","dz":13636688,"yt":"dbB-mICjkQM"},{"r":74,"t":"Knives Out","a":"Radiohead","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":34,"Frikomid":2,"GabredMared":1,"paqueradejere":1,"verygooood":1},"c":"https://cdn-images.dzcdn.net/images/cover/d611b9ef9d7ce87a74c697d74be5ae15/250x250-000000-80-0-0.jpg","dz":138540345,"yt":"2Lpw3yMCWro"},{"r":75,"t":"My Friend","a":"Groove Armada","y":2001,"w":null,"n":"United Kingdom","h":{"Frikomid":2,"Nubis84":10,"sdecandelario":6},"c":"https://cdn-images.dzcdn.net/images/cover/b064e7ed8f7361c8efd90aa41bde3734/250x250-000000-80-0-0.jpg","dz":3684564682,"yt":"JxohJX9ElpE"},{"r":76,"t":"Radio","a":"The Avalanches","y":2001,"w":null,"n":"Australia","h":{"alberto_gu":1,"EliasJ72":1,"Frikomid":2,"GabredMared":3,"Nubis84":2,"paqueradejere":3,"sdecandelario":2,"verygooood":168},"c":"https://cdn-images.dzcdn.net/images/cover/1f5dd760cb176bc8edd318ad5aa21545/250x250-000000-80-0-0.jpg","dz":1280128712,"yt":"6dajlqL8NCc"},{"r":77,"t":"Hibernate","a":"Big Heavy Stuff","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/8860f43c868e148aefb2f323fe26ddf8/250x250-000000-80-0-0.jpg","dz":3473618971,"yt":"rd2kXpWGeY8"},{"r":78,"t":"A Simple Goodbye","a":"The Cruel Sea","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/bcb909bed7fb6452e91309adf4e57292/250x250-000000-80-0-0.jpg","dz":757413502,"yt":"i1fOfAr67FA"},{"r":79,"t":"Imitation of Life","a":"R.E.M.","y":2001,"w":null,"n":"United States","h":{"alberto_gu":17,"Frikomid":9,"MaxtorUwU":1,"Nubis84":1},"c":"https://cdn-images.dzcdn.net/images/cover/d4b3ce999400075b54336ac0d1e45e3a/250x250-000000-80-0-0.jpg","dz":4296318072,"yt":"0vqgdSsfqPs"},{"r":80,"t":"Bliss","a":"Muse","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":32,"BipolarMuzik":3,"Frikomid":6,"GabredMared":15,"Lonsonxd":10,"MaxtorUwU":1,"Nubis84":5,"sdecandelario":6},"c":"https://cdn-images.dzcdn.net/images/cover/d51fca27f4e6f891e64eaab425264fce/250x250-000000-80-0-0.jpg","dz":13636685,"yt":"UF2pWuQ6kwA"},{"r":81,"t":"Butterfly","a":"Crazy Town","y":2001,"w":null,"n":"United States","h":{"alberto_gu":1,"armandwave":5,"EliasJ72":1,"Nubis84":2,"sdecandelario":4,"verygooood":1},"c":"https://cdn-images.dzcdn.net/images/cover/7b0180e17825860b3845820662b5be64/250x250-000000-80-0-0.jpg","dz":10570116,"yt":"6FEDrU85FLE"},{"r":82,"t":"Home Entertainment System","a":"Lazaro's Dog","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/dd7b3ede0ba1c4bd07a2544859b48d31/250x250-000000-80-0-0.jpg","dz":3065311851,"yt":"DeemOwNLwYg"},{"r":83,"t":"Shining Light","a":"Ash","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":2,"MaxtorUwU":1},"c":"https://cdn-images.dzcdn.net/images/cover/2543f0add13f318fbc0d80c50306954e/250x250-000000-80-0-0.jpg","dz":3816547242,"yt":"EIcK30k6dwM"},{"r":84,"t":"Starlight","a":"The Supermen Lovers featuring Mani Hoffman","y":2001,"w":null,"n":"France","h":{"armandwave":1,"Nubis84":3,"verygooood":1},"c":"https://cdn-images.dzcdn.net/images/cover/6dae429c8d53b8a6ab4a0e5f3c592924/250x250-000000-80-0-0.jpg","dz":3412535111,"yt":"h61QG4s0I3U"},{"r":85,"t":"Invalid Litter Dept.","a":"At the Drive-In","y":2001,"w":null,"n":"United States","h":{"alberto_gu":4,"MaxtorUwU":2},"c":"https://cdn-images.dzcdn.net/images/cover/b0892516361122a4a153e96f78681b4c/250x250-000000-80-0-0.jpg","dz":2202119267,"yt":"8wR1MVdDmUA"},{"r":86,"t":"Light on Your Shoulder","a":"Rhubarb","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/d3da00cea9401c6d81701acf4d865668/250x250-000000-80-0-0.jpg","dz":2530400591,"yt":"Jsgzh4YR7_M"},{"r":87,"t":"Rock the Nation","a":"Michael Franti & Spearhead","y":2001,"w":null,"n":"United States","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/0c69b0be82d8a6f69719f2ecbb6dc672/250x250-000000-80-0-0.jpg","dz":61519671,"yt":"zIM7CwZPuMc"},{"r":88,"t":"Four on the Floor","a":"Spiderbait","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/b8586a342a0b99b29d487ee437b9834a/250x250-000000-80-0-0.jpg","dz":2122152,"yt":"Fyl5FptiaUs"},{"r":89,"t":"New Born","a":"Muse","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":12,"armandwave":2,"BipolarMuzik":4,"Frikomid":37,"GabredMared":15,"Lonsonxd":12,"Nubis84":6,"sdecandelario":6},"c":"https://cdn-images.dzcdn.net/images/cover/a57726a8047e0224a34f16d76f9cb3df/250x250-000000-80-0-0.jpg","dz":3824098,"yt":"qhduQhDqtb4"},{"r":90,"t":"60 Miles an Hour","a":"New Order","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":2,"Frikomid":1,"sdecandelario":11},"c":"https://cdn-images.dzcdn.net/images/cover/182d054e118037725868ca2830dbe0b2/250x250-000000-80-0-0.jpg","dz":697321,"yt":"yNF-MJv7bzo"},{"r":91,"t":"Fat Lip","a":"Sum 41","y":2001,"w":null,"n":"Canada","h":{"alberto_gu":2,"BipolarMuzik":2,"Lonsonxd":1,"Nubis84":2,"sdecandelario":9},"c":"https://cdn-images.dzcdn.net/images/cover/b7b71463ef983140cf77e58a2549de24/250x250-000000-80-0-0.jpg","dz":2165758797,"yt":"CMX2lPum_pg"},{"r":92,"t":"Run","a":"George","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/1557a846af7ed8ca7290434e03c34a54/250x250-000000-80-0-0.jpg","dz":5708710,"yt":"kWWjwHEX5_I"},{"r":93,"t":"The Shame of Life","a":"Butthole Surfers","y":2001,"w":null,"n":"United States","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/614c06099a362e8c887426bd41ce47a8/250x250-000000-80-0-0.jpg","dz":490417682,"yt":"-ktpjgvnzSc"},{"r":94,"t":"I Feel Loved","a":"Depeche Mode","y":2001,"w":null,"n":"United Kingdom","h":{"BipolarMuzik":9},"c":"https://cdn-images.dzcdn.net/images/cover/646d3a59db02bd29cd97a80937271091/250x250-000000-80-0-0.jpg","dz":136332178,"yt":"OL8Wqe-QWM8"},{"r":95,"t":"Little Things","a":"Good Charlotte","y":2001,"w":null,"n":"United States","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/53a68d6a6c4be6543b8b6f8ab4aac18c/250x250-000000-80-0-0.jpg","dz":7675607,"yt":"R4oCDAXQC34"},{"r":96,"t":"Fuck Authority","a":"Pennywise","y":2001,"w":null,"n":"United States","h":{"sdecandelario":11},"c":"https://cdn-images.dzcdn.net/images/cover/b81696c62891981233801ba409d2b58a/250x250-000000-80-0-0.jpg","dz":378280951,"yt":"j5arZGgyGSc"},{"r":97,"t":"Step Back","a":"Superheist","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/51d70131e1ee680f7ba81e31f0b4db20/250x250-000000-80-0-0.jpg","dz":63636163,"yt":"oGVtyH1hRig"},{"r":98,"t":"We Come 1","a":"Faithless","y":2001,"w":null,"n":"United Kingdom","h":{"alberto_gu":3,"armandwave":3,"Nubis84":1,"sdecandelario":3},"c":"https://cdn-images.dzcdn.net/images/cover/2aff8bc22153c2174e2de2116828f018/250x250-000000-80-0-0.jpg","dz":994787,"yt":"65EfTFUFDwI"},{"r":99,"t":"It Began in Afrika","a":"The Chemical Brothers","y":2001,"w":null,"n":"United Kingdom","h":{"armandwave":2,"BipolarMuzik":1,"Frikomid":1,"sdecandelario":60},"c":"https://cdn-images.dzcdn.net/images/cover/eeeff1ef209ba27ef5278c48afa0096a/250x250-000000-80-0-0.jpg","dz":3132605,"yt":"Wg7WmI-azmk"},{"r":100,"t":"Sex and Violence","a":"Endorphin","y":2001,"w":null,"n":"Australia","h":{},"c":"https://cdn-images.dzcdn.net/images/cover/d8fcbd851e29b034b42e9d0f10cd42d6/250x250-000000-80-0-0.jpg","dz":105151258}]};</script>
 <script>
 (function() {
   const D = DATA, USERS = D.users, NU = USERS.length;
   const $ = id => document.getElementById(id);
-  let filter = 'all', sort = 'rank', q = '';
-  const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const mobile = () => matchMedia('(max-width:800px)').matches;
+  let filter = 'all', sort = 'rank', q = '', cur = null;
+  const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fold = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
-  D.tracks.forEach(t => { t.nh = Object.keys(t.h).length; t.q = fold(t.t + ' ' + t.a); });
+  D.tracks.forEach((t, i) => { t.i = i; t.nh = Object.keys(t.h).length; t.q = fold(t.t + ' ' + t.a); });
 
   function user() { try { return localStorage.getItem('mh_user'); } catch (e) { return null; } }
 
-  function meta(t) {
-    const out = [];
-    if (t.n === 'winner') out.push('<span class="badge win">🏆 Ganadora</span>');
-    else if (t.n === 'nominee') out.push('<span class="badge">Nominada</span>');
-    else if (t.n) out.push(esc(t.n));
-    if (t.w) out.push(t.w + (t.w === 1 ? ' semana' : ' semanas') + ' nº1');
-    if (t.y && D.showYear && sort === 'pop') out.push(t.y);   // con separadores el año ya se ve
-    return out.join('<br>');
-  }
+  // Carátulas: solo se pide la imagen cuando la tarjeta se acerca al viewport,
+  // y el grid se pinta por lotes para que listas de 1000+ no bloqueen el primer render.
+  const io = new IntersectionObserver(es => es.forEach(e => {
+    if (!e.isIntersecting) return;
+    const img = e.target; io.unobserve(img);
+    img.onload = () => { img.classList.add('ok'); img.parentElement.classList.add('has-img'); };
+    img.src = img.dataset.src;
+  }), { rootMargin: '400px' });
 
-  function row(t, u) {
-    const mine = u && t.h[u];
-    const dots = USERS.map(x => `<span class="dot${t.h[x] ? ' on' : ''}${x === u ? ' me' : ''}" title="${esc(x)}${t.h[x] ? ': ' + t.h[x] + ' plays' : ''}"></span>`).join('');
-    const qs = encodeURIComponent(t.a + ' ' + t.t);
-    const lfm = 'https://www.last.fm/music/' + encodeURIComponent(t.a.split(/ (?:featuring|feat\.|with|con) /i)[0]) + '/_/' + encodeURIComponent(t.t.split(' / ')[0]);
-    const plays = u ? (mine ? mine + '▶' : '') : (t.nh ? t.nh + '/' + NU : '');
-    return `<div class="trk${mine ? ' mine' : ''}${u && !mine ? ' dim' : ''}">
-      <div class="t-rank">${t.r ?? ''}</div>
-      <div class="t-main"><div class="t-title">${esc(t.t)}</div><div class="t-artist">${esc(t.a)}</div></div>
-      <div class="t-meta">${meta(t)}</div>
-      <div class="dots" title="${t.nh}/${NU} usuarios">${dots}</div>
-      <div class="t-plays" title="${u ? 'Tus reproducciones' : 'Usuarios que la han escuchado'}">${plays}</div>
-      <div class="t-links"><a href="https://www.youtube.com/results?search_query=${qs}" target="_blank" rel="noopener" title="Buscar en YouTube">YT</a><a href="${lfm}" target="_blank" rel="noopener" title="Last.fm">LFM</a></div>
+  function card(t, u) {
+    const mine = u ? !!t.h[u] : t.nh > 0;
+    return `<div class="card ${mine ? 'heard' : 'pending'}${u && !mine ? ' dim' : ''}" data-i="${t.i}">
+      <div class="card-ph"><b>${esc(t.t)}</b><i>${esc(t.a)}</i></div>
+      ${t.c ? `<img data-src="${esc(t.c)}" alt="" decoding="async">` : ''}
+      ${t.r != null ? `<div class="card-rank">${t.r}</div>` : ''}
+      <div class="card-overlay"><div class="card-num">${t.r != null ? '#' + t.r : ''}${t.y && D.showYear ? ' · ' + t.y : ''}</div>
+        <div class="card-title">${esc(t.t)}</div><div class="card-artist">${esc(t.a)}</div></div>
     </div>`;
   }
 
+  let renderToken = 0;
   function render() {
     const u = user();
     const heard = t => u ? !!t.h[u] : t.nh > 0;
     let list = D.tracks.filter(t => (filter === 'all' || (filter === 'heard') === heard(t)) && (!q || t.q.includes(q)));
-    if (sort === 'pop') list = [...list].sort((a, b) => b.nh - a.nh || a.r - b.r);
-    if (sort === 'year') list = [...list].sort((a, b) => (a.y || 0) - (b.y || 0) || a.r - b.r);
+    if (sort === 'pop') list = [...list].sort((a, b) => b.nh - a.nh || a.i - b.i);
+    if (sort === 'year') list = [...list].sort((a, b) => (a.y || 0) - (b.y || 0) || a.i - b.i);
 
     const total = D.tracks.length;
     let pct, txt;
     if (u) {
       const n = D.tracks.filter(t => t.h[u]).length;
       pct = 100 * n / total;
-      txt = `<b>${esc(u)}</b> ha escuchado <b>${n}</b> de ${total} · ${pct.toFixed(1)}%`;
+      txt = `<b>${n}</b>/${total} · ${pct.toFixed(1)}% ${esc(u)}`;
     } else {
       const avg = USERS.reduce((s, x) => s + D.tracks.filter(t => t.h[x]).length, 0) / (NU || 1);
-      const any = D.tracks.filter(t => t.nh).length;
       pct = 100 * avg / total;
-      txt = `Media del grupo <b>${pct.toFixed(1)}%</b> · ${any} de ${total} las ha escuchado alguien`;
+      txt = `media <b>${pct.toFixed(1)}%</b> · ${D.tracks.filter(t => t.nh).length}/${total} alguien`;
     }
     $('progTxt').innerHTML = txt;
     $('progBar').style.width = pct + '%';
     $('fHeard').textContent = u ? 'Escuchadas' : 'Alguien';
     $('fPending').textContent = u ? 'Pendientes' : 'Nadie';
 
-    let html = '', lastY = null;
+    const parts = [];
+    let lastY;
     const sepByYear = D.yearSeparators && (sort === 'rank' || sort === 'year');
     for (const t of list) {
-      if (sepByYear && t.y !== lastY) { html += `<div class="year-sep">${t.y ?? '—'}</div>`; lastY = t.y; }
-      html += row(t, u);
+      if (sepByYear && t.y !== lastY) { parts.push(`<div class="year-sep">${t.y ?? '—'}</div>`); lastY = t.y; }
+      parts.push(card(t, u));
     }
-    $('tracks').innerHTML = html || '<div class="empty">Nada por aquí.</div>';
+    const grid = $('grid'), token = ++renderToken;
+    io.disconnect();
+    grid.innerHTML = parts.length ? '' : '<div class="empty">Nada por aquí.</div>';
+    const CHUNK = 240;
+    (function chunk(i) {
+      if (token !== renderToken) return;
+      grid.insertAdjacentHTML('beforeend', parts.slice(i, i + CHUNK).join(''));
+      grid.querySelectorAll('img[data-src]:not([src])').forEach(img => io.observe(img));
+      if (i + CHUNK < parts.length) requestAnimationFrame(() => chunk(i + CHUNK));
+      else if (cur) grid.querySelector(`.card[data-i="${cur.i}"]`)?.classList.add('active');
+    })(0);
   }
 
+  function openPanel(t) {
+    cur = t;
+    const u = user(), mine = u ? !!t.h[u] : t.nh > 0;
+    document.querySelectorAll('.card.active').forEach(c => c.classList.remove('active'));
+    document.querySelector(`.card[data-i="${t.i}"]`)?.classList.add('active');
+    const big = t.c ? t.c.replace('/250x250-', '/500x500-') : '';
+    $('pCover').innerHTML = `<div class="card-ph"><b>${esc(t.t)}</b><i>${esc(t.a)}</i></div>`
+      + (big ? `<img src="${esc(big)}" alt="" onload="this.previousElementSibling.style.display='none'">` : '')
+      + `<span class="panel-status ${mine ? 'heard' : 'pending'}">${u ? (mine ? 'Escuchada · ' + t.h[u] + ' plays' : 'Pendiente') : t.nh + '/' + NU + ' usuarios'}</span>`;
+    const meta = [];
+    if (t.y) meta.push(t.y);
+    if (t.n === 'winner') meta.push('<span class="badge win">🏆 Ganadora</span>');
+    else if (t.n === 'nominee') meta.push('<span class="badge">Nominada</span>');
+    else if (t.n) meta.push(esc(t.n));
+    if (t.w) meta.push(t.w + (t.w === 1 ? ' semana' : ' semanas') + ' nº1');
+    const users = USERS.map(x => `<span class="p-user${t.h[x] ? ' on' : ''}${x === u ? ' me' : ''}">${esc(x)}${t.h[x] ? ' · ' + t.h[x] : ''}</span>`).join('');
+    const qs = encodeURIComponent(t.a + ' ' + t.t);
+    const lfm = 'https://www.last.fm/music/' + encodeURIComponent(t.a.split(/ (?:featuring|feat\.|with|con) /i)[0]) + '/_/' + encodeURIComponent(t.t.split(' / ')[0]);
+    $('pBody').innerHTML = `
+      ${t.r != null ? `<div class="p-num">#${t.r}</div>` : ''}
+      <div class="p-title">${esc(t.t)}</div>
+      <div class="p-artist">${esc(t.a)}</div>
+      <div class="p-meta">${meta.join(' · ')}</div>
+      <audio id="pAudio" controls preload="none"></audio>
+      <div class="p-label">Escuchada por ${t.nh}/${NU}</div>
+      <div class="p-users">${users}</div>
+      <div class="p-links">
+        ${t.yt ? `<button id="pYtBtn" type="button">▶ YouTube</button>`
+               : `<a href="https://www.youtube.com/results?search_query=${qs}" target="_blank" rel="noopener">Buscar en YouTube</a>`}
+        <a href="${lfm}" target="_blank" rel="noopener">Last.fm</a>
+        ${t.dz ? `<a href="https://www.deezer.com/track/${t.dz}" target="_blank" rel="noopener">Deezer</a>` : ''}
+      </div>
+      <div class="p-yt" id="pYt"></div>`;
+    if (t.yt) $('pYtBtn').onclick = () => {
+      $('pAudio').pause();
+      $('pYt').innerHTML = `<iframe src="https://www.youtube.com/embed/${t.yt}?autoplay=1&rel=0" allow="autoplay; encrypted-media; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="${esc(t.t)}"></iframe>`;
+      $('pYt').classList.add('on');
+      $('pYtBtn').remove();
+      $('pYt').scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    };
+    if (t.dz) preview(t);
+    $('panel').classList.add('open');
+  }
+
+  // Preview de 30 s: las URLs de Deezer caducan, así que se piden al abrir (JSONP, sin CORS).
+  function preview(t) {
+    const cb = 'dz' + t.dz, s = document.createElement('script');
+    window[cb] = d => {
+      delete window[cb]; s.remove();
+      const a = $('pAudio');
+      if (cur === t && a && d && d.preview) { a.src = d.preview; a.style.display = 'block'; }
+    };
+    s.src = `https://api.deezer.com/track/${t.dz}?output=jsonp&callback=${cb}`;
+    s.onerror = () => { delete window[cb]; s.remove(); };
+    document.body.appendChild(s);
+  }
+
+  $('grid').onclick = e => { const c = e.target.closest('.card'); if (c) openPanel(D.tracks[+c.dataset.i]); };
+  $('pClose').onclick = () => $('panel').classList.remove('open');
   document.querySelectorAll('#filters button').forEach(b => b.onclick = () => {
     filter = b.dataset.f;
     document.querySelectorAll('#filters button').forEach(x => x.classList.toggle('on', x === b));
     render();
   });
   $('sort').onchange = e => { sort = e.target.value; render(); };
-  $('search').oninput = e => { q = fold(e.target.value.trim()); render(); };
-  window.mhRenderList = render;
+  let qt;
+  $('search').oninput = e => { clearTimeout(qt); qt = setTimeout(() => { q = fold(e.target.value.trim()); render(); }, 150); };
+  function setCols(v) {
+    $('grid').style.setProperty('--cols', v);
+    $('gridLbl').textContent = v + '×';
+    try { localStorage.setItem('sg_cols', v); } catch (e) {}
+  }
+  $('gridSlider').oninput = e => setCols(e.target.value);
+  let cols = mobile() ? 3 : 8;
+  try { cols = +localStorage.getItem('sg_cols') || cols; } catch (e) {}
+  $('gridSlider').value = cols; setCols(cols);
+  const fitHeader = () => document.querySelector('main').style.marginTop = document.querySelector('header').offsetHeight + 'px';
+  addEventListener('resize', fitHeader); fitHeader();
+
+  window.mhRenderList = () => { render(); if (cur) openPanel(cur); };
   render();
+  if (!mobile() && D.tracks.length) openPanel(D.tracks[0]);
 })();
 </script>
 </body>

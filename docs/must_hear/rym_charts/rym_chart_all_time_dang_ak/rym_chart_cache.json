@@ -1,0 +1,61 @@
+[
+  {
+    "number": 1,
+    "artist": "Son Jeonghwa\n손정화",
+    "title": "풍류방음악 II: 가야금ㆍ양금 보허사",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/손정화/풍류방음악-ii-가야금ㆍ양금-보허사",
+    "cover_url": "https://e.snmc.io/i/600/s/efa2da74b9f8c7ff5cb07d5caa28c5d8/11200605/%EC%86%90%EC%A0%95%ED%99%94%20%5BSon%20Jeonghwa%5D%20-%20%ED%92%8D%EB%A5%98%EB%B0%A9%EC%9D%8C%EC%95%85%20II%3A%20%EA%B0%80%EC%95%BC%EA%B8%88%E3%86%8D%EC%96%91%EA%B8%88%20%EB%B3%B4%ED%97%88%EC%82%AC%2C%20Cover%20art.jpeg",
+    "rating": "2.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Hyang-ak",
+      "Dang-ak",
+      "Jeong-ak"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Do Kyoung-tae\n도경태",
+    "title": "거문고 보허사 [Geomungo Boheosa]",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/도경태/거문고-보허사-geomungo-boheosa",
+    "cover_url": "https://e.snmc.io/i/600/s/9d83654698ae6ed3e753a75b29a2d14f/11489943/%EB%8F%84%EA%B2%BD%ED%83%9C%20%5BDo%20Kyoung-tae%5D%20-%20%EA%B1%B0%EB%AC%B8%EA%B3%A0%20%EB%B3%B4%ED%97%88%EC%82%AC%20%5BGeomungo%20Boheosa%5D%2C%20Cover%20art.jpeg",
+    "rating": "2.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Dang-ak",
+      "Hyang-ak",
+      "Jeong-ak"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Lee Soo Jin\n이수진",
+    "title": "이수진가야금 - 소요유",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/이수진/이수진가야금-소요유",
+    "cover_url": "https://e.snmc.io/i/600/s/9544281a0bce88b625f85548a4a2e2f1/11493133/%EC%9D%B4%EC%88%98%EC%A7%84%20%5BLee%20Soo%20Jin%5D%20-%20%EC%9D%B4%EC%88%98%EC%A7%84%EA%B0%80%EC%95%BC%EA%B8%88%20-%20%EC%86%8C%EC%9A%94%EC%9C%A0%2C%20Cover%20art.jpeg",
+    "rating": "2.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Dang-ak",
+      "Jeong-ak"
+    ]
+  }
+]

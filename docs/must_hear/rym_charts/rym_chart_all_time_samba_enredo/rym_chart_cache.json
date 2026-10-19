@@ -1,0 +1,567 @@
+[
+  {
+    "number": 1,
+    "artist": "Escola de Samba Portela",
+    "title": "História das escolas de samba - Portela",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/escola-de-samba-portela/historia-das-escolas-de-samba-portela",
+    "cover_url": "https://e.snmc.io/i/600/s/57f9a2a7d68bae7cdc1b4e6c961fc1b2/6205466/Escola%20de%20Samba%20Portela%20-%20Hist%C3%B3ria%20das%20escolas%20de%20samba%20-%20Portela%2C%20Cover%20art.jpeg",
+    "rating": "3.99",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Samba de terreiro"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Estação Primeira de Mangueira",
+    "title": "História das escolas de samba - Mangueira",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/estacao-primeira-de-mangueira/historia-das-escolas-de-samba-mangueira",
+    "cover_url": "https://e.snmc.io/i/600/s/1410d40cf09a7bd9950329908e9545c8/6205471/Esta%C3%A7%C3%A3o%20Primeira%20de%20Mangueira%20-%20Hist%C3%B3ria%20das%20escolas%20de%20samba%20-%20Mangueira%2C%20Cover%20art.jpeg",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Samba de terreiro",
+      "Samba-choro"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "GRES Império Serrano",
+    "title": "História das escolas de samba - Império",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gres-imperio-serrano/historia-das-escolas-de-samba-imperio",
+    "cover_url": "https://e.snmc.io/i/600/s/447bcab027707407df9b1dc5f9a0c76f/6428101/GRES%20Imp%C3%A9rio%20Serrano%20-%20Hist%C3%B3ria%20das%20escolas%20de%20samba%20-%20Imp%C3%A9rio%2C%20Cover%20art.jpeg",
+    "rating": "3.92",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Samba de terreiro"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Martinho da Vila",
+    "title": "Samba enredo",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/martinho-da-vila/samba-enredo",
+    "cover_url": "https://e.snmc.io/i/600/s/5e50f9eeba21c14b0a0bc5adae9f36d0/4720361/Martinho%20da%20Vila%20-%20Samba%20enredo%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Samba-exaltação"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Chico Buarque",
+    "title": "Chico Buarque de Mangueira",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chico-buarque/chico-buarque-de-mangueira",
+    "cover_url": "https://e.snmc.io/i/600/s/cc9ab88aeee10b79492755f1b831b5a2/3367031/Chico%20Buarque%20-%20Chico%20Buarque%20de%20Mangueira%2C%20Cover%20art.jpeg",
+    "rating": "2.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Marchinha",
+      "Samba-canção",
+      "Samba-exaltação"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "GRES Mocidade Independente de Padre Miguel",
+    "title": "Mocidade Independente de Padre Miguel - Bateria Nota 10",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gres-mocidade-independente-de-padre-miguel/mocidade-independente-de-padre-miguel-bateria-nota-10",
+    "cover_url": "https://e.snmc.io/i/600/s/98a581aa3b7fa8b13df26004ae842b71/1764619/GRES%20Mocidade%20Independente%20de%20Padre%20Miguel%20-%20Mocidade%20Independente%20de%20Padre%20Miguel%20-%20Bateria%20Nota%2010%2C%20Cover%20art.jpeg",
+    "rating": "3.93",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Acadêmicos do Salgueiro",
+    "title": "História das escolas de samba: Salgueiro",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/academicos-do-salgueiro/historia-das-escolas-de-samba-salgueiro",
+    "cover_url": "https://e.snmc.io/i/600/s/5a04635d0496adc29ddb86c0d5c424fc/6427966/Acad%C3%AAmicos%20do%20Salgueiro%20-%20Hist%C3%B3ria%20das%20escolas%20de%20samba%3A%20Salgueiro%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Samba de terreiro"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Samba da Vela",
+    "title": "A Comunidade",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/samba-da-vela/a-comunidade",
+    "cover_url": "https://e.snmc.io/i/600/s/f42ac9d14cc7d89ef1cd3af51dc7b4d2/12376603/Samba%20da%20Vela%20-%20A%20Comunidade%2C%20Cover%20art.jpeg",
+    "rating": "4.07",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "GRES Aprendizes de Lucas /",
+    "title": "Escolas de samba em desfile",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gres-aprendizes-de-lucas-gres-mocidade-independente-de-padre-miguel-gres-imperio-serrano/escolas-de-samba-em-desfile",
+    "cover_url": "https://e.snmc.io/i/600/s/6baabed387668619b14ff392a25cd1d0/6336726/GRES%20Aprendizes%20de%20Lucas%20%2F%20GRES%20Mocidade%20Independente%20de%20Padre%20Miguel%20%2F%20GRES%20Imp%C3%A9rio%20Serrano%20-%20Escolas%20de%20samba%20em%20desfile%2C%20Cover%20art.jpeg",
+    "rating": "3.46",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Martinho da Vila",
+    "title": "Sentimentos",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/martinho-da-vila/sentimentos",
+    "cover_url": "https://e.snmc.io/i/600/s/1039f75d02fe6f4504f468ecac5cb9b9/1539454/Martinho%20da%20Vila%20-%20Sentimentos%2C%20Cover%20art.jpeg",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-canção",
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Zaccarias e Sua Orquestra",
+    "title": "Sambas em Desfile",
+    "year": 1955,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zaccarias_e_sua_orquestra/sambas_em_desfile",
+    "cover_url": "https://e.snmc.io/i/600/s/69e6c095359c76a14fceaea313e5b3a4/1810872/Zaccarias%20e%20Sua%20Orquestra%20-%20Sambas%20em%20Desfile%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "G.R.E.S. União da Ilha do Governador",
+    "title": "10 anos de samba-enredo",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/g_r_e_s-uniao-da-ilha-do-governador/10-anos-de-samba-enredo",
+    "cover_url": "https://e.snmc.io/i/600/s/da7ca92cab1d19ac5436fb0f25dcd43b/11269877/G_R_E_S_%20Uni%C3%A3o%20da%20Ilha%20do%20Governador%20-%2010%20anos%20de%20samba-enredo%2C%20Cover%20art.jpeg",
+    "rating": "3.89",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Escola de Samba Portela",
+    "title": "Escola de samba Portela",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/escola-de-samba-portela/escola-de-samba-portela",
+    "cover_url": "https://e.snmc.io/i/600/s/c4eab8ac414489c9ab34c7638cd95049/6493668/Escola%20de%20Samba%20Portela%20-%20Escola%20de%20samba%20Portela%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Batucada",
+      "Samba de terreiro",
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Martinho da Vila",
+    "title": "Enredo",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/martinho-da-vila/enredo",
+    "cover_url": "https://e.snmc.io/i/600/s/11bfed19211b63626e438db53d65e321/5173330/Martinho%20da%20Vila%20-%20Enredo%2C%20Cover%20art.jpeg",
+    "rating": "3.18",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Samba-exaltação"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Martinho da Vila",
+    "title": "4.5 Atual",
+    "year": 2012,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/martinho-da-vila/4_5-atual",
+    "cover_url": "https://e.snmc.io/i/600/s/ff86aabba47ad12d4937aa944a838a63/4686099/Martinho%20da%20Vila%20-%204_5%20Atual%2C%20Cover%20art.jpeg",
+    "rating": "3.30",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba de roda",
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "G.R.E.S. Portela",
+    "title": "10 anos de samba-enredo",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/g_r_e_s-portela/10-anos-de-samba-enredo",
+    "cover_url": "https://e.snmc.io/i/600/s/144d8114058389cbd59e2a314ebc772d/6984042/G_R_E_S_%20Portela%20-%2010%20anos%20de%20samba-enredo%2C%20Cover%20art.jpeg",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Samba-exaltação"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Vila Isabel",
+    "title": "Berço do samba",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/vila-isabel/berco-do-samba",
+    "cover_url": "https://e.snmc.io/i/600/s/dd98eb5cc5068967bf637823d3a660b0/8714615/Vila%20Isabel%20-%20Ber%C3%A7o%20do%20samba%2C%20Cover%20art.jpeg",
+    "rating": "4.27",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Marçal",
+    "title": "Sambas-enredo de todos os tempos",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/marcal/sambas-enredo-de-todos-os-tempos",
+    "cover_url": "https://e.snmc.io/i/600/s/3f060f45550c58b7e3247fe2f358fd28/6598209/Mar%C3%A7al%20-%20Sambas-enredo%20de%20todos%20os%20tempos%2C%20Cover%20art.jpeg",
+    "rating": "4.27",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "G.R.E.S. Imperatriz Leopoldinense",
+    "title": "Os sambas da Imperatriz Leopoldinense",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/g_r_e_s-imperatriz-leopoldinense/os-sambas-da-imperatriz-leopoldinense",
+    "cover_url": "https://e.snmc.io/i/600/s/edd5e415b6b8bb6e91096ae9a8f54299/10334252/G_R_E_S_%20Imperatriz%20Leopoldinense%20-%20Os%20sambas%20da%20Imperatriz%20Leopoldinense%2C%20Cover%20art.jpeg",
+    "rating": "4.23",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Samba-exaltação"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Escola de Samba Portela",
+    "title": "Bateria fantástica da Portela",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/escola-de-samba-portela/bateria-fantastica-da-portela",
+    "cover_url": "https://e.snmc.io/i/600/s/3b48ce1c6bd508d2f02561946bbdcd16/10258833/Escola%20de%20Samba%20Portela%20-%20Bateria%20fant%C3%A1stica%20da%20Portela%2C%20Cover%20art.jpeg",
+    "rating": "3.17",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Batucada"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Escola de Samba Portela",
+    "title": "Escola de samba Portela",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/escola-de-samba-portela/escola-de-samba-portela-1",
+    "cover_url": "",
+    "rating": "4.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Samba de terreiro"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Sapoty da Mangueira",
+    "title": "Nega Atrevida",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sapoty-da-mangueira/nega-atrevida",
+    "cover_url": "https://e.snmc.io/i/600/s/a4f41c97940df979a5b8e8701113efed/2025281/Sapoty%20da%20Mangueira%20-%20Nega%20Atrevida%2C%20Cover%20art.jpeg",
+    "rating": "3.07",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Martinho da Vila",
+    "title": "Conexões",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/martinho-da-vila/conexoes",
+    "cover_url": "https://e.snmc.io/i/600/s/66cb8006b2df47c1e6f766cedc3345da/1539491/Martinho%20da%20Vila%20-%20Conex%C3%B5es%2C%20Cover%20art.jpeg",
+    "rating": "2.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba de roda",
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Martinho da Vila",
+    "title": "Escolas de Samba Enredo - Vila Isabel",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/martinho-da-vila/escolas-de-samba-enredo-vila-isabel",
+    "cover_url": "https://e.snmc.io/i/600/s/3c9b6130619104b7a6cc87d75f2e1dd2/1539472/Martinho%20da%20Vila%20-%20Escolas%20de%20Samba%20Enredo%20-%20Vila%20Isabel%2C%20Cover%20art.jpeg",
+    "rating": "3.27",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Estação Primeira de Mangueira",
+    "title": "Mangueira ao vivo - Mangueira escolhe o Samba-Enredo de 1968",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/estacao-primeira-de-mangueira/mangueira-ao-vivo-mangueira-escolhe-o-samba-enredo-de-1968",
+    "cover_url": "https://e.snmc.io/i/600/s/af39051503b7239f551b4bf2d97bead7/11269962/Esta%C3%A7%C3%A3o%20Primeira%20de%20Mangueira%20-%20Mangueira%20ao%20vivo%20-%20Mangueira%20escolhe%20o%20Samba-Enredo%20de%201968%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Samba de terreiro"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Escola de Samba Portela",
+    "title": "Escolas de samba-enredos - Portela",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/escola-de-samba-portela/escolas-de-samba-enredos-portela",
+    "cover_url": "",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Grêmio Recreativo Escola de Samba União da Ilha do Governador",
+    "title": "O samba que vem da Ilha",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gremio-recreativo-escola-de-samba-uniao-da-ilha-do-governador/o-samba-que-vem-da-ilha",
+    "cover_url": "https://e.snmc.io/i/600/s/23c5249df566f56eea302d212779c907/11269859/Gr%C3%AAmio%20Recreativo%20Escola%20de%20Samba%20Uni%C3%A3o%20da%20Ilha%20do%20Governador%20-%20O%20samba%20que%20vem%20da%20Ilha%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo",
+      "Samba de terreiro"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "G.R.E.S. Unidos de Vila Isabel",
+    "title": "10 anos de samba-enredo",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/g_r_e_s-unidos-de-vila-isabel/10-anos-de-samba-enredo",
+    "cover_url": "https://e.snmc.io/i/600/s/c83c8c7c667287d6bf28e74cc20141b1/11785345/G_R_E_S_%20Unidos%20de%20Vila%20Isabel%20-%2010%20anos%20de%20samba-enredo%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Dudu Nobre",
+    "title": "Os Mais Belos Sambas-Enredo de Todos os Tempos",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dudu-nobre/os-mais-belos-sambas-enredo-de-todos-os-tempos",
+    "cover_url": "https://e.snmc.io/i/600/s/ed851de16e47b0a4afb3364dc7e5abcc/1869435/Dudu%20Nobre%20-%20Os%20Mais%20Belos%20Sambas-Enredo%20de%20Todos%20os%20Tempos%2C%20Cover%20art.jpeg",
+    "rating": "1.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba-enredo"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "GRES Mocidade Independente de Padre Miguel",
+    "title": "Bateria Nota 10 Vol. 4",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/gres-mocidade-independente-de-padre-miguel/bateria-nota-10-vol-4",
+    "cover_url": "https://e.snmc.io/i/600/s/7124054100a3c896602cbd31fd0cd419/7388620/GRES%20Mocidade%20Independente%20de%20Padre%20Miguel%20-%20Bateria%20Nota%2010%20Vol_%204%2C%20Cover%20art.png",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Batucada",
+      "Samba-enredo"
+    ]
+  }
+]

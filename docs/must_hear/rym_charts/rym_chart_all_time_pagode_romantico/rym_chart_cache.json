@@ -1,0 +1,748 @@
+[
+  {
+    "number": 1,
+    "artist": "Índio da Cuíca",
+    "title": "Zing zing",
+    "year": 2026,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/indio-da-cuica/zing-zing",
+    "cover_url": "https://e.snmc.io/i/600/s/9a7d039d30991387656425641565ec55/14954032/%C3%8Dndio%20da%20Cu%C3%ADca%20-%20Zing%20zing%2C%20Cover%20art.png",
+    "rating": "3.56",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Afoxé",
+      "Pagode"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Lencinho",
+    "title": "Só as melhores",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lencinho/so-as-melhores",
+    "cover_url": "https://e.snmc.io/i/600/s/883e1cd41e4e30d9ac652334e66b1982/11712783/Lencinho%20-%20S%C3%B3%20as%20melhores%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Samba-rock",
+      "Noise Pop",
+      "Alternative Rock"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Alcione",
+    "title": "A paixão tem memória",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/a-paixao-tem-memoria",
+    "cover_url": "https://e.snmc.io/i/600/s/2e0f3d24aabaabc55850149cf5653a22/8149976/Alcione%20-%20A%20paix%C3%A3o%20tem%20mem%C3%B3ria%2C%20Cover%20art.png",
+    "rating": "3.94",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Xote",
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Ludmilla",
+    "title": "Numanice #2",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ludmilla/numanice-2",
+    "cover_url": "https://e.snmc.io/i/600/s/3d83a686c56259f3205fb939f95574a8/9662222/Ludmilla%20-%20Numanice%20%232%2C%20Cover%20art.jpeg",
+    "rating": "3.09",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Contemporary R&B"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Soweto",
+    "title": "Farol das estrelas",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/soweto/farol-das-estrelas",
+    "cover_url": "https://e.snmc.io/i/600/s/d98713539c57a25b72c7ee3b4b9a458e/10503741/Soweto%20-%20Farol%20das%20estrelas%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Belo",
+    "title": "Desafio",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/belo/desafio",
+    "cover_url": "https://e.snmc.io/i/600/s/778c051748a5a289cf5f6174212b640c/3590793/Belo%20-%20Desafio%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Contemporary R&B",
+      "Adult Contemporary"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Raça Negra",
+    "title": "Raça Negra Vol. 3",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/raca-negra/raca-negra-vol-3",
+    "cover_url": "https://e.snmc.io/i/600/s/46e147ee81695868b5e473dbc124c1d2/5868873/Ra%C3%A7a%20Negra%20-%20Ra%C3%A7a%20Negra%20Vol_%203%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Exaltasamba",
+    "title": "Luz do desejo",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/exaltasamba/luz-do-desejo",
+    "cover_url": "https://e.snmc.io/i/600/s/a568629b4a88d603a1d06277858b0d93/3590028/Exaltasamba%20-%20Luz%20do%20desejo%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "SPC",
+    "title": "Só pra Contrariar",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/spc/so-pra-contrariar",
+    "cover_url": "https://e.snmc.io/i/600/s/1bd756f350bb25fdbc4aab739e9b093b/2682669/SPC%20-%20S%C3%B3%20pra%20Contrariar%2C%20Cover%20art.jpeg",
+    "rating": "3.09",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Salsa romántica",
+      "Samba-canção"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Soweto",
+    "title": "Refém do coração",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/soweto/refem-do-coracao",
+    "cover_url": "https://e.snmc.io/i/600/s/7c0312dd081fed486ee9f554623edd3a/6042979/Soweto%20-%20Ref%C3%A9m%20do%20cora%C3%A7%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Raça Negra",
+    "title": "Raça Negra Vol. 1",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/raca-negra/raca-negra-vol-1",
+    "cover_url": "https://e.snmc.io/i/600/s/eff9e04fac9f9996544175d8904281e4/3593924/Ra%C3%A7a%20Negra%20-%20Ra%C3%A7a%20Negra%20Vol_%201%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Samba Soul"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Péricles",
+    "title": "Nos Arcos da Lapa",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pericles_f2/nos_arcos_da_lapa",
+    "cover_url": "https://e.snmc.io/i/600/s/b391315720c054732851f6445cc7a416/5159470/P%C3%A9ricles%20-%20Nos%20Arcos%20da%20Lapa%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Art Popular",
+    "title": "Temporal",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/art_popular/temporal",
+    "cover_url": "https://e.snmc.io/i/600/s/9640c6bddf2e162a2a9d324e3bd47e09/5701522/Art%20Popular%20-%20Temporal%2C%20Cover%20art.jpeg",
+    "rating": "3.08",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode",
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Só pra Contrariar",
+    "title": "Só pra Contrariar",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/so-pra-contrariar/so-pra-contrariar",
+    "cover_url": "https://e.snmc.io/i/600/s/792806d1edb8e636d197241208c517c7/4417632/S%C3%B3%20pra%20Contrariar%20-%20S%C3%B3%20pra%20Contrariar%2C%20Cover%20art.jpeg",
+    "rating": "3.15",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Exaltasamba",
+    "title": "Cartão Postal",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/exaltasamba/cartao_postal",
+    "cover_url": "https://e.snmc.io/i/600/s/7aa8231512c522757b61fd705e4d2813/3590033/Exaltasamba%20-%20Cart%C3%A3o%20Postal%2C%20Cover%20art.jpeg",
+    "rating": "3.23",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Só pra Contrariar",
+    "title": "Só Pra Contrariar",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/so-pra-contrariar/so-pra-contrariar-6",
+    "cover_url": "https://e.snmc.io/i/600/s/255ee0421794893d2c5293eeec6e356a/7225229/S%C3%B3%20pra%20Contrariar%20-%20S%C3%B3%20Pra%20Contrariar%2C%20Cover%20art.jpeg",
+    "rating": "2.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Alcione",
+    "title": "Uma nova paixão",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/uma-nova-paixao",
+    "cover_url": "https://e.snmc.io/i/600/s/c33890962a85922a201667711e6098e7/3564463/Alcione%20-%20Uma%20nova%20paix%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.74",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Samba",
+      "Pagode romântico",
+      "Samba de roda",
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Raça Negra",
+    "title": "Raça Negra Vol. 2",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/raca-negra/raca-negra-vol-2",
+    "cover_url": "https://e.snmc.io/i/600/s/c86ab2f54cbb36a4dd9beff6733d2610/8388039/Ra%C3%A7a%20Negra%20-%20Ra%C3%A7a%20Negra%20Vol_%202%2C%20Cover%20art.jpeg",
+    "rating": "3.15",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Raça Negra",
+    "title": "Raça Negra Vol. 6",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/raca-negra/raca-negra-vol-6",
+    "cover_url": "https://e.snmc.io/i/600/s/0ebe5b5f714fc0ef769ca388493c4344/3593967/Ra%C3%A7a%20Negra%20-%20Ra%C3%A7a%20Negra%20Vol_%206%2C%20Cover%20art.jpeg",
+    "rating": "3.30",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Grupo Katinguelê",
+    "title": "No compasso do criador",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-katinguele/no-compasso-do-criador",
+    "cover_url": "https://e.snmc.io/i/600/s/27bff0da3b932e945b706fab13e4a816/3589978/Grupo%20Katinguel%C3%AA%20-%20No%20compasso%20do%20criador%2C%20Cover%20art.jpeg",
+    "rating": "3.35",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Raça Negra",
+    "title": "Raça Negra Vol. 4",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/raca-negra/raca-negra-vol-4",
+    "cover_url": "https://e.snmc.io/i/600/s/50c32dda5e12ac346532db6aaf88d872/2609129/Ra%C3%A7a%20Negra%20-%20Ra%C3%A7a%20Negra%20Vol_%204%2C%20Cover%20art.jpeg",
+    "rating": "2.90",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Belo",
+    "title": "Primavera",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/belo/primavera",
+    "cover_url": "https://e.snmc.io/i/600/s/2d1a35f39f2122b9c41bb56716dc9440/4673572/Belo%20-%20Primavera%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Péricles",
+    "title": "Feito pra Durar",
+    "year": 2015,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pericles_f2/feito_pra_durar",
+    "cover_url": "https://e.snmc.io/i/600/s/39efcf30825f9b3527bb8b951b3e3649/6010598/P%C3%A9ricles%20-%20Feito%20pra%20Durar%2C%20Cover%20art.jpeg",
+    "rating": "3.93",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Mumuzinho",
+    "title": "Dom de Sonhar",
+    "year": 2012,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mumuzinho/dom-de-sonhar",
+    "cover_url": "https://e.snmc.io/i/600/s/7bf82533c8f87a1620654baa2c4b4eb0/10356935/Mumuzinho%20-%20Dom%20de%20Sonhar%2C%20Cover%20art.jpeg",
+    "rating": "4.12",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Samba"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Só pra Contrariar",
+    "title": "O samba não tem fronteiras",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/so-pra-contrariar/o-samba-nao-tem-fronteiras",
+    "cover_url": "https://e.snmc.io/i/600/s/654e705869f06622c1015caa8764ef71/5347993/S%C3%B3%20pra%20Contrariar%20-%20O%20samba%20n%C3%A3o%20tem%20fronteiras%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Alcione",
+    "title": "Celebração",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/celebracao",
+    "cover_url": "https://e.snmc.io/i/600/s/bf1d76db9ff4786bd7762e4279b280a9/3564459/Alcione%20-%20Celebra%C3%A7%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.98",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Katinguelê",
+    "title": "Na área",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/katinguele/na-area",
+    "cover_url": "https://e.snmc.io/i/600/s/d100741ec7822f93be3ba34dab73ead6/3589984/Katinguel%C3%AA%20-%20Na%20%C3%A1rea%2C%20Cover%20art.jpeg",
+    "rating": "3.68",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Partido alto",
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Sorriso Maroto",
+    "title": "Sinais",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sorriso-maroto/sinais",
+    "cover_url": "https://e.snmc.io/i/600/s/dc014c0f8b82db5e44966fb432fa40d5/9802581/Sorriso%20Maroto%20-%20Sinais%2C%20Cover%20art.jpeg",
+    "rating": "3.04",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Samba-joia"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Péricles",
+    "title": "Em sua direção",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pericles/em-sua-direcao",
+    "cover_url": "https://e.snmc.io/i/600/s/8dd1125e7b5762cdd4bed3e6c540af4f/9143838/P%C3%A9ricles%20-%20Em%20sua%20dire%C3%A7%C3%A3o%2C%20Cover%20art.jpeg",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Ferrugem",
+    "title": "Interessante",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ferrugem/interessante",
+    "cover_url": "https://e.snmc.io/i/600/s/cac76d080538fb447cd7dc95cd8cd869/11219894/Ferrugem%20-%20Interessante%2C%20Cover%20art.jpeg",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Belo",
+    "title": "Pra ser amor",
+    "year": 2010,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/belo/pra-ser-amor",
+    "cover_url": "https://e.snmc.io/i/600/s/30f5cdf86aac2584315876cc6ac3563a/4666271/Belo%20-%20Pra%20ser%20amor%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Alcione",
+    "title": "Tijolo por tijolo",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/tijolo-por-tijolo",
+    "cover_url": "https://e.snmc.io/i/600/s/fed0dfc975d2998b72caba81a37b1012/8227285/Alcione%20-%20Tijolo%20por%20tijolo%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Belo",
+    "title": "Valeu esperar",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/belo/valeu-esperar",
+    "cover_url": "https://e.snmc.io/i/600/s/5b26b902d6284ac3194c2c20e1cb0e4f/3590798/Belo%20-%20Valeu%20esperar%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Alcione",
+    "title": "Faz uma loucura por mim",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/faz-uma-loucura-por-mim",
+    "cover_url": "https://e.snmc.io/i/600/s/6133ff6c92f830a27440b4f6acf0d865/13921247/Alcione%20-%20Faz%20uma%20loucura%20por%20mim%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico",
+      "Samba-joia",
+      "Xote",
+      "Adult Contemporary"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Belo",
+    "title": "Belo",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/belo/belo",
+    "cover_url": "https://e.snmc.io/i/600/s/6520e5355b82cdb6427d701d952fbf70/3590817/Belo%20-%20Belo%2C%20Cover%20art.jpeg",
+    "rating": "3.13",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Raça Negra",
+    "title": "Raça Negra Vol. 5",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/raca-negra/raca-negra-vol-5",
+    "cover_url": "https://e.snmc.io/i/600/s/c9c5fbad68c34358f1a3dc152b537945/3593962/Ra%C3%A7a%20Negra%20-%20Ra%C3%A7a%20Negra%20Vol_%205%2C%20Cover%20art.jpeg",
+    "rating": "3.10",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Belo",
+    "title": "Seu fã",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/belo/seu-fa",
+    "cover_url": "https://e.snmc.io/i/600/s/714fdf3f24a6d53f13ff021e45888716/3590809/Belo%20-%20Seu%20f%C3%A3%2C%20Cover%20art.jpeg",
+    "rating": "3.22",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Raça Negra",
+    "title": "Raça Negra Vol. 7",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/raca-negra/raca-negra-vol-7",
+    "cover_url": "https://e.snmc.io/i/600/s/432a83367e4715c367a0614bcff5c65d/3593977/Ra%C3%A7a%20Negra%20-%20Ra%C3%A7a%20Negra%20Vol_%207%2C%20Cover%20art.jpeg",
+    "rating": "3.23",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Alcione",
+    "title": "Alcione",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alcione/alcione-1",
+    "cover_url": "https://e.snmc.io/i/600/s/4eccbd5d8fc22741a24ef4162045c763/13331249/Alcione%20-%20Alcione%2C%20Cover%20art.jpeg",
+    "rating": "2.91",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Péricles",
+    "title": "Tô achando que é amor",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pericles/to-achando-que-e-amor",
+    "cover_url": "https://e.snmc.io/i/600/s/2581f8cd1b0a2840ffc886c8d6053eda/9143835/P%C3%A9ricles%20-%20T%C3%B4%20achando%20que%20%C3%A9%20amor%2C%20Cover%20art.jpeg",
+    "rating": "3.35",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Pagode romântico"
+    ]
+  }
+]

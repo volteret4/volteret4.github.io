@@ -1,0 +1,63 @@
+[
+  {
+    "number": 1,
+    "artist": "DJ Ramon Sucesso",
+    "title": "Sexta dos crias",
+    "year": 2023,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-ramon-sucesso/sexta-dos-crias",
+    "cover_url": "https://e.snmc.io/i/600/s/00ea0bfb7e1919cb21a96bdec09635e2/11503542/DJ%20Ramon%20Sucesso%20-%20Sexta%20dos%20crias%2C%20Cover%20art.jpeg",
+    "rating": "3.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm",
+      "Beat bolha",
+      "Plunderphonics"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "DJ Ramon Sucesso",
+    "title": "Sexta dos crias, vol. 1",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/dj-ramon-sucesso/sexta-dos-crias-vol-1",
+    "cover_url": "https://e.snmc.io/i/600/s/3491e9290243b6476c7d27271efc78a8/12990912/DJ%20Ramon%20Sucesso%20-%20Sexta%20dos%20crias%2C%20vol_%201%2C%20Cover%20art.jpeg",
+    "rating": "2.76",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk 150 bpm",
+      "Funk carioca",
+      "Beat bolha",
+      "Beat bolha"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "MC Marlon PH",
+    "title": "Album da maquina",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mc-marlon-ph/album-da-maquina",
+    "cover_url": "https://e.snmc.io/i/600/s/70fa3d601c3793d2f0a2e861ae3dba6b/12572770/MC%20Marlon%20PH%20-%20Album%20da%20maquina%2C%20Cover%20art.jpeg",
+    "rating": "2.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Funk de BH",
+      "Beat bolha",
+      "Funk proibidão"
+    ]
+  }
+]

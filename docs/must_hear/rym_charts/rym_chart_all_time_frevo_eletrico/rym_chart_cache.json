@@ -1,0 +1,80 @@
+[
+  {
+    "number": 1,
+    "artist": "Amilcare Ponchielli /",
+    "title": "Jubileu de prata",
+    "year": 1975,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/trio-eletrico-dodo-e-osmar/jubileu-de-prata",
+    "cover_url": "https://e.snmc.io/i/600/s/d699d7d174d8fad06c6dfd9e4bc16bc5/10481858/Trio%20El%C3%A9trico%20Dod%C3%B4%20e%20Osmar%20-%20Jubileu%20de%20prata%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo elétrico",
+      "Romanticism"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Robertinho de Recife",
+    "title": "Robertinho no passo",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/robertinho-de-recife/robertinho-no-passo",
+    "cover_url": "https://e.snmc.io/i/600/s/24d91bad95abd554395d628f6839fc4b/1797426/Robertinho%20de%20Recife%20-%20Robertinho%20no%20passo%2C%20Cover%20art.jpeg",
+    "rating": "2.95",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Jazz Fusion",
+      "Frevo elétrico",
+      "Udigrudi"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Armandinho &",
+    "title": "A banda da Carmen Miranda",
+    "year": 1984,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/armandinho-trio-eletrico-dodo-e-osmar/a-banda-da-carmen-miranda",
+    "cover_url": "https://e.snmc.io/i/600/s/7b4042cd0586fdbadd1334089a6d0d4e/6699198/Armandinho%20%26%20Trio%20El%C3%A9trico%20Dod%C3%B4%20e%20Osmar%20-%20A%20banda%20da%20Carmen%20Miranda%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo",
+      "Frevo elétrico",
+      "Samba",
+      "Disco"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Trio Elétrico Tapajós",
+    "title": "Trio Elétrico Tapajós",
+    "year": 1969,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/trio-eletrico-tapajos/trio-eletrico-tapajos",
+    "cover_url": "https://e.snmc.io/i/600/s/c59566eee5c7005dce2b7a25eec19847/6369649/Trio%20El%C3%A9trico%20Tapaj%C3%B3s%20-%20Trio%20El%C3%A9trico%20Tapaj%C3%B3s%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Frevo elétrico"
+    ]
+  }
+]

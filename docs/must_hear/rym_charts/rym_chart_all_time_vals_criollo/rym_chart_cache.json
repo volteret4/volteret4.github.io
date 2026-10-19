@@ -1,0 +1,782 @@
+[
+  {
+    "number": 1,
+    "artist": "Susana Baca",
+    "title": "Susana Baca",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/susana-baca/susana-baca",
+    "cover_url": "https://e.snmc.io/i/600/s/a50fbe646750872381679cbd2f19ad33/1292899/Susana%20Baca%20-%20Susana%20Baca%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Música criolla peruana",
+      "Vals criollo",
+      "Festejo"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Lucha Reyes",
+    "title": "La Morena de Oro del Perú",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lucha-reyes/la-morena-de-oro-del-peru",
+    "cover_url": "https://e.snmc.io/i/600/s/3263bc5a7cce3619487ee8e590c91aa9/8235479/Lucha%20Reyes%20-%20La%20Morena%20de%20Oro%20del%20Per%C3%BA%2C%20Cover%20art.jpeg",
+    "rating": "3.81",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Marinera",
+      "Polka peruana"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Arturo \"Zambo\" Cavero",
+    "title": "Arturo \"Zambo\" Cavero",
+    "year": 1993,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/arturo-zambo-cavero/arturo-zambo-cavero",
+    "cover_url": "https://e.snmc.io/i/600/s/cc15004a4b80918bb38c818b3ca73b42/1932326/Arturo%20%22Zambo%22%20Cavero%20-%20Arturo%20%22Zambo%22%20Cavero%2C%20Cover%20art.jpeg",
+    "rating": "3.98",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Festejo"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Chabuca Granda &",
+    "title": "Dialogando...",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chabuca-granda-oscar-aviles/dialogando",
+    "cover_url": "https://e.snmc.io/i/600/s/44bb222d0d5fe0de77e8c7d8d7b9e364/3580958/Chabuca%20Granda%20%26%20%C3%93scar%20Avil%C3%A9s%20-%20Dialogando___%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Música criolla peruana",
+      "Marinera",
+      "Tondero"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "El Cholo Berrocal",
+    "title": "Payaso",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/el-cholo-berrocal/payaso",
+    "cover_url": "https://e.snmc.io/i/600/s/e72b1f9d638d1bcf972545e52f2c4285/12247236/El%20Cholo%20Berrocal%20-%20Payaso%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Marinera"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Susana Baca",
+    "title": "Poesía y canto negro",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/susana-baca/poesia-y-canto-negro",
+    "cover_url": "https://e.snmc.io/i/600/s/8017568b0e853389523492fe9781ff0b/13228110/Susana%20Baca%20-%20Poes%C3%ADa%20y%20canto%20negro%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Música criolla peruana",
+      "Vals criollo",
+      "Singer-Songwriter"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Lucho Barrios",
+    "title": "Marabú",
+    "year": 1957,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lucho-barrios/marabu",
+    "cover_url": "https://e.snmc.io/i/600/s/1b0cfd7ef1a7337ccf01ef7875845513/12109408/Lucho%20Barrios%20-%20Marab%C3%BA%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Bolero",
+      "Huayno",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Luis Abanto Morales",
+    "title": "Cholo soy... y no me compadezcas",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/luis-abanto-morales/cholo-soy-y-no-me-compadezcas",
+    "cover_url": "https://e.snmc.io/i/600/s/6bc2acf2132cff003d5f95ab6e6b17dc/12836427/Luis%20Abanto%20Morales%20-%20Cholo%20soy___%20y%20no%20me%20compadezcas%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Huayno",
+      "Marinera"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Los Morochucos",
+    "title": "Antologia del vals peruano",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-morochucos/antologia-del-vals-peruano",
+    "cover_url": "https://e.snmc.io/i/600/s/3aa6e18b7b026d68892fb7ccd5c4aab2/12467794/Los%20Morochucos%20-%20Antologia%20del%20vals%20peruano%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Óscar Avilés,",
+    "title": "¡¡¡Que tal...trio!!!",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/oscar-lucila-arturo/_que-tal_trio",
+    "cover_url": "https://e.snmc.io/i/600/s/8c28d20f881d6008d427240caee98976/5872641/%C3%93scar%2C%20Lucila%2C%20Arturo%20-%20%C2%A1%C2%A1%C2%A1Que%20tal___trio!!!%2C%20Cover%20art.png",
+    "rating": "3.51",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Festejo",
+      "Marinera"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Los Hermanos Zañartu &",
+    "title": "4 Voces - Un estilo",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/hmnos-zanartu-and-oscar-aviles/4-voces-un-estilo",
+    "cover_url": "https://e.snmc.io/i/600/s/8670237fa066b00648346de40c3d54a3/5696640/Hmnos_%20Za%C3%B1artu%20%26%20%C3%93scar%20Avil%C3%A9s%20-%204%20Voces%20-%20Un%20estilo%2C%20Cover%20art.png",
+    "rating": "3.98",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Música criolla peruana",
+      "Vals criollo",
+      "Marinera",
+      "Marinera norteña"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Carlos Hayre &",
+    "title": "Alicia Maguiña y Carlos Hayre",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/carlos-hayre-alicia-maguina/alicia-maguina-y-carlos-hayre",
+    "cover_url": "https://e.snmc.io/i/600/s/f597cfdc68e6eb0581bc6d1dd025a0aa/12109342/Carlos%20Hayre%20%26%20Alicia%20Magui%C3%B1a%20-%20Alicia%20Magui%C3%B1a%20y%20Carlos%20Hayre%2C%20Cover%20art.jpeg",
+    "rating": "4.10",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Música criolla peruana",
+      "Vals criollo",
+      "Tondero",
+      "Bossa nova"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Los Trovadores del Norte",
+    "title": "Viva el tondero",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-trovadores-del-norte/viva-el-tondero-1",
+    "cover_url": "https://e.snmc.io/i/600/s/36653e3b7b517eb0f5a696a2169a2194/5707666/Los%20Trovadores%20del%20Norte%20-%20Viva%20el%20tondero%2C%20Cover%20art.png",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Tondero",
+      "Música criolla peruana",
+      "Vals criollo",
+      "Tondero",
+      "Marinera"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Victoria Santa Cruz",
+    "title": "...Con Victoria Santa Cruz",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/victoria-santa-cruz/_con-victoria-santa-cruz",
+    "cover_url": "https://e.snmc.io/i/600/s/dbdd9ca90d7c856c41b5fada45a9cc73/9650627/Victoria%20Santa%20Cruz%20-%20___Con%20Victoria%20Santa%20Cruz%2C%20Cover%20art.jpeg",
+    "rating": "3.63",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zamacueca",
+      "Vals criollo",
+      "Festejo",
+      "Marinera"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Los Kipus",
+    "title": "Carmen, Paco y Genaro",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-kipus/carmen-paco-y-genaro",
+    "cover_url": "https://e.snmc.io/i/600/s/967776ab51d23781158d6d3f8c30f6ec/12109286/Los%20Kipus%20-%20Carmen%2C%20Paco%20y%20Genaro%2C%20Cover%20art.jpeg",
+    "rating": "3.52",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Lucila Campos &",
+    "title": "Valseando festejos",
+    "year": 1982,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lucila-campos-oscar-aviles/valseando-festejos",
+    "cover_url": "https://e.snmc.io/i/600/s/8468a34b1ffbabf2878a722f9e62c1a9/6791764/Lucila%20Campos%20%26%20%C3%93scar%20Avil%C3%A9s%20-%20Valseando%20festejos%2C%20Cover%20art.jpeg",
+    "rating": "4.04",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Música criolla peruana",
+      "Vals criollo",
+      "Festejo",
+      "Festejo"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Lucha Reyes",
+    "title": "Una carta al cielo",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lucha-reyes/una-carta-al-cielo",
+    "cover_url": "https://e.snmc.io/i/600/s/c89e5d7cc3abe1a81d9dea69cbd0a0fd/6727313/Lucha%20Reyes%20-%20Una%20carta%20al%20cielo%2C%20Cover%20art.jpeg",
+    "rating": "3.97",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Marinera"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "\"Zambo\" Cavero y Oscar Avilés",
+    "title": "\"Zambo\" Cavero - Óscar Avilés",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/zambo-cavero-y-oscar-aviles/zambo-cavero-oscar-aviles",
+    "cover_url": "https://e.snmc.io/i/600/s/d0eaa114732b65970197951726dda1cb/12767216/%22Zambo%22%20Cavero%20y%20Oscar%20Avil%C3%A9s%20-%20%22Zambo%22%20Cavero%20-%20%C3%93scar%20Avil%C3%A9s%2C%20Cover%20art.png",
+    "rating": "4.08",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Música criolla peruana"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Augusto Polo Campos",
+    "title": "El grande del criollismo",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/augusto-polo-campos/el-grande-del-criollismo",
+    "cover_url": "https://e.snmc.io/i/600/s/8812831bb15498f4a3ca82b37487d9ee/10380480/Augusto%20Polo%20Campos%20-%20El%20grande%20del%20criollismo%2C%20Cover%20art.jpeg",
+    "rating": "3.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Música criolla peruana",
+      "Spoken Word",
+      "Vals criollo",
+      "Poetry",
+      "Marinera"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Lucia de la Cruz",
+    "title": "«Vieja limeña»",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lucia-de-la-cruz/_vieja-limena",
+    "cover_url": "https://e.snmc.io/i/600/s/c876228dafdeef9c303c8904192bbced/12269144/Lucia%20de%20la%20Cruz%20-%20%C2%ABVieja%20lime%C3%B1a%C2%BB%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Lucha Reyes",
+    "title": "Mi última canción",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lucha-reyes/mi-ultima-cancion",
+    "cover_url": "https://e.snmc.io/i/600/s/1bbc801fe6f2d6bfa17ea3fec195722d/6741330/Lucha%20Reyes%20-%20Mi%20%C3%BAltima%20canci%C3%B3n%2C%20Cover%20art.jpeg",
+    "rating": "4.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Marinera",
+      "Polka peruana"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Los Kipus",
+    "title": "Cantan Los Kipus",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-kipus/cantan-los-kipus",
+    "cover_url": "https://e.snmc.io/i/600/s/862450f414cd5827ee3c6e850dc3f64d/6838395/Los%20Kipus%20-%20Cantan%20Los%20Kipus%2C%20Cover%20art.jpeg",
+    "rating": "3.41",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Huayno",
+      "Marinera"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Los Chamas",
+    "title": "Noche limeña",
+    "year": 1957,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-chamas/noche-limena",
+    "cover_url": "https://e.snmc.io/i/600/s/9cf533b00269a326cd419eec91de1e9d/6976999/Los%20Chamas%20-%20Noche%20lime%C3%B1a%2C%20Cover%20art.jpeg",
+    "rating": "3.47",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Marinera",
+      "Vals criollo"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Los Troveros Criollos",
+    "title": "Vuelven",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-troveros-criollos/vuelven",
+    "cover_url": "https://e.snmc.io/i/600/s/5fb473f5edf7505af5d593fcbc5842d8/5687934/Los%20Troveros%20Criollos%20-%20Vuelven%2C%20Cover%20art.jpeg",
+    "rating": "3.46",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Polka peruana",
+      "Polka"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Chabuca Granda",
+    "title": "Voz y vena de Chabuca Granda",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/chabuca-granda/voz-y-vena-de-chabuca-granda",
+    "cover_url": "https://e.snmc.io/i/600/s/40ac175a9ae4bbfa1a3fb4d0cb0852bf/12245262/Chabuca%20Granda%20-%20Voz%20y%20vena%20de%20Chabuca%20Granda%2C%20Cover%20art.jpeg",
+    "rating": "3.24",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Música criolla peruana",
+      "Tondero"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Pamela Rodríguez",
+    "title": "Peru Blue",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pamela-rodriguez/peru-blue",
+    "cover_url": "https://e.snmc.io/i/600/s/1f5b84e86ce37eb5a5dfee921c417a0e/3878080/Pamela%20Rodr%C3%ADguez%20-%20Peru%20Blue%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Sophisti-Pop",
+      "Música criolla peruana",
+      "Vals criollo",
+      "Dream Pop"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Carmencita Lara",
+    "title": "Carmencita Lara y Víctor Lara",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/carmencita-lara/carmencita-lara-y-victor-lara",
+    "cover_url": "https://e.snmc.io/i/600/s/c791df5a3fc17b9a6c6e9a9b1e718c7f/11173633/Carmencita%20Lara%20-%20Carmencita%20Lara%20y%20V%C3%ADctor%20Lara%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Marinera norteña",
+      "Marinera"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Los Embajadores Criollos",
+    "title": "Cofre de recuerdos",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-embajadores-criollos/cofre-de-recuerdos",
+    "cover_url": "https://e.snmc.io/i/600/s/994ef5f9ac3a65d1e42085b617947dda/12956496/Los%20Embajadores%20Criollos%20-%20Cofre%20de%20recuerdos%2C%20Cover%20art.jpeg",
+    "rating": "3.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Música criolla peruana",
+      "Vals criollo"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Los Kipus &",
+    "title": "Los Kipus con Eva",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-kipus-eva-ayllon/los-kipus-con-eva",
+    "cover_url": "https://e.snmc.io/i/600/s/d25d33e5570aa86c313e4ce90da75c43/6839932/Los%20Kipus%20%26%20Eva%20Ayll%C3%B3n%20-%20Los%20Kipus%20con%20Eva%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Cecilia Barraza",
+    "title": "Cecilia Barraza: Vol. II",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cecilia-barraza/cecilia-barraza-vol-ii",
+    "cover_url": "https://e.snmc.io/i/600/s/767c2fc45a1396847d156d98a2555383/6837806/Cecilia%20Barraza%20-%20Cecilia%20Barraza%3A%20Vol_%20II%2C%20Cover%20art.jpeg",
+    "rating": "4.16",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Música criolla peruana",
+      "Vals criollo",
+      "Tondero",
+      "Festejo"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Mario Cavagnaro &",
+    "title": "Mario Cavagnaro con Los Troveros Criollos",
+    "year": 1953,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mario-cavagnaro-los-troveros-criollos/mario-cavagnaro-con-los-troveros-criollos",
+    "cover_url": "https://e.snmc.io/i/600/s/bab90332f340b301011d71dc6e14376d/8755931/Mario%20Cavagnaro%20%26%20Los%20Troveros%20Criollos%20-%20Mario%20Cavagnaro%20con%20Los%20Troveros%20Criollos%2C%20Cover%20art.jpeg",
+    "rating": "3.40",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Música criolla peruana",
+      "Vals criollo",
+      "Polka peruana",
+      "Vals criollo"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Carmencita Lara",
+    "title": "Aromas criollos",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/carmencita-lara/aromas-criollos",
+    "cover_url": "https://e.snmc.io/i/600/s/f2f151ba0a91894f8741f34c438a8d84/12202598/Carmencita%20Lara%20-%20Aromas%20criollos%2C%20Cover%20art.jpeg",
+    "rating": "3.53",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Marinera",
+      "Polka peruana"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Eloísa Angulo",
+    "title": "La de siempre",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/eloisa-angulo/la-de-siempre",
+    "cover_url": "https://e.snmc.io/i/600/s/ed19d7eb8b92dcebfef812b46a78e901/6837466/Elo%C3%ADsa%20Angulo%20-%20La%20de%20siempre%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Música criolla peruana",
+      "Vals criollo",
+      "Marinera",
+      "Standards"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Óscar Avilés &",
+    "title": "Oscar Aviles y Su Conjunto Fiesta Criolla",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/oscar-aviles-conjunto-fiesta-criolla/oscar-aviles-y-su-conjunto-fiesta-criolla",
+    "cover_url": "https://e.snmc.io/i/600/s/7ca976017dcbdd7ac32701ebd0a52971/6943697/%C3%93scar%20Avil%C3%A9s%20%26%20Conjunto%20Fiesta%20Criolla%20-%20Oscar%20Aviles%20y%20Su%20Conjunto%20Fiesta%20Criolla%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Música criolla peruana",
+      "Marinera",
+      "Tondero"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Los Trovadores del Perú",
+    "title": "Los Trovadores del Peru",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-trovadores-del-peru/los-trovadores-del-peru",
+    "cover_url": "https://e.snmc.io/i/600/s/bce50f46be1bda2e4d6a451f504fcf09/6943692/Los%20Trovadores%20del%20Per%C3%BA%20-%20Los%20Trovadores%20del%20Peru%2C%20Cover%20art.jpeg",
+    "rating": "3.79",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Standards",
+      "Marinera",
+      "Huayno"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Panchito Jiménez &",
+    "title": "...En fiesta criolla",
+    "year": null,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/pancho-jimenez-y-aviles/_en-fiesta-criolla",
+    "cover_url": "https://e.snmc.io/i/600/s/cbc3110a10218deb379859490a9a876e/5690265/Pancho%20Jim%C3%A9nez%20y%20Avil%C3%A9s%20-%20___En%20fiesta%20criolla%2C%20Cover%20art.png",
+    "rating": "3.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo",
+      "Marinera",
+      "Polka"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Dúo Sisterna-Peralta",
+    "title": "Nuevamente",
+    "year": 1979,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/duo-sisterna-peralta/nuevamente",
+    "cover_url": "https://e.snmc.io/i/600/s/51af49bd7647d2d36c2b195927bbddbb/14344933/D%C3%BAo%20Sisterna-Peralta%20-%20Nuevamente%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Tonada chilena",
+      "Vals criollo",
+      "Cueca"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Los Embajadores Criollos",
+    "title": "De vuelta al barrio",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-embajadores-criollos/de-vuelta-al-barrio",
+    "cover_url": "https://e.snmc.io/i/600/s/2e00fe7d74d3b70f062488093d612831/5677341/Los%20Embajadores%20Criollos%20-%20De%20vuelta%20al%20barrio%2C%20Cover%20art.png",
+    "rating": "3.26",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Vals criollo"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Carmencita Lara",
+    "title": "Así es el norte",
+    "year": 1961,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/carmencita-lara/asi-es-el-norte",
+    "cover_url": "https://e.snmc.io/i/600/s/cdea05ce8b4d20e64387c346fc55d0e9/13107986/Carmencita%20Lara%20-%20As%C3%AD%20es%20el%20norte%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Marinera norteña",
+      "Vals criollo"
+    ]
+  }
+]

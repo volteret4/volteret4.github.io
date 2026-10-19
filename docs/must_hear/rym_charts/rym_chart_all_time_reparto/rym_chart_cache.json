@@ -1,0 +1,42 @@
+[
+  {
+    "number": 1,
+    "artist": "Wampi",
+    "title": "Wampi Hitz",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/wampi/wampi-hitz",
+    "cover_url": "https://e.snmc.io/i/600/s/485bad7be1f2106e196f11129d461e9a/12004085/Wampi%20-%20Wampi%20Hitz%2C%20Cover%20art.jpeg",
+    "rating": "2.69",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Reparto",
+      "Afrobeats",
+      "Contemporary R&B"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Wampi",
+    "title": "El rey de La Habana",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/wampi/el-rey-de-la-habana",
+    "cover_url": "https://e.snmc.io/i/600/s/453112fbec647ccf1858b03e5ec8c98b/13845788/Wampi%20-%20El%20rey%20de%20La%20Habana%2C%20Cover%20art.jpeg",
+    "rating": "2.60",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Reparto",
+      "Latin Pop",
+      "Afrobeats"
+    ]
+  }
+]

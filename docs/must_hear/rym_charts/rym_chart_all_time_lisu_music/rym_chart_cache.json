@@ -1,0 +1,41 @@
+[
+  {
+    "number": 1,
+    "artist": "Kink Gong",
+    "title": "The Lisu",
+    "year": 2014,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kink_gong/the_lisu",
+    "cover_url": "https://e.snmc.io/i/600/s/d347d37f90aa4b2ec5cb43f063f11c85/5407421/Kink%20Gong%20-%20The%20Lisu%2C%20Cover%20art.jpeg",
+    "rating": "3.49",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Field Recording",
+      "Sound Collage",
+      "Lisu Music"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "A Shi Cai\n阿石才",
+    "title": "Lìjiāng fēngbào\n丽江风暴",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/阿石才/丽江风暴",
+    "cover_url": "https://e.snmc.io/i/600/s/3abb13248d64671bd276db0434667db6/13588055/%E9%98%BF%E7%9F%B3%E6%89%8D%20%5BA%20Shi%20Cai%5D%20-%20%E4%B8%BD%E6%B1%9F%E9%A3%8E%E6%9A%B4%20%5BL%C3%ACji%C4%81ng%20f%C4%93ngb%C3%A0o%5D%2C%20Cover%20art.jpeg",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Electronic Dance Music",
+      "Lisu Music"
+    ]
+  }
+]

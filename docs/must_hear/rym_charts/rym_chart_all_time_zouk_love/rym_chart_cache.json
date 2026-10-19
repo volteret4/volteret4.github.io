@@ -1,0 +1,781 @@
+[
+  {
+    "number": 1,
+    "artist": "Mathey",
+    "title": "Clépo",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mathey/clepo",
+    "cover_url": "https://e.snmc.io/i/600/s/022a67bcd7fc55bbbf708cf75b2cfcbc/12067459/Mathey%20-%20Cl%C3%A9po%2C%20Cover%20art.jpeg",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love",
+      "Zouk",
+      "Coupé-décalé",
+      "Contemporary R&B"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Édith Lefel",
+    "title": "Rendez-vous",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/edith-lefel/rendez-vous",
+    "cover_url": "https://e.snmc.io/i/600/s/a723e658b66dee0db112d34b0ee113e4/1550398/%C3%89dith%20Lefel%20-%20Rendez-vous%2C%20Cover%20art.jpeg",
+    "rating": "2.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Fanny J",
+    "title": "Vous les hommes",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/fanny-j/vous-les-hommes",
+    "cover_url": "https://e.snmc.io/i/600/s/72196332fc75a624273ec78bf081e486/8142174/Fanny%20J%20-%20Vous%20les%20hommes%2C%20Cover%20art.jpeg",
+    "rating": "3.19",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love",
+      "Contemporary R&B",
+      "French Pop"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Kim",
+    "title": "Premiers pas",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kim/premiers-pas",
+    "cover_url": "https://e.snmc.io/i/600/s/c4a24f4a0667ebb1b7fc05c35d8e2be9/4973116/Kim%20-%20Premiers%20pas%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Contemporary R&B",
+      "French Pop",
+      "Zouk Love",
+      "Compas"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Édith Lefel",
+    "title": "La klé",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/edith-lefel/la-kle",
+    "cover_url": "https://e.snmc.io/i/600/s/adc47f866d5ce396663477b81f8aad3f/4635153/%C3%89dith%20Lefel%20-%20La%20kl%C3%A9%2C%20Cover%20art.jpeg",
+    "rating": "2.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Ronisia",
+    "title": "Ronisia",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ronisia/ronisia",
+    "cover_url": "https://e.snmc.io/i/600/s/0f9e484738ff7a5b9c4c5d6a95848380/12063634/Ronisia%20-%20Ronisia%2C%20Cover%20art.jpeg",
+    "rating": "2.80",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "French Pop",
+      "Zouk Love",
+      "Contemporary R&B",
+      "Afrobeats",
+      "Dancehall"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Ronisia",
+    "title": "Era 24",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ronisia/era-24",
+    "cover_url": "https://e.snmc.io/i/600/s/7b55054fe2f8c33b5ad9cdc941ad0291/12063631/Ronisia%20-%20Era%2024%2C%20Cover%20art.jpeg",
+    "rating": "3.04",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Contemporary R&B",
+      "French Pop",
+      "Zouk Love",
+      "Dancehall"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Princess' Lover",
+    "title": "Juste moi",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/princess-lover/juste-moi",
+    "cover_url": "https://e.snmc.io/i/600/s/86f44bed74cc604f524963399ba5bbc3/8105567/Princess'%20Lover%20-%20Juste%20moi%2C%20Cover%20art.jpeg",
+    "rating": "2.93",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love",
+      "French Pop",
+      "Contemporary R&B",
+      "Compas"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Marysa",
+    "title": "Sensual",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/marysa/sensual",
+    "cover_url": "https://e.snmc.io/i/600/s/259b66c21e76f2eb08ecce8d2bf68763/3007238/Marysa%20-%20Sensual%2C%20Cover%20art.jpeg",
+    "rating": "2.72",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cabo-Zouk",
+      "Zouk Love",
+      "Contemporary R&B"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Thierry Cham",
+    "title": "Ultime confession",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/thierry-cham/ultime-confession",
+    "cover_url": "https://e.snmc.io/i/600/s/7ff44bb13421e71d15d0d117656ecbe1/8370499/Thierry%20Cham%20-%20Ultime%20confession%2C%20Cover%20art.jpeg",
+    "rating": "3.09",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Kaysha",
+    "title": "African Prince",
+    "year": 2017,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kaysha/african-prince",
+    "cover_url": "https://e.snmc.io/i/600/s/2201977797e0d3f0a8994f54ccbe3730/6485552/Kaysha%20-%20African%20Prince%2C%20Cover%20art.jpeg",
+    "rating": "3.26",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Kizomba",
+      "Zouk Love",
+      "Contemporary R&B",
+      "Cabo-Zouk"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Warren",
+    "title": "E-zouk",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/warren_f1/e_zouk",
+    "cover_url": "https://e.snmc.io/i/600/s/090a92db7f86d1760d24ff3a87adc77e/6104616/Warren%20-%20E-zouk%2C%20Cover%20art.jpeg",
+    "rating": "2.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "French Pop",
+      "Zouk Love",
+      "Contemporary R&B"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Perle Lama",
+    "title": "Zouk & Love",
+    "year": 2013,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/perle_lama/zouk_and_love",
+    "cover_url": "https://e.snmc.io/i/600/s/8c498a32c8b7aec7d80021b9ecf3ba6b/4978036/Perle%20Lama%20-%20Zouk%20%26%20Love%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Michel Alibo",
+    "title": "Kintetik",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/michel_alibo/kintetik",
+    "cover_url": "https://e.snmc.io/i/600/s/1496c55a06977f7a9e9954521bd713a5/2708903/Michel%20Alibo%20-%20Kintetik%2C%20Cover%20art.jpeg",
+    "rating": "2.73",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk",
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Lynnsha",
+    "title": "Lynnsha",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/lynnsha/lynnsha",
+    "cover_url": "https://e.snmc.io/i/600/s/1ecf34a28430677eda9cf77ff4e1ec7f/4110188/Lynnsha%20-%20Lynnsha%2C%20Cover%20art.jpeg",
+    "rating": "2.85",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Contemporary R&B",
+      "French Pop",
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Francky Vincent",
+    "title": "Manze Lola",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/francky-vincent/manze-lola",
+    "cover_url": "https://e.snmc.io/i/600/s/f52d9d78929b5a32e639f0056a5ce5f3/1758825/Francky%20Vincent%20-%20Manze%20Lola%2C%20Cover%20art.jpeg",
+    "rating": "3.28",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Francky Vincent",
+    "title": "15 ans déjà... (Putain !)",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/francky-vincent/15-ans-deja-putain-",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Talina",
+    "title": "Je suis prête...",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/talina/je-suis-prete",
+    "cover_url": "https://e.snmc.io/i/600/s/f6cfac82c1ad0e451d2338eb4bcd1deb/4329532/Talina%20-%20Je%20suis%20pr%C3%AAte___%2C%20Cover%20art.jpeg",
+    "rating": "3.20",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love",
+      "French Pop",
+      "Contemporary R&B"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Slaï",
+    "title": "Florilège",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/slai/florilege",
+    "cover_url": "https://e.snmc.io/i/600/s/f88b08e3a1c997cfa3654d09cda4773f/1719278/Sla%C3%AF%20-%20Floril%C3%A8ge%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love",
+      "Contemporary R&B",
+      "French Pop"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Tina",
+    "title": "Couleurs du monde",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tina_f5/couleurs_du_monde",
+    "cover_url": "https://e.snmc.io/i/600/s/4ec34e640a4770e7bb2caad76d858c9e/2263041/Tina%20-%20Couleurs%20du%20monde%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk",
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Patrick Benoit",
+    "title": "Watch Out",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/patrick_benoit/watch_out",
+    "cover_url": "https://e.snmc.io/i/600/s/17beae4f745922808fe689659c049c7e/3477881/Patrick%20Benoit%20-%20Watch%20Out%2C%20Cover%20art.jpeg",
+    "rating": "3.05",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk",
+      "Zouk Love",
+      "Gwo ka"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Édith Lefel",
+    "title": "Si Seulement",
+    "year": 2002,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/edith-lefel/si-seulement",
+    "cover_url": "https://e.snmc.io/i/600/s/f2c93856f6072d8602ccd23ef23dbd01/2709320/%C3%89dith%20Lefel%20-%20Si%20Seulement%2C%20Cover%20art.jpeg",
+    "rating": "2.23",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Loony Johnson",
+    "title": "Loony Johnson",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/loony_johnson/loony_johnson",
+    "cover_url": "https://e.snmc.io/i/600/s/5ddc78ef1c0448f05e130dbef178cbd0/1835851/Loony%20Johnson%20-%20Loony%20Johnson%2C%20Cover%20art.jpeg",
+    "rating": "2.13",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cabo-Zouk",
+      "Zouk Love",
+      "Contemporary R&B"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Francky Vincent",
+    "title": "Alice ça glisse !",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/francky-vincent/alice-ca-glisse-",
+    "cover_url": "https://e.snmc.io/i/600/s/e136ff9decfc9f10b9ce8af4b940d1ca/1758833/Francky%20Vincent%20-%20Alice%20%C3%A7a%20glisse%20!%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk",
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Édith Lefel",
+    "title": "Méci",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/edith-lefel/meci",
+    "cover_url": "https://e.snmc.io/i/600/s/cb8de3a0dbd6320f235fb74a3512f1a5/2318940/%C3%89dith%20Lefel%20-%20M%C3%A9ci%2C%20Cover%20art.jpeg",
+    "rating": "2.80",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk",
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Ali",
+    "title": "At Home...",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ali/at_home___",
+    "cover_url": "https://e.snmc.io/i/600/s/bddf4ba95fd3cf97dd77dddd1dd8fad7/6104323/Ali%20-%20At%20Home___%2C%20Cover%20art.jpeg",
+    "rating": "2.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love",
+      "Pop Rap",
+      "Hip Hop Soul"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Tatiana Miath",
+    "title": "G Ne Pa Le Tan",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tatiana-miath/g-ne-pa-le-tan",
+    "cover_url": "https://e.snmc.io/i/600/s/8c760e078c3f95d63927f267373bd4ac/1860605/Tatiana%20Miath%20-%20G%20Ne%20Pa%20Le%20Tan%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Francky Vincent",
+    "title": "Le tombeur",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/francky-vincent/le-tombeur",
+    "cover_url": "https://e.snmc.io/i/600/s/0ac8709e350210ea49afc934000d23ea/1758729/Francky%20Vincent%20-%20Le%20tombeur%2C%20Cover%20art.jpeg",
+    "rating": "2.70",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk",
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "David et Corine",
+    "title": "Nuit Sauvage",
+    "year": 1991,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/david-et-corine/nuit-sauvage",
+    "cover_url": "https://e.snmc.io/i/600/s/33243d24dcdacd62d1f80637e477c6aa/8760893/David%20et%20Corine%20-%20Nuit%20Sauvage%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Les Déesses",
+    "title": "Saveurs Exotiques",
+    "year": 2007,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/les_deesses/saveurs_exotiques",
+    "cover_url": "https://e.snmc.io/i/600/s/3e362e167a8405236c265613743475ed/2195579/Les%20D%C3%A9esses%20-%20Saveurs%20Exotiques%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love",
+      "Contemporary R&B",
+      "French Pop",
+      "Kizomba",
+      "Coupé-décalé"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Tanya Saint Val",
+    "title": "Amethyste",
+    "year": 1996,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tanya-saint-val/amethyste",
+    "cover_url": "https://e.snmc.io/i/600/s/4a4eaaaba84e2c979947971f15a7239a/8782914/Tanya%20Saint%20Val%20-%20Amethyste%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love",
+      "Contemporary R&B"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Kaysha",
+    "title": "Bantu Royalty",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kaysha/bantu-royalty",
+    "cover_url": "https://e.snmc.io/i/600/s/720ed122200e8444ddde4cc100bcf90b/13563349/Kaysha%20-%20Bantu%20Royalty%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Kizomba",
+      "Zouk Love",
+      "Contemporary R&B",
+      "Cabo-Zouk"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Kaysha",
+    "title": "Diaspora Deluxe",
+    "year": 2024,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kaysha/diaspora-deluxe",
+    "cover_url": "https://e.snmc.io/i/600/s/02fd546cce2d7fc8cfb92c00aa9a6c6f/13563390/Kaysha%20-%20Diaspora%20Deluxe%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Kizomba",
+      "Zouk Love",
+      "Contemporary R&B",
+      "Cabo-Zouk"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Perle Lama",
+    "title": "Mizikasoleil",
+    "year": 2006,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/perle_lama/mizikasoleil",
+    "cover_url": "https://e.snmc.io/i/600/s/621b785b14c9a7f0bee023339085d149/1723342/Perle%20Lama%20-%20Mizikasoleil%2C%20Cover%20art.jpeg",
+    "rating": "2.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Contemporary R&B",
+      "French Pop",
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Warren",
+    "title": "Warren",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/warren_f1/warren",
+    "cover_url": "https://e.snmc.io/i/600/s/46ddc11660bcc8d8ea9a5d6b149f8bb1/6104596/Warren%20-%20Warren%2C%20Cover%20art.jpeg",
+    "rating": "2.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Contemporary R&B",
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Mathey",
+    "title": "Iyo",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mathey/iyo",
+    "cover_url": "https://e.snmc.io/i/600/s/e19e0611229a56b5ca78a85a15347790/12065470/Mathey%20-%20Iyo%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Édith Lefel",
+    "title": "A Fleur De Peau",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/edith-lefel/a-fleur-de-peau",
+    "cover_url": "https://e.snmc.io/i/600/s/c61b343e3b6667edeaa854842cdfc108/7575167/%C3%89dith%20Lefel%20-%20A%20Fleur%20De%20Peau%2C%20Cover%20art.png",
+    "rating": "1.85",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love",
+      "Zouk",
+      "Samba"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Tina",
+    "title": "Dis moi tout",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tina_f5/dis_moi_tout",
+    "cover_url": "https://e.snmc.io/i/600/s/866127455682b95712e9ab8d6a4a59b7/5272502/Tina%20-%20Dis%20moi%20tout%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "V-RO",
+    "title": "Son an nou",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/v_ro/son_an_nou",
+    "cover_url": "https://e.snmc.io/i/600/s/9e99ebbffc27fd873d1b10696367b518/2709339/V-RO%20-%20Son%20an%20nou%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love",
+      "Contemporary R&B"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Njie",
+    "title": "Destination soleil",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/njie/destination_soleil",
+    "cover_url": "https://e.snmc.io/i/600/s/4d6dff6d4dfc40e1fe9591049b6d618b/4339910/Njie%20-%20Destination%20soleil%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Zouk Love"
+    ]
+  }
+]

@@ -1,0 +1,751 @@
+[
+  {
+    "number": 1,
+    "artist": "Grupo Néctar",
+    "title": "Los reyes de la cumbia",
+    "year": 1997,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-nectar/los-reyes-de-la-cumbia",
+    "cover_url": "https://e.snmc.io/i/600/s/ce24cae19bec1712b9be826a04119896/11665633/Grupo%20N%C3%A9ctar%20-%20Los%20reyes%20de%20la%20cumbia%2C%20Cover%20art.jpeg",
+    "rating": "3.71",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana",
+      "Chicha",
+      "Cumbia argentina"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Los Niños Cantores de Huaraz",
+    "title": "Villancicos en Cumbia",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-ninos-cantores-de-huaraz/villancicos-en-cumbia",
+    "cover_url": "https://e.snmc.io/i/600/s/8fdc653d8cfed10953d4844505a152d3/11468573/Los%20Ni%C3%B1os%20Cantores%20de%20Huaraz%20-%20Villancicos%20en%20Cumbia%2C%20Cover%20art.jpeg",
+    "rating": "3.93",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Christmas Music",
+      "Carols",
+      "Vocal Group",
+      "Standards",
+      "Progressive Pop"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Grupo 5",
+    "title": "Motor y Motivo",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-5/motor-y-motivo",
+    "cover_url": "https://e.snmc.io/i/600/s/0798fadcd0565acf24ebb75d1a100692/9542321/Grupo%205%20-%20Motor%20y%20Motivo%2C%20Cover%20art.jpeg",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Agua Marina",
+    "title": "Tu amor fue una mentira",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agua-marina/tu-amor-fue-una-mentira",
+    "cover_url": "https://e.snmc.io/i/600/s/7545a31a610c34d00f6354e6b168a26f/11890827/Agua%20Marina%20-%20Tu%20amor%20fue%20una%20mentira%2C%20Cover%20art.jpeg",
+    "rating": "4.17",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia sanjuanera",
+      "Tecnocumbia"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "La Banda Techno de \"Beto y Juan\"",
+    "title": "La Banda Techno",
+    "year": 1992,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/la-banda-techno-de-beto-y-juan/la-banda-techno",
+    "cover_url": "https://e.snmc.io/i/600/s/dd97a846b746f676f1bd385e55599048/12861755/La%20Banda%20Techno%20de%20%22Beto%20y%20Juan%22%20-%20La%20Banda%20Techno%2C%20Cover%20art.jpeg",
+    "rating": "3.66",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana",
+      "Tecnocumbia"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Armonia 10",
+    "title": "El Chinchorro",
+    "year": 1985,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/armonia-10/el-chinchorro",
+    "cover_url": "https://e.snmc.io/i/600/s/91b43cf094b8fad19f722017b101d441/6016708/Armonia%2010%20-%20El%20Chinchorro%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana",
+      "Porro",
+      "Mambo"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Agua Bella",
+    "title": "Solo hay una...!",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agua-bella/solo-hay-una",
+    "cover_url": "https://e.snmc.io/i/600/s/ae6eb1c335ec0a87e41e5870a8a788d6/8438228/Agua%20Bella%20-%20Solo%20hay%20una___!%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana",
+      "Tecnocumbia",
+      "Tecnocumbia"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Cuarteto Continental",
+    "title": "Cumbias pegaditas",
+    "year": 1980,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cuarteto-continental/cumbias-pegaditas",
+    "cover_url": "https://e.snmc.io/i/600/s/a343f79c96b028cfa4eb07d52c9ac136/11473445/Cuarteto%20Continental%20-%20Cumbias%20pegaditas%2C%20Cover%20art.jpeg",
+    "rating": "4.13",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia peruana",
+      "Cumbia norteña peruana",
+      "Cumbia colombiana"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Los Caribeños de Guadalupe",
+    "title": "Cambio Total",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-caribenos-de-guadalupe/cambio-total",
+    "cover_url": "https://e.snmc.io/i/600/s/657d8428bb78d94eafe2e81ffcf32966/14031400/Los%20Caribe%C3%B1os%20de%20Guadalupe%20-%20Cambio%20Total%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Armonia 10",
+    "title": "¡La Primerísima!",
+    "year": 1998,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/armonia-10/_la-primerisima",
+    "cover_url": "https://e.snmc.io/i/600/s/390cfd81d4c1e51308f6e6c8d52132c6/11890822/Armonia%2010%20-%20%C2%A1La%20Primer%C3%ADsima!%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia sanjuanera"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Corazón Serrano",
+    "title": "Tan solo tú",
+    "year": 2021,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/corazon-serrano/tan-solo-tu",
+    "cover_url": "https://e.snmc.io/i/600/s/3f136754b7f880f214c30765149416c5/12674480/Coraz%C3%B3n%20Serrano%20-%20Tan%20solo%20t%C3%BA%2C%20Cover%20art.jpeg",
+    "rating": "3.07",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia sanjuanera"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Mantilla y el Grupo Magico",
+    "title": "Mantilla y el Grupo Magico",
+    "year": 1985,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mantilla-y-el-grupo-magico/mantilla-y-el-grupo-magico",
+    "cover_url": "https://e.snmc.io/i/600/s/b4b9f19cd6221f13fed3719e86cea0ed/7839266/Mantilla%20y%20el%20Grupo%20Magico%20-%20Mantilla%20y%20el%20Grupo%20Magico%2C%20Cover%20art.jpeg",
+    "rating": "3.63",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana",
+      "Cumbia colombiana"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Grupo Fiesta",
+    "title": "Vamos a la fiesta",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-fiesta/vamos-a-la-fiesta",
+    "cover_url": "https://e.snmc.io/i/600/s/e7b7dcf658b9a8fe0de92aca44d918bc/13559522/Grupo%20Fiesta%20-%20Vamos%20a%20la%20fiesta%2C%20Cover%20art.png",
+    "rating": "3.48",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia peruana",
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Armonia 10",
+    "title": "\"Solo\" Lo Nuevo Y Lo Mejor",
+    "year": 1999,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/armonia-10/solo-lo-nuevo-y-lo-mejor",
+    "cover_url": "https://e.snmc.io/i/600/s/f571710b4ef07d696112c0af9c9216b5/12249178/Armonia%2010%20-%20%22Solo%22%20Lo%20Nuevo%20Y%20Lo%20Mejor%2C%20Cover%20art.jpeg",
+    "rating": "3.89",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia sanjuanera"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Grupo Maravilla",
+    "title": "Siempre Arriba",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-maravilla/siempre-arriba",
+    "cover_url": "https://e.snmc.io/i/600/s/c19c784afa46882e19e1c8cce732451c/13773433/Grupo%20Maravilla%20-%20Siempre%20Arriba%2C%20Cover%20art.jpeg",
+    "rating": "3.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana",
+      "Cumbia amazónica",
+      "Chicha"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Cantaritos de Oro",
+    "title": "Los cantaritos de Oro de los hnos. Ayala P.",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cantaritos-de-oro/los-cantaritos-de-oro-de-los-hnos-ayala-p",
+    "cover_url": "https://e.snmc.io/i/600/s/2017dc442f4b9e605b57191fe8179594/13326028/Cantaritos%20de%20Oro%20-%20Los%20cantaritos%20de%20Oro%20de%20los%20hnos_%20Ayala%20P_%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana",
+      "Chicha",
+      "Cumbia sanjuanera"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Grupo Néctar",
+    "title": "Embriagame suavecito",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-nectar/embriagame-suavecito",
+    "cover_url": "https://e.snmc.io/i/600/s/5b6f7a2ceff4bcac856f75194b24a848/13973316/Grupo%20N%C3%A9ctar%20-%20Embriagame%20suavecito%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Tony Rosado",
+    "title": "Te Eché al Olvido",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tony-rosado/te-eche-al-olvido",
+    "cover_url": "https://e.snmc.io/i/600/s/401a53c27802f7c08cadd25492bf4b80/10043025/Tony%20Rosado%20-%20Te%20Ech%C3%A9%20al%20Olvido%2C%20Cover%20art.jpeg",
+    "rating": "2.17",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Agua Marina",
+    "title": "Vol 12 \"La Nueva Era\"",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agua-marina/vol-12-la-nueva-era",
+    "cover_url": "https://e.snmc.io/i/600/s/6e54e698fcd4fcbc0e8c96675ff6d8cc/12249214/Agua%20Marina%20-%20Vol%2012%20%22La%20Nueva%20Era%22%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Hermanos Yaipén",
+    "title": "Necesito un amor",
+    "year": 2011,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/hermanos-yaipen/necesito-un-amor",
+    "cover_url": "https://e.snmc.io/i/600/s/6a4026dd36272e5374774edc41b1fdb2/12600657/Hermanos%20Yaip%C3%A9n%20-%20Necesito%20un%20amor%2C%20Cover%20art.jpeg",
+    "rating": "2.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Grupo 5",
+    "title": "Puro Corazón",
+    "year": 2009,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-5/puro-corazon",
+    "cover_url": "https://e.snmc.io/i/600/s/7bee205bf60938e3dfc1b59c12f31601/9542050/Grupo%205%20-%20Puro%20Coraz%C3%B3n%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Cuarteto Continental",
+    "title": "Cumbias pegaditas: Volumen II",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cuarteto-continental/cumbias-pegaditas-volumen-ii",
+    "cover_url": "https://e.snmc.io/i/600/s/cfc75ecc294adc715154995606c3de67/11468606/Cuarteto%20Continental%20-%20Cumbias%20pegaditas%3A%20Volumen%20II%2C%20Cover%20art.jpeg",
+    "rating": "4.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Los Campesinos de Bambamarca",
+    "title": "A..estilo propio y jaranero",
+    "year": 2018,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-campesinos-de-bambamarca/a_estilo-propio-y-jaranero-1",
+    "cover_url": "https://e.snmc.io/i/600/s/36dcc94c382df9a04d88c83ea3a41503/12597814/Los%20Campesinos%20de%20Bambamarca%20-%20A__estilo%20propio%20y%20jaranero%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana",
+      "Coplas cajamarquinas",
+      "Huaylarsh"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Armonia 10",
+    "title": "Clásicos de oro",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/armonia-10/clasicos-de-oro",
+    "cover_url": "https://e.snmc.io/i/600/s/793fb7fc68a030603bd4c0cec9137e54/13382373/Armonia%2010%20-%20Cl%C3%A1sicos%20de%20oro%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia sanjuanera"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Agua Marina de Sechura",
+    "title": "\"Sirena del amor\"",
+    "year": 1987,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agua-marina-de-sechura/sirena-del-amor",
+    "cover_url": "https://e.snmc.io/i/600/s/c7b4a527bb469535601e426c962fe27f/13309056/Agua%20Marina%20de%20Sechura%20-%20%22Sirena%20del%20amor%22%2C%20Cover%20art.jpeg",
+    "rating": "2.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia sanjuanera",
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Agua Bella",
+    "title": "Cariño loco",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agua-bella/carino-loco",
+    "cover_url": "https://e.snmc.io/i/600/s/8859a7768a4fda1b68da677b51f41f61/1916257/Agua%20Bella%20-%20Cari%C3%B1o%20loco%2C%20Cover%20art.jpeg",
+    "rating": "2.11",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "Armonia 10",
+    "title": "Una cualquiera",
+    "year": 2010,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/armonia-10/una-cualquiera",
+    "cover_url": "https://e.snmc.io/i/600/s/bd7dffa5d76cda5634641ded9342ac35/11694393/Armonia%2010%20-%20Una%20cualquiera%2C%20Cover%20art.jpeg",
+    "rating": "2.75",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Eusebio y Su Banjo",
+    "title": "Levántame... con estas cumbias",
+    "year": 1983,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/eusebio-y-su-banjo/levantame-con-estas-cumbias",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana",
+      "Cumbia amazónica",
+      "Guaracha"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Sociedad Privada",
+    "title": "De Tingo María para el mundo",
+    "year": 2005,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sociedad-privada/de-tingo-maria-para-el-mundo",
+    "cover_url": "https://e.snmc.io/i/600/s/14695c42a7f036d4aef81d323b8941ff/9731940/Sociedad%20Privada%20-%20De%20Tingo%20Mar%C3%ADa%20para%20el%20mundo%2C%20Cover%20art.jpeg",
+    "rating": "4.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Cuarteto Universal",
+    "title": "Hoy, mañana y siempre",
+    "year": 1985,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cuarteto-universal/hoy-manana-y-siempre",
+    "cover_url": "",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Agua Marina",
+    "title": "Soy Pescador",
+    "year": 1988,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agua-marina/soy-pescador",
+    "cover_url": "",
+    "rating": "2.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana",
+      "Cumbia sanjuanera"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Agua Marina",
+    "title": "Vol. 9 \"Quiero olvidarte\"",
+    "year": 1995,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agua-marina/vol-9-quiero-olvidarte",
+    "cover_url": "",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Agua Bella",
+    "title": "Mejor que nunca",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/agua-bella/mejor-que-nunca",
+    "cover_url": "https://e.snmc.io/i/600/s/1a9d4f23bb5d454e5cb0a16778545262/12729427/Agua%20Bella%20-%20Mejor%20que%20nunca%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Corazón Serrano",
+    "title": "No deja de latir",
+    "year": 2016,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/corazon-serrano/no-deja-de-latir",
+    "cover_url": "https://e.snmc.io/i/600/s/182cf4ca34fa3fef8c094d01c21746f6/6214618/Coraz%C3%B3n%20Serrano%20-%20No%20deja%20de%20latir%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia sanjuanera"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Marisol",
+    "title": "Clásicos de oro",
+    "year": 2022,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/marisol/clasicos-de-oro",
+    "cover_url": "https://e.snmc.io/i/600/s/f5dd8362186ed8bf603bd987f7c2419c/13277775/Marisol%20-%20Cl%C3%A1sicos%20de%20oro%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Son de Ríos",
+    "title": "Entre Lágrimas y Recuerdos",
+    "year": 2025,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/son-de-rios/entre-lagrimas-y-recuerdos",
+    "cover_url": "https://e.snmc.io/i/600/s/376b4e304b49ce823b740442217fc869/14853642/Son%20de%20R%C3%ADos%20-%20Entre%20L%C3%A1grimas%20y%20Recuerdos%2C%20Cover%20art.jpeg",
+    "rating": "3.50",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia sanjuanera"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Grupo 5",
+    "title": "Llorar llorar",
+    "year": 2020,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/grupo-5/llorar-llorar",
+    "cover_url": "https://e.snmc.io/i/600/s/f46254e2a0baaae56ea9ec8e77ffbb06/9746333/Grupo%205%20-%20Llorar%20llorar%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Los Continentales",
+    "title": "Los auténticos creadores de las...cumbias bien pegaditas",
+    "year": 1981,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los_continentales_f1/los_autenticos_creadores_de_las___cumbias_bien_pegaditas",
+    "cover_url": "https://e.snmc.io/i/600/s/a4ba6792431c302eef5bf6fad324acff/7838017/Los%20Continentales%20-%20Los%20aut%C3%A9nticos%20creadores%20de%20las___cumbias%20bien%20pegaditas%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia peruana",
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Claudio Morán y Los Universales",
+    "title": "Indestructibles..!",
+    "year": 1986,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/claudio-moran-y-los-universales/indestructibles",
+    "cover_url": "https://e.snmc.io/i/600/s/c52f158897887eb70d4267245f83d6cc/8257190/Claudio%20Mor%C3%A1n%20y%20Los%20Universales%20-%20Indestructibles__!%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia peruana",
+      "Cumbia norteña peruana"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Corazón Serrano",
+    "title": "Mujercita buena",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/corazon-serrano/mujercita-buena",
+    "cover_url": "https://e.snmc.io/i/600/s/d1085e4f91ee69a16dd2e0f53d115d64/6214612/Coraz%C3%B3n%20Serrano%20-%20Mujercita%20buena%2C%20Cover%20art.jpeg",
+    "rating": "3.00",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Cumbia sanjuanera",
+      "Cumbia norteña peruana"
+    ]
+  }
+]

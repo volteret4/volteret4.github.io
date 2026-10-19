@@ -52,6 +52,12 @@ run_weekly() {
     gtd
 }
 
+run_singles() {
+    "$python" html_singles.py
+    "$python" html_index.py
+    gtd
+}
+
 case "$1" in
     usuarios)
         run_years_back html_usuarios.py 1 5 10 15 18
@@ -68,13 +74,16 @@ case "$1" in
     semanales)
         run_weekly
         ;;
+    singles)
+        run_singles
+        ;;
     todo)
-        run_weekly ; run_monthly ; run_yearly ; run_years_back "html_grupo.py --no-json" 1 5 10 15 18 ; run_years_back html_usuarios.py 1 5 10 15 18
+        run_weekly ; run_monthly ; run_yearly ; run_years_back "html_grupo.py --no-json" 1 5 10 15 18 ; run_years_back html_usuarios.py 1 5 10 15 18 ; run_singles
 
 
         ;;
     *)
-        echo "Uso: $0 {usuarios|grupo|anuales|mensuales|semanales}"
+        echo "Uso: $0 {usuarios|grupo|anuales|mensuales|semanales|singles|todo}"
         exit 1
         ;;
 esac

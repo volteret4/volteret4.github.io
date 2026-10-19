@@ -1,0 +1,809 @@
+[
+  {
+    "number": 1,
+    "artist": "Arsenio Rodríguez",
+    "title": "Primitivo",
+    "year": 1963,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/arsenio-rodriguez/primitivo",
+    "cover_url": "https://e.snmc.io/i/600/s/a26ca9c6fedcc11343a05ff553f90262/1431586/Arsenio%20Rodr%C3%ADguez%20-%20Primitivo%2C%20Cover%20art.jpeg",
+    "rating": "3.39",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Son montuno",
+      "Son cubano",
+      "Guaracha",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 2,
+    "artist": "Tito Puente and His Orchestra",
+    "title": "Dance Mania",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/tito-puente-and-his-orchestra/dance-mania",
+    "cover_url": "https://e.snmc.io/3.0/img/blocked_art/enable_img_600x600.png",
+    "rating": "3.31",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mambo",
+      "Guaguancó",
+      "Chachachá",
+      "Guaracha"
+    ]
+  },
+  {
+    "number": 3,
+    "artist": "Patato",
+    "title": "Patato & Totico",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/patato_totico/patato_and_totico",
+    "cover_url": "https://e.snmc.io/i/600/s/b723427c7821d7da0e7a30ad36f0ca81/1421235/Patato%20%26%20Totico%20-%20Patato%20%26%20Totico%2C%20Cover%20art.jpeg",
+    "rating": "3.56",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Santería Music",
+      "Son cubano"
+    ]
+  },
+  {
+    "number": 4,
+    "artist": "Ismael Rivera y sus Cachimbos",
+    "title": "Controversia",
+    "year": 1969,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ismael-rivera-y-sus-cachimbos/controversia",
+    "cover_url": "https://e.snmc.io/i/600/s/734133f3917202048fb44fe3604da6e0/1979491/Ismael%20Rivera%20y%20sus%20Cachimbos%20-%20Controversia%2C%20Cover%20art.jpeg",
+    "rating": "3.82",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Salsa",
+      "Guaguancó"
+    ]
+  },
+  {
+    "number": 5,
+    "artist": "Eddie Palmieri",
+    "title": "Echando pa'lante (Straight Ahead)",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/eddie-palmieri/echando-palante-straight-ahead",
+    "cover_url": "https://e.snmc.io/i/600/s/4aae5729fe8372197d5e9e7bf295e3bd/13273003/Eddie%20Palmieri%20-%20Echando%20pa'lante%20(Straight%20Ahead)%2C%20Cover%20art.jpeg",
+    "rating": "3.57",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Salsa",
+      "Merengue",
+      "Guaguancó",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 6,
+    "artist": "Mongo Santamaría",
+    "title": "Mongo",
+    "year": 1959,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mongo-santamaria/mongo",
+    "cover_url": "https://e.snmc.io/i/600/s/7e3ce6dac1d7da04eeec4ba0abd65c95/3181506/Mongo%20Santamar%C3%ADa%20-%20Mongo%2C%20Cover%20art.jpeg",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Santería Music",
+      "Afro-Cuban Jazz"
+    ]
+  },
+  {
+    "number": 7,
+    "artist": "Frank y Sus Inquietos",
+    "title": "Frank y Sus Inquietos",
+    "year": 1968,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/frank-y-sus-inquietos/frank-y-sus-inquietos",
+    "cover_url": "https://e.snmc.io/i/600/s/bc90b823d25bbbe7093b0c156ab5b101/9638152/Frank%20y%20Sus%20Inquietos%20-%20Frank%20y%20Sus%20Inquietos%2C%20Cover%20art.jpeg",
+    "rating": "3.77",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Descarga"
+    ]
+  },
+  {
+    "number": 8,
+    "artist": "Ray & His Court",
+    "title": "Ray & His Court",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ray-and-his-court/ray-and-his-court",
+    "cover_url": "https://e.snmc.io/i/600/s/8b21423c1ee86995e859cf8672f88e2e/2056509/Ray%20%26%20His%20Court%20-%20Ray%20%26%20His%20Court%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Salsa",
+      "Boogaloo"
+    ]
+  },
+  {
+    "number": 9,
+    "artist": "Mongo Santamaría",
+    "title": "Our Man in Havana",
+    "year": 1960,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mongo-santamaria/our-man-in-havana",
+    "cover_url": "https://e.snmc.io/i/600/s/1e73463111863eb20db4f839905943f6/3000858/Mongo%20Santamar%C3%ADa%20-%20Our%20Man%20in%20Havana%2C%20Cover%20art.jpeg",
+    "rating": "3.43",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Afro-Cuban Jazz",
+      "Chachachá"
+    ]
+  },
+  {
+    "number": 10,
+    "artist": "Celia Cruz & Tito Puente",
+    "title": "Cuba y Puerto Rico son...",
+    "year": 1966,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/celia-cruz-and-tito-puente/cuba-y-puerto-rico-son",
+    "cover_url": "https://e.snmc.io/i/600/s/90e11b9802191122c6c2929e374549bd/1590416/Celia%20Cruz%20%26%20Tito%20Puente%20-%20Cuba%20y%20Puerto%20Rico%20son___%2C%20Cover%20art.jpeg",
+    "rating": "3.62",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rumba cubana",
+      "Guaguancó",
+      "Guaracha"
+    ]
+  },
+  {
+    "number": 11,
+    "artist": "Carlos \"Patato\" Valdés",
+    "title": "Ready for Freddy",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/carlos_patato_valdes/ready_for_freddy",
+    "cover_url": "https://e.snmc.io/i/600/s/831f56e3383dfdd0cb4d0eee4e30e937/2401701/Carlos%20%22Patato%22%20Vald%C3%A9s%20-%20Ready%20for%20Freddy%2C%20Cover%20art.jpeg",
+    "rating": "3.54",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Descarga",
+      "Afro-Cuban Jazz",
+      "Santería Music"
+    ]
+  },
+  {
+    "number": 12,
+    "artist": "Ismael Rivera &",
+    "title": "Bienvenido! / Welcome!",
+    "year": 1965,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ismael-rivera-con-rafael-cortijo-y-su-combo/bienvenido-welcome",
+    "cover_url": "https://e.snmc.io/i/600/s/040747155d3c678a704849a197388528/3891113/Ismael%20Rivera%20con%20Rafael%20Cortijo%20y%20su%20Combo%20-%20Bienvenido!%20%2F%20Welcome!%2C%20Cover%20art.jpeg",
+    "rating": "3.45",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Salsa",
+      "Guaguancó",
+      "Guajira",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 13,
+    "artist": "Alberto Zayas",
+    "title": "Afro-Frenetic tambores de Cuba",
+    "year": 1957,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alberto_zayas/afro_frenetic_tambores_de_cuba",
+    "cover_url": "https://e.snmc.io/i/600/s/845c9c3292a1078c186845acaa375b22/4725511/Alberto%20Zayas%20-%20Afro-Frenetic%20tambores%20de%20Cuba%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Conga",
+      "Chachachá",
+      "Santería Music"
+    ]
+  },
+  {
+    "number": 14,
+    "artist": "Rafi Val y La Diferente",
+    "title": "Rafi Val y la Diferente",
+    "year": 1971,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rafi-val-y-la-diferente/rafi-val-y-la-diferente",
+    "cover_url": "https://e.snmc.io/i/600/s/7bfaa857ad0f8890b0fd3bf9ea910256/5224173/Rafi%20Val%20y%20La%20Diferente%20-%20Rafi%20Val%20y%20la%20Diferente%2C%20Cover%20art.jpeg",
+    "rating": "3.80",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Salsa",
+      "Guaguancó",
+      "Salsa dura",
+      "Bolero"
+    ]
+  },
+  {
+    "number": 15,
+    "artist": "Los Muñequitos de Matanzas",
+    "title": "Guaguancó Matancero",
+    "year": 2004,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los_munequitos_de_matanzas/guaguanco_matancero",
+    "cover_url": "https://e.snmc.io/i/600/s/74f42bca34d42c16404d4ce37aa96c7e/3818947/Los%20Mu%C3%B1equitos%20de%20Matanzas%20-%20Guaguanc%C3%B3%20Matancero%2C%20Cover%20art.jpeg",
+    "rating": "3.24",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rumba cubana",
+      "Guaguancó",
+      "Abakuá Music"
+    ]
+  },
+  {
+    "number": 16,
+    "artist": "Los Kenya",
+    "title": "Los Kenya",
+    "year": 1969,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los-kenya/los-kenya",
+    "cover_url": "https://e.snmc.io/i/600/s/862b1156a8b651a2ee20378cb79031d7/7066443/Los%20Kenya%20-%20Los%20Kenya%2C%20Cover%20art.jpeg",
+    "rating": "3.40",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Salsa dura",
+      "Guaguancó",
+      "Descarga"
+    ]
+  },
+  {
+    "number": 17,
+    "artist": "Yoruba Andabo",
+    "title": "El callejon de los rumberos",
+    "year": 2003,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/yoruba-andabo/el-callejon-de-los-rumberos",
+    "cover_url": "https://e.snmc.io/i/600/s/86dc781f3e213014233dfaf3bed9021d/2238800/Yoruba%20Andabo%20-%20El%20callejon%20de%20los%20rumberos%2C%20Cover%20art.jpeg",
+    "rating": "3.38",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rumba cubana",
+      "Guaguancó",
+      "Abakuá Music"
+    ]
+  },
+  {
+    "number": 18,
+    "artist": "Mongo Santamaría",
+    "title": "Afro Cuban Drums",
+    "year": 1952,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mongo-santamaria/afro-cuban-drums",
+    "cover_url": "https://e.snmc.io/i/600/s/470faa129d38e1055021f0a3b781be37/2227553/Mongo%20Santamar%C3%ADa%20-%20Afro%20Cuban%20Drums%2C%20Cover%20art.jpeg",
+    "rating": "3.18",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Santería Music",
+      "Conga",
+      "Guaguancó",
+      "Conga",
+      "Abakuá Music"
+    ]
+  },
+  {
+    "number": 19,
+    "artist": "Carlos \"Patato\" Valdés",
+    "title": "Authority",
+    "year": 1976,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/carlos_patato_valdes/authority",
+    "cover_url": "https://e.snmc.io/i/600/s/e492bb370f80098cdf0843b0dc219dc5/7954875/Carlos%20%22Patato%22%20Vald%C3%A9s%20-%20Authority%2C%20Cover%20art.jpeg",
+    "rating": "3.33",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó"
+    ]
+  },
+  {
+    "number": 20,
+    "artist": "Brooklyn Sounds",
+    "title": "Libre-Free",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/brooklyn-sounds/libre-free",
+    "cover_url": "https://e.snmc.io/i/600/s/0996ef2a48bb2567d1081dd93ef75a31/8079449/Brooklyn%20Sounds%20-%20Libre-Free%2C%20Cover%20art.jpeg",
+    "rating": "3.28",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Salsa dura",
+      "Guaguancó",
+      "Guaguancó",
+      "Santería Music"
+    ]
+  },
+  {
+    "number": 21,
+    "artist": "Cortijo y Su Combo &",
+    "title": "Cortijo en New York",
+    "year": 1958,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/cortijo-y-su-combo-con-ismael-rivera/cortijo-en-new-york",
+    "cover_url": "https://e.snmc.io/i/600/s/25e23bf46c2176229520da2dfdee22a3/6109061/Cortijo%20y%20Su%20Combo%20con%20Ismael%20Rivera%20-%20Cortijo%20en%20New%20York%2C%20Cover%20art.jpeg",
+    "rating": "3.19",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Bomba",
+      "Son cubano",
+      "Guaguancó",
+      "Latin Jazz",
+      "Salsa"
+    ]
+  },
+  {
+    "number": 22,
+    "artist": "Puntilla y el conjunto todo rumbero",
+    "title": "A Tribute to Gonzalo Asencio \"Tío Tom\"",
+    "year": 2008,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/puntilla-y-el-conjunto-todo-rumbero/a-tribute-to-gonzalo-asencio-tio-tom",
+    "cover_url": "https://e.snmc.io/i/600/s/d946187a72b65be6ede0d20b401901cd/4703955/Puntilla%20y%20el%20conjunto%20todo%20rumbero%20-%20A%20Tribute%20to%20Gonzalo%20Asencio%20%22T%C3%ADo%20Tom%22%2C%20Cover%20art.png",
+    "rating": "3.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rumba cubana",
+      "Guaguancó"
+    ]
+  },
+  {
+    "number": 23,
+    "artist": "Sonora Ponceña",
+    "title": "Desde Puerto Rico a Nueva York",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/sonora-poncena/desde-puerto-rico-a-nueva-york",
+    "cover_url": "https://e.snmc.io/i/600/s/c70c374590522d6600ec45560bac0b4c/2016725/Sonora%20Ponce%C3%B1a%20-%20Desde%20Puerto%20Rico%20a%20Nueva%20York%2C%20Cover%20art.jpeg",
+    "rating": "3.93",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Salsa",
+      "Guaguancó",
+      "Chachachá",
+      "Merengue"
+    ]
+  },
+  {
+    "number": 24,
+    "artist": "Conjunto Guaguancó Matancero",
+    "title": "Guaguancó",
+    "year": 1954,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/conjunto_guaguanco_matancero_papin_y_sus_rumberos/guaguanco",
+    "cover_url": "https://e.snmc.io/i/600/s/9ea003b3475c6ebd65fe535ba8d06f06/7226888/Conjunto%20Guaguanc%C3%B3%20Matancero%20%2F%20Pap%C3%ADn%20y%20Sus%20Rumberos%20-%20Guaguanc%C3%B3%2C%20Cover%20art.jpeg",
+    "rating": "3.25",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Rumba cubana"
+    ]
+  },
+  {
+    "number": 25,
+    "artist": "Ignacio Piñeiro",
+    "title": "Festival in Havana",
+    "year": 1955,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ignacio-pineiro/festival-in-havana",
+    "cover_url": "https://e.snmc.io/i/600/s/1133fbddc86d7e773ac0a1036828d386/6102803/Ignacio%20Pi%C3%B1eiro%20-%20Festival%20in%20Havana%2C%20Cover%20art.jpeg",
+    "rating": "3.58",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Rumba cubana",
+      "Guaguancó",
+      "Conga"
+    ]
+  },
+  {
+    "number": 26,
+    "artist": "Michi Sarmiento y su Combo Bravo",
+    "title": "Cum cumbele",
+    "year": 1970,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/michi-sarmiento-y-su-combo-bravo/cum-cumbele",
+    "cover_url": "https://e.snmc.io/i/600/s/c5daa1b7ffb04ca8c0314b3ab748dd73/6500156/Michi%20Sarmiento%20y%20su%20Combo%20Bravo%20-%20Cum%20cumbele%2C%20Cover%20art.jpeg",
+    "rating": "3.37",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Cumbia",
+      "Bomba",
+      "Descarga"
+    ]
+  },
+  {
+    "number": 27,
+    "artist": "The Conga Kings",
+    "title": "The Conga Kings",
+    "year": 2000,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/the_conga_kings/the_conga_kings",
+    "cover_url": "https://e.snmc.io/i/600/s/f081259d764b9011a2ede3a7ff0269e7/1553623/The%20Conga%20Kings%20-%20The%20Conga%20Kings%2C%20Cover%20art.jpeg",
+    "rating": "3.19",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Afro-Cuban Jazz",
+      "Guaguancó",
+      "Descarga",
+      "Conga"
+    ]
+  },
+  {
+    "number": 28,
+    "artist": "Carlos Ramos & His Orch. \"Fuego\"",
+    "title": "Tecato",
+    "year": 1973,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/carlos-ramos-and-his-orch-fuego/tecato",
+    "cover_url": "https://e.snmc.io/i/600/s/9346f3c6ecfec0b493e9a8e1ce2a6de1/8012840/Carlos%20Ramos%20%26%20His%20Orch_%20%22Fuego%22%20-%20Tecato%2C%20Cover%20art.jpeg",
+    "rating": "3.84",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Descarga",
+      "Salsa"
+    ]
+  },
+  {
+    "number": 29,
+    "artist": "Carlos Embale",
+    "title": "Conjunto Guaguancó",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/carlos_embale/conjunto_guaguanco",
+    "cover_url": "https://e.snmc.io/i/600/s/ee8c9c29e12a96cc18cf768efef89e79/4730184/Carlos%20Embale%20-%20Conjunto%20Guaguanc%C3%B3%2C%20Cover%20art.jpeg",
+    "rating": "3.91",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó"
+    ]
+  },
+  {
+    "number": 30,
+    "artist": "Los Papines",
+    "title": "Los Papines",
+    "year": 1974,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/los_papines/los_papines",
+    "cover_url": "https://e.snmc.io/i/600/s/9e802fae2cfcfea6cdb8db76d146998b/4823049/Los%20Papines%20-%20Los%20Papines%2C%20Cover%20art.jpeg",
+    "rating": "3.61",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Bolero",
+      "Guaracha"
+    ]
+  },
+  {
+    "number": 31,
+    "artist": "Coro Folklórico Cubano",
+    "title": "En un solar habanero",
+    "year": 2001,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/coro_folklorico_cubano/en_un_solar_habanero",
+    "cover_url": "https://e.snmc.io/i/600/s/05b52171febc9fac67d68411c1a3b829/5271056/Coro%20Folkl%C3%B3rico%20Cubano%20-%20En%20un%20solar%20habanero%2C%20Cover%20art.jpeg",
+    "rating": "3.52",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Rumba cubana",
+      "Cuban Music",
+      "Conga",
+      "Abakuá Music"
+    ]
+  },
+  {
+    "number": 32,
+    "artist": "Adolfo Echeverría y Su Orquesta",
+    "title": "Sabroso bacalao!!",
+    "year": 1977,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/adolfo-echeverria-y-su-orquesta/sabroso-bacalao",
+    "cover_url": "https://e.snmc.io/i/600/s/f6895967cd09bec53d9792ac61e27626/7707107/Adolfo%20Echeverr%C3%ADa%20y%20Su%20Orquesta%20-%20Sabroso%20bacalao!!%2C%20Cover%20art.jpeg",
+    "rating": "3.44",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Salsa",
+      "Guaguancó"
+    ]
+  },
+  {
+    "number": 33,
+    "artist": "Alberto Zayas",
+    "title": "Guaguancó afro-cubano",
+    "year": 1955,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alberto_zayas/guaguanco_afro_cubano",
+    "cover_url": "https://e.snmc.io/i/600/s/723657255b139655c19f9e2b4c7adbf7/11186689/Alberto%20Zayas%20-%20Guaguanc%C3%B3%20afro-cubano%2C%20Cover%20art.jpeg",
+    "rating": "3.51",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Rumba cubana",
+      "Guaracha"
+    ]
+  },
+  {
+    "number": 34,
+    "artist": "Rafael Cortijo &",
+    "title": "Con todos los hierros (Everything but the Kitchen Sink)",
+    "year": 1967,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/rafael-cortijo-ismael-rivera/con-todos-los-hierros-everything-but-the-kitchen-sink",
+    "cover_url": "https://e.snmc.io/i/600/s/f16c425ad96369a36548686e74edc3b1/3999939/Rafael%20Cortijo%20%26%20Ismael%20Rivera%20-%20Con%20todos%20los%20hierros%20(Everything%20but%20the%20Kitchen%20Sink)%2C%20Cover%20art.jpeg",
+    "rating": "3.21",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Boogaloo",
+      "Guaguancó",
+      "Salsa"
+    ]
+  },
+  {
+    "number": 35,
+    "artist": "Conjunto Clave y Guaguancó",
+    "title": "Songs & Dances",
+    "year": 1994,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/conjunto-clave-y-guaguanco/songs-and-dances",
+    "cover_url": "https://e.snmc.io/i/600/s/31bd4ca172732052926c8fde06cb5617/5328897/Conjunto%20Clave%20y%20Guaguanc%C3%B3%20-%20Songs%20%26%20Dances%2C%20Cover%20art.jpeg",
+    "rating": "3.83",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó"
+    ]
+  },
+  {
+    "number": 36,
+    "artist": "Arsenio Rodríguez y Su Conjunto",
+    "title": "Arsenio",
+    "year": 1957,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/arsenio-rodriguez-y-su-conjunto/arsenio",
+    "cover_url": "https://e.snmc.io/i/600/s/7079f709f71803a8559f264b66512a9b/6750938/Arsenio%20Rodr%C3%ADguez%20y%20Su%20Conjunto%20-%20Arsenio%2C%20Cover%20art.jpeg",
+    "rating": "3.29",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Mambo",
+      "Bolero",
+      "Guaguancó"
+    ]
+  },
+  {
+    "number": 37,
+    "artist": "Ray Barretto",
+    "title": "Guajira y Guaguanco",
+    "year": 1964,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/ray-barretto/guajira-y-guaguanco",
+    "cover_url": "https://e.snmc.io/i/600/s/86028f16d5002aa445f74f74ea37d092/2784610/Ray%20Barretto%20-%20Guajira%20y%20Guaguanco%2C%20Cover%20art.jpeg",
+    "rating": "3.42",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Guajira",
+      "Descarga"
+    ]
+  },
+  {
+    "number": 38,
+    "artist": "Mon Rivera",
+    "title": "Forever",
+    "year": 1978,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/mon-rivera/forever",
+    "cover_url": "https://e.snmc.io/i/600/s/b7bcb2afe0e3d00412a7f2e68de4bc36/6420959/Mon%20Rivera%20-%20Forever%2C%20Cover%20art.jpeg",
+    "rating": "3.67",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Salsa",
+      "Merengue",
+      "Salsa dura"
+    ]
+  },
+  {
+    "number": 39,
+    "artist": "Alberto Zayas",
+    "title": "El guaguansón",
+    "year": 1956,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/alberto_zayas/el_guaguanson",
+    "cover_url": "https://e.snmc.io/i/600/s/33768efce9c44635b2f7b59b252248ae/4817840/Alberto%20Zayas%20-%20El%20guaguans%C3%B3n%2C%20Cover%20art.jpeg",
+    "rating": "3.34",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Guaguancó",
+      "Son cubano"
+    ]
+  },
+  {
+    "number": 40,
+    "artist": "Kako &",
+    "title": "Siguen pa'lante y pa'lante",
+    "year": 1972,
+    "mbid": "",
+    "rym": "https://rateyourmusic.com/release/album/kako-y-totico/siguen-palante-y-palante",
+    "cover_url": "https://e.snmc.io/i/600/s/387e243c5b002f4f6523d8311e535e74/7444801/Kako%20y%20Totico%20-%20Siguen%20pa'lante%20y%20pa'lante%2C%20Cover%20art.jpeg",
+    "rating": "3.06",
+    "desc_lfm_album": "",
+    "desc_lfm_artist": "",
+    "desc_mb_album": "",
+    "desc_mb_artist": "",
+    "yt_id": "",
+    "genres": [
+      "Salsa",
+      "Afro-Cuban Jazz",
+      "Rumba cubana",
+      "Salsa"
+    ]
+  }
+]
