@@ -4315,7 +4315,7 @@ def render_root_index_html(collections: list[dict], generated: str,
         cards_html += f"""
       <a class="col-card" href="{c.get('url', c['slug']+'/index.html')}">
         <div class="col-name">{c['name']}</div>
-        <div class="col-meta">{users_n} users &middot; {total} albums</div>
+        <div class="col-meta">{users_n} users &middot; {total} {c.get('unit', 'albums')}</div>
         <div class="col-bar-wrap">
           <div class="col-bar" style="width:{avg_pct:.1f}%"></div>
         </div>

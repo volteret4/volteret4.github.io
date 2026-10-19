@@ -127,6 +127,86 @@
     "url": "scaruffi/index.html"
   },
   {
+    "slug": "singles_billboard_number_ones",
+    "name": "Singles · Billboard Hot 100 · Números 1",
+    "users": 13,
+    "total": 1195,
+    "unit": "canciones",
+    "avg_pct": 14.0,
+    "updated": "2026-10-19 12:24",
+    "url": "../singles/billboard_number_ones/index.html"
+  },
+  {
+    "slug": "singles_billboard_year_end",
+    "name": "Singles · Billboard Year-End Hot 100",
+    "users": 13,
+    "total": 6833,
+    "unit": "canciones",
+    "avg_pct": 8.2,
+    "updated": "2026-10-19 12:24",
+    "url": "../singles/billboard_year_end/index.html"
+  },
+  {
+    "slug": "singles_eurovision",
+    "name": "Singles · Eurovisión",
+    "users": 13,
+    "total": 74,
+    "unit": "canciones",
+    "avg_pct": 4.6,
+    "updated": "2026-10-19 12:24",
+    "url": "../singles/eurovision/index.html"
+  },
+  {
+    "slug": "singles_grammy_awards",
+    "name": "Singles · Grammy · Canciones",
+    "users": 13,
+    "total": 546,
+    "unit": "canciones",
+    "avg_pct": 16.5,
+    "updated": "2026-10-19 12:24",
+    "url": "../singles/grammy_awards/index.html"
+  },
+  {
+    "slug": "singles_los40_number_ones",
+    "name": "Singles · Los 40 Principales · Números 1",
+    "users": 13,
+    "total": 2133,
+    "unit": "canciones",
+    "avg_pct": 12.3,
+    "updated": "2026-10-19 12:24",
+    "url": "../singles/los40_number_ones/index.html"
+  },
+  {
+    "slug": "singles_promusicae_number_ones",
+    "name": "Singles · Promusicae · Números 1",
+    "users": 13,
+    "total": 355,
+    "unit": "canciones",
+    "avg_pct": 14.6,
+    "updated": "2026-10-19 12:24",
+    "url": "../singles/promusicae_number_ones/index.html"
+  },
+  {
+    "slug": "singles_triple_j_hottest_100",
+    "name": "Singles · Triple J Hottest 100",
+    "users": 13,
+    "total": 3293,
+    "unit": "canciones",
+    "avg_pct": 11.6,
+    "updated": "2026-10-19 12:24",
+    "url": "../singles/triple_j_hottest_100/index.html"
+  },
+  {
+    "slug": "singles_uk_number_ones",
+    "name": "Singles · UK Singles Chart · Números 1",
+    "users": 13,
+    "total": 1456,
+    "unit": "canciones",
+    "avg_pct": 10.3,
+    "updated": "2026-10-19 12:24",
+    "url": "../singles/uk_number_ones/index.html"
+  },
+  {
     "slug": "sputnik",
     "name": "Sputnikmusic Best Albums",
     "users": 12,

@@ -21,10 +21,12 @@ from pathlib import Path
 from tools.singles.wikipedia_charts import SOURCES, THIS_YEAR, iter_source_lists, scrape_list, wiki_url
 from tools.singles import singles_database as sdb
 from html_must_hear import _mh_user_modal_css, _mh_user_modal_html, _mh_user_modal_btn, _mh_user_modal_js
+from html_must_hear import render_root_index_html
 
 DEFAULT_SCROBBLES_DB = "db/lastfm_cache_rym_new_normalized.db"
 DEFAULT_SINGLES_DB   = "db/must_hear_singles.db"
 DEFAULT_OUT          = "docs/singles"
+MUST_HEAR_ROOT       = Path("docs/must_hear")
 RECENT_REFRESH_SECS  = 7 * 86400     # listas del año en curso: re-scrapear cada semana
 
 
@@ -443,6 +445,33 @@ def generate_html(conn, out_dir: Path, users: list[str], source_keys: list[str])
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / "index.html").write_text(render_root_index(groups_summary, users), encoding="utf-8")
     print(f"  📄 {out_dir / 'index.html'}")
+    update_must_hear_index(groups_summary, users)
+
+
+def update_must_hear_index(groups: list[dict], users: list[str]) -> None:
+    """Upsert each singles group into the Must Hear root index (docs/must_hear/index.html)."""
+    meta_file = MUST_HEAR_ROOT / ".collections_meta.json"
+    if not meta_file.exists():
+        return
+    generated = datetime.now().strftime("%Y-%m-%d %H:%M")
+    slugs = {f"singles_{g['group']}" for g in groups}
+    collections = [c for c in json.loads(meta_file.read_text()) if c["slug"] not in slugs]
+    for g in groups:
+        collections.append({
+            "slug":    f"singles_{g['group']}",
+            "name":    f"Singles · {g['group_name']}",
+            "users":   len(users),
+            "total":   g["n_tracks"],
+            "unit":    "canciones",
+            "avg_pct": _avg(g["stats"]),
+            "updated": generated,
+            "url":     f"../singles/{g['group']}/index.html",
+        })
+    collections.sort(key=lambda c: c["name"])
+    meta_file.write_text(json.dumps(collections, ensure_ascii=False, indent=2))
+    (MUST_HEAR_ROOT / "index.html").write_text(
+        render_root_index_html(collections, generated, users=users), encoding="utf-8")
+    print(f"  📋 must_hear index → {MUST_HEAR_ROOT / 'index.html'} ({len(collections)} collections)")
 
 
 def main():
