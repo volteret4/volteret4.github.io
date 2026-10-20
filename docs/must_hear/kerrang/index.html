@@ -80,6 +80,16 @@
   }
   .col-card:hover { border-color:#333; transform:translateY(-2px); }
   .col-card:hover::after { transform:scaleX(1); }
+  .col-card.kind-hidden { display:none; }
+  .kind-seg { display:flex; border:1px solid var(--border); border-radius:3px; overflow:hidden; flex-shrink:0; }
+  .kind-seg button {
+    background:none; border:none; color:var(--muted); cursor:pointer;
+    font-family:'DM Mono',monospace; font-size:.58rem; letter-spacing:.1em; text-transform:uppercase;
+    padding:4px 10px; transition:all .12s;
+  }
+  .kind-seg button + button { border-left:1px solid var(--border); }
+  .kind-seg button:hover { color:var(--text); }
+  .kind-seg button.on { background:#161616; color:var(--accent); }
   .col-name {
     font-family:'Bebas Neue',sans-serif;
     font-size:1.6rem; letter-spacing:.05em;
@@ -163,7 +173,8 @@
 <header>
   <div class="site-label"><a href="../index.html" style="color:var(--muted);text-decoration:none;letter-spacing:.2em">&larr; All Collections</a></div>
   <h1>Kerrang</h1>
-  <div class="header-meta">3 collections</div>
+  
+  <div class="header-meta" id="col-count">3 collections</div>
   <a class="header-nav-link" href="index_alternativo.html">Explorador ↗</a>
   <a class="header-nav-link" href="estadisticas.html">Estadísticas</a>
   <button class="mh-usr-btn" id="mhUserBtn" title="Seleccionar usuario">👤 <span id="mhULbl">—</span></button>
@@ -171,37 +182,37 @@
 <main>
   <div class="section-label">All Lists</div>
   <div class="collections-grid">
-      <a class="col-card" href="kerrang_the_50_best_albums_of_2022/index.html">
+      <a class="col-card" data-kind="albums" href="kerrang_the_50_best_albums_of_2022/index.html">
         <div class="col-name">Kerrang! The 50 Best Albums of 2022</div>
-        <div class="col-meta">12 users &middot; 50 albums</div>
+        <div class="col-meta">13 users &middot; 50 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:7.0%"></div>
+          <div class="col-bar" style="width:7.5%"></div>
         </div>
-        <div class="col-pct">7.0% avg completion</div>
+        <div class="col-pct">7.5% avg completion</div>
       </a>
-      <a class="col-card" href="kerrang_the_50_best_albums_of_2023/index.html">
+      <a class="col-card" data-kind="albums" href="kerrang_the_50_best_albums_of_2023/index.html">
         <div class="col-name">Kerrang! The 50 Best Albums of 2023</div>
-        <div class="col-meta">12 users &middot; 50 albums</div>
+        <div class="col-meta">13 users &middot; 50 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:5.3%"></div>
+          <div class="col-bar" style="width:5.8%"></div>
         </div>
-        <div class="col-pct">5.3% avg completion</div>
+        <div class="col-pct">5.8% avg completion</div>
       </a>
-      <a class="col-card" href="kerrang_the_50_best_albums_of_2024/index.html">
+      <a class="col-card" data-kind="albums" href="kerrang_the_50_best_albums_of_2024/index.html">
         <div class="col-name">Kerrang! The 50 Best Albums of 2024</div>
-        <div class="col-meta">12 users &middot; 49 albums</div>
+        <div class="col-meta">13 users &middot; 49 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:8.8%"></div>
+          <div class="col-bar" style="width:9.1%"></div>
         </div>
-        <div class="col-pct">8.8% avg completion</div>
+        <div class="col-pct">9.1% avg completion</div>
       </a>
   </div>
 </main>
-<footer>Generated 2026-04-02 23:39 · Data from MusicBrainz, Last.fm, RYM &amp; Scaruffi</footer>
+<footer>Generated 2026-10-19 13:36 · Data from MusicBrainz, Last.fm, RYM &amp; Scaruffi</footer>
 
 <script>
 (function() {
-  const USERS = ["BipolarMuzik", "EliasJ72", "Frikomid", "GabredMared", "Lonsonxd", "Nubis84", "Rocky_stereo", "alberto_gu", "armandwave", "paqueradejere", "sdecandelario", "verygooood"];
+  const USERS = ["BipolarMuzik", "EliasJ72", "Frikomid", "GabredMared", "Lonsonxd", "MaxtorUwU", "Nubis84", "Rocky_stereo", "alberto_gu", "armandwave", "paqueradejere", "sdecandelario", "verygooood"];
   const KEY   = 'mh_user';
   const modal  = document.getElementById('mhUserModal');
   const btn    = document.getElementById('mhUserBtn');
@@ -248,6 +259,29 @@
   document.addEventListener('keydown', e => { if (e.key === 'Escape') modal.classList.remove('open'); });
 
   updateBtn();
+})();
+</script>
+<script>
+(function() {
+  const seg = document.getElementById('kind-seg');
+  if (!seg) return;
+  const cards = document.querySelectorAll('.col-card[data-kind]');
+  function apply(kind) {
+    let n = 0;
+    cards.forEach(c => {
+      const hide = kind && c.dataset.kind !== kind;
+      c.classList.toggle('kind-hidden', hide);
+      if (!hide) n++;
+    });
+    seg.querySelectorAll('button').forEach(b => b.classList.toggle('on', b.dataset.kind === kind));
+    document.getElementById('col-count').textContent = n + (n === 1 ? ' collection' : ' collections');
+    try { localStorage.setItem('mh_kind', kind || ''); } catch (e) {}
+  }
+  seg.querySelectorAll('button').forEach(b => b.onclick = () =>
+    apply(b.classList.contains('on') ? '' : b.dataset.kind));   // re-click → todas
+  let saved = '';
+  try { saved = localStorage.getItem('mh_kind') || ''; } catch (e) {}
+  apply(saved);
 })();
 </script>
 </body>

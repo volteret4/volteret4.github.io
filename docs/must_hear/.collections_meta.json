@@ -2,10 +2,10 @@
   {
     "slug": "mu_4chan",
     "name": "/mu/ 4chan",
-    "users": 12,
+    "users": 13,
     "total": 158,
-    "avg_pct": 25.9,
-    "updated": "2026-04-02 23:39",
+    "avg_pct": 26.7,
+    "updated": "2026-10-19 13:36",
     "url": "mu_4chan/index.html"
   },
   {
@@ -14,7 +14,7 @@
     "users": 13,
     "total": 999,
     "avg_pct": 30.9,
-    "updated": "2026-10-19 13:03"
+    "updated": "2026-10-19 13:36"
   },
   {
     "slug": "aoty",
@@ -27,95 +27,95 @@
   {
     "slug": "bandcamp",
     "name": "Bandcamp",
-    "users": 12,
+    "users": 13,
     "total": 149,
-    "avg_pct": 6.3,
-    "updated": "2026-04-02 23:39",
+    "avg_pct": 6.7,
+    "updated": "2026-10-19 13:36",
     "url": "bandcamp/index.html"
   },
   {
     "slug": "grammy_award_album_of_the_year_nominees",
     "name": "Grammy Award: Album of the Year nominees",
-    "users": 12,
+    "users": 13,
     "total": 279,
-    "avg_pct": 22.8,
-    "updated": "2026-04-02 23:39"
+    "avg_pct": 25.4,
+    "updated": "2026-10-19 13:36"
   },
   {
     "slug": "john_peel_s_record_box",
     "name": "John Peel's Record Box",
-    "users": 12,
+    "users": 13,
     "total": 130,
-    "avg_pct": 0.4,
-    "updated": "2026-04-02 23:39"
+    "avg_pct": 0.5,
+    "updated": "2026-10-19 13:36"
   },
   {
     "slug": "juno_awards_album_of_the_year",
     "name": "Juno Awards: Album of the Year",
-    "users": 12,
+    "users": 13,
     "total": 192,
-    "avg_pct": 5.2,
-    "updated": "2026-04-02 23:39"
+    "avg_pct": 6.2,
+    "updated": "2026-10-19 13:36"
   },
   {
     "slug": "kerrang",
     "name": "Kerrang",
-    "users": 12,
+    "users": 13,
     "total": 149,
-    "avg_pct": 7.0,
-    "updated": "2026-04-02 23:39",
+    "avg_pct": 7.5,
+    "updated": "2026-10-19 13:36",
     "url": "kerrang/index.html"
   },
   {
     "slug": "music_genre_tree",
     "name": "Music Genre Tree",
-    "users": 12,
+    "users": 13,
     "total": 1042,
-    "avg_pct": 8.2,
-    "updated": "2026-04-02 23:39"
+    "avg_pct": 9.2,
+    "updated": "2026-10-19 13:36"
   },
   {
     "slug": "pitchfork",
     "name": "Pitchfork",
-    "users": 12,
+    "users": 13,
     "total": 1101,
-    "avg_pct": 25.9,
-    "updated": "2026-04-02 23:39",
+    "avg_pct": 27.7,
+    "updated": "2026-10-19 13:36",
     "url": "pitchfork/index.html"
   },
   {
     "slug": "rym_charts",
     "name": "RYM Charts",
     "users": 13,
-    "total": 255590,
-    "avg_pct": 1.9,
-    "updated": "2026-10-19 17:05",
+    "total": 254946,
+    "avg_pct": 2.1,
+    "updated": "2026-10-20 00:42",
     "url": "rym_charts/index.html"
   },
   {
     "slug": "rate_your_music",
     "name": "Rate Your Music",
-    "users": 12,
-    "total": 2284,
-    "avg_pct": 15.9,
-    "updated": "2026-04-02 23:39",
+    "users": 13,
+    "total": 2283,
+    "avg_pct": 16.7,
+    "updated": "2026-10-19 13:36",
     "url": "rate_your_music/index.html"
   },
   {
     "slug": "resident_advisor_the_best_electronic_records_of_2000_25",
     "name": "Resident Advisor: The Best Electronic Records of 2000-25",
-    "users": 12,
+    "users": 13,
     "total": 101,
-    "avg_pct": 18.0,
-    "updated": "2026-04-02 23:39"
+    "avg_pct": 19.5,
+    "updated": "2026-10-19 13:36"
   },
   {
     "slug": "rolling_stone_500_greatest_albums_of_all_time_2023_edition",
     "name": "Rolling Stone 500 Greatest Albums Of All Time 2023 Edition",
-    "users": 12,
+    "users": 13,
     "total": 500,
-    "avg_pct": 36.0,
-    "updated": "2026-04-02 23:39"
+    "avg_pct": 38.5,
+    "updated": "2026-10-19 13:36"
   },
   {
     "slug": "scaruffi",

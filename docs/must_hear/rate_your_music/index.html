@@ -80,6 +80,16 @@
   }
   .col-card:hover { border-color:#333; transform:translateY(-2px); }
   .col-card:hover::after { transform:scaleX(1); }
+  .col-card.kind-hidden { display:none; }
+  .kind-seg { display:flex; border:1px solid var(--border); border-radius:3px; overflow:hidden; flex-shrink:0; }
+  .kind-seg button {
+    background:none; border:none; color:var(--muted); cursor:pointer;
+    font-family:'DM Mono',monospace; font-size:.58rem; letter-spacing:.1em; text-transform:uppercase;
+    padding:4px 10px; transition:all .12s;
+  }
+  .kind-seg button + button { border-left:1px solid var(--border); }
+  .kind-seg button:hover { color:var(--text); }
+  .kind-seg button.on { background:#161616; color:var(--accent); }
   .col-name {
     font-family:'Bebas Neue',sans-serif;
     font-size:1.6rem; letter-spacing:.05em;
@@ -163,7 +173,8 @@
 <header>
   <div class="site-label"><a href="../index.html" style="color:var(--muted);text-decoration:none;letter-spacing:.2em">&larr; All Collections</a></div>
   <h1>Rate Your Music</h1>
-  <div class="header-meta">13 collections</div>
+  
+  <div class="header-meta" id="col-count">13 collections</div>
   <a class="header-nav-link" href="index_alternativo.html">Explorador ↗</a>
   <a class="header-nav-link" href="estadisticas.html">Estadísticas</a>
   <button class="mh-usr-btn" id="mhUserBtn" title="Seleccionar usuario">👤 <span id="mhULbl">—</span></button>
@@ -171,117 +182,117 @@
 <main>
   <div class="section-label">All Lists</div>
   <div class="collections-grid">
-      <a class="col-card" href="90s_chillout_session/index.html">
+      <a class="col-card" data-kind="albums" href="90s_chillout_session/index.html">
         <div class="col-name">90s Chillout Session. @ASpiritualMoon</div>
-        <div class="col-meta">12 users &middot; 288 albums</div>
+        <div class="col-meta">13 users &middot; 288 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:1.6%"></div>
+          <div class="col-bar" style="width:2.3%"></div>
         </div>
-        <div class="col-pct">1.6% avg completion</div>
+        <div class="col-pct">2.3% avg completion</div>
       </a>
-      <a class="col-card" href="90s_shoegaze_albums_eps_singles/index.html">
+      <a class="col-card" data-kind="albums" href="90s_shoegaze_albums_eps_singles/index.html">
         <div class="col-name">90s Shoegaze: Albums/EPs/Singles @Teleguide</div>
-        <div class="col-meta">12 users &middot; 114 albums</div>
+        <div class="col-meta">13 users &middot; 114 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:5.0%"></div>
+          <div class="col-bar" style="width:6.3%"></div>
         </div>
-        <div class="col-pct">5.0% avg completion</div>
+        <div class="col-pct">6.3% avg completion</div>
       </a>
-      <a class="col-card" href="albums_as_described_by_spongebob_squarepants_quotes/index.html">
+      <a class="col-card" data-kind="albums" href="albums_as_described_by_spongebob_squarepants_quotes/index.html">
         <div class="col-name">Albums as Described by Spongebob Squarepants quotes</div>
-        <div class="col-meta">12 users &middot; 62 albums</div>
+        <div class="col-meta">13 users &middot; 62 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:37.6%"></div>
+          <div class="col-bar" style="width:38.7%"></div>
         </div>
-        <div class="col-pct">37.6% avg completion</div>
+        <div class="col-pct">38.7% avg completion</div>
       </a>
-      <a class="col-card" href="brave_new_world_the_alternative_rym_canon/index.html">
+      <a class="col-card" data-kind="albums" href="brave_new_world_the_alternative_rym_canon/index.html">
         <div class="col-name">Brave New World: The Alternative RYM Canon</div>
-        <div class="col-meta">12 users &middot; 88 albums</div>
+        <div class="col-meta">13 users &middot; 88 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:19.4%"></div>
+          <div class="col-bar" style="width:20.3%"></div>
         </div>
-        <div class="col-pct">19.4% avg completion</div>
+        <div class="col-pct">20.3% avg completion</div>
       </a>
-      <a class="col-card" href="favorite_electronic_pop_albums/index.html">
+      <a class="col-card" data-kind="albums" href="favorite_electronic_pop_albums/index.html">
         <div class="col-name">Favorite Electronic Pop Albums @alin</div>
-        <div class="col-meta">12 users &middot; 383 albums</div>
+        <div class="col-meta">13 users &middot; 382 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:15.5%"></div>
+          <div class="col-bar" style="width:15.7%"></div>
         </div>
-        <div class="col-pct">15.5% avg completion</div>
+        <div class="col-pct">15.7% avg completion</div>
       </a>
-      <a class="col-card" href="genres_only_music_snobs_know_about/index.html">
+      <a class="col-card" data-kind="albums" href="genres_only_music_snobs_know_about/index.html">
         <div class="col-name">Genres only music snobs know about @LadoB</div>
-        <div class="col-meta">12 users &middot; 154 albums</div>
+        <div class="col-meta">13 users &middot; 154 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:16.3%"></div>
+          <div class="col-bar" style="width:18.0%"></div>
         </div>
-        <div class="col-pct">16.3% avg completion</div>
+        <div class="col-pct">18.0% avg completion</div>
       </a>
-      <a class="col-card" href="go_to_sleep_music_to_help_your_insomnia_maybe/index.html">
+      <a class="col-card" data-kind="albums" href="go_to_sleep_music_to_help_your_insomnia_maybe/index.html">
         <div class="col-name">Go to sleep. Music to help your insomnia... maybe</div>
-        <div class="col-meta">12 users &middot; 66 albums</div>
+        <div class="col-meta">13 users &middot; 66 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:24.4%"></div>
+          <div class="col-bar" style="width:25.4%"></div>
         </div>
-        <div class="col-pct">24.4% avg completion</div>
+        <div class="col-pct">25.4% avg completion</div>
       </a>
-      <a class="col-card" href="holy_trinities/index.html">
+      <a class="col-card" data-kind="albums" href="holy_trinities/index.html">
         <div class="col-name">Holy Trinities @LadoB</div>
-        <div class="col-meta">12 users &middot; 84 albums</div>
+        <div class="col-meta">13 users &middot; 84 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:44.2%"></div>
+          <div class="col-bar" style="width:45.1%"></div>
         </div>
-        <div class="col-pct">44.2% avg completion</div>
+        <div class="col-pct">45.1% avg completion</div>
       </a>
-      <a class="col-card" href="modulations_a_history_of_electronic_music/index.html">
+      <a class="col-card" data-kind="albums" href="modulations_a_history_of_electronic_music/index.html">
         <div class="col-name">Modulations: A History of Electronic Music</div>
-        <div class="col-meta">12 users &middot; 178 albums</div>
+        <div class="col-meta">13 users &middot; 178 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:11.5%"></div>
+          <div class="col-bar" style="width:12.1%"></div>
         </div>
-        <div class="col-pct">11.5% avg completion</div>
+        <div class="col-pct">12.1% avg completion</div>
       </a>
-      <a class="col-card" href="music_for_people_afraid_of_sunlight/index.html">
+      <a class="col-card" data-kind="albums" href="music_for_people_afraid_of_sunlight/index.html">
         <div class="col-name">Music for People Afraid of Sunlight @MrDoctorHashbrown</div>
-        <div class="col-meta">12 users &middot; 97 albums</div>
+        <div class="col-meta">13 users &middot; 97 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:4.0%"></div>
+          <div class="col-bar" style="width:4.5%"></div>
         </div>
-        <div class="col-pct">4.0% avg completion</div>
+        <div class="col-pct">4.5% avg completion</div>
       </a>
-      <a class="col-card" href="rhino_records_50_essential_disco_albums/index.html">
+      <a class="col-card" data-kind="albums" href="rhino_records_50_essential_disco_albums/index.html">
         <div class="col-name">Rhino Records' 50 Essential Disco Albums</div>
-        <div class="col-meta">12 users &middot; 45 albums</div>
+        <div class="col-meta">13 users &middot; 45 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:8.9%"></div>
+          <div class="col-bar" style="width:9.9%"></div>
         </div>
-        <div class="col-pct">8.9% avg completion</div>
+        <div class="col-pct">9.9% avg completion</div>
       </a>
-      <a class="col-card" href="soul_basics/index.html">
+      <a class="col-card" data-kind="albums" href="soul_basics/index.html">
         <div class="col-name">Soul Basics @Intheway</div>
-        <div class="col-meta">12 users &middot; 96 albums</div>
+        <div class="col-meta">13 users &middot; 96 albums</div>
         <div class="col-bar-wrap">
           <div class="col-bar" style="width:2.2%"></div>
         </div>
         <div class="col-pct">2.2% avg completion</div>
       </a>
-      <a class="col-card" href="this_album_is_the_best_in_its_genre/index.html">
+      <a class="col-card" data-kind="albums" href="this_album_is_the_best_in_its_genre/index.html">
         <div class="col-name">This album is the BEST in its GENRE @Frenchblues</div>
-        <div class="col-meta">12 users &middot; 629 albums</div>
+        <div class="col-meta">13 users &middot; 629 albums</div>
         <div class="col-bar-wrap">
-          <div class="col-bar" style="width:15.8%"></div>
+          <div class="col-bar" style="width:17.0%"></div>
         </div>
-        <div class="col-pct">15.8% avg completion</div>
+        <div class="col-pct">17.0% avg completion</div>
       </a>
   </div>
 </main>
-<footer>Generated 2026-04-02 23:39 · Data from MusicBrainz, Last.fm, RYM &amp; Scaruffi</footer>
+<footer>Generated 2026-10-19 13:36 · Data from MusicBrainz, Last.fm, RYM &amp; Scaruffi</footer>
 
 <script>
 (function() {
-  const USERS = ["BipolarMuzik", "EliasJ72", "Frikomid", "GabredMared", "Lonsonxd", "Nubis84", "Rocky_stereo", "alberto_gu", "armandwave", "paqueradejere", "sdecandelario", "verygooood"];
+  const USERS = ["BipolarMuzik", "EliasJ72", "Frikomid", "GabredMared", "Lonsonxd", "MaxtorUwU", "Nubis84", "Rocky_stereo", "alberto_gu", "armandwave", "paqueradejere", "sdecandelario", "verygooood"];
   const KEY   = 'mh_user';
   const modal  = document.getElementById('mhUserModal');
   const btn    = document.getElementById('mhUserBtn');
@@ -328,6 +339,29 @@
   document.addEventListener('keydown', e => { if (e.key === 'Escape') modal.classList.remove('open'); });
 
   updateBtn();
+})();
+</script>
+<script>
+(function() {
+  const seg = document.getElementById('kind-seg');
+  if (!seg) return;
+  const cards = document.querySelectorAll('.col-card[data-kind]');
+  function apply(kind) {
+    let n = 0;
+    cards.forEach(c => {
+      const hide = kind && c.dataset.kind !== kind;
+      c.classList.toggle('kind-hidden', hide);
+      if (!hide) n++;
+    });
+    seg.querySelectorAll('button').forEach(b => b.classList.toggle('on', b.dataset.kind === kind));
+    document.getElementById('col-count').textContent = n + (n === 1 ? ' collection' : ' collections');
+    try { localStorage.setItem('mh_kind', kind || ''); } catch (e) {}
+  }
+  seg.querySelectorAll('button').forEach(b => b.onclick = () =>
+    apply(b.classList.contains('on') ? '' : b.dataset.kind));   // re-click → todas
+  let saved = '';
+  try { saved = localStorage.getItem('mh_kind') || ''; } catch (e) {}
+  apply(saved);
 })();
 </script>
 </body>
